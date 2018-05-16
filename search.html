@@ -1,0 +1,188 @@
+
+<!DOCTYPE>
+<html lang="de">
+<head>
+	<meta charset="utf-8">
+	<style>
+		body
+		{
+			background-color: #d8f2c1;
+			text-align: center;
+			margin-top: 0;
+			padding: 0;
+			font-family: Arial serif;
+		}
+		
+		body, input
+		{
+			font-size: 16pt;
+			font-family: serif;
+		}
+		
+		form
+		{
+			width: 50%;
+			float: left;
+			margin: 2.5em 0 2.5em 0;
+			color: #888;
+		}
+		
+		code
+		{
+			font-size: 10px;
+			opacity: 0.5;
+		}
+		
+		form:hover
+		{
+			color: #000;
+		}	
+		
+		form input
+		{
+			color: inherit;
+		}
+		
+	</style>
+	
+</head>
+<body>
+	<div>
+		<code>
+			Redirect: search.html?id=form&amp;q=query+string
+		</code>
+		<br>
+		<a href="https://github.com/andre-st/andre-st.github.io/blob/master/search.html">edit</a>
+	</div>
+	
+	
+	<script>
+		const SEARCHES =
+		[
+			{ 
+				"id"   : "left",
+				"title": "Linksradikale", 
+			  	"sites":
+				[
+				 	"gegenstandpunkt.com",   "trend.infopartisan.net",    "exit-online.org",
+					"krisis.org",            "streifzuege.org",
+				 	"neoprene.blogsport.de", "nestormachno.blogsport.de", "rhizom.blogsport.eu",
+					"classless.org",         "konicz.info",               "meinhard-creydt.de",
+				 	"phase-zwei.org",        "kulturkritik.net",          "rote-ruhr-uni.com",
+					"linksnet.de",           "akweb.de",                  "zserinnyen.de",
+				 	"konkret-magazin.de"
+				] 
+			},
+			{
+				"id"   : "nazi",
+				"title": "Neurechte",
+				"sites":
+				[
+					"neue-ordnung.at",  "sezession.de",    "tumult-magazine.net",
+					"blauenarzisse.de", "jungefreiheit.de"
+				]
+			},
+			{
+				"id"   : "eso",
+				"title": "Esoterik-Kritik",
+				"sites":
+				[
+					"rationalwiki.org", "skepdic.com",  "gwup.org", 
+					"psiram.com",       "skeptoid.com", "netzwerk-homoeopathie.eu"
+				]
+			},
+			{
+				"id"   : "health",
+				"title": "Gesundheit",
+				"sites":
+				[
+					"www.igel-monitor.de",
+					"www.bzga.de",
+					"www.ncbi.nlm.nih.gov/pubmed/"
+				]
+			},			
+			{
+				"id"   : "seo",
+				"title": "SEO",
+				"sites":
+				[
+					"searchengineland.com",  "blog.searchmetrics.com"
+				]
+
+			},
+			{
+				"id"   : "tec",
+				"title": "Technik",
+				"sites":
+				[
+					"news.ycombinator.com",  "infoq.com", "wiki.c2.com",
+					"technologyreview.com",  "heise.de",
+					"blog.ieeesoftware.org", "spectrum.ieee.org", "ieeeaccess.ieee.org",
+					"peerj.com",             "usenix.org",        "arxiv.org",
+					"www.tomshardware.com"
+				]
+			},
+			{
+				"id"   : "sec",
+				"title": "Infosec",
+				"sites":
+				[
+					"www.schneier.com", "krebsonsecurity.com", "www.bsi.bund.de",
+					"www.heise.de/security/", "thehackernews.com", "threatpost.com",
+					"www.esecurityplanet.com", "www.darkreading.com", 
+					"www.wired.com/category/threatlevel/", "www.helpnetsecurity.com",
+					"www.securityweek.com"
+				]
+			}
+		];
+		
+		
+		
+		// Construct forms:
+		SEARCHES.forEach( function( s )
+		{
+			const f = document.createElement( "form" );
+			f.setAttribute( "method",       "GET"                          );
+			f.setAttribute( "action",       "https://www.google.de/search" );
+			f.setAttribute( "autocomplete", "off"                          );
+			f.setAttribute( "id",           s.id                           );
+			
+			const h = document.createElement( "h3" );
+			h.textContent = s.title;
+			
+			const t = document.createElement( "input" );
+			t.setAttribute( "type",        "text"     );
+			t.setAttribute( "name",        "q"        );
+			t.setAttribute( "placeholder", "Suchwort" );
+			
+			const b = document.createElement( "input" );
+			b.setAttribute( "type",  "submit" );
+			b.setAttribute( "value", "Los!"   );
+			
+			f.appendChild( h );
+			f.appendChild( t );
+			f.appendChild( b );
+			f.addEventListener( "submit", function( ev )
+			{
+				t.value = '"' + t.value + '" site:' + s.sites.join( " OR site:" );
+			});
+			
+			document.body.appendChild( f );
+		});
+		
+		
+		
+		// Redirect:
+		const params = new URLSearchParams( location.search.slice( 1 ) );  // slice "?"
+		if( params.has( "q" ) && params.has( "id" ) )
+		{
+			const f = document.getElementById( params.get( "id" ) );
+			f.querySelector( "input[name=q]"      ).value = params.get( "q" );
+			f.querySelector( "input[type=submit]" ).click();  // submit() ignores onsubmit handlers
+		};
+
+	</script>
+	
+	
+</body>
+</html>
