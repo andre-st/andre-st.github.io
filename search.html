@@ -55,6 +55,12 @@
 		<a href="https://github.com/andre-st/andre-st.github.io/edit/master/search.html">edit</a>
 	</div>
 	
+	<div id="forms">
+	</div>
+	
+	<div id="lists">
+	</div>
+	
 	
 	<script>
 		const SEARCHES =
@@ -137,25 +143,127 @@
 		];
 		
 		
+		const LISTS = [
+			{
+				"id"   : "yt",
+				"title": "YouTube Misc",
+				"items":
+				[
+					{ "title": "Wirt.-Psych. Kanning (GWUP)",   "url": "https://www.youtube.com/channel/UCi1_qDKslpMp_lF1JWxSFsg/videos?disable_polymer=1" },
+					{ "title": "Skeptiker: GWUP",               "url": "https://www.youtube.com/user/gwup/videos?disable_polymer=1" },
+					{ "title": "Israel/Pal: Corey Gil-Shuster", "url": "https://www.youtube.com/user/coreygilshuster/videos?disable_polymer=1" },
+					{ "title": "Musik: KEXP",                   "url": "https://www.youtube.com/user/kexpradio/videos?disable_polymer=1" },
+					{ "title": "Dokus: Journeyman Pictures",    "url": "https://www.youtube.com/user/journeymanpictures/videos?disable_polymer=1" },
+					{ "title": "Dokus: VPRO",                   "url": "https://www.youtube.com/user/VPROinternational/videos?disable_polymer=1" },
+					{ "title": "Pol. Debatten: iq²",            "url": "https://www.youtube.com/user/iqsquared/videos?disable_polymer=1" }
+				]
+			},
+			{
+				"id"   : "yt-tec",
+				"title": "YouTube Technik",
+				"items":
+				[
+					{ "title": "Sec Con: Black Hat",               "url": "https://www.youtube.com/user/BlackHatOfficialYT/videos?disable_polymer=1" },
+					{ "title": "Sec Con: BruCON",                  "url": "https://www.youtube.com/user/brucontalks/videos?disable_polymer=1" },
+					{ "title": "Sec Con: DEFCON",                  "url": "https://www.youtube.com/user/DEFCONConference/videos?disable_polymer=1" },
+					{ "title": "Sec Con: Hack in Paris",           "url": "https://www.youtube.com/user/hackinparis/videos?disable_polymer=1" },
+					{ "title": "Sec Con: media.ccc.de",            "url": "https://www.youtube.com/user/mediacccde/videos?disable_polymer=1" },
+					{ "title": "Sec: Open SecurityTraining", "active": false, "url": "https://www.youtube.com/user/OpenSecurityTraining/videos?disable_polymer=1" },
+					{ "title": "Con: GOTO",                        "url": "https://www.youtube.com/user/GotoConferences/videos?disable_polymer=1" },
+					{ "title": "Con: Disruption Network Lab",      "url": "https://www.youtube.com/channel/UCxiH37LS3aCEPQlq5Bh4oAQ/videos?disable_polymer=1" },
+					{ "title": "Con: DLD",                         "url": "https://www.youtube.com/user/DLDconference/videos?disable_polymer=1" },
+					{ "title": "Con: ForumOpenSource", "active": false, "url": "https://www.youtube.com/user/ForumOpenSource/videos?disable_polymer=1" },
+					{ "title": "Con: Theorizing The Web",          "url": "https://www.youtube.com/user/theorizingtheweb/videos?disable_polymer=1" },
+					{ "title": "Con: The Linux Foundation",        "url": "https://www.youtube.com/user/TheLinuxFoundation/videos?disable_polymer=1" },
+					{ "title": "Netz: Telekom",                    "url": "https://www.youtube.com/channel/UCX-29_jUubbuHVaOvJll94A/videos?disable_polymer=1" },
+					{ "title": "Netz: Internet Eng. Task Force",   "url": "https://www.youtube.com/user/ietf/videos?disable_polymer=1" },
+					{ "title": "Talks at Google",                  "url": "https://www.youtube.com/user/AtGoogleTalks/videos?disable_polymer=1" },
+					{ "title": "SwT: Software Eng. Institute",     "url": "https://www.youtube.com/user/TheSEICMU/videos?disable_polymer=1" },
+					{ "title": "Basteln: HACKADAY",                "url": "https://www.youtube.com/user/hackaday/videos?disable_polymer=1" },
+					{ "title": "Computerphile",                    "url": "https://www.youtube.com/user/Computerphile/videos?disable_polymer=1" },
+					{ "title": "Retro: The 8-Bit Guy",             "url": "https://www.youtube.com/user/adric22/videos?disable_polymer=1" }
+				]
+			},
+			{
+				"id"   : "yt-linke",
+				"title": "YouTube Linke",
+				"items":
+				[
+					{ "title": "GSP: Sozialistische Gruppe (SG)",    "url": "https://www.youtube.com/user/GegenArgument/videos?disable_polymer=1" },
+					{ "title": "GSP: Marxismus Vorträge",            "url": "https://www.youtube.com/channel/UCghnF8e4PXyZh8vLb6xXRrQ/videos?disable_polymer=1" },
+					{ "title": "GSP: KK-Gruppe Berlin",              "url": "https://www.youtube.com/channel/UC2oY85fflh7PtmsoMUbWoXA/videos?disable_polymer=1" },
+					{ "title": "GSP: GEGEN KULTUR", "active": false, "url": "https://www.youtube.com/user/GegenKulturVerlag/videos?disable_polymer=1" },
+					{ "title": "Keep The Fire Burning",              "url": "https://www.youtube.com/channel/UCZgENdtwBTfbXlXuNG_OEHw/videos?disable_polymer=1" },
+					{ "title": "TheNokturnalTimes",                  "url": "https://www.youtube.com/channel/UCgj0uCW9VR8p3PUJ91oDz9g/videos?disable_polymer=1" },
+					{ "title": "SWP-TV UK",                          "url": "https://www.youtube.com/user/swpTvUk/videos?disable_polymer=1" },
+					{ "title": "Rosa-Luxemburg-Stiftung",            "url": "https://www.youtube.com/user/rosaluxstiftung/videos?disable_polymer=1" },
+					{ "title": "Marx's Capital with David Harvey", "active": false, "url": "https://www.youtube.com/user/readingcapital/videos?disable_polymer=1" },
+					{ "title": "Netzpolitik.org",                    "url": "https://www.youtube.com/user/netzpolitik/videos?disable_polymer=1" },
+					{ "title": "Zentrum für Politische Schönheit",   "url": "https://www.youtube.com/user/beautypolitics/videos?disable_polymer=1" }
+				]
+			},
+			{
+				"id"   : "yt-rechte",
+				"title": "YouTube Rechte",
+				"items":
+				[
+					{ "title": "IB: Martin Sellner GI",            "url": "https://www.youtube.com/user/VlogIdentitaer/videos?disable_polymer=1" },
+					{ "title": "IB: Martin Sellner",               "url": "https://www.youtube.com/channel/UCZ8uFo1RKSgEg-od3Yu10Pw/videos?disable_polymer=1" },
+					{ "title": "IB: Sellners Sonntagsabendstream", "url": "https://www.youtube.com/channel/UCavGTfnqA5IgDAqqxo2aFHg/videos?disable_polymer=1" },
+					{ "title": "IB: Patrick Lenart",               "url": "https://www.youtube.com/user/lenarpa/videos?disable_polymer=1" },
+					{ "title": "Kanal Schnellroda/IfS",            "url": "https://www.youtube.com/channel/UC-PmBc5R3HVD_Do_yO8ju2Q/videos?disable_polymer=1" },
+					{ "title": "BuchHaus Loschwitz",               "url": "https://www.youtube.com/channel/UCmSd4nKNjnPDUdujlDcTWrQ/videos?disable_polymer=1" },
+					{ "title": "Bibliothek des Konservatismus",    "url": "https://www.youtube.com/user/bdkBerlin/videos?disable_polymer=1" },
+					{ "title": "NS: Der dritte Blickwinkel",       "url": "https://www.youtube.com/channel/UC9cRyVcNgWDJ5RoqWpyt3lA/videos?disable_polymer=1" },
+					{ "title": "NS: Der Volkslehrer",              "url": "https://www.youtube.com/channel/UC4teOyQNXzMH94YMYySl9mA/videos?disable_polymer=1" },
+				]
+			},
+		];
+		
+		// Construct lists:
+		LISTS.forEach( function( l )
+		{
+			const div = document.createElement( "DIV" );
+			div.id = l.id;
+			
+			const h  = document.createElement( "H3" );
+			h.textContent = l.title;
+			
+			const ul = document.createElement( "UL" );
+			l.items.forEach( function( im ) 
+			{
+				const li = document.createElement( "LI" );
+				const a  = document.createElement( "A" );
+				a.textContent = im.title;
+				a.href        = im.url;
+				a.target      = "_blank";
+				li.appendChild( a  );
+				ul.appendChild( li );
+			});
+			
+			div.appendChild( h  );			
+			div.appendChild( ul );
+			document.getElementById( "lists" ).appendChild( div );
+		});
 		
 		// Construct forms:
 		SEARCHES.forEach( function( s )
 		{
-			const f = document.createElement( "form" );
+			const f = document.createElement( "FORM" );
 			f.setAttribute( "method",       "GET"                          );
 			f.setAttribute( "action",       "https://www.google.de/search" );
 			f.setAttribute( "autocomplete", "off"                          );
 			f.setAttribute( "id",           s.id                           );
 			
-			const h = document.createElement( "h3" );
+			const h = document.createElement( "H3" );
 			h.textContent = s.title;
 			
-			const t = document.createElement( "input" );
+			const t = document.createElement( "INPUT" );
 			t.setAttribute( "type",        "text"     );
 			t.setAttribute( "name",        "q"        );
 			t.setAttribute( "placeholder", "Suchwort" );
 			
-			const b = document.createElement( "input" );
+			const b = document.createElement( "INPUT" );
 			b.setAttribute( "type",  "submit" );
 			b.setAttribute( "value", "Los!"   );
 			
@@ -167,7 +275,7 @@
 				t.value = '"' + t.value + '" site:' + s.sites.join( " OR site:" );
 			});
 			
-			document.body.appendChild( f );
+			document.getElementById( "forms" ).appendChild( f );
 		});
 		
 		
