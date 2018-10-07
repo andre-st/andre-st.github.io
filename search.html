@@ -220,11 +220,12 @@
 			},
 		];
 		
+		
 		// Construct lists:
 		LISTS.forEach( function( l )
 		{
 			const div = document.createElement( "DIV" );
-			div.id = l.id;
+			div.setAttribute( "id", l.id );
 			
 			const h  = document.createElement( "H3" );
 			h.textContent = l.title;
@@ -233,18 +234,19 @@
 			l.items.forEach( function( im ) 
 			{
 				const li = document.createElement( "LI" );
-				const a  = document.createElement( "A" );
+				const a  = document.createElement( "A"  );
 				a.textContent = im.title;
-				a.href        = im.url;
-				a.target      = "_blank";
+				a.setAttribute( "href",   im.url   );
+				a.setAttribute( "target", "_blank" );
 				li.appendChild( a  );
 				ul.appendChild( li );
 			});
 			
-			div.appendChild( h  );			
+			div.appendChild( h  );
 			div.appendChild( ul );
 			document.getElementById( "lists" ).appendChild( div );
 		});
+		
 		
 		// Construct forms:
 		SEARCHES.forEach( function( s )
@@ -277,7 +279,6 @@
 			
 			document.getElementById( "forms" ).appendChild( f );
 		});
-		
 		
 		
 		// Redirect:
