@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE>
 <html lang="de">
 <head>
@@ -11,7 +9,6 @@
 			text-align: center;
 			margin-top: 0;
 			padding: 0;
-			font-family: Arial serif;
 		}
 		
 		body, input
@@ -53,6 +50,11 @@
 		}
 		
 		
+		#lists
+		{
+			padding: 0 1em 0 1em;
+		}
+		
 		#lists div
 		{
 			width: 25%;
@@ -76,7 +78,13 @@
 		li
 		{
 			font-size: 11pt;
+			font-family: sans-serif;
 			margin: 0 0 0.5em 0;
+		}
+		
+		li.inactive a
+		{
+			color: #888;
 		}
 		
 	</style>
@@ -191,7 +199,8 @@
 					{ "title": "Musik: KEXP",                   "url": "https://www.youtube.com/user/kexpradio/videos?disable_polymer=1" },
 					{ "title": "Dokus: Journeyman Pictures",    "url": "https://www.youtube.com/user/journeymanpictures/videos?disable_polymer=1" },
 					{ "title": "Dokus: VPRO",                   "url": "https://www.youtube.com/user/VPROinternational/videos?disable_polymer=1" },
-					{ "title": "Pol. Debatten: iq²",            "url": "https://www.youtube.com/user/iqsquared/videos?disable_polymer=1" }
+					{ "title": "Pol. Debatten: iq²",            "url": "https://www.youtube.com/user/iqsquared/videos?disable_polymer=1" },
+					{ "title": "DomianArchiv.de",               "url": "https://www.youtube.com/user/DomianArchiv/videos?disable_polymer=1" }
 				]
 			},
 			{
@@ -204,11 +213,14 @@
 					{ "title": "Sec Con: DEFCON",                  "url": "https://www.youtube.com/user/DEFCONConference/videos?disable_polymer=1" },
 					{ "title": "Sec Con: Hack in Paris",           "url": "https://www.youtube.com/user/hackinparis/videos?disable_polymer=1" },
 					{ "title": "Sec Con: media.ccc.de",            "url": "https://www.youtube.com/user/mediacccde/videos?disable_polymer=1" },
+					{ "title": "Sec Con: SteelCon",                "url": "https://www.youtube.com/channel/UCK41FEbfdxa9iatNvvrqbtg/videos?disable_polymer=1" },
+					{ "title": "Sec Con: ZeroNights",              "url": "https://www.youtube.com/channel/UCtQ0fPmP4fCGBkYWMxnjh6A/videos?disable_polymer=1" },
 					{ "title": "Sec: Open SecurityTraining", "active": false, "url": "https://www.youtube.com/user/OpenSecurityTraining/videos?disable_polymer=1" },
 					{ "title": "Con: GOTO",                        "url": "https://www.youtube.com/user/GotoConferences/videos?disable_polymer=1" },
 					{ "title": "Con: Disruption Network Lab",      "url": "https://www.youtube.com/channel/UCxiH37LS3aCEPQlq5Bh4oAQ/videos?disable_polymer=1" },
 					{ "title": "Con: DLD",                         "url": "https://www.youtube.com/user/DLDconference/videos?disable_polymer=1" },
 					{ "title": "Con: ForumOpenSource", "active": false, "url": "https://www.youtube.com/user/ForumOpenSource/videos?disable_polymer=1" },
+					{ "title": "Con: State of the Net",            "url": "https://www.youtube.com/user/sotntube/videos?disable_polymer=1" },
 					{ "title": "Con: Theorizing The Web",          "url": "https://www.youtube.com/user/theorizingtheweb/videos?disable_polymer=1" },
 					{ "title": "Con: The Linux Foundation",        "url": "https://www.youtube.com/user/TheLinuxFoundation/videos?disable_polymer=1" },
 					{ "title": "Netz: Telekom",                    "url": "https://www.youtube.com/channel/UCX-29_jUubbuHVaOvJll94A/videos?disable_polymer=1" },
@@ -235,7 +247,8 @@
 					{ "title": "Rosa-Luxemburg-Stiftung",            "url": "https://www.youtube.com/user/rosaluxstiftung/videos?disable_polymer=1" },
 					{ "title": "Marx's Capital with David Harvey", "active": false, "url": "https://www.youtube.com/user/readingcapital/videos?disable_polymer=1" },
 					{ "title": "Netzpolitik.org",                    "url": "https://www.youtube.com/user/netzpolitik/videos?disable_polymer=1" },
-					{ "title": "Zentrum für Politische Schönheit",   "url": "https://www.youtube.com/user/beautypolitics/videos?disable_polymer=1" }
+					{ "title": "Zentrum für Politische Schönheit",   "url": "https://www.youtube.com/user/beautypolitics/videos?disable_polymer=1" },
+					{ "title": "Democracy Now!",                     "url": "https://www.youtube.com/user/democracynow/videos?disable_polymer=1" }
 				]
 			},
 			{
@@ -263,17 +276,24 @@
 			const div = document.createElement( "DIV" );
 			div.setAttribute( "id", l.id );
 			
-			const h  = document.createElement( "H3" );
+			const h = document.createElement( "H3" );
 			h.textContent = l.title;
 			
 			const ul = document.createElement( "UL" );
 			l.items.forEach( function( im ) 
 			{
 				const li = document.createElement( "LI" );
-				const a  = document.createElement( "A"  );
+				if( "active" in im && im.active === false )
+				{
+					li.setAttribute( "class", "inactive" );
+					li.setAttribute( "title", "inaktiv"  );
+				}
+				
+				const a  = document.createElement( "A" );
 				a.textContent = im.title;
 				a.setAttribute( "href",   im.url   );
 				a.setAttribute( "target", "_blank" );
+				
 				li.appendChild( a  );
 				ul.appendChild( li );
 			});
