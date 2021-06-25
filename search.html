@@ -339,27 +339,27 @@
 			{
 				"id"   : "warez",
 				"title": "Warez",
-				"encoded": true,
+				"obfuscated": true,
 				"items":
 				[
-					{ "title": "S'to Serienstream (DNS 8.8.8.8)", "url": "aHR0cHM6Ly9zLnRv" },
-					{ "title": "Einfachladen",                    "url": "aHR0cHM6Ly9laW5mYWNobGFkZW4ub3JnLw==" },
-					{ "title": "Filmfans",                        "url": "aHR0cHM6Ly9maWxtZmFucy5vcmcv" },
-					{ "title": "Filmstreaming'de-life",           "url": "aHR0cHM6Ly9maWxtc3RyZWFtaW5nLWRlLmxpZmUv" },
-					{ "title": "KinoX",                           "url": "aHR0cHM6Ly9raW5veC50bw==" },
-					{ "title": "Serienjunkies",                   "url": "aHR0cDovL3Nlcmllbmp1bmtpZXMub3Jn" },
+					{ "title": "S$'to Se$rien$st$ream (DNS 8.8.8.8)", "url": "https://$$s$.$$t$o/" },
+					{ "title": "Einf$ac$$hla$$en",                    "url": "https://ei$nf$$ac$hlad$en$.o$rg/" },
+					{ "title": "F$$ilm$$fans",                        "url": "https://fi$lm$fan$s.$$o$rg/" },
+					{ "title": "Fi$$lmstre$ami$ng$$.de$-l$ife",       "url": "https://fi$lms$tre$$$ami$ng$-$de$.$$l$ife/" },
+					{ "title": "Ki$$noX",                             "url": "https://ki$$no$x.t$$o/ },
+					{ "title": "Seri$$enju$$nki$es",                  "url": "http://se$rien$$jun$$kie$s.o$rg/" },
 					
-					{ "title": "Movie-Blog", "active": false,     "url": "aHR0cDovL21vdmllLWJsb2cudG8vP3M9U1VDSEJFR1JJRkY=" },
-					{ "title": "DDL-Warez",                       "url": "aHR0cHM6Ly9kZGwtd2FyZXoudG8=" },
-					{ "title": "RapidMoviez",                     "url": "aHR0cDovL3Jtei5jcg==" },
-					{ "title": "HD-Area",  "active": false,       "url": "aHR0cDovL3d3dy5oZC1hcmVhLm9yZw==" },
-					{ "title": "HD-World", "active": false,       "url": "aHR0cDovL3d3dy5oZC13b3JsZC5vcmc=" },
-					{ "title": "HD-Source",                       "url": "aHR0cHM6Ly9oZC1zb3VyY2UudG8v" },					
-					{ "title": "NIMA4K",                          "url": "aHR0cHM6Ly9uaW1hNGsub3JnLw==" },
-					{ "title": "FMovies",                         "url": "aHR0cHM6Ly9mbW92aWVzLnRvLw==" },
+					{ "title": "Mo$$vie-B$$log", "active": false,     "url": "http://m$$ovie-bl$$og.to/?s=SUCHBEGRIFF" },
+					{ "title": "D$DL-W$ar$ez",                        "url": "https://d$$dl-wa$$re$z.t$o/" },
+					{ "title": "Ra$$pidMoviez",                       "url": "http://r$$m$z.cr/" },
+					{ "title": "H$$D-$Ar$ea",  "active": false,       "url": "http://www.h$$d-ar$ea.o$rg/" },
+					{ "title": "H$D-$Wo$rld", "active": false,        "url": "http://www.h$d-w$orld$.org/" },
+					{ "title": "H$D-$Sou$rce",                        "url": "https://hd-s$our$ce.$t$o/" },					
+					{ "title": "N$IM$A4K",                            "url": "https://ni$ma4$k.o$rg/" },
+					{ "title": "F$$Movies",                           "url": "https://fmo$vie$s.$to/" },
 					
-					{ "title": "DLC etc decrypt",                 "url": "aHR0cDovL2RjcnlwdC5pdA==" },
-					{ "title": "SciHub",                          "url": "aHR0cHM6Ly9zY2ktaHViLnN0Lw==" }
+					{ "title": "DLC etc decrypt",                     "url": "http://dcr$yp$t.i$t/" },
+					{ "title": "S$ci$Hu$b",                           "url": "https://sc$i-h$ub.s$t/" }
 				]
 			},
 		];
@@ -384,9 +384,9 @@
 					li.setAttribute( "title", "inaktiv"  );
 				}
 				
-				const a   = document.createElement( "A" );
-				const url = l.encoded ? atob( im.url ) : im.url;
-				a.textContent = im.title;
+				const a       = document.createElement( "A" );
+				const url     = l.obfuscated ? im.url  .replace( '$', '' ) : im.url;
+				a.textContent = l.obfuscated ? im.title.replace( '$', '' ) : im.title;
 				a.setAttribute( "href",   url      );
 				a.setAttribute( "target", "_blank" );
 				
