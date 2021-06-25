@@ -385,7 +385,7 @@
 				}
 				
 				const a   = document.createElement( "A" );
-				const url = im.encoded ? atob( im.url ) : im.url;
+				const url = l.encoded ? atob( im.url ) : im.url;
 				a.textContent = im.title;
 				a.setAttribute( "href",   url      );
 				a.setAttribute( "target", "_blank" );
