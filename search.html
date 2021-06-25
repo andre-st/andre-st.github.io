@@ -385,8 +385,8 @@
 				}
 				
 				const a       = document.createElement( "A" );
-				const url     = l.obfuscated ? im.url  .replace( '$', '' ) : im.url;
-				a.textContent = l.obfuscated ? im.title.replace( '$', '' ) : im.title;
+				const url     = l.obfuscated ? im.url  .replace( /$/g, '' ) : im.url;
+				a.textContent = l.obfuscated ? im.title.replace( /$/g, '' ) : im.title;
 				a.setAttribute( "href",   url      );
 				a.setAttribute( "target", "_blank" );
 				
