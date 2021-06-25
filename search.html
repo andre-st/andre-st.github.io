@@ -215,7 +215,7 @@
 		];
 		
 		
-		const LISTS = 
+		const LISTS =   // You can obfuscate 'title' and 'url' by adding one or many $ between the letters, might break simple text searches
 		[
 			{
 				"id"   : "yt",
@@ -339,7 +339,6 @@
 			{
 				"id"   : "warez",
 				"title": "Warez",
-				"obfuscated": true,
 				"items":
 				[
 					{ "title": "S$'to Se$rien$st$ream (DNS 8.8.8.8)", "url": "https://$$s$.$$t$o/" },
@@ -385,8 +384,8 @@
 				}
 				
 				const a       = document.createElement( "A" );
-				const url     = l.obfuscated ? im.url  .replace( /$/g, '' ) : im.url;
-				a.textContent = l.obfuscated ? im.title.replace( /$/g, '' ) : im.title;
+				const url     = im.url  .replace( /\$/g, '' );
+				a.textContent = im.title.replace( /\$/g, '' );
 				a.setAttribute( "href",   url      );
 				a.setAttribute( "target", "_blank" );
 				
