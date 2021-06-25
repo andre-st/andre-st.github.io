@@ -339,26 +339,27 @@
 			{
 				"id"   : "warez",
 				"title": "Warez",
+				"encoded": true,
 				"items":
 				[
-					{ "title": "S.to Serienstream (DNS 8.8.8.8)", "url": "https://s.to" },
-					{ "title": "einfachladen.org",                "url": "https://einfachladen.org/" },
-					{ "title": "filmfans.org",                    "url": "https://filmfans.org/" },
-					{ "title": "filmstreaming-de.life",           "url": "https://filmstreaming-de.life/" },
-					{ "title": "KinoX.to",                        "url": "https://kinox.to" },
-					{ "title": "Serienjunkies",                   "url": "http://serienjunkies.org" },
+					{ "title": "S'to Serienstream (DNS 8.8.8.8)", "url": "aHR0cHM6Ly9zLnRv" },
+					{ "title": "Einfachladen",                    "url": "aHR0cHM6Ly9laW5mYWNobGFkZW4ub3JnLw==" },
+					{ "title": "Filmfans",                        "url": "aHR0cHM6Ly9maWxtZmFucy5vcmcv" },
+					{ "title": "Filmstreaming'de-life",           "url": "aHR0cHM6Ly9maWxtc3RyZWFtaW5nLWRlLmxpZmUv" },
+					{ "title": "KinoX",                           "url": "aHR0cHM6Ly9raW5veC50bw==" },
+					{ "title": "Serienjunkies",                   "url": "aHR0cDovL3Nlcmllbmp1bmtpZXMub3Jn" },
 					
-					{ "title": "Movie-Blog", "active": false,     "url": "http://movie-blog.to/?s=SUCHBEGRIFF" },
-					{ "title": "DDL-Warez",                       "url": "https://ddl-warez.to" },
-					{ "title": "RapidMoviez",                     "url": "http://rmz.cr" },
-					{ "title": "HD-Area.org",  "active": false,   "url": "http://www.hd-area.org" },
-					{ "title": "HD-World.org", "active": false,   "url": "http://www.hd-world.org" },
-					{ "title": "HD-Source",                       "url": "https://hd-source.to/" },					
-					{ "title": "NIMA4K",                          "url": "https://nima4k.org/" },
-					{ "title": "FMovies",                         "url": "https://fmovies.to/" },
+					{ "title": "Movie-Blog", "active": false,     "url": "aHR0cDovL21vdmllLWJsb2cudG8vP3M9U1VDSEJFR1JJRkY=" },
+					{ "title": "DDL-Warez",                       "url": "aHR0cHM6Ly9kZGwtd2FyZXoudG8=" },
+					{ "title": "RapidMoviez",                     "url": "aHR0cDovL3Jtei5jcg==" },
+					{ "title": "HD-Area",  "active": false,       "url": "aHR0cDovL3d3dy5oZC1hcmVhLm9yZw==" },
+					{ "title": "HD-World", "active": false,       "url": "aHR0cDovL3d3dy5oZC13b3JsZC5vcmc=" },
+					{ "title": "HD-Source",                       "url": "aHR0cHM6Ly9oZC1zb3VyY2UudG8v" },					
+					{ "title": "NIMA4K",                          "url": "aHR0cHM6Ly9uaW1hNGsub3JnLw==" },
+					{ "title": "FMovies",                         "url": "aHR0cHM6Ly9mbW92aWVzLnRvLw==" },
 					
-					{ "title": "DLC etc decrypt",                 "url": "http://dcrypt.it" },
-					{ "title": "SciHub",                          "url": "https://sci-hub.st/" }
+					{ "title": "DLC etc decrypt",                 "url": "aHR0cDovL2RjcnlwdC5pdA==" },
+					{ "title": "SciHub",                          "url": "aHR0cHM6Ly9zY2ktaHViLnN0Lw==" }
 				]
 			},
 		];
@@ -383,9 +384,10 @@
 					li.setAttribute( "title", "inaktiv"  );
 				}
 				
-				const a  = document.createElement( "A" );
+				const a   = document.createElement( "A" );
+				const url = im.encoded ? atob( im.url ) : im.url;
 				a.textContent = im.title;
-				a.setAttribute( "href",   im.url   );
+				a.setAttribute( "href",   url      );
 				a.setAttribute( "target", "_blank" );
 				
 				li.appendChild( a  );
