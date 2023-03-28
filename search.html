@@ -1,0 +1,504 @@
+<!DOCTYPE>
+<html lang="de">
+<head>
+	<meta charset="utf-8">
+	<style>
+		body
+		{
+			background-color: #d8f2c1;
+			text-align: center;
+			margin-top: 0;
+			padding: 0;
+		}
+		
+		body, input
+		{
+			font-size: 16pt;
+			font-family: serif;
+		}
+		
+		#header,
+		#lists
+		{
+			clear: both;
+		}
+		
+		#lists
+		{
+			padding: 0 1em 0 1em;
+		}
+		
+		#lists div
+		{
+			width: 20%;
+			float: left;
+			margin: 2.5em 0 2.5em 0;
+			color: #888;
+			text-align: left;
+		}
+		
+		#lists h3
+		{
+			font-size: 15pt;
+		}
+		
+		#lists ul
+		{
+			padding: 0;
+			margin: 0 0 0 1em;
+		}
+		
+		li
+		{
+			font-size: 11pt;
+			font-family: sans-serif;
+			margin: 0 0 0.5em 0;
+		}
+		
+		li.inactive a
+		{
+			color: #888;
+		}
+		
+		
+		a
+		{
+			color: blue;
+		}
+		
+		a:visited
+		{
+			color: #943b97;
+		}
+		
+		
+		
+		#search-controls
+		{
+			display: flex;
+			margin: 1em 0 1em 0;
+		}
+		
+		#search-controls > div
+		{
+			flex: 1 1 0px;
+			text-align: center;
+		}
+		
+		#search-controls label
+		{
+			display: block;
+		}
+		
+		#search-controls input[type=text]
+		{
+			color: #000;
+			background-color: #fff;
+		}
+		
+		#search-controls button
+		{
+			color: #000;
+			background-color: #efefef;
+			font: inherit;
+		}
+		
+		#results
+		{
+			display: flex;
+		}
+		
+		#results iframe
+		{
+			flex: 1 1 0px;
+			height: 30em;
+		}
+		
+	</style>
+	
+</head>
+<body>
+	<div id="header">
+		<a href="https://github.com/andre-st/andre-st.github.io/edit/master/search.html">edit</a>
+	</div>
+	
+	<div id="search-controls">
+	</div>
+	
+	<div id="results">
+	</div>
+	
+	<div id="lists">
+	</div>
+	
+	
+	
+	<script>
+		const SEARCHES =
+		[
+			{ 
+				"id"   : "left",
+				"title": "Linksradikale", 
+				"sites":
+				[
+				 	"gegenstandpunkt.com",   "trend.infopartisan.net",    "exit-online.org",
+					"krisis.org",            "streifzuege.org",
+				 	"neoprene.blogsport.de", "nestormachno.blogsport.de", "rhizom.blogsport.eu",
+					"classless.org",         "konicz.info",               "meinhard-creydt.de",
+				 	"phase-zwei.org",        "kulturkritik.net",          "rote-ruhr-uni.com",
+					"linksnet.de",           "akweb.de",                  "zserinnyen.de",
+				 	"konkret-magazin.de"
+				] 
+			},
+			{
+				"id"   : "nazi",
+				"title": "Neurechte",
+				"sites":
+				[
+					"neue-ordnung.at",  "sezession.de",    "tumult-magazine.net",
+					"blauenarzisse.de", "jungefreiheit.de", "jungeuropa.de"
+				]
+			},
+			{
+				"id"   : "eso",
+				"title": "Aluhut",
+				"sites":
+				[
+					"rationalwiki.org",     "skepdic.com",       "gwup.org", 
+					"psiram.com",           "skeptoid.com",      "netzwerk-homoeopathie.eu",
+					"skepticalscience.com", "volksverpetzer.de", "factcheck.org",
+					"politifact.com",       "mimikama.at",       "scilogs.spektrum.de",
+					"correctiv.org",        "inrur.is"
+					// realclimate.org
+				]
+			},
+			{
+				"id"   : "seo",
+				"title": "SEO",
+				"sites":
+				[
+					"searchengineland.com",  "blog.searchmetrics.com"
+				]
+			},
+			{
+				"id"   : "tec",
+				"title": "Technik",
+				"sites":
+				[
+					"news.ycombinator.com",  "infoq.com", "wiki.c2.com",
+					"technologyreview.com",  "heise.de",
+					"blog.ieeesoftware.org", "spectrum.ieee.org", "ieeeaccess.ieee.org",
+					"peerj.com",             "usenix.org",        "arxiv.org",
+					"www.tomshardware.com"
+				]
+			},
+			{
+				"id"   : "sec",
+				"title": "Infosec",
+				"sites":
+				[
+					"www.schneier.com", "krebsonsecurity.com", "www.bsi.bund.de",
+					"www.heise.de/security/", "thehackernews.com", "threatpost.com",
+					"www.esecurityplanet.com", "www.darkreading.com", 
+					"www.wired.com/category/threatlevel/", "www.helpnetsecurity.com",
+					"www.securityweek.com", "www.bleepingcomputer.com"
+				]
+			},
+			{
+				"id"   : "books",
+				"title": "Bücher",
+				"sites":
+				[
+					"www.perlentaucher.de", "newbooksnetwork.com"
+				]
+			},
+			{
+				"id"   : "health",
+				"title": "Gesundheit",
+				"sites":
+				[
+					"www.igel-monitor.de",
+					"www.bzga.de",
+					"www.ncbi.nlm.nih.gov/pubmed/"
+				]
+			}
+		];
+	
+	
+		const s = ( id ) => SEARCHES.find( s => s.id == id );
+	
+	
+		const SEARCH_GROUPS =
+		[
+			[ s( "left"   ), s( "nazi" ), s( "eso" )],
+			[ s( "tec"    ), s( "sec"  ), s( "seo" )],
+			[ s( "health" ), s( "eso"  )],
+			[ s( "books"  )]
+		];
+	
+	
+		const LISTS =   // You can obfuscate 'title' and 'url' by adding one or many $ between the letters, might break simple text searches
+		[
+			{
+				"id"   : "yt",
+				"title": "YouTube Misc",
+				"items":
+				[
+					{ "title": "Wirt.-Psych. Kanning (GWUP)",    "url": "https://www.youtube.com/channel/UCi1_qDKslpMp_lF1JWxSFsg/videos"   },
+					{ "title": "Skeptiker: GWUP",                "url": "https://www.youtube.com/user/gwup/videos"                          },
+					{ "title": "Covid19: John Tal",              "url": "https://www.youtube.com/channel/UC9ZsAHPoc9SyBh5NGI7fcRg/videos"   },
+					{ "title": "Covid19: Hagedüs",               "url": "https://www.youtube.com/c/SprechstundemitDrHeged%C3%BCs/videos"    },
+					{ "title": "Musik Any: KEXP",                "url": "https://www.youtube.com/user/kexpradio/videos"                     },
+					{ "title": "Musik Met: Cosmic Hammer",       "url": "https://www.youtube.com/user/vondur666/videos"                     },
+					{ "title": "Musik Met: 331Erock",            "url": "https://www.youtube.com/@331Erock/videos"                          },
+					{ "title": "Musik Amb: Cryo Chamber",        "url": "https://www.youtube.com/user/cryochamberlabel/videos"              },
+					{ "title": "Musik Elk: HÖR BERLIN",          "url": "https://www.youtube.com/c/H%C3%96RBERLIN/videos"                   },
+					{ "title": "Musik Alt: Rolf Lislevand",      "url": "https://www.youtube.com/channel/UCoYg-26DjD1dgqJOIMRnIcg/featured" },
+					{ "title": "Kunst: VernissageTV",            "url": "https://www.youtube.com/c/vernissagetv/videos"                     },
+					{ "title": "Report: Journeyman Pic. (en)",   "url": "https://www.youtube.com/user/journeymanpictures/videos"            },
+					{ "title": "Report: VPRO (en)",              "url": "https://www.youtube.com/user/VPROinternational/videos"             },
+					{ "title": "Report: STRG_F",                 "url": "https://www.youtube.com/channel/UCfa7jJFYnn3P5LdJXsFkrjw/videos"   },
+					{ "title": "Report: Y-Kollektiv",            "url": "https://www.youtube.com/channel/UCLoWcRy-ZjA-Erh0p_VDLjQ/videos"   },
+					{ "title": "Report: Monitor",                "url": "https://www.youtube.com/c/monitor_ard/videos"                      },
+					{ "title": "Debatte: iq² (en)",              "url": "https://www.youtube.com/user/iqsquared/videos"                     },
+					{ "title": "Debatte: Modern-day Debate (en)","url": "https://www.youtube.com/c/ModernDayDebate/videos"                  },
+					{ "title": "DomianArchiv.de",                "url": "https://www.youtube.com/user/DomianArchiv/videos"                  },
+					{ "title": "Israel/Pal: Gil-Shuster (en)",   "url": "https://www.youtube.com/user/coreygilshuster/videos"               },					
+					{ "title": "Osteuropa: Bald&Bankrupt (en)",  "url": "https://www.youtube.com/channel/UCxDZs_ltFFvn0FDHT6kmoXA/videos"   },
+					{ "title": "Gaming/Retro: Virtual Dim.",     "url": "https://www.youtube.com/@VirtualDimension/videos" },
+					{ "title": "Gaming/Retro: DOS Nostalgia",    "url": "https://www.youtube.com/user/dosnostalgic/videos" },
+					{ "title": "Gaming: Digital Foundry (en)",   "url": "https://www.youtube.com/@DigitalFoundry/videos" },
+					{ "title": "Gaming: Electric Undergr. (en)", "url": "https://www.youtube.com/@TheElectricUnderground/videos" },
+					{ "title": "Gaming: Rocket Beans",           "url": "https://www.youtube.com/@RocketBeansGaming/videos" },
+					{ "title": "Gaming: Gamestar",               "url": "https://www.youtube.com/@gamestar/videos" },
+					{ "title": "Gaming: Gameswelt",              "url": "https://www.youtube.com/@gameswelt/videos" }
+				]
+			},
+			{
+				"id"   : "yt-tec",
+				"title": "YouTube Technik",
+				"items":
+				[
+					{ "title": "Sec Con: Black Hat",               "url": "https://www.youtube.com/user/BlackHatOfficialYT/videos"              },
+					{ "title": "Sec Con: BruCON",                  "url": "https://www.youtube.com/user/brucontalks/videos"                     },
+					{ "title": "Sec Con: DEFCON",                  "url": "https://www.youtube.com/user/DEFCONConference/videos"                },
+					{ "title": "Sec Con: Hack in Paris",           "url": "https://www.youtube.com/user/hackinparis/videos"                     },
+					{ "title": "Sec Con: media.ccc.de (de/en)",    "url": "https://www.youtube.com/user/mediacccde/videos"                      },
+					{ "title": "Sec Con: SteelCon",                "url": "https://www.youtube.com/channel/UCK41FEbfdxa9iatNvvrqbtg/videos"     },
+					{ "title": "Sec Con: ZeroNights",              "url": "https://www.youtube.com/channel/UCtQ0fPmP4fCGBkYWMxnjh6A/videos"     },
+					{ "title": "Sec Con: Troopers",                "url": "https://www.youtube.com/user/TROOPERScon/videos"                     },
+					{ "title": "Sec Con: Wild West Hackin'",       "url": "https://www.youtube.com/channel/UCef0TWni8ghLcJphdmDBoxw/videos"     },
+					{ "title": "Sec Con: ShellCon",                "url": "https://www.youtube.com/channel/UCNNG5meCMrsF90wQrwu_zQA/videos"     },
+					{ "title": "Sec Con: OffensiveCon",            "url": "https://www.youtube.com/channel/UCMNvAtT4ak2azKNk6UlB1QQ/videos"     },
+					{ "title": "Sec: Open SecurityTraining", "active": false, "url": "https://www.youtube.com/user/OpenSecurityTraining/videos" },
+					{ "title": "Con: GOTO",                        "url": "https://www.youtube.com/user/GotoConferences/videos"                 },
+					{ "title": "Con: Disruption Network Lab",      "url": "https://www.youtube.com/channel/UCxiH37LS3aCEPQlq5Bh4oAQ/videos"     },
+					{ "title": "Con: DLD",                         "url": "https://www.youtube.com/user/DLDconference/videos"                   },
+					{ "title": "Con: ForumOpenSource", "active": false, "url": "https://www.youtube.com/user/ForumOpenSource/videos"            },
+					{ "title": "Con: State of the Net",            "url": "https://www.youtube.com/user/sotntube/videos"                        },
+					{ "title": "Con: Theorizing The Web",          "url": "https://www.youtube.com/user/theorizingtheweb/videos"                },
+					{ "title": "Con: The Linux Foundation",        "url": "https://www.youtube.com/user/TheLinuxFoundation/videos"              },
+					{ "title": "Netz: Telekom (de)",               "url": "https://www.youtube.com/channel/UCX-29_jUubbuHVaOvJll94A/videos"     },
+					{ "title": "Netz: IETF",                       "url": "https://www.youtube.com/user/ietf/videos"                            },
+					{ "title": "Google Tech Talks",                "url": "https://www.youtube.com/user/GoogleTechTalks/videos"                 },
+					{ "title": "SwT: Software Eng. Institute",     "url": "https://www.youtube.com/user/TheSEICMU/videos"                       },
+					{ "title": "SwT: SE-Radio",                    "url": "https://www.youtube.com/playlist?list=PLHJB2bhmgB7esz0BxMCt1jJwsoaqWtFff" },
+					{ "title": "Maker Con: HACKADAY",              "url": "https://www.youtube.com/user/hackaday/videos"                        },
+					{ "title": "Maker Con: Electromagn. Field",    "url": "https://www.youtube.com/user/emfcamp1/videos"                        },
+					{ "title": "Maker: Ben Eater",                 "url": "https://www.youtube.com/user/eaterbc/videos"                         },
+					{ "title": "Maker: ElectroBOOM",               "url": "https://www.youtube.com/c/Electroboom/videos"                        },
+					{ "title": "Computerphile",                    "url": "https://www.youtube.com/user/Computerphile/videos"                   },
+					{ "title": "Omega Tau Podcast (de/en)",        "url": "https://www.youtube.com/@OmegataupodcastNet/videos"                  },
+					{ "title": "Chyrosran22 Keyboard Reviews",     "url": "https://www.youtube.com/user/Chyrosran22/videos"                     },
+					{ "title": "Retro: The 8-Bit Guy",             "url": "https://www.youtube.com/user/adric22/videos"                         },
+					{ "title": "Retro: LGR",                       "url": "https://www.youtube.com/user/phreakindee/videos"                     },
+					{ "title": "Data Science: Brandon Rohrer",     "url": "https://www.youtube.com/user/BrandonRohrer/videos"                   },
+					{ "title": "Sw-Arch: Eberhard Wolff (de)",     "url": "https://www.youtube.com/c/EberhardWolff/videos"                      }
+				]
+			},
+			{
+				"id"   : "yt-linke",
+				"title": "YT u.a. Linke",
+				"items":
+				[
+					{ "title": "GSP: Sozialistische Gruppe",   "active": false,  "url": "https://www.youtube.com/user/GegenArgument/videos"               },
+					{ "title": "GSP: Marxismus Vorträge",                        "url": "https://www.youtube.com/channel/UCghnF8e4PXyZh8vLb6xXRrQ/videos" },
+					{ "title": "GSP: Marxist. Vortragsarchiv", "active": false,  "url": "https://www.youtube.com/channel/UC-OJYKhHWLltS-Y3cKVj_lQ/videos" },
+					{ "title": "GSP: KK-Gruppe Berlin",        "active": false,  "url": "https://www.youtube.com/channel/UC2oY85fflh7PtmsoMUbWoXA/videos" },
+					{ "title": "GSP: GEGEN KULTUR",            "active": false,  "url": "https://www.youtube.com/user/GegenKulturVerlag/videos"           },
+					{ "title": "Wertkritik: Krisis",                             "url": "https://www.youtube.com/channel/UCjctn4i1XQw3FhXF2PZ9hbw/videos" },
+					{ "title": "Ça Ira Verlag",                                  "url": "https://www.youtube.com/channel/UCqxbyfXYv-vf3FlumBsDW-Q/videos" },
+					{ "title": "Hammer und Zirkel",            "active": false,  "url": "https://www.youtube.com/channel/UCmbp_MsnzQNb5ogcMPGHHaQ/videos" },
+					{ "title": "Keep The Fire Burning",                          "url": "https://www.youtube.com/channel/UCZgENdtwBTfbXlXuNG_OEHw/videos" },
+					{ "title": "TheNokturnalTimes",                              "url": "https://www.youtube.com/channel/UCgj0uCW9VR8p3PUJ91oDz9g/videos" },
+					{ "title": "Emma u. Fritz",                                  "url": "https://www.youtube.com/channel/UCtsVCoQxu64vRQH2IYP51sA/videos" },
+					{ "title": "SWP-TV UK (Marxism Festival)",                   "url": "https://www.youtube.com/user/swpTvUk/videos"                     },
+					{ "title": "Arbeitsweltradio Nordwürttemberg",               "url": "https://www.youtube.com/channel/UCQ_4vnNQBNCwZrdZZ95IrNg/videos" },
+					{ "title": "Rosa-Luxemburg-Stiftung",                        "url": "https://www.youtube.com/user/rosaluxstiftung/videos"             },
+					{ "title": "Z - Zeitschrift Marxistische Erneuerung",        "url": "https://www.youtube.com/channel/UCJpci1isNx0u4fmHZKlhksA/videos" },
+					{ "title": "Kommunistische Organisation",                    "url": "https://www.youtube.com/channel/UCqP95FFUjkOKrOHlnotNTrA/videos" },
+					{ "title": "Gruppen gegen Nation & Kapital",                 "url": "https://www.youtube.com/channel/UC_V64tu7Bszt-0CG6_upBLQ/videos" },
+					{ "title": "Future Histories (de/en)",                       "url": "https://www.youtube.com/c/FutureHistoriesPodcast/videos"         },
+					{ "title": "Marx's Capital David Harvey", "active": false,   "url": "https://www.youtube.com/user/readingcapital/videos"              },
+					{ "title": "Übertage",                                       "url": "https://www.youtube.com/channel/UCqPcGPe_6kA4nBWO25ORoyA/videos" },
+					{ "title": "Diskurs auf Sand",            "active": false,   "url": "https://www.youtube.com/channel/UCNMxgRuhys1qIKEP8CHy8Ig/videos" },
+					{ "title": "Basisgruppe Germanistik",     "active": false,   "url": "https://www.youtube.com/channel/UCkBqhjGxpUkkeyXOrGqdpPA/videos" },
+					{ "title": "AStA Trier",                  "active": false,   "url": "https://www.youtube.com/c/AntirassTrier/videos"                  },
+					{ "title": "Popular Front (en)",                             "url": "https://www.youtube.com/c/PopularFront/videos"                   },
+					{ "title": "Komm:on",                                        "url": "https://www.youtube.com/channel/UC7DSgzPnJO5Nb6jXv0jco0w/videos" },
+					{ "title": "Klassenbildung",                                 "url": "https://www.youtube.com/c/Klassenbildung/videos"                 },
+					{ "title": "Wohlstand für Alle",                             "url": "https://www.youtube.com/c/Wohlstandf%C3%BCrAlle/videos"          },
+					{ "title": "99 ZU EINS",                                     "url": "https://www.youtube.com/c/99ZUEINS/videos"                       },
+					{ "title": "Feine Welt",                                     "url": "https://www.youtube.com/c/FeineWelt/videos"                      },
+					{ "title": "Sachzwang FM",                                   "url": "http://audioarchiv.k23.in/Radio/SachzwangFM/?C=M&O=A"            },
+					{ "title": "Freie-Radios.net",                               "url": "https://www.freie-radios.net/portal/archiv.php"                  },
+					{ "title": "Kommunisten-Kneipe",                             "url": "https://www.youtube.com/channel/UC_aS1vGvrWDVOxlCZHYf8ew/videos" },
+					{ "title": "Arbeitsunrecht FM",                              "url": "https://www.youtube.com/@arbeitsunrechtTV/videos"                },
+					{ "title": "Jacobin Magazin (de)",                           "url": "https://www.youtube.com/@JacobinMagazin/videos"                  },
+					{ "title": "Neues China Podcast",                            "url": "https://www.youtube.com/@neues-china-podcast/videos"             },
+					{ "title": "Lib-left: Democracy Now!",                       "url": "https://www.youtube.com/user/democracynow/videos"                },
+					{ "title": "Lib-left: Netzpolitik.org",                      "url": "https://www.youtube.com/user/netzpolitik/videos"                 },
+					{ "title": "Lib-left: HKW 100 Years of Now",                 "url": "https://www.youtube.com/channel/UCZblVLLa2NxSijpI4hI5ScQ/videos" }
+				]
+			},
+			{
+				"id"   : "yt-rechte",
+				"title": "YT u.a. Rechte",
+				"items":
+				[
+					{ "title": "NR: Anbruch.info (Podcast)",     "active": false, "url": "https://www.youtube.com/channel/UCJideQoT9MgcGrQXrhhqsyw/videos"     },
+					{ "title": "IB: Martin Sellner Odysee",                       "url": "https://odysee.com/@MartinSellner:d"                                 },
+					{ "title": "IB: Martin Sellner Audioanalysen",                "url": "https://podcasts.apple.com/us/podcast/audioanalysen/id1564060835"    },
+					{ "title": "IB: Patrick Lenart",             "active": false, "url": "https://www.youtube.com/user/lenarpa/videos?disable_polymer=1"       },
+					{ "title": "NR: Lagebesprechung (EinProzent)",                "url": "https://podcast.einprozent.de/"                                      },
+					{ "title": "NR: Wendezeiten (EinProzent)",                    "url": "https://www.youtube.com/channel/UCj0XVmXcAbg_ipQsvEfZ1FA/videos"     },
+					{ "title": "NR: Jungeuropa Verlag (Podcast)",                 "url": "http://podcast.jungeuropa.de/"                                       },
+					{ "title": "NR: Konflikt Magazin",                            "url": "https://www.youtube.com/channel/UCqbPBtfc0pI7eVfoLDHmrCA/videos"     },
+					{ "title": "NR: Rechtsausleger",                              "url": "https://www.youtube.com/channel/UCTzfGo27YRqkShdnPxQyXLg/videos"     },
+					{ "title": "NR: Kanal Schnellroda/IfS",                       "url": "https://www.youtube.com/channel/UC-PmBc5R3HVD_Do_yO8ju2Q/videos"     },
+					{ "title": "NR: Schwarze Fahne (Podcast)",                    "url": "https://schwarzefahne.libsyn.com/"                                   },
+					{ "title": "NR: Das Leuchtfeuer",                             "url": "https://www.youtube.com/channel/UCiK1sbvGdHLu4qxsmKZig1A/videos"     },
+					{ "title": "NR/Dugin: Suworow TV",                            "url": "https://www.youtube.com/channel/UCq-NFNKm2SepKKzYjgVRFeQ/videos"     },
+					{ "title": "NR/Dugin: Katehon",             "active": false,  "url": "https://www.youtube.com/channel/UCabHgVVhRDgWZn1clE8Epxw/videos"     },
+					{ "title": "BuchHaus Loschwitz",            "active": true,   "url": "https://www.youtube.com/channel/UCmSd4nKNjnPDUdujlDcTWrQ/videos"     },
+					{ "title": "David Engels",                                    "url": "https://www.youtube.com/channel/UCpIAdT5igYSWS6DfEbT4APw/videos"     },
+					{ "title": "Bibliothek des Konservatismus",                   "url": "https://www.youtube.com/user/bdkBerlin/videos?disable_polymer=1"     },
+					{ "title": "libertär: Gunnar Kaiser",                         "url": "https://www.youtube.com/user/KaiserFEGBonn/videos?disable_polymer=1" },
+					{ "title": "NS-Realsatire: Volkslehrer",                      "url": "https://www.bitchute.com/channel/der_volkslehrer/"                   },
+					{ "title": "NS: Wie gesagt",                                  "url": "https://www.youtube.com/@wiegesagt/videos"                           },
+					{ "title": "NS: Der dritte Blickwinkel",                      "url": "https://www.bitchute.com/channel/der-dritte-blickwinkel/"            }
+				]
+			},
+			{
+				"id"   : "warez",
+				"title": "Warez",
+				"items":
+				[
+					{ "title": "S$'to Se$rien$st$ream (DNS 8.8.8.8)", "url": "https://$$s$.$$t$o/" },
+					{ "title": "Einf$ac$$hla$d$en",                   "active": false,   "url": "https://ei$nf$$ac$hlad$en$.o$rg/" },
+					{ "title": "F$$ilm$$fans",                        "url": "https://fi$lm$fan$s.$$o$rg/" },
+					{ "title": "Fi$$lmstre$ami$ng$$.de$-l$ife",       "url": "https://fi$lms$tre$$$ami$ng$-$de$.$$l$ife/" },
+					{ "title": "Ki$$noX",                             "url": "https://ki$$no$x.t$$o/" },
+					{ "title": "Seri$$enju$$nki$es",                  "url": "http://se$rien$$jun$$kie$s.o$rg/" },
+					{ "title": "b$$fl$ix$$.biz",                      "url": "https://bf$$li$x.$biz$$/" },
+					
+					{ "title": "Mo$$vie-B$$log", "active": false,     "url": "http://m$$ovie-bl$$og.to/?s=SUCHBEGRIFF" },
+					{ "title": "D$DL-W$ar$ez",                        "url": "https://d$$dl-wa$$re$z.t$o/" },
+					{ "title": "Ra$$pidMoviez",                       "url": "http://r$$m$z.cr/" },
+					{ "title": "H$$D-$Ar$ea",  "active": false,       "url": "http://www.h$$d-ar$ea.o$rg/" },
+					{ "title": "H$D-$Wo$rld", "active": false,        "url": "http://www.h$d-w$orld$.org/" },
+					{ "title": "H$D-$Sou$rce",                        "url": "https://hd-s$our$ce.$t$o/" },					
+					{ "title": "N$IM$A4K",                            "url": "https://ni$ma4$k.o$rg/" },
+					{ "title": "F$$Movies",                           "url": "https://fmo$vie$s.$to/" },
+					
+					{ "title": "DLC etc decrypt",                     "url": "http://dcr$yp$t.i$t/" },
+					{ "title": "S$ci$Hu$b",                           "url": "https://sc$i-h$ub.s$t/" },
+					{ "title": "Open Subtitles",                      "url": "https://www.opensubtitles.org/de" }
+				]
+			},
+		];
+	
+	
+		// Construct lists:
+		LISTS.forEach( function( l )
+		{
+			const div = document.createElement( "DIV" );
+			div.setAttribute( "id", l.id );
+			
+			const h = document.createElement( "H3" );
+			h.textContent = l.title;
+			
+			const ul = document.createElement( "UL" );
+			l.items.forEach( function( im ) 
+			{
+				const li = document.createElement( "LI" );
+				if( "active" in im && im.active === false )
+				{
+					li.setAttribute( "class", "inactive" );
+					li.setAttribute( "title", "inaktiv"  );
+				}
+				
+				const a       = document.createElement( "A" );
+				const url     = im.url  .replace( /\$/g, "" );
+				a.textContent = im.title.replace( /\$/g, "" );
+				a.setAttribute( "href",   url      );
+				a.setAttribute( "target", "_blank" );
+				a.setAttribute( "rel",    "noreferrer" );
+				
+				li.appendChild( a  );
+				ul.appendChild( li );
+			});
+			
+			div.appendChild( h  );
+			div.appendChild( ul );
+			document.getElementById( "lists" ).appendChild( div );
+		});
+	
+	
+		function loadSearchResults( keyw, searches )
+		{
+			const resultsContainer = document.getElementById( "results" );
+			while( resultsContainer.firstChild )
+				resultsContainer.removeChild( resultsContainer.firstChild );
+			
+			searches.forEach( s =>
+			{
+				const q   = '"' + keyw + '" site:' + s.sites.join( " OR site:" );
+				const url = "https://www.google.de/search?igu=1&q=" + q;  // igu drops "X-Frame-Options: SameOrigin"
+				
+				const i = document.createElement( "IFRAME" );
+				i.src = url;
+				
+				resultsContainer.appendChild( i );
+			});
+		}
+	
+	
+		// Construct searches:
+		SEARCH_GROUPS.forEach( function( g )
+		{
+			const title = g.map( g => g.title ).reduce( (o,x) => o + " / " + x ) + ':';
+			
+			const l = document.createElement( "LABEL" );
+			l.innerText = title;
+			
+			const i = document.createElement( "INPUT" );
+			i.type        = "text";
+			i.placeholder = "Suchwort";
+			
+			const b = document.createElement( "BUTTON" );
+			b.innerText = "Suchen"
+			b.addEventListener( 'click', e => loadSearchResults( i.value, g ));
+			
+			const c = document.createElement( "DIV" );
+			c.appendChild( l );
+			c.appendChild( i );
+			c.appendChild( b );
+			
+			document.getElementById( "search-controls" ).appendChild( c );
+		});
+		
+		
+	</script>
+</body>
+</html>
