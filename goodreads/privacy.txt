@@ -1,0 +1,102 @@
+PRIVACY NOTICE
+
+Last Updated: Aug 2019
+
+For ease of comprehension, this text uses the words:
+
+	"the website"           for https://andre-st.github.io/goodreads/
+	"the service"           for the service described on the website,
+	"you" and "your"        synonymously with "data owner",
+	"they", "their", "them" synonymously with "data processor", and
+	"I", "me" and "my"      synonymously with "data controller" who
+	                        is responsible for the website and service
+	
+	
+	
+I don't earn money with the service and am using free resources to realize it.
+
+
+
+Data collected on my behalf in order to perform the service:
+	
+	- your e-mail addresss
+	- your Goodreads.com user identification number
+	- your book shelf name 
+	- numerical IDs of all books in your book shelf
+	- your date of subscription
+	
+	Deleted within 14 days after unsubscription, dysfunct mailbox or ongoing dysfunct shelf.
+	Unsubscribe via e-mail to datakadabra@gmail.com
+	Data is not sold to any other party without consent.
+	
+	This tuple is stored in Germany.
+	Legal ground is your consent and significance for service fulfillment.
+	
+     
+	
+GMail.com is used for e-mail transfer:
+	
+	Your subscription requests and all the e-mails you receive
+	are stored in a GMail.com mailbox.
+	I use Google Mail SMTP servers for e-mail transfer.
+	
+	This is how they learn about your e-mail address in context
+	with datakadabra@gmail.com and book rating notifications.
+	
+	"Gmail users have no reasonable expectation that their 
+	communications are confidential." (theguardian.com)
+	
+	This data is stored in the USA.
+	Legal ground is your consent.
+	
+	More: https://www.google.com/intl/en/policies/privacy/
+	
+	
+	
+Formspree.io is used for e-mail transfer:
+	
+	Forwards your subscription-form data from the static website 
+	to the GMail.com mailbox. 
+	
+	Form transmission is SSL-encrypted.
+	
+	Formspree.io stores "contents of the last 100 form submissions and 
+	delete[s] the rest. Emails are sent using SendGrid's API, so on that
+	end their privacy policies apply."
+	
+	This data is stored in the USA.
+	Legal ground is your consent.
+	
+	More    : https://formspree.io/static/PrivacyPolicy.pdf
+	SendGrid: https://sendgrid.com/policies/privacy/
+	
+	
+	
+GitHub.com is hosting the website:
+	
+	More: https://help.github.com/articles/github-privacy-statement/
+	
+	
+	
+Your right to object, to erasure, to information etc:
+	
+	For inquiries or concerns regarding privacy practices,
+	please contact datakadabra@gmail.com
+	
+	Your rights: https://gdpr-info.eu/chapter-3/
+	
+	
+	
+Links to other sites:
+	
+	When you follow a link to an external site, you are subject to the
+	external site's privacy and security policies.
+	
+	I'm not responsible for the contents of external webpages,
+	because it's not me who
+	initiates the transmission of information,
+	selects the addressee of the submitted information,
+	selects or changes the submitted information.
+
+	A link to a page does not constitute an endorsement.
+	
