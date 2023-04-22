@@ -35,7 +35,7 @@
 
 
 | Roast  | Alt. Name                                  | Brew-Water Temp.  | Grind                      | Taste / Mouthfeel
-|-----------------------------------------------------|-------------------|----------------------------|-----------------------------
+|--------|--------------------------------------------|-------------------|----------------------------|-----------------------------
 | dark   | Vienna/French/Italian Roast, Full City R.  | 80-85&deg;C       | mid-to-coarse              | less sour (acids away), more bitter, more body (weight more milky than watery, creamy to chewy, not like tea), shocolade/nut notes ("sugar browing"), body preferred for espresso
 | medium | American Roast, City Roast                 | 92&deg;C          | mid-grind                  | sweeter than light roast, good body, light sour notes
 | light  | Cinnamom Roast, New England Roast          | 92&deg;-boiling   | mid-to-fine grind (lil coarser than very fine Espresso) | fruity/original or natural notes, more acids, preferred for filter coffee
