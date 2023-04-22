@@ -13,15 +13,15 @@
 
 | Purpose              | Product                        | Notes
 |----------------------|--------------------------------|---------------------------------
-| Brewer               | AeroPress Go                   | don't expect more than 0.5 bar without Joepresso addon (real Espresso demands 9 bars), rather "Espresso-style", "Aeropress" coffee and Americano, much cleaner than French Press
+| Brewer               | AeroPress Go                   | don't expect more than 0.5 bar without Joepresso addon (real Espresso demands 9 bars), rather "Espresso-style", "Aeropress-style coffee" and Americano, much cleaner than French Press
 | Thermometer          | Weber 6740 Digital Pocket T.   | checks brewing water and drink temperatures
 | Grinder              | OSSAT Manual Coffee G. 25-28 g | all metal inside and out except wooden knob, the chinese "Comandante" but 1/4 price; <br>full charge with beans fills ~15g or well-nigh 1 leveled scoop of AeroPress Go (11.5 g), <br> so you can dump it straight into AP<br>Grind size in clicks: 1 (finest) - 26 (mid-coarse) - 40 (coarse)
 | Timer                | PC or Smartphone Clock         | `$ sleep 40` on the Linux command line, or counting up: ```function timer() { for i in `seq 1 $1` ; do echo -ne "\r$i " ; sleep 1 ; done }``` in your alias-file
-| Kettle               | no-name, could be anything     | the expensive ones (e.g. Fellow for 170 Euros) keep the set temperature, offer a gooseneck, etc.; I just pour the boiling water up into another mug (see below); a few recipes require refilling (at the exact same temperature?)
+| Kettle               | no-name, could be anything     | the expensive ones (e.g. Fellow for 170 Euros) keep the set temperature and offer a gooseneck; I just pour the boiling water up into another mug (see below) and check temp.
 | Weighing             | Soehnle Page Compact 100       | 'Tare' to reset to 0 after every step, 1 l water &thickapprox; 1 kg 
 | Dishware             | Anpro Milk Pitcher 350 ml      | for easier (temp) measuring and pouring out water (not milk)
-| Dishware             | AeroPress Go Mug               | receiving container when pressing the AeroPress
-| Dishware             | Lambda Cappuccino cups 160ml   | smaller cups &ne; less coffee (drink 2 cups); more conscious sipping over mindless shotting with BigMac supersize cups just for caffeine
+| Dishware             | AeroPress Go Mug               | receiving container when pressing the AeroPress, was sold with the AP Go
+| Dishware             | Lambda Cappuccino cups 160ml   | smaller cups &ne; less coffee (drink 2 cups); more conscious sipping over mindless shotting with BigMac supersize cups just for coffeine
 
 
 
@@ -51,11 +51,10 @@ Other:
 
 I usually:
 - prefer soft water
-- use 2 filters (not rinsed with warm water anymore, although said to prevent "paper taste")
+- use 2 filters (not rinsed with hot water anymore, although said to prevent "paper taste" and help sticking in the filter cap)
 - level the coffee bed in the Aeropress (shake it etc)
 - serve at 60&deg;C
 - drink black coffee (no milk, no suggar)
-
 
 
 
@@ -77,7 +76,8 @@ I usually:
 | &starf;&starf;&starf;&star;&star;    | "                            | "       | 30g   | 23 (mid-coarse)  | yes    | wet grind,            97&deg;C  | bloom 30s      | stir 3x           | water to top               | brew 90s closed                 | dilute to 1/2, 83&deg;C  | flowery?
 | &starf;&starf;&star;&star;&star;     | "                            | "       | 15g   | 4                | yes    | water        to #3,   90&deg;C  |                | stir 10s slowly   |                            | brew 50s open                   | dilute to 2/3, 83&deg;C  | 
 | &starf;&star;&star;&star;&star;      | "                            | "       | 30g   | 7                | yes    | water        to #3,   83&deg;C  |                | stir 10s slowly   |                            | brew 40s open                   | dilute to 2/3, 83&deg;C  | somehwat sour
-| &starf;&starf;&starf;&starf;&star;   | Apogeo Pasionata Castillo    | dark    | 11g   | 29 (mid-coarse)  | no     | water        200g,    85&deg;C  |                |                   | brew 120s closed (plunger) | swirl gently (not stir)         | wait 30s, dump mug leftovers, press  | maybe lil thin, but not bad, does justice to the flavor notes, but not really bitter (which is strange but ok for me), drink-ready (60&deg;C)
+| &starf;&starf;&starf;&starf;&star;   | Apogeo Pasionata Castillo    | dark    | 11g   | 29 (mid-coarse)  | no     | water        200g,    85&deg;C  |                |                   | brew 120s closed (plunger) | swirl gently (not stir)         | wait 30s, dump mug leftovers, press  | maybe lil thin, but does justice to the flavor notes, not really bitter, drink-ready (60&deg;C)
+| &starf;&starf;&starf;&star;&star;    | "                            | "       | 18g   | 13 (fine)        | yes    | water         90g,   100&deg;C  |                | stir firmly       | brew 130s closed           |                                 | press completely         | espresso style, lil acid notes(?) but not bad at all
 | &starf;&starf;&starf;&star;&star;    | "                            | "       | 20g   | mid-coarse       | no     | water        200g,    85&deg;C  |                |                   | brew 120s closed (plunger) | swirl gently (not stir)         | wait 30s, press          | dark roast notes, acids
 | &starf;&starf;&starf;&star;&star;    | "                            | "       | 30g   | 40 (coarse)      | yes    | water        100g,    92&deg;C  |                | stir 20x          |                            | brew 40s closed, no excess air  | dilute 120 g,  92&deg;C  | Wendelien van Bunnik recipe, many notes, pretty strong, shocolate (texture) dominates
 | &starf;&starf;&starf;&star;&star;    | "                            | "       | 16g   | mid-coarse       | no     | wet 5secs,   to #2,   82&deg;C  | bloom 20s      |                   | water to #3                | brew 55s closed (plunger)       |                          | lighter, citrus notes dominate, less shcoloate
