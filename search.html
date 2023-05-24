@@ -225,12 +225,16 @@
 			{
 				"id"   : "pr0n",
 				"title": "Pr0n",
-				"sites":
+				"sites": // 'name "K2S"'
 				[
-					"www.forumophilia.com",
-					"forum.phun.org",
-					"www.porn-w.org",
-					"waskucity.com",
+					"ww$$w.for$umo$$phi$$lia.com",
+					"f$$$orum.ph$$un$$.o$rg",
+					"ww$$w.po$$rn-$$w.o$$rg",
+					"was$$$ku$ci$$ty.c$$om",
+					"po$$rnc$ove$$n.org",
+					"f$$feti$$$sh.v$id$eo",
+					"j$$df$orum.net",
+					"por$$nhi$$ve.o$rg",
 				]
 			}
 		];
@@ -475,7 +479,8 @@
 			
 			searches.forEach( s =>
 			{
-				const q   = '"' + keyw + '" site:' + s.sites.join( " OR site:" );
+				let   q   = '"' + keyw + '" site:' + s.sites.join( " OR site:" );
+				      q   = q.replace( /\$/g, "" );
 				const url = "https://www.google.de/search?igu=1&q=" + q;  // igu drops "X-Frame-Options: SameOrigin"
 				
 				const i = document.createElement( "IFRAME" );
