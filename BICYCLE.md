@@ -64,7 +64,6 @@ GIANT Revolt 2 XL Black-Diamond Gravelbike (Ladenkauf 2023):
 - vorausschauend schalten
 - je näher Kette hinten am Fahrrad, umso leichter ist das treten, weiter weg = schneller
 - Rennrad-Schalthebel / Dropbars
-	|-----------------------|--------------------|------------------------------|--------------------
 	| L1 (Bremse)           | L2                 | R1 (Bremse)                  | R2
 	|-----------------------|--------------------|------------------------------|--------------------
 	| schaltet vorne        | vorne              | schaltet hinten              | hinten
@@ -119,7 +118,6 @@ Hatte erste 16mm-Bügelschloss vor dem Kauf meines neuen Fahrrads,
 dann zum Faltschloss geändert, 
 da sich paar Sekunden Sicherheitsgewinn nicht lohnen:
 
-|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------
 | Bügelschloss Trelock U6 16mm Dicke                                               | Faltschloss ABUS Bordo 6000K BIG  (120cm)
 |----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------
 | Installation: in Rahmen hässlich und sperrig, behindert Trinkflasche etc         | relativ schmal im Rahmen, wird nur breiter zu den Beinen mit mehr Länge, besser als Bügel, aber schön es auch nicht und nimmt Platz für weitere Trinkflasche weg
