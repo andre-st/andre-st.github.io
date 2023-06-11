@@ -119,7 +119,7 @@
 </head>
 <body>
 	<div id="header">
-		<a href="https://github.com/andre-st/andre-st.github.io/edit/master/search.html">edit</a>
+		<a href="https://github.com/andre-st/andre-st.github.io/edit/main/search.html">edit</a>
 	</div>
 	
 	<div id="search-controls">
@@ -221,6 +221,21 @@
 					"www.bzga.de",
 					"www.ncbi.nlm.nih.gov/pubmed/"
 				]
+			},
+			{
+				"id"   : "pr0n",
+				"title": "Pr0nz",
+				"sites": // 'name "K2S"'
+				[
+					"ww$$w.for$umo$$phi$$lia.com",
+					"f$$$orum.ph$$un$$.o$rg",
+					"ww$$w.po$$rn-$$w.o$$rg",
+					"was$$$ku$ci$$ty.c$$om",
+					"po$$rnc$ove$$n.org",
+					"f$$feti$$$sh.v$id$eo",
+					"j$$df$orum.net",
+					"por$$nhi$$ve.o$rg",
+				]
 			}
 		];
 	
@@ -233,7 +248,8 @@
 			[ s( "left"   ), s( "nazi" ), s( "eso" )],
 			[ s( "tec"    ), s( "sec"  ), s( "seo" )],
 			[ s( "health" ), s( "eso"  )],
-			[ s( "books"  )]
+			[ s( "books"  )],
+			[ s( "pr0n"  )],
 		];
 	
 	
@@ -267,6 +283,7 @@
 					{ "title": "Osteuropa: Bald&Bankrupt (en)",  "url": "https://www.youtube.com/channel/UCxDZs_ltFFvn0FDHT6kmoXA/videos"   },
 					{ "title": "Gaming/Retro: Virtual Dim.",     "url": "https://www.youtube.com/@VirtualDimension/videos" },
 					{ "title": "Gaming/Retro: DOS Nostalgia",    "url": "https://www.youtube.com/user/dosnostalgic/videos" },
+					{ "title": "Gaming/Retro: Modern Vintage Gamer", "url": "https://www.youtube.com/@ModernVintageGamer/videos" },
 					{ "title": "Gaming: Digital Foundry (en)",   "url": "https://www.youtube.com/@DigitalFoundry/videos" },
 					{ "title": "Gaming: Electric Undergr. (en)", "url": "https://www.youtube.com/@TheElectricUnderground/videos" },
 					{ "title": "Gaming: Rocket Beans",           "url": "https://www.youtube.com/@RocketBeansGaming/videos" },
@@ -463,7 +480,8 @@
 			
 			searches.forEach( s =>
 			{
-				const q   = '"' + keyw + '" site:' + s.sites.join( " OR site:" );
+				let   q   = '"' + keyw + '" site:' + s.sites.join( " OR site:" );
+				      q   = q.replace( /\$/g, "" );
 				const url = "https://www.google.de/search?igu=1&q=" + q;  // igu drops "X-Frame-Options: SameOrigin"
 				
 				const i = document.createElement( "IFRAME" );
