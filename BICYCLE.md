@@ -37,7 +37,7 @@
 	- Unterlenker
 	- Oberlenker
 	- Flair
-- Bowdenzug
+- Bowdenzug (hatte immer "Bautenzug" verstanden)
 - Schaltauge: daran ist das hintere Schaltwerk angebracht/eingeschraubt; wenige Grad Abweichung schon ändern ganze Schaltgeometrie; fängt Seitenschläge auf;
 		austauschen, wenn verbogen; gerade biegen kann dazu führen, dass es bricht und ganze Schaltkäfig in die Speichen kommt und viel kaputt macht;
 		Ersatzschaltauge besorgen (kann dann z.B. auf Reisen Werkstatt einbauen)
@@ -47,9 +47,9 @@
 ## Modell
 
 GIANT Revolt 2 XL Black-Diamond Gravelbike (Ladenkauf 2023):
-- 150 kg Systemgewicht
+- 150 kg max. Systemgewicht (Fahrrad ~10 kg + Fahrer + Gepäck ~15 kg)
 - Scheibenbremsen (mechanisch, nicht hydraulisch wie Revolt 1)
-- Schaltung 2x9
+- Schaltung 2x9 (18 Gänge, 16 nur sinnvoll fahrbar wg. Kettenlinie)
 - Bremshebel, Schalthebel, Umwerfer, Schaltwerk: Shimano Sora
 - Kassette: Shimano CS-HG400, 11-34T
 - Kette: KMC X9
@@ -57,12 +57,33 @@ GIANT Revolt 2 XL Black-Diamond Gravelbike (Ladenkauf 2023):
 
 ## Schalten
 
-- hoher Gang = schneller (hinten kleinstes Ritzel), niedriger Gang = leichter (hinten größtes Ritzel)
+### Schaltnummerierung / Wording
+| Krafttreten, Geschwindigkeit        | Leichtreten für Anstiege (dafür mehr treten)
+|-------------------------------------|--------------------------------------------------
+| hoher Gang                          | niedriger Gang
+| hinten kleinstes Ritzel             | hinten größtes Ritzel
+| letzter Gang                        | erster Gang
+| hohe Übersetzung                    | niedrige Übersetzung
+| Kette weiter vom Fahrrad            | Kette näher am Fahrrad
+
+
+### Vorgehen
 - im Leerlauf schalten, nicht währenddessen treten, leichtes Antreten
 - im Stand oder langsam am Hügel: Rad anheben, hochschalten, kurbeln; nicht mit Kraft bergauf in neuen Gang treten, sonst Schaden
 - Pedale beim Schalten niemals rückwärts treten
 - vorausschauend schalten
-- je näher Kette hinten am Fahrrad, umso leichter ist das treten, weiter weg = schneller
+- ideal vorne auf kleinem Blatt fahren (und hinten mitte-groß): 
+	- höhere Trittfrequenz = weniger Belastung für Knie und Gelenke;
+	- Radler trainieren für Ausdauer nicht Kraft, Kraftreten (hohe Übersetzung) eher sinnlos
+- nicht über Kreuz schalten:
+	- schlecht: kleines Zahnrad hinten und kleines Zahnrad vorne = klein-klein vermeiden (Kreuz)
+	- schlecht: großes Zahnrad vorne und großes Zahnrad hinten   = groß-groß vermeiden (Kreuz)
+	- gut: klein-mitte hinten und großes vorne
+	- gut: mitte       hinten und groß oder klein vorne
+	- gut: mitte-groß  hinten und klein vorne
+
+
+### Schalthebel
 - Rennrad-Schalthebel / Dropbars
 	| L1 (Bremse)           | L2                 | R1 (Bremse)                  | R2
 	|-----------------------|--------------------|------------------------------|--------------------
@@ -70,16 +91,7 @@ GIANT Revolt 2 XL Black-Diamond Gravelbike (Ladenkauf 2023):
 	| größeres Zahnrad      | kleineres Zahnrad  | größeres Zahnrad (leichter)  | kleineres (schneller)
 	| dient Kettenflucht?   | "                  | dient Geschwindigkeit        | "
 	
-- schlecht (über Kreuz schalten):
-	- kleines Zahnrad hinten und kleines Zahnrad vorne
-	- großes Zahnrad vorne und großes Zahnrad hinten
-- gut:
-	- klein-mitte hinten und großes vorne
-	- mitte       hinten und groß oder klein vorne
-	- mitte-groß  hinten und klein vorne
 - Kettenschaltung: Shimano Sora
-- ideal vorne auf kleinem Blatt fahren (und hinten mitte-groß): höhere Trittfrequenz = weniger Belastung für Knie und Gelenke
-
 
 
 ### Schaltung einstellen
@@ -87,7 +99,6 @@ GIANT Revolt 2 XL Black-Diamond Gravelbike (Ladenkauf 2023):
 - Test: in kleinstes Ritzel und dann Gang für Gang nach oben und wieder zurück
 - Zugspannung hinten: Rädchen an dem Zeugs hinten in die Richtung drehen, in die es besser schalten soll (rechts -> kleine Ritzel)
 - Zugspannung Umwerfer: Rädchen vorne am Lenker
-
 - Umwerfer: Anschlag
 	- H-Schraube (Highspeed):  R| #|  (# Kette, | Leitblech, Z Rahmen)
 			1. vorne großes Kettenblatt, hinten kleinstes Ritzel
@@ -135,11 +146,12 @@ da sich paar Sekunden Sicherheitsgewinn nicht lohnen:
 
 
 Spontane Wegfahrsperre ohne richtiges Schloss:
-- Kette vom vorderen Zahnrad nehmen
+- Kette vom vorderen Zahnrad nehmen (geht das mit modernem Umwerfer überhaupt?)
 - sehr hohen oder sehr niedrigen Gang einlegen
 - Radhelm um Reifen/Rahmen klicken
 - Hiplock
 - Klettbänder
+- kann man irgendwie Bremsen schnell de- und reaktivieren? wenn Dieb schnell losradelt, dann knallt es vllt
 
 
 - "schmier ich aushärtende Dichtmasse in die Inbusaufnahme, Hoffnung:da muss man ne zeitlang puhlen....",
@@ -187,9 +199,25 @@ Spontane Wegfahrsperre ohne richtiges Schloss:
 - Minitool
 - Luftpumpe:
 	- Teleskop-Pumpe für mehr Power
+	- Standpumpe mit Manometer (SKS Rennradkompressor)
+- Bürsten, 2x Schwämme (Antrieb und Rahmen, sonst schmiert mal Kettenöl auf Rahmen),
+	2x Wassereimer (Dreck und sauber zum Endabspuelen)
+- Drehmomentschlüssel
+- gutes Set Inbus-Schlüssel
+- ...
 
 
 ## Wartung
+
+### Wäsche
+
+"Ich benutze nie aber niemals Kettenreiniger es haut die ganze schmierung zwischen den Glieder raus. Kette reinigt man mit der Zahnbürste und etliche saubere Lappen. Kassette wird abgezogen und So gereinigt. Dann Fahrrad mit schlauch komplett nass machen. Bike cleaner ordentlich drauf sprühen fertig abspülen fertig. Trocknen Rahmen polieren mit entsprechenden Mitteln. Freilauf fetten zusammen bauen. Kette neu schmieren paar mal auf und ab schalten. Kette durch ein sauberes Tuch nochmal ziehen und fertig.
+So und wenn du mit Kettenreiniger die schmierung zwischen den Glieder raus waschen tust wirst du die schmierung zwischen den Glieder nicht mehr hinbekommen und deine Kette Verschleißt schneller. Zur Info bin Zweirad Mechaniker und im Amateur Bereich ein erfolgreicher Fahrer weiß auf was es ankommt."
+
+### Kette schmieren
+
+
+
 
 
 ## Bikepacking
