@@ -110,12 +110,13 @@ I usually:
 | &starf;&starf;&starf;&star;&star;    | "                            | "       | 30g   | 29               | yes    | water       100g,     92&deg;C  |                                | stir 20x firmly   |                            | brew 40s closed, no excess air     | dilute 120g,   92&deg;C  | Wendelien van Bunnik recipe, lite unpleasant acids
 | &starf;&starf;&starf;&star;&star;    | "                            | "       | 18g   | 25               | no     | water        40g,     85&deg;C  | bloom 40s                      |                   |                            | add ~210g water press until hiss   |                          | WAC 2012 winner recipe, not sure if sweetness or numb sharpness in background
 | &starf;&starf;&starf;&#x2bea;&star;  | Springer Fincas Mierisch El Limoncillo Nicaragua |mid|30g| 29     | yes    | water        100g,    92&deg;C  |                                | stir 20x firmly   |                            | brew 40s closed, no excess air     | dilute 120g,   92&deg;C  | Wendelien van Bunnik recipe
+| &starf;&starf;&starf;&#x2bea;&star;  | "                            | "       | 13g   | 29 (mid-coarse)  | no     | water        200g,    85&deg;C  |                                |                   | brew 120s closed (plunger) | swirl gently (not stir)            | wait 30s, dump mug leftovers, press  | lil thin but many flavor notes, nice taste
 | &starf;&starf;&starf;&star;&star;    | "                            | "       | 20g   | 13               | no     | water        to #1.5, 92&deg;C  | brew 20s                       | stir 10s firmly   | press firmly               |                                    | dilute to 1/2, 92&deg;C  | 
 | &starf;&starf;&starf;&star;&star;    | "                            | "       | 18g   | 20 (mid-fine)    | yes    | water 10s    140g,    88&deg;C  | stir 5x front to back          |                   | brew closed, no excess air | at 1:25 flip, swirl 1x, press 1:30 | dilute 80 g,  75&deg;C   | ok, has more acids; 2021 World AeroPress Championship 3rd Place recipe (for light roast)
 
 
 Recipes:
-- Wendelien van Bunnik recipe probably extracts most authentic notes of every bean tested here: https://www.youtube.com/watch?v=53qXj3uft_E 
+- Wendelien van Bunnik recipe probably extracts most authentic notes of every bean tested here, but expensive cup (30g): https://www.youtube.com/watch?v=53qXj3uft_E 
 - FlatberryMarket Mario: https://www.youtube.com/watch?v=R-BlXC3WhpM 
 
 Apps:

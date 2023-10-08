@@ -12,6 +12,9 @@
 - [Werkzeug](#werkzeug)
 - [Wartung](#wartung)
 - [Bikepacking](#bikepacking)
+- [Tourplanung](#tourplanung)
+- [Herbst/Winter](#herbst-winter)
+- [Reifen](#reifen)
 
 
 ## Begriffe
@@ -72,6 +75,7 @@ GIANT Revolt 2 XL Black-Diamond Gravelbike (Ladenkauf 2023):
 - im Stand oder langsam am Hügel: Rad anheben, hochschalten, kurbeln; nicht mit Kraft bergauf in neuen Gang treten, sonst Schaden
 - Pedale beim Schalten niemals rückwärts treten
 - vorausschauend schalten
+	- vorm Anhalten in leichteren Gang schalten, damit Antreten leichter und weniger belastend fürs Material
 - ideal vorne auf kleinem Blatt fahren (und hinten mitte-groß): 
 	- höhere Trittfrequenz = weniger Belastung für Knie und Gelenke;
 	- Radler trainieren für Ausdauer nicht Kraft, Kraftreten (hohe Übersetzung) eher sinnlos
@@ -119,7 +123,7 @@ GIANT Revolt 2 XL Black-Diamond Gravelbike (Ladenkauf 2023):
 
 ## Bremsen
 
-- immer mit beiden gleichzeitig
+- immer mit beiden gleichzeitig, nie nur vorne
 
 
 
@@ -193,6 +197,8 @@ Spontane Wegfahrsperre ohne richtiges Schloss:
 - Hose: GORE WEAR C3 Kurzhose
 	- Polsterung
 	- Trägerhose rollt nicht vom Bauch
+- Herbst/Winter:
+	- ...
 
 
 ## Werkzeug
@@ -203,8 +209,11 @@ Spontane Wegfahrsperre ohne richtiges Schloss:
 - Bürsten, 2x Schwämme (Antrieb und Rahmen, sonst schmiert mal Kettenöl auf Rahmen),
 	2x Wassereimer (Dreck und sauber zum Endabspuelen)
 - Drehmomentschlüssel
+	- bis 15 Nm reicht Auslösung für nur Rechtsgewinde (Ratsche links egal); Proxxon ist gut und Preis noch ok;
+	- 15-60 Nm braucht es beim Fahrrad unbedingt Auslösung für Rechts- und Linksgewinde (Pedale, ...), sonst Fehlkauf
 - gutes Set Inbus-Schlüssel
 - ...
+
 
 
 ## Wartung
@@ -216,19 +225,56 @@ So und wenn du mit Kettenreiniger die schmierung zwischen den Glieder raus wasch
 
 ### Kette schmieren
 
+- ideal biologisch abbaubares Öl
+- ideal leicht auswaschbares Öl, da man sich 100% damit immer mal wieder irgendwo einsaut (bei normalen Hosen: Hose unten nah ans Bein abbinden)
+- manche nutzen Wachs statt Öl, erfordert aber Komplettreinigung
 
+
+### Inspektionen
+
+- nach 200 km sollte man bei Neurädern den Erst-Service machen
+	- neue Bowden-Züge längen sich 
+	- Speichen müssen nachgespannt werden
+	- tats. hatte ich nach 500 km Klimpergeräusche im Hinterrad, der Klang, wenn man Speichen an den Speichenkreuzpunkten zusammendrückt.;
+		Werkstatt meines Händlers hat 2x nachgespannt und danach war wieder alles ok. War auch erst nach 500 km dort.
+- falls kein Serviceheft, Inspektionen im Handbuch eintragen lassen, sieht gut aus bei
+	- Gewährleistung
+	- Weiterverkauf
 
 
 
 ## Bikepacking
-- 
+
 - Gabeltaschen
 - Rahmentasche, Vollrahmentasche
 - Arschrakete (Satteltasche): Zefal Z Adventure R17
 	- wasserdicht
 	- von unten nach oben rollen
 
-
 - Stirnlampe
 
 
+## Tourplanung
+
+
+## Herbst/Winter
+
+- Schutzbleche, gibt welche die kann man schraublos verbauen, z.B. bei Rädern ohne Anbaupunkte
+- "Salzwasser tödlich"
+- siehe [Kleidung](#kleidung)
+
+
+## Reifen
+
+- Karkasse
+	- TPI = Threads per inch, Fäden pro Zoll, Dichte des Gewebes (auch: EPI, ends per inch);
+		Je höher der Wert, desto besser soll der Reifen walken können
+- Laufleistung
+- Rollwiderstand
+- Geräuschentwicklung
+- Nasshaftung
+- Pannenschutz
+- Gummimischung
+	- Shore­Härte (z.B. 60a), je höher, desto weicher das Gummi
+- Drahtwulst vs. Faltwulst
+- wann wechseln?
