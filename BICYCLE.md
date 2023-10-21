@@ -44,7 +44,12 @@
 - Schaltauge: daran ist das hintere Schaltwerk angebracht/eingeschraubt; wenige Grad Abweichung schon ändern ganze Schaltgeometrie; fängt Seitenschläge auf;
 		austauschen, wenn verbogen; gerade biegen kann dazu führen, dass es bricht und ganze Schaltkäfig in die Speichen kommt und viel kaputt macht;
 		Ersatzschaltauge besorgen (kann dann z.B. auf Reisen Werkstatt einbauen)
-	
+- Fahrradtypen:
+	Rennrad, Endurance-Rennrad, Gravelbike, Enduro-MTB, Hardtail-MTB, Fully (Full Suspension MTB), 
+	Adventure-Bike, Cyclocrosser (CX), Trekking-Bike
+- Kadenz
+- 
+
 
 
 ## Modell
@@ -58,10 +63,11 @@ GIANT Revolt 2 XL Black-Diamond Gravelbike (Ladenkauf 2023):
 - Kette: KMC X9
 
 
+
 ## Schalten
 
 ### Schaltnummerierung / Wording
-| Krafttreten, Geschwindigkeit        | Leichtreten für Anstiege (dafür mehr treten)
+| Krafttreten, Geschwindigkeit        | Leichttreten für Anstiege (dafür mehr treten)
 |-------------------------------------|--------------------------------------------------
 | hoher Gang                          | niedriger Gang
 | hinten kleinstes Ritzel             | hinten größtes Ritzel
@@ -96,34 +102,15 @@ GIANT Revolt 2 XL Black-Diamond Gravelbike (Ladenkauf 2023):
 	| dient Kettenflucht?   | "                  | dient Geschwindigkeit        | "
 	
 - Kettenschaltung: Shimano Sora
+- s.a. Wartung: Schaltung einstellen
 
-
-### Schaltung einstellen
-- kleinster Gang = geringste Zugspannung
-- Test: in kleinstes Ritzel und dann Gang für Gang nach oben und wieder zurück
-- Zugspannung hinten: Rädchen an dem Zeugs hinten in die Richtung drehen, in die es besser schalten soll (rechts -> kleine Ritzel)
-- Zugspannung Umwerfer: Rädchen vorne am Lenker
-- Umwerfer: Anschlag
-	- H-Schraube (Highspeed):  R| #|  (# Kette, | Leitblech, Z Rahmen)
-			1. vorne großes Kettenblatt, hinten kleinstes Ritzel
-			2. drehen, bis sichtbar an die Kette drückt
-			3. dann viertel zurückdrehen, damit 1mm Abstand sichtbar wird zw. Blech und Kette
-	- L-Schrauber:  R|# |
-			1. vorne kleinstes Blatt, hinten größtes Ritzel
-			2. 
-	- nur relevant, wenn oberste oder untereste Zahnrad nicht richtig wechselt; alles dazwischen unbetroffen von den Einstellungen:w
-	- Umwerferkäfig und die Kettenblätter sollten zueinander parallel stehen
-
-- Umwerfer: Höhe
-	- vorher: kleinste Gang
-
-- Start: kleinstes Blatt vorne, größtes Ritzel hinten
 
 
 
 ## Bremsen
 
 - immer mit beiden gleichzeitig, nie nur vorne
+- s.a. Wartung: Bremsen einstellen
 
 
 
@@ -162,43 +149,95 @@ Spontane Wegfahrsperre ohne richtiges Schloss:
 	"So ähnlich mach ich das auch. Ich nehme aber 2-Komponenten Kleber, schmiere damit den Sechskant zu"
 - "Laubwäldchen, haben das Rad flachgelegt und mit abgerissenen Zweigen getarnt"
 
+- aktuell fahr ich nur mit dem Hiplock herum, keine Lust/Sinn 2-kg-Schloss herumzufahren; 
+	hatte das Rad bisher auch immer Auge/Armweite (Cafeterasse)
+
 
 
 ## Straßenzulassung StVoZ
 - 4 Reflektoren in den Pedalen (Deutschland Pflicht)
-- 4 Reflektoren in den Speichen
+- 4 Reflektoren in den Speichen 
 - 1 aktive Vorderlampe
 - 1 aktives Rücklicht
 - 1 passiver Rückstrahler
+
+Mit Reflektoren verliert man Street-Cred. beim Sportrad.
 
 
 
 ## Kleidung
 - Helm:
+	- sollte einfarbig weiss oder schwarz sein, damit man ihn mit allen Kleidern kombinieren kann; sonst beißen sich evtl. Farben
+	- Unterscheidungen:
 	|-------------------------------------------------------|------------------------------------------|-------------------
 	| Rennradhelm (Giro Synthe 2 MIPS)                      | Stadthelm                                | ...
 	|-------------------------------------------------------|------------------------------------------|-------------------
 	| starke belüftet                                       | weniger belüftet für mehr Crash-Masse    |
-	| MIPS (mglw. nur Marketing Gimmick                     |                                          |
+	| MIPS (mglw. nur Marketing Gimmick)                    |                                          |
 	| Klickstecker getauscht gegen Fidlock                  |                                          |
 	| "GIRO"-Schriftzugaufkleber entfernt                   |                                          |
 
-- Sportbrille: Uvex Unisex Sportstyle 227 
+- Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
+	|--------|------------------------|-----------------------|-------------------------|----------------------------
+	|        | 0-7&deg;C              | 7-12&deg;C            | 12-18&deg;C             | 18-30&deg;C
+	|--------|------------------------|-----------------------|-------------------------|----------------------------
+	| Kopf   | Helm                   | Helm                  | Helm                    | Helm
+	| "      | Unterhelmmütze         | Buff (Ohren)          | -                       | -
+	| "      | Klarsichtbrille        | Klarsichtbrille       | Sonnenbrille            | Sonnenbrille
+	| "      | Buff (Hals/Nase)       | -                     | -                       | -
+	| Torso  | Thermo-Softshelljacke  | Thermo-Softshelljacke | Kurzarmtrikot           | Kurzarmtrikot
+	| "      | Langarm-Merinohemd     | ?????????             | Windweste               | Sonnencreme [oder UV-Armlinge]
+	| "      | -                      | -                     | Armlinge (dünn wirklos) | - 
+	| "      | -                      | -                     | Windstopper-Unterhemd   | -
+	| "      | -                      | -                     | Langarmtrikot           | -
+	| Hände  | Langfingerhandschuhe   | Langfingerhandschuhe  | Kurzfingerhandschuhe    | Kurzfingerhandschuhe
+	| Beine  | Bibshorts              | Bibshorts             | Bibshorts               | Bibshorts
+	| "      | Winterbeinlinge        | Übergangsbeinlinge    | -                       | -
+	| "      | kurze Wind-Überhose    | -                     | -                       | -
+	| Füße   | Sommer-Radschuhe SPD   | Sommer-Radschuhe SPD  | Sommer-Radschuhe SPD    | Sommer-Radschuhe SPD
+	| "      | Neopren-Überschuhe     | -                     | -                       | -
+	| "      | normaldicke Socken     | normaldicke Socken    | normaldicke Socken      | dünnere Mesh-Socken
+	| "      | winddichte Socken      | -                     | -                       | -
+	| Regen  | ?????                  | ?????                 | ?????                   | - (aushalten) 
+
+- Sportbrille:
 	- bruchsicher
 	- großer Sichtbereich
 	- gegen Zugluft, Insekten, Split, ...
-	- Sonnenschutz
+	- Sonnenschutz (UV)
 	- Bügel passen in Radhelme
+	- wird ueber Helmriemen getragen, damit kein Gefriemel im Ungluecksfall
 	- ...
-- Handschuhe: Castelli Men's Entrata V Glove
+	- Klarsicht fuer Abend/Herbst/Winter, oder photochromatisch
+	- Uvex Unisex Sportstyle 227: Design evtl. zu rund, Saeubern/Antibeschlag nervt
+	- Alpina RAM Q-Lite: korrektes eckiges Rennradfahrer-Design, abends aber zu dunkel, sonst zufrieden
+- Handschuhe:
+	- schuetzt Haende beim Hinfallen, Weiterfahren sonst schmerzhaft
+	- Lenkerband verschmutzt weniger schnell
+	- Wind-/Kaelteschutz
 	- Polsterung
+	- Kurzfinger: Castelli Men's Entrata V Glove
+	- Langfinger: Gripgrab Herbst (schwarz)
 - Trikot: VAUDE Radtrikot Tamaro III türkis
-	- leicht, atmungsaktiv, sexy
+	- leicht, atmungsaktiv, unguenstig mit Armlingen, da Aermel nicht anliegen und Kaelte einwehen kann
 - Hose: GORE WEAR C3 Kurzhose
 	- Polsterung
 	- Trägerhose rollt nicht vom Bauch
+- Schuhe:
+	- für Klickpedale (clipless): Shimano Deore XT PD-T8000 (Kombipedal: eine Seite SPD, andere Seite Plattform mit Stiften)
+	- mit SM-SH56-Cleats (erlaubt schräge Panikausstiege, taugt trotzdem sehr gut zum Pedalziehen)
+	- Boa-Verschlussmechanismus evtl. besser als Schnürren; 
+		meine Schnürren verhedderten sich schon mal im Kettenblatt, nicht so witzig; 
+		seither knote ich immer an den Rad-abgewandten Seiten statt auf der Schuhmitte
 - Herbst/Winter:
-	- ...
+	- Langaermel-Trikot orange (wobei dann eh meist Windweste oder Jacke drueber ist, highvis-Trikot eher sekundaer; hatte nur 1 oder 2x Windstopperhemd drunter, Tage schnell kaelter geworden)
+	- Thermojacke
+	- im Spaetsommer mal einfache Regenjacke angehabt 
+		und darunter dann durch Schweiss so nass gewesen 
+		als haette ich mich gleich vollregnen lassen koennen
+- HighVis (v.a. Herbst-Winter, nachts):
+	- man sieht aus wie ein Idiot, statt Neongelb lieber nicht ganz so grelle Organgetoene
+	- Autofahrer finden es gut, als Radfahrer sieht man solche auch in Entfernung gut
 
 
 ## Werkzeug
@@ -212,23 +251,12 @@ Spontane Wegfahrsperre ohne richtiges Schloss:
 	- bis 15 Nm reicht Auslösung für nur Rechtsgewinde (Ratsche links egal); Proxxon ist gut und Preis noch ok;
 	- 15-60 Nm braucht es beim Fahrrad unbedingt Auslösung für Rechts- und Linksgewinde (Pedale, ...), sonst Fehlkauf
 - gutes Set Inbus-Schlüssel
+- Kettenmesslehre
 - ...
 
 
 
 ## Wartung
-
-### Wäsche
-
-"Ich benutze nie aber niemals Kettenreiniger es haut die ganze schmierung zwischen den Glieder raus. Kette reinigt man mit der Zahnbürste und etliche saubere Lappen. Kassette wird abgezogen und So gereinigt. Dann Fahrrad mit schlauch komplett nass machen. Bike cleaner ordentlich drauf sprühen fertig abspülen fertig. Trocknen Rahmen polieren mit entsprechenden Mitteln. Freilauf fetten zusammen bauen. Kette neu schmieren paar mal auf und ab schalten. Kette durch ein sauberes Tuch nochmal ziehen und fertig.
-So und wenn du mit Kettenreiniger die schmierung zwischen den Glieder raus waschen tust wirst du die schmierung zwischen den Glieder nicht mehr hinbekommen und deine Kette Verschleißt schneller. Zur Info bin Zweirad Mechaniker und im Amateur Bereich ein erfolgreicher Fahrer weiß auf was es ankommt."
-
-### Kette schmieren
-
-- ideal biologisch abbaubares Öl
-- ideal leicht auswaschbares Öl, da man sich 100% damit immer mal wieder irgendwo einsaut (bei normalen Hosen: Hose unten nah ans Bein abbinden)
-- manche nutzen Wachs statt Öl, erfordert aber Komplettreinigung
-
 
 ### Inspektionen
 
@@ -242,19 +270,123 @@ So und wenn du mit Kettenreiniger die schmierung zwischen den Glieder raus wasch
 	- Weiterverkauf
 
 
+### Verschleissteile (bevorraten)
+
+- Kette
+- Kasette
+- Schaltungsrädchen
+- Kettenblaetter
+- Bremsbelaege
+- Lenkerband
+- Reifen (Profil)
+
+
+### Wäsche
+
+"Ich benutze nie aber niemals Kettenreiniger es haut die ganze schmierung zwischen den Glieder raus. Kette reinigt man mit der Zahnbürste und etliche saubere Lappen. Kassette wird abgezogen und So gereinigt. Dann Fahrrad mit schlauch komplett nass machen. Bike cleaner ordentlich drauf sprühen fertig abspülen fertig. Trocknen Rahmen polieren mit entsprechenden Mitteln. Freilauf fetten zusammen bauen. Kette neu schmieren paar mal auf und ab schalten. Kette durch ein sauberes Tuch nochmal ziehen und fertig.
+So und wenn du mit Kettenreiniger die schmierung zwischen den Glieder raus waschen tust wirst du die schmierung zwischen den Glieder nicht mehr hinbekommen und deine Kette Verschleißt schneller. Zur Info bin Zweirad Mechaniker und im Amateur Bereich ein erfolgreicher Fahrer weiß auf was es ankommt."
+
+
+### Schaltung einstellen
+- kleinster Gang = geringste Zugspannung
+- Test: in kleinstes Ritzel und dann Gang für Gang nach oben und wieder zurück
+- Zugspannung hinten: Rädchen an dem Zeugs hinten in die Richtung drehen, in die es besser schalten soll (rechts -> kleine Ritzel)
+- Zugspannung Umwerfer: Rädchen vorne am Lenker
+- Umwerfer: Anschlag
+	- H-Schraube (Highspeed):  R| #|  (# Kette, | Leitblech, Z Rahmen)
+			1. vorne großes Kettenblatt, hinten kleinstes Ritzel
+			2. drehen, bis sichtbar an die Kette drückt
+			3. dann viertel zurückdrehen, damit 1mm Abstand sichtbar wird zw. Blech und Kette
+	- L-Schrauber:  R|# |
+			1. vorne kleinstes Blatt, hinten größtes Ritzel
+			2. 
+	- nur relevant, wenn oberste oder untereste Zahnrad nicht richtig wechselt; alles dazwischen unbetroffen von den Einstellungen:w
+	- Umwerferkäfig und die Kettenblätter sollten zueinander parallel stehen
+
+- Umwerfer: Höhe
+	- vorher: kleinste Gang
+
+- Start: kleinstes Blatt vorne, größtes Ritzel hinten
+
+
+### Bremsen einstellen
+
+
+
+### Kette schmieren
+
+- ideal biologisch abbaubares Öl
+- ideal leicht auswaschbares Öl, da man sich 100% damit immer mal wieder irgendwo einsaut (bei normalen Hosen: Hose unten nah ans Bein abbinden)
+- manche nutzen Wachs statt Öl, erfordert aber Komplettreinigung
+- am Ende immer nochmal abwischen: 
+	Ol muss nur in die Glieder, nicht auf der Kette bzw. an den Kettenseiten; 
+	dort zieht es nur Dreck an und verschleisst den Antrieb mehr statt weniger
+
+
+
 
 ## Bikepacking
 
+- Bikepacking vs. Radreise/Biketouring
+- Hauptproblem: Packmass und Gewicht
 - Gabeltaschen
-- Rahmentasche, Vollrahmentasche
-- Arschrakete (Satteltasche): Zefal Z Adventure R17
-	- wasserdicht
-	- von unten nach oben rollen
+- Rahmentasche (Halb- oder Vollrahmentasche)
+	- Giant Halbrahmentasche H2Pro, gefaellt mir bisher
+- Arschrakete (Satteltasche): 
+	- Zefal Z Adventure R17: kein separater Packsack, aber trotzdem ok, wasserdicht, wackelt wenig
+- Oberrohrtasche
+	- Giant H2Pro, wackelt (Anschraubpunkte aufm Rohr aber nicht bei der Tasche) und enger Reisverschluss statt bequemere Klappe mit Magnetverschluss wie bei Apidura
+- Lenkertasche
+	- Giant H2Pro 12 Liter
+- Lebensmittel
+	- Kohlenhydrate (beim Strampeln verbrannt)
+	- Elektrolyte (ausgeschwitzt)
+- Wasser: 
+	- Adventure Hydration 3-Liter-Cranktank (SPoF!) = 4x 750ml-Flaschen
+- Schlafsystem Fruehling-Sommer-Herbst:
+	- Hauptprobleme: Hitze/Kaelte, wasserdicht/atmungsaktiv, Viehzeug, Lage (Wildcamping/Campingplatz/Fewo/Hotel)
+	- Isomatte: 
+		- Thermarest Neoair Xlite (sehr gut)
+	- Schlafsack:
+		- 
+	- Shelter (untested):
+		- Robens Mountain Biwak (mit kleinem Insektennetz-Fenster aber ohne Hoop)
+		- Wechsel Pathfinder TL Zelt
+	- Liner, damit weniger Waesche=mehr Haltbarkeit
+	- Unterlage, damit nichts durchsticht
+		- BW Elefantenhaut
+		- genau unter Zelt legen, damit nichts auf den Ueberstand regnet und unters Zelt laeuft
+- Sonstiges:
+	- Stirnlampe (abends/nachts Shelter-Suche und -Aufbau, Backup-Rad-Frontlampe)
+	- Schutzfolie gegen Riemen der Taschen
 
-- Stirnlampe
 
 
 ## Tourplanung
+
+- Planung am PC:
+	- Komoot
+	- ungetestet: Ride with GPS (RwGPS)
+	- Mehrtagestour evtl. in mehrere Tages-Touren aufteilen (Ziel=Schlafplatz?)
+
+- Navigation: 
+	- primaer: Wahoo Elemnt Bolt V2
+		- separat zum Handy: bessere/separate Akkuzeit, wasserdicht, kleiner etc
+		- POI-Funktionalitaet eher schlecht
+			- Herzchen ueber die App: https://www.reddit.com/r/wahoofitness/comments/vi12mx/just_found_how_to_add_pois_on_my_elmnt_shaped_is/
+			- mit Powerbutton: "Save my location"
+			- gibt Hacks im Internet mit ADB (Bolt ist ein Android-Geraet) und selbstgenerierten Karten und POI-Symbolen (Tanken, Baecker, ..., Wasserstellen)
+				- https://www.heise.de/select/ct/2022/26/2230710050673252243
+				- https://github.com/yokuha/Wahoo-maps
+			- manche veraendern die Abbiegehinweise (CUEs) in den GPX-Tracks(?) mit Hinweis auf POI (Rechts gehts zum Baecker)
+	
+	- sekundaer: Smartphone
+		- Komoot
+		- OsmAndMaps (Offline-Karte mit vielen POIs)
+			- Komoot-GPX-Track in OsmAndMaps laden
+		- Google Maps
+		- ungetestet: Orux Maps, MagicEarth, PocketEarth
+
 
 
 ## Herbst/Winter
@@ -262,6 +394,7 @@ So und wenn du mit Kettenreiniger die schmierung zwischen den Glieder raus wasch
 - Schutzbleche, gibt welche die kann man schraublos verbauen, z.B. bei Rädern ohne Anbaupunkte
 - "Salzwasser tödlich"
 - siehe [Kleidung](#kleidung)
+
 
 
 ## Reifen
@@ -278,3 +411,5 @@ So und wenn du mit Kettenreiniger die schmierung zwischen den Glieder raus wasch
 	- Shore­Härte (z.B. 60a), je höher, desto weicher das Gummi
 - Drahtwulst vs. Faltwulst
 - wann wechseln?
+
+
