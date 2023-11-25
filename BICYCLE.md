@@ -54,7 +54,7 @@
 
 ## Modell
 
-GIANT Revolt 2 XL Black-Diamond Gravelbike (Ladenkauf 2023):
+GIANT Revolt 2 (2022) XL Black-Diamond Gravelbike (Ladenkauf 2023):
 - 150 kg max. Systemgewicht (Fahrrad ~10 kg + Fahrer + Gepäck ~15 kg)
 - Scheibenbremsen (mechanisch, nicht hydraulisch wie Revolt 1)
 - Schaltung 2x9 (18 Gänge, 16 nur sinnvoll fahrbar wg. Kettenlinie)
@@ -274,9 +274,12 @@ Mit Reflektoren verliert man Street-Cred. beim Sportrad.
 
 - Kette
 - Kasette
+- Bremsbelaege
+- Bremsscheibe 
+	- Breite min 1,5 mm, oder Min-Wert steht drauf, oder Kaufbreite-(Kaufbreite\*0,35), 
+	  Messung nicht ueber die Raender (bleiben dick) sondern quer auf die Bremsflaeche
 - Schaltungsrädchen
 - Kettenblaetter
-- Bremsbelaege
 - Lenkerband
 - Reifen (Profil)
 
