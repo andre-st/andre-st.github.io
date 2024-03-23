@@ -528,16 +528,18 @@ Gutes Setup auf YT:
 
 ### Kleine Materialkunde:
 
-|------------------------------------|------------|--------------|----------|------------
-| Material                           | Gesundheit | Waermeleitf. | Gewicht  | Kommentar
-|------------------------------------|------------|--------------|----------|------------
-| Aluminium                          | schlecht   | sehr gut     | ok       | Ablösung bei Abrieb und Säuren (Tomaten etc), Ablagerung im Koerper, komme durch Bluthirnschranke
-| eloxiertes/anodisiertes Aluminium  | ok         | sehr gut     | ok       | festere Schicht gegen Abrieb und Säuren
-| hart-eloxiertes/anod. Aluminium    | gut        | sehr gut     | ok       | noch festere Schicht
-| Edelstahl                          | sehr gut   | schlecht     | schlecht | evtl. minderwertiger Alu-Topf schwerer als hochwert. duenner Edelstahl
-| Duossal                            | sehr gut   | gut          | ok       | Duo-StainlessSteel-ALuminium: SS innen, Alu aussen
-| Titan                              | gut        | schlecht     | sehr gut | 
-| Keramik                            | ?          | ?            | ?        | 
+Extrazeile wegen MD-Parser-Bug:
+
+|------------------------------------|------------|--------------|----------|----------|---------------------
+| Material                           | Gesundheit | Waermeleitf. | Gewicht  | Preis    | Kommentar
+|------------------------------------|------------|--------------|----------|----------|---------------------
+| Aluminium                          | schlecht   | sehr gut     | ok       | sehr gut | Ablösung bei Abrieb und Säuren (Tomaten etc), Ablagerung im Koerper, komme durch Bluthirnschranke
+| eloxiertes/anodisiertes Aluminium  | ok         | sehr gut     | ok       | sehr gut | festere Schicht gegen Abrieb und Säuren
+| hart-eloxiertes/anod. Aluminium    | gut        | sehr gut     | ok       | gut      | noch festere Schicht
+| Edelstahl                          | sehr gut   | schlecht     | schlecht | sehr gut | evtl. minderwertiger Alu-Topf schwerer als hochwert. duenner Edelstahl
+| Duossal                            | sehr gut   | gut          | ok       | gut      | Duo-StainlessSteel-ALuminium: SS innen, Alu aussen
+| Titan                              | gut        | schlecht     | sehr gut | schlecht | 
+| Keramik                            | ?          | ?            | ?        | ?        | 
 
 
 ### Mein Kochset aktuell:
