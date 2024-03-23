@@ -75,7 +75,6 @@ GIANT Revolt 2 (2022) XL Black-Diamond Gravelbike (Ladenkauf 2023):
 
 ### Schaltnummerierung / Wording
 
-|-------------------------------------|--------------------------------------------------
 | Krafttreten, Geschwindigkeit        | Leichttreten für Anstiege (dafür mehr treten)
 |-------------------------------------|--------------------------------------------------
 | hoher Gang                          | niedriger Gang
@@ -103,14 +102,16 @@ GIANT Revolt 2 (2022) XL Black-Diamond Gravelbike (Ladenkauf 2023):
 
 
 ### Schalthebel
-- Rennrad-Schalthebel / Dropbars
-	|-----------------------|--------------------|------------------------------|--------------------
-	| L1 (Bremse)           | L2                 | R1 (Bremse)                  | R2
-	|-----------------------|--------------------|------------------------------|--------------------
-	| schaltet vorne        | vorne              | schaltet hinten              | hinten
-	| größeres Zahnrad      | kleineres Zahnrad  | größeres Zahnrad (leichter)  | kleineres (schneller)
-	| dient Kettenflucht?   | "                  | dient Geschwindigkeit        | "
-	
+
+Rennrad-Schalthebel / Dropbars:
+
+| L1 (Bremse)           | L2                 | R1 (Bremse)                  | R2
+|-----------------------|--------------------|------------------------------|--------------------
+| schaltet vorne        | vorne              | schaltet hinten              | hinten
+| größeres Zahnrad      | kleineres Zahnrad  | größeres Zahnrad (leichter)  | kleineres (schneller)
+| dient Kettenflucht?   | "                  | dient Geschwindigkeit        | "
+
+
 - Kettenschaltung: Shimano Sora
 - s.a. Wartung: Schaltung einstellen
 
@@ -129,7 +130,6 @@ Hatte erste 16mm-Bügelschloss vor dem Kauf meines neuen Fahrrads,
 dann zum Faltschloss geändert, 
 da sich paar Sekunden Sicherheitsgewinn nicht lohnen:
 
-|----------------------------------------------------------------------------------|---------------------------------------------------
 | Bügelschloss Trelock U6 16mm Dicke                                               | Faltschloss ABUS Bordo 6000K BIG  (120cm)
 |----------------------------------------------------------------------------------|---------------------------------------------------
 | Installation: in Rahmen hässlich und sperrig, behindert Trinkflasche etc         | relativ schmal im Rahmen, wird nur breiter zu den Beinen mit mehr Länge, besser als Bügel, aber schön es auch nicht und nimmt Platz für weitere Trinkflasche weg
@@ -194,40 +194,43 @@ Nicht-StVoZ-Alternativen:
 
 
 ## Kleidung
-- Helm:
+
+Helm:
 	- sollte einfarbig weiss oder schwarz sein, damit man ihn mit allen Kleidern kombinieren kann; sonst beißen sich evtl. Farben
 	- Unterscheidungen:
-	|-------------------------------------------------------|------------------------------------------|-------------------
-	| Rennradhelm (Giro Synthe 2 MIPS)                      | Stadthelm                                | ...
-	|-------------------------------------------------------|------------------------------------------|-------------------
-	| starke belüftet                                       | weniger belüftet für mehr Crash-Masse    |
-	| MIPS (mglw. nur Marketing Gimmick)                    |                                          |
-	| Klickstecker getauscht gegen Fidlock                  |                                          |
-	| "GIRO"-Schriftzugaufkleber entfernt                   |                                          |
 
-- Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
-	|--------|--------------------------|-----------------------|-----------------------|-------------------------|----------------------------
-	|        | -5-4&deg;C               | 4-7&deg;C             | 7-12&deg;C            | 12-18&deg;C             | 18-30&deg;C
-	|--------|--------------------------|-----------------------|-----------------------|-------------------------|----------------------------
-	| Kopf   | Helm                     | Helm                  | Helm                  | Helm                    | Helm
-	| "      | dicke Unterhelmmütze     | dünne Unterhelmmütze  | Buff (Ohren)          | -                       | -
-	| "      | Klarsichtbrille          | Klarsichtbrille       | Klarsichtbrille       | Sonnenbrille            | Sonnenbrille
-	| "      | Buff (Hals/Nase)         | Buff (Hals/Nase)      | -                     | -                       | -
-	| Torso  | Thermo-Softshelljacke    | Thermo-Softshelljacke | Thermo-Softshelljacke | Kurzarmtrikot           | Kurzarmtrikot
-	| "      | Langarm-Merino/Mesh-Hemd | Langarm-Merinohemd    | ?????????             | Windweste               | Sonnencreme (oder UV-Armlinge)
-	| "      | Langarm-Trikot           | -                     | -                     | Armlinge (dünn wirklos) | - 
-	| "      | -                        | -                     | -                     | Windstopper-Unterhemd   | -
-	| "      | -                        | -                     | -                     | Langarmtrikot           | -
-	| Hände  | Krebshandschuhe          | Langfingerhandschuhe  | Langfingerhandschuhe  | Kurzfingerhandschuhe    | Kurzfingerhandschuhe
-	| Beine  | windblock. Thermo-Tights | Bibshorts             | Bibshorts             | Bibshorts               | Bibshorts
-	| "      |                          | Winterbeinlinge       | Übergangsbeinlinge    | -                       | -
-	| "      |                          | kurze Wind-Überhose   | -                     | -                       | -
-	| "      |                          | Thermo-Tights         | -                     | -                       | -
-	| Füße   | Sommer-Radschuhe SPD     | Sommer-Radschuhe SPD  | Sommer-Radschuhe SPD  | Sommer-Radschuhe SPD    | Sommer-Radschuhe SPD
-	| "      | dicke Neopren-Überschuhe | Neopren-Überschuhe    | -                     | -                       | -
-	| "      | normaldicke Socken       | normaldicke Socken    | normaldicke Socken    | normaldicke Socken      | dünnere Mesh-Socken
-	| "      | (Winter-Radschuhe)       | winddichte Socken     | -                     | -                       | -
-	| Regen  | Regenjacke               | Regenjacke            | Regenjacke            | Regenjacke              | aushalten
+| Rennradhelm (Giro Synthe 2 MIPS)                      | Stadthelm                                | ...
+|-------------------------------------------------------|------------------------------------------|-------------------
+| starke belüftet                                       | weniger belüftet für mehr Crash-Masse    |
+| MIPS (mglw. nur Marketing Gimmick)                    |                                          |
+| Klickstecker getauscht gegen Fidlock                  |                                          |
+| "GIRO"-Schriftzugaufkleber entfernt                   |                                          |
+
+
+
+Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
+
+|        | -5-4&deg;C               | 4-7&deg;C             | 7-12&deg;C            | 12-18&deg;C             | 18-30&deg;C
+|--------|--------------------------|-----------------------|-----------------------|-------------------------|----------------------------
+| Kopf   | Helm                     | Helm                  | Helm                  | Helm                    | Helm
+| "      | dicke Unterhelmmütze     | dünne Unterhelmmütze  | Buff (Ohren)          | -                       | -
+| "      | Klarsichtbrille          | Klarsichtbrille       | Klarsichtbrille       | Sonnenbrille            | Sonnenbrille
+| "      | Buff (Hals/Nase)         | Buff (Hals/Nase)      | -                     | -                       | -
+| Torso  | Thermo-Softshelljacke    | Thermo-Softshelljacke | Thermo-Softshelljacke | Kurzarmtrikot           | Kurzarmtrikot
+| "      | Langarm-Merino/Mesh-Hemd | Langarm-Merinohemd    | ?????????             | Windweste               | Sonnencreme (oder UV-Armlinge)
+| "      | Langarm-Trikot           | -                     | -                     | Armlinge (dünn wirklos) | - 
+| "      | -                        | -                     | -                     | Windstopper-Unterhemd   | -
+| "      | -                        | -                     | -                     | Langarmtrikot           | -
+| Hände  | Krebshandschuhe          | Langfingerhandschuhe  | Langfingerhandschuhe  | Kurzfingerhandschuhe    | Kurzfingerhandschuhe
+| Beine  | windblock. Thermo-Tights | Bibshorts             | Bibshorts             | Bibshorts               | Bibshorts
+| "      |                          | Winterbeinlinge       | Übergangsbeinlinge    | -                       | -
+| "      |                          | kurze Wind-Überhose   | -                     | -                       | -
+| "      |                          | Thermo-Tights         | -                     | -                       | -
+| Füße   | Sommer-Radschuhe SPD     | Sommer-Radschuhe SPD  | Sommer-Radschuhe SPD  | Sommer-Radschuhe SPD    | Sommer-Radschuhe SPD
+| "      | dicke Neopren-Überschuhe | Neopren-Überschuhe    | -                     | -                       | -
+| "      | normaldicke Socken       | normaldicke Socken    | normaldicke Socken    | normaldicke Socken      | dünnere Mesh-Socken
+| "      | (Winter-Radschuhe)       | winddichte Socken     | -                     | -                       | -
+| Regen  | Regenjacke               | Regenjacke            | Regenjacke            | Regenjacke              | aushalten
 
 
 - Sportbrille:
@@ -531,13 +534,13 @@ Gutes Setup auf YT:
 
 | Material                           | Gesundheit | Waermeleitf. | Gewicht  | Preis    | Kommentar
 |------------------------------------|------------|--------------|----------|----------|---------------------
-| Aluminium                          | schlecht   | sehr gut     | ok       | sehr gut | Ablösung bei Abrieb und Säuren (Tomaten etc), Ablagerung im Koerper, komme durch Bluthirnschranke
-| eloxiertes/anodisiertes Aluminium  | ok         | sehr gut     | ok       | sehr gut | festere Schicht gegen Abrieb und Säuren
-| hart-eloxiertes/anod. Aluminium    | gut        | sehr gut     | ok       | gut      | noch festere Schicht
-| Edelstahl                          | sehr gut   | schlecht     | schlecht | sehr gut | evtl. minderwertiger Alu-Topf schwerer als hochwert. duenner Edelstahl
-| Duossal                            | sehr gut   | gut          | ok       | gut      | Duo-StainlessSteel-ALuminium: SS innen, Alu aussen
-| Titan                              | gut        | schlecht     | sehr gut | schlecht | 
-| Keramik                            | ?          | ?            | ?        | ?        | 
+| Aluminium                          | \*         | \*\*\*       | \*\*     | \*\*\*   | Ablösung bei Abrieb und Säuren (Tomaten etc), Ablagerung im Koerper, komme durch Bluthirnschranke
+| eloxiertes/anodisiertes Aluminium  | \*         | \*\*\*       | \*\*     | \*\*\*   | festere Schicht gegen Abrieb und Säuren
+| hart-eloxiertes/anod. Aluminium    | \*\*       | \*\*\*       | \*\*     | \*\*     | noch festere Schicht
+| Edelstahl                          | \*\*\*     | \*           | \*       | \*\*\*   | evtl. minderwertiger Alu-Topf schwerer als hochwert. duenner Edelstahl
+| Duossal                            | \*\*\*     | \*\*         | \*\*     | \*\*     | Duo-StainlessSteel-ALuminium: SS innen, Alu aussen
+| Titan                              | \*\*       | \*           | \*\*\*   | \*       | 
+| Keramik                            |            |              |          |          | 
 
 
 ### Mein Kochset aktuell:
@@ -604,7 +607,6 @@ Gutes Setup auf YT:
 
 Bei Sitzknochenabstand _x_ (Tabelle von Fahrrad-XXL):
 
-|-----------------------------------|----------------------|---------------------
 | Fahrradtyp                        | Sitzhaltung          | Sattel-Mindestbreite
 |-----------------------------------|----------------------|---------------------
 | TT                                | aerodynamisch        | _x_ +   0 cm
