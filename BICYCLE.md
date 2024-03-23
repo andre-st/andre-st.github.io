@@ -528,9 +528,7 @@ Gutes Setup auf YT:
 
 ### Kleine Materialkunde:
 
-Extrazeile wegen MD-Parser-Bug:
 
-|------------------------------------|------------|--------------|----------|----------|---------------------
 | Material                           | Gesundheit | Waermeleitf. | Gewicht  | Preis    | Kommentar
 |------------------------------------|------------|--------------|----------|----------|---------------------
 | Aluminium                          | schlecht   | sehr gut     | ok       | sehr gut | Ablösung bei Abrieb und Säuren (Tomaten etc), Ablagerung im Koerper, komme durch Bluthirnschranke
