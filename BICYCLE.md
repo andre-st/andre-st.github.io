@@ -317,9 +317,16 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 - Lenkerband
 - Reifen (Profil)
 
+
 Kein Verschleißteil, aber proprietär und zu bevorraten, weil Bezug schwer werden könnte:
 - Schaltauge (Sollbruchstelle zw. Rahmen und Schaltkäfig, falls Rad zur Seite fällt; kann verbiegen und brechen)
 - Sitzstangenschraube (beim Revolt, Adapter auch?)
+
+
+Schmierungen:
+- kein Fett an Carbon, beschaedigt Fasern 
+	(mein Bikeshop hat mal _synthetisches_ Fett auf Steuerlager gegeben?)
+
 
 
 
@@ -531,7 +538,6 @@ Gutes Setup auf YT:
 
 ### Kleine Materialkunde:
 
-
 | Material                           | Gesundheit | Waermeleitf. | Gewicht  | Preis    | Kommentar
 |------------------------------------|------------|--------------|----------|----------|---------------------
 | Aluminium                          | \*         | \*\*\*       | \*\*     | \*\*\*   | Ablösung bei Abrieb und Säuren (Tomaten etc), Ablagerung im Koerper, komme durch Bluthirnschranke
@@ -541,23 +547,58 @@ Gutes Setup auf YT:
 | Duossal                            | \*\*\*     | \*\*         | \*\*     | \*\*     | Duo-StainlessSteel-ALuminium: SS innen, Alu aussen
 | Titan                              | \*\*       | \*           | \*\*\*   | \*       | 
 | Keramik                            |            |              |          |          | 
+| Nylon                              |            |              |          |          | 
+| Silikon lebensmittelecht           |            |              |          |          | 
 
 
 ### Mein Kochset aktuell:
 
-1,5L-Duossal-Topf Trangia (236g) mit:
+- 1,5L-Duossal-Topf Trangia (236g) mit: 
 	- 550ml-Titanbecher Toaks (73g)
-	- 250ml-Gaskartusche (200g?), Griffzange (48g)
-	- Stove Edelrid Kiro (80g)
-	- [Feuerzeug BIC] und Zündstahl],
-	- Kartuschenfuß Edelrid Atlas (20g),
-	- Scheuervlies-Topfschwamm (3g),
-	- alles zusammen im Netzbeutel
+	- 100g-Gaskartusche Optimus
+	- Griffzange Trangia (48g), 
+	- Zündstahl, Feuerzeug BIC 
+	- Stove Edelrid Kiro St (80g)
+	- Kartuschenfuß MSR Universal (33g)
+	- Lappen, Scheuervlies-Topfschwamm (3g)
+	- Topfschaber-Plektrum
+	- alles im Netzbeutel
+- 25-cm-Nylon-Löffel mit Topf-schonender Silikonlippe GSI Essential Spoon (26g)
+	- lange Titan-Goeffel/Sporks gut fuer Trekking-Tueten, verkratzen aber Toepfe
+	  und muessen bei Gabel/Messer extra verpackt werden, 
+	  um nicht durch Drybag o.a. durchzustossen
+- Wasserfilter-Set Katadyn Hydrapak 2l
+- Kaffee-Los 125-ml-Schraubbehälter
+- 1,2l Ziploc-Tueten IKEA Istad
+
+
+### Gaskartuschen
+
+- Entsorgung: 
+	- Wertstoffhof, falls nicht entleert, da "toxisch"
+	- entleert: gelbe Tonne
+	- es bleibt immer etwas ueber, 
+	  daher manuelle Entleerung mit Durchstecher (Jetboil CrunchIt),
+	  oder irgendwie Loch bohren
+	- alternativ mit Adapter nachfuellen
+- Lagerung:
+	- rechtl. maximal 2 Kartuschen pro Raum, egal wie gross
+	- nicht in Schlafraeumen
+	- nicht unter "Erdgleiche" (unter Erde wie Keller, da Blasenbildung)
+	- in gut durchluefteten Raeumen
+
+
+### Feuer:
+
+- Gaskocher gilt rechtl. als "offenes Feuer" und ist im Wald idR. verboten 
+	(Kerzen sind schon "offenes Feuer")
+
 
 
 ### Rezepte:
 
 - TODO
+
 
 
 
