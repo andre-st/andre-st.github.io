@@ -484,7 +484,7 @@
 			h.textContent = l.title;
 			
 			const ul = document.createElement( "UL" );
-			l.items.sort( (a, b) => (b.active ?? false) - (a.active ?? false) );
+			l.items.sort( (a, b) => (b.active ?? true) - (a.active ?? true) );
 			l.items.forEach( function( im ) 
 			{
 				const li = document.createElement( "LI" );
