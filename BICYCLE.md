@@ -147,11 +147,12 @@ da sich paar Sekunden Sicherheitsgewinn nicht lohnen:
 
 
 Spontane Wegfahrsperre ohne richtiges Schloss:
-- Kette vom vorderen Zahnrad nehmen (geht das mit modernem Umwerfer überhaupt?)
+- Kette vom vorderen Zahnrad nehmen 
 - sehr hohen oder sehr niedrigen Gang einlegen
 - Radhelm um Reifen/Rahmen klicken
 - Hiplock
 - Klettbänder
+- Steckachsen heraus- und mitnehmen
 - kann man irgendwie Bremsen schnell de- und reaktivieren? wenn Dieb schnell losradelt, dann knallt es vllt
 
 
@@ -271,6 +272,10 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 - HighVis (v.a. Herbst-Winter, nachts):
 	- man sieht aus wie ein Idiot, statt Neongelb lieber nicht ganz so grelle Organgetoene
 	- Autofahrer finden es gut, als Radfahrer sieht man solche auch in Entfernung gut
+- Casual-Alternativen für längere Touren:
+	- Merino-Outdoor-Langarmshirt (Ärmel hochziehen, sonst UV-Schutz)
+	- kurze Überhose
+	- Militär-Cap
 
 
 ## Werkzeug
@@ -421,6 +426,11 @@ Motorrad-Reiniger mehr und billiger (hab ich damals vom Fahrradladen bekommen, d
 - 0 &lt; Rad-Systemgewicht - Fahrergewicht, Fahrradgewicht, Taschengewicht, ggf. Lenkeraufsatz, ...
 
 
+- je leichter das Rad, umso besser: Gewicht nervt bei Anstiegen und 
+   ermuedet ueber lange Strecken schneller und geht auch staerker auf die Substanz/Gelenke etc.
+
+
+
 ### Reine Lehre
 
 - Gabeltaschen (hässlich)
@@ -429,17 +439,33 @@ Motorrad-Reiniger mehr und billiger (hab ich damals vom Fahrradladen bekommen, d
 - Arschrakete (Satteltasche): 
 	- Zefal Z Adventure R17: kein separater Packsack, aber trotzdem ok, wasserdicht, wackelt wenig
 - Oberrohrtasche
-	- Giant H2Pro, wackelt (Anschraubpunkte aufm Rohr aber nicht bei der Tasche) und enger Reisverschluss statt bequemere Klappe mit Magnetverschluss wie bei Apidura
+	- ~~Giant H2Pro~~, wackelt, Reißverschluss ausgefaedelt und nicht mehr reinbekommen, weggeworfen
+	- Craft Cadence Bolt-on mit bequemerer Klappe statt Reißverschluss, 
+		Schrauben fuer meine Anschraubpunkte (statt Riemen), (angebl.) wasserdicht, taugte bisher
 - Lenkertasche
-	- Giant H2Pro 12 Liter
+	- Giant H2Pro 12 Liter Harness + Drybag
+	- Altura Vortex 11 Liter Rolltop Toploader (2024-Version mit orangem Strap)
+	- Drybags taugen fuer leichte, ausfuellend-weiche, sperrige Items wie Zelt, Isomatte, Schlafsack;
+	  sind aber nicht formstabil und gut ins Harness einklemmbar bei 
+		vielen kleineren, härteren Einzelteillen z.B. Kochset, evtl Lebensmittel,
+		da eignen sich Taschen besser
+	- manche stützen Taschen mit Front-Racks oder kleiner "Pec Dec" bzw. "Rod Steward"
+- untypisch: Rear-Rack/Gepäckträger und Paniers/Gepäckträgertaschen;
+	- der Lehre nach dann zumindest nicht bulky (Micro/Mini-Paniers)
+	- oder Rack-Trunk
 
 Zeltstangen bekomme ich zw. Rahmentasche und Oberrohr 
 mit verlängerten Klettbändern von der Rahmentasche, das hält sehr gut.
 
 Für Tagesstouren komplett ausreichend, 
-bei Mehrtagesstouren bei meinen Kapazitäten nur mit Biwaksack 
-(Zelt bekomm ich nicht mehr unter ohne auf den Kocher zu verzichten).
+bei Mehrtagesstouren bei meinen "Reine-Lehre"-Kapazitäten nur mit Biwaksack 
+(Doppelwand-Zelt bekomm ich nicht mehr unter/kleiner ohne aufs Koch-Set zu verzichten).
 Nötigt auch viel zu Tetris.
+Oder eben dann untypische bzw. Hybridlösung.
+
+Viele Taschen zerstören Rad-Ästhethik (leicht und schlank), 
+die vielleicht mitbedenken
+
 
 
 ### Hybridlösung
@@ -452,12 +478,13 @@ Nötigt auch viel zu Tetris.
 	- Ausrüstung leichter irgendwo hinzunehmen
 	- morgens leichter/schneller zu packen
 	- Ästhetik nicht hässlicher als die Arschrakete
+	- siehe YouTube Tristan Ridley Perfect Setup
 
-- hab erstmal den Earthpak 30l, vglw. günstig, wirkt aber erstmal robust (wird sich zeigen)
-- habe den Ortlieb Quick Rack: 15 Sekunden Anbau, 5 Sekunden Abbau ohne Schraubengewinde auszuleiern,
-  verschandelt das Rad auch nicht zu stark; musste den Stab etwas kürzen (hab meine Flex genommen, Alu macht keine Funken; kleine Metallsäge oder Drehmel ginge auch);
+- Earthpak 30l vglw. günstig, wirkt robust (wird sich zeigen)
+- Ortlieb Quick Rack: 15 Sekunden Anbau, 5 Sekunden Abbau ohne Schraubengewinde auszuleiern,
+  verschandelt das Rad auch nicht zu stark; musste den Stab etwas kürzen (hab meine Flex genommen, 
+  Alu macht keine Funken; kleine Metallsäge oder Drehmel ginge auch);
   Extragewicht ist noch ok (real ~650 g)
-
 
 
 
@@ -466,9 +493,12 @@ Nötigt auch viel zu Tetris.
 - Lebensmittel
 	- Kohlenhydrate (beim Strampeln verbrannt)
 	- Elektrolyte (ausgeschwitzt)
+- Kochset: 
+	- siehe [Reiseküche](#reisekueche)
 - Wasser: 
-	- Adventure Hydration 3-Liter-Cranktank = 4x 750ml-Flaschen
+	- Adventure Hydration 3-Liter-Cranktank = 4x 750ml-Flaschen; perfekter Schwerpunkt mitte unten im Rad
 		- da SPoF, habe ich noch ein Katadyn-Hydrapak-Wasserfilter-Set (2 Liter), das sich klein packen lässt
+	- gute Alternative: Trinkblase in Vollrahmentasche und evtl. Extra-Flasche(n) in den Stem-Bags/Food-Pouches
 - Schlafsystem Fruehling-Sommer-Herbst:
 	- Hauptprobleme: 
 		- Hitze/Kaelte,
@@ -480,18 +510,32 @@ Nötigt auch viel zu Tetris.
 	- Schlafsack (untested):
 		- Sommer: Carinthia G90 (hab meinen Carinthia Tropen verkauft; würde auch nichts mil. (zu weites) mehr kaufen; zivil ist oft sinniger)
 	- Shelter (untested):
-		- Robens Mountain Biwak (mit kleinem Insektennetz-Fenster aber ohne Hoop, was sehr nervt; 
-			Kaputze aber aufhängbar, evtl. separate Schnur quer zw. 2 Bäumen spannen und dann Kaputzenschnur dort befestigen)
-		- Wechsel Pathfinder TL Zelt (etwas bulky und ~2 kg, aber noch ok, kein (bequemes) aufrechtes Sitzen, sonst sehr gut, hohe Wassersäule)
-	- Liner, damit weniger Waesche=mehr Haltbarkeit
+		- Robens Mountain Biwak (mit kleinem Insektennetz-Fenster aber ohne Hoop-Stangen, was sehr nervt; 
+			Kaputze aber aufhängbar, evtl. separate Schnur quer zw. 2 Bäumen spannen und dann Kaputzenschnur dort befestigen);
+			für Sommer vermutl. eher ungeeignet
+		- Wechsel Pathfinder TL Zelt (etwas bulky und ~2 kg, aber noch ok, kein (bequemes) aufrechtes Sitzen, sonst sehr gut/robust, hohe Wassersäule)
+	- Liner, damit weniger Waesche=mehr Haltbarkeit; alternativ Base-Layer tragen (Multi-use)
 	- Unterlage, damit nichts durchsticht
-		- BW Elefantenhaut
+		- Bundeswehr Elefantenhaut (bulky, schwer, guenstig)
+		- Wechsel Pathfinder Footprint (bulky, passgenau, teuer)
+		- Six Moon Designs Footprint Large Polycro (klein, ultraleicht, guenstiger) 
 		- genau unter Zelt legen, damit nichts auf den Ueberstand regnet und unters Zelt laeuft
-- Licht:
+- Nacht:
 	- Stirnlampe (abends/nachts Shelter-Suche und -Aufbau (Rotlicht empfohlen), Backup-Rad-Frontlampe)
-
-
-### Sonstiges:
+	- Reifenreflektoren: Habe Katzenaugen gegen schwarzen Reflektorklebestreifen ersetzt
+	- Akku-Rücklicht: Ersatz in Tasche (Redundanz)
+	- Akku-Frontlicht
+- Müll-Management:
+	- ?
+- Hygiene-System:
+	- "Ein Radrennfahrer muss seinen Hintern besser pflegen als sein Gesicht." (Radrennprofi Rudi Altig)
+	- large Body-Wipes, einzelverpackt
+- Wechselkleidung / Warm-Kit:
+- Kommunikation & Informationstechnik:
+	- Smartphone
+	- kleine Klapptastatur fürs Smartphone (Admin/Programmierung SSH, Mails, Recherche schneller)
+- Wartung:
+- Sonstiges:
 	- Schutzfolie gegen Riemen der Taschen
 
 
@@ -531,6 +575,7 @@ Gutes Setup auf YT:
 	- ungetestet: Orux Maps, MagicEarth, PocketEarth
 	
 - Wildcamping-Platzsuche TODO
+	- Stealth-Camping
 
 
 
@@ -549,6 +594,7 @@ Gutes Setup auf YT:
 | Keramik                            |            |              |          |          | 
 | Nylon                              |            |              |          |          | 
 | Silikon lebensmittelecht           |            |              |          |          | 
+
 
 
 ### Mein Kochset aktuell:
@@ -570,6 +616,8 @@ Gutes Setup auf YT:
 - Wasserfilter-Set Katadyn Hydrapak 2l
 - Kaffee-Los 125-ml-Schraubbehälter
 - 1,2l Ziploc-Tueten IKEA Istad
+	- z.B. Rossmann Früchte-Müsli, Dehydriertes zusammengekippt, ...
+
 
 
 ### Gaskartuschen
@@ -588,6 +636,7 @@ Gutes Setup auf YT:
 	- in gut durchluefteten Raeumen
 
 
+
 ### Feuer:
 
 - Gaskocher gilt rechtl. als "offenes Feuer" und ist im Wald idR. verboten 
@@ -598,7 +647,6 @@ Gutes Setup auf YT:
 ### Rezepte:
 
 - TODO
-
 
 
 
