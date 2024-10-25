@@ -9,10 +9,9 @@ _"Driving a car is like watching a movie ,but riding a bike is like acting in on
 - [Modell](#modell)
 - [Schalten](#schalten)
 - [Bremsen](#bremsen)
-- [Sicherheit](#sicherheit)
+- [Diebstahlschutz](#diebstahlschutz)
 - [Straßenzulassung StVoZ](#)
 - [Kleidung](#kleidung)
-- [Werkzeug](#werkzeug)
 - [Wartung](#wartung)
 - [Bikepacking](#bikepacking)
 - [Tourplanung](#tourplanung)
@@ -55,7 +54,11 @@ _"Driving a car is like watching a movie ,but riding a bike is like acting in on
 	Rennrad, Endurance-Rennrad, Gravelbike, Enduro-MTB, Hardtail-MTB, Fully (Full Suspension MTB), 
 	Adventure-Bike, Cyclocrosser (CX), Trekking-Bike
 - Kadenz
-- 
+- Fred: man kann auf dem Rad durch Kleidungswahl und Modifikationen/Anbauten am Rad 
+	schnell wie ein Clown aussehen ohne es zu merken, verwandt mit MAMIL; v.a. im Rennrad-Bereich ist Minimalismus/cleane Optik angesehen
+- MAMIL: Middle-aged Men in Lycra; Presswurst-Optik dank Bierbauch im Skinsuit, auf dem irgendwelche Logos gedruckt wurden, 
+	was vermeintlich Pro aussehen würde; verwandt mit Fred
+
 
 
 
@@ -86,8 +89,8 @@ GIANT Revolt 2 (2022) XL Black-Diamond Gravelbike (Ladenkauf 2023):
 
 ### Schalt-Vorgehen
 - im Leerlauf schalten, nicht währenddessen treten, leichtes Antreten
-- im Stand oder langsam am Hügel: Rad anheben, hochschalten, kurbeln; nicht mit Kraft bergauf in neuen Gang treten, sonst Schaden
-- Pedale beim Schalten niemals rückwärts treten
+- im Stand oder langsam am Hügel: Rad anheben, hochschalten, kurbeln; nicht mit Kraft bergauf in neuen Gang treten, sonst kann Bowdenzug reißen o.a.
+- Pedale beim Schalten nicht rückwärts treten
 - vorausschauend schalten
 	- vorm Anhalten in leichteren Gang schalten, damit Antreten leichter und weniger belastend fürs Material
 - ideal vorne auf kleinem Blatt fahren (und hinten mitte-groß): 
@@ -101,6 +104,7 @@ GIANT Revolt 2 (2022) XL Black-Diamond Gravelbike (Ladenkauf 2023):
 	- gut: mitte-groß  hinten und klein vorne
 
 
+
 ### Schalthebel
 
 Rennrad-Schalthebel / Dropbars:
@@ -112,7 +116,7 @@ Rennrad-Schalthebel / Dropbars:
 | dient Kettenflucht?   | "                  | dient Geschwindigkeit        | "
 
 
-- Kettenschaltung: Shimano Sora
+- Kettenschaltung: Shimano Sora ST-R3000
 - s.a. Wartung: Schaltung einstellen
 
 
@@ -120,24 +124,26 @@ Rennrad-Schalthebel / Dropbars:
 ## Bremsen
 
 - immer mit beiden gleichzeitig, nie nur vorne
+- Vorderbremse hat immer mehr Bremswirkung
 - s.a. Wartung: Bremsen einstellen
 
 
 
-## Sicherheit
+## Diebstahlschutz
 
-Hatte erste 16mm-Bügelschloss vor dem Kauf meines neuen Fahrrads, 
-dann zum Faltschloss geändert, 
+Hatte erst ein 16mm-Bügelschloss vor dem Kauf meines neuen Fahrrads, 
+dann gegen Faltschloss getauscht, 
 da sich paar Sekunden Sicherheitsgewinn nicht lohnen:
+
 
 | Bügelschloss Trelock U6 16mm Dicke                                               | Faltschloss ABUS Bordo 6000K BIG  (120cm)
 |----------------------------------------------------------------------------------|---------------------------------------------------
-| Installation: in Rahmen hässlich und sperrig, behindert Trinkflasche etc         | relativ schmal im Rahmen, wird nur breiter zu den Beinen mit mehr Länge, besser als Bügel, aber schön es auch nicht und nimmt Platz für weitere Trinkflasche weg
+| Installation: in Rahmen hässlich und sperrig, behindert Trinkflasche etc         | relativ schmal im Rahmen, wird nur breiter zu den Beinen mit mehr Länge, besser als Bügel, aber schön es auch nicht und nimmt Platz für weitere Trinkflasche weg; die Klappe des billigen Plastikhalters bricht schnell und das Schloss kann rausfallen, muss man dann mit einem Klettband ersetzen
 | Abschließen: Passte bei mir nicht um Rahmen und Hinterrad                        | passt um alles
 | Abschließen: Kaum Länge oder Durchmesser für Geländer, Bäume, Laternen           | passt um fast alles
 | Sicherheit: 150-€-Akkuflex ~60s, örtl. Unflexibilität kompromittiert Sichtweite  | Flex ~20s(?), wahrscheinlicher in Sichtweite platzierbar
 | Gewicht: merkbar hoch mit 1-2 kg                                                 | halb so schwer, aber leicht auch nicht
-| Preis: 75 €                                                                      | 130 €
+| Preis: 75 €                                                                      | 130 € überteuert (im Fahrradladen)
 
 
 - wer dicke Faltschlösser knacken kann, hat Werkzeug auch für Bügelschlösser
@@ -160,9 +166,17 @@ Spontane Wegfahrsperre ohne richtiges Schloss:
 	"So ähnlich mach ich das auch. Ich nehme aber 2-Komponenten Kleber, schmiere damit den Sechskant zu"
 - "Laubwäldchen, haben das Rad flachgelegt und mit abgerissenen Zweigen getarnt"
 
-- aktuell fahr ich nur mit dem Hiplock herum, keine Lust/Sinn 2-kg-Schloss herumzufahren; 
-	hatte das Rad bisher auch immer Auge/Armweite (Cafeterasse)
+- zeitlang fuhr ich nur mit dem Hiplock herum, keine Lust/Sinn 2-kg-Schloss herumzufahren; 
+	hatte das Rad bisher auch immer Auge/Armweite (Cafeterasse);
+	sah mal ein Video, wo einer im Laufen mit Kraft und Schwung einfach ein Fahrrad mit sich riss und das Schloss dabei abbrach.
+	Das Schloss hatte sicherlich nicht weniger Masse als so ein dünnes Hiplock.
+	Dieses spontane Wegrollen-Szenario sollte mit solchen Minimalschlössern eigentlich verhindert werden, die sonst nichts anderes verhindern.
+	Der Öffnungscode meines Hiplock hatte sich außerdem um 1 verstellt, ohne dass es großartig eingesetzt wurde
 
+- verwende aktuell ein 129 cm langes, 300 Gramm schweres, 3mm dickes Stahlketten-Zahlenschloss (Kohlburg Reykjavík),
+	mit dem man auch die Laufräder dazuketten kann und das nicht so leicht abreißbar sein sollte;
+	die Kette kann man während der Fahrt außerdem gut um Sattelstütze/Sitzrohr gewickelt tragen
+	ohne dass es dumm aussieht oder beim Pedalieren stört; sicherer als Kabelschlösser soll es auch sein
 
 - mit Cover verhängen? Für Dieb umständlicher an Einzelteile zu kommen und unklar für Dieb, ob sich Aktion lohnt
 	- Rad macht Anschein, dass Besitzer weit entfernt ist und Dieb viel Zeit damit haben könnte 
@@ -188,7 +202,7 @@ Spontane Wegfahrsperre ohne richtiges Schloss:
 - 20 Euro Bußgeld; höher falls Gefährdung oder Sachbeschädigung
 
 
-Mit Reflektoren verliert man Street-Cred. beim Sportrad.
+Mit Reflektoren verliert man Street-Cred. beim Sportrad ("Fred").
 Nicht-StVoZ-Alternativen:
 - schwarze Reflektorstreifen auf schwarzer Felge
 
@@ -198,6 +212,9 @@ Nicht-StVoZ-Alternativen:
 
 Helm:
 	- sollte einfarbig weiss oder schwarz sein, damit man ihn mit allen Kleidern kombinieren kann; sonst beißen sich evtl. Farben
+	- Größe gut, wenn man noch Spiel beim Einstellrädchen hat:
+		- lockern bei Druckschmerzen nach längerer Zeit (Kopf schwillt auch an)
+		- Platz für Unterhelmmütze
 	- Unterscheidungen:
 
 | Rennradhelm (Giro Synthe 2 MIPS)                      | Stadthelm                                | ...
@@ -205,33 +222,33 @@ Helm:
 | starke belüftet                                       | weniger belüftet für mehr Crash-Masse    |
 | MIPS (mglw. nur Marketing Gimmick)                    |                                          |
 | Klickstecker getauscht gegen Fidlock                  |                                          |
-| "GIRO"-Schriftzugaufkleber entfernt                   |                                          |
+| "GIRO"- und MIPS-Logoaufkleber entfernt               |                                          |
 
 
 
 Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 
-|        | -5-4&deg;C               | 4-7&deg;C             | 7-12&deg;C            | 12-18&deg;C             | 18-30&deg;C
-|--------|--------------------------|-----------------------|-----------------------|-------------------------|----------------------------
-| Kopf   | Helm                     | Helm                  | Helm                  | Helm                    | Helm
-| "      | dicke Unterhelmmütze     | dünne Unterhelmmütze  | Buff (Ohren)          | -                       | -
-| "      | Klarsichtbrille          | Klarsichtbrille       | Klarsichtbrille       | Sonnenbrille            | Sonnenbrille
-| "      | Buff (Hals/Nase)         | Buff (Hals/Nase)      | -                     | -                       | -
-| Torso  | Thermo-Softshelljacke    | Thermo-Softshelljacke | Thermo-Softshelljacke | Kurzarmtrikot           | Kurzarmtrikot
-| "      | Langarm-Merino/Mesh-Hemd | Langarm-Merinohemd    | ?????????             | Windweste               | Sonnencreme (oder UV-Armlinge)
-| "      | Langarm-Trikot           | -                     | -                     | Armlinge (dünn wirklos) | - 
-| "      | -                        | -                     | -                     | Windstopper-Unterhemd   | -
-| "      | -                        | -                     | -                     | Langarmtrikot           | -
-| Hände  | Krebshandschuhe          | Langfingerhandschuhe  | Langfingerhandschuhe  | Kurzfingerhandschuhe    | Kurzfingerhandschuhe
-| Beine  | windblock. Thermo-Tights | Bibshorts             | Bibshorts             | Bibshorts               | Bibshorts
-| "      |                          | Winterbeinlinge       | Übergangsbeinlinge    | -                       | -
-| "      |                          | kurze Wind-Überhose   | -                     | -                       | -
-| "      |                          | Thermo-Tights         | -                     | -                       | -
-| Füße   | Sommer-Radschuhe SPD     | Sommer-Radschuhe SPD  | Sommer-Radschuhe SPD  | Sommer-Radschuhe SPD    | Sommer-Radschuhe SPD
-| "      | dicke Neopren-Überschuhe | Neopren-Überschuhe    | -                     | -                       | -
-| "      | normaldicke Socken       | normaldicke Socken    | normaldicke Socken    | normaldicke Socken      | dünnere Mesh-Socken
-| "      | (Winter-Radschuhe)       | winddichte Socken     | -                     | -                       | -
-| Regen  | Regenjacke               | Regenjacke            | Regenjacke            | Regenjacke              | aushalten
+|        | -5-4&deg;C               | 4-7&deg;C             | 7-9&deg;C             | 9-13&deg;C              | 13-18&deg;C             | 18-30&deg;C
+|--------|--------------------------|-----------------------|-----------------------|-------------------------|-------------------------|----------------------------
+| Kopf   | Helm                     | Helm                  | Helm                  | Helm                    | Helm                    | Helm
+| "      | dicke Unterhelmmütze     | dünne Unterhelmmütze  | ggf. Unterhelmmütze   | -                       | -                       | -
+| "      | Klarsichtbrille          | Klarsichtbrille       | Klarsichtbrille       | Klarsicht-/Sonnenbrille | Sonnenbrille            | Sonnenbrille
+| "      | Buff (kalte Atmung)      | Buff (Atmung)         | ggf. Buff (Atmung)    | -                       | -                       | -
+| Torso  | Thermo-Softshelljacke    | Thermo-Softshelljacke | Thermo-Softshelljacke | dünne 80%-Windjacke     | Kurzarmtrikot           | Kurzarmtrikot
+| "      | Langarm-Mesh-Baselayer   | Langarm-Merinohemd    | dünner Kurzarm-Basel. | dicker Thermo-Baselayer | Windweste               | oder dünnes Merino-Langarmshirt
+| "      | oder Thermo-Baselayer    | -                     | -                     | -                       | Armlinge (dünn wirklos) | - 
+| "      | ggf. Langarm-Triko       | -                     | -                     | -                       | oder Windstopper-Unterhemd   | Sonnencreme (oder UV-Armlinge)
+| "      | -                        | -                     | -                     | -                       | Langarmtrikot           | -
+| Hände  | Krebshandschuhe          | Langfingerhandschuhe  | Langfingerhandschuhe  | dünne Handschuhe        | Kurzfingerhandschuhe    | Kurzfingerhandschuhe
+| Beine  | windblock. Thermo-Tights | lange aufgerau. Bibs  | lange aufgerauhte Bibs| lange Bibs              | Bibshorts               | Bibshorts
+| "      |                          | oder Winterbeinlinge  | oder Beinlinge        | oder Beinlinge          | -                       | -
+| "      |                          | kurze Wind-Überhose   | -                     | -                       | -                       | -
+| "      |                          | Thermo-Tights         | -                     | -                       | -                       | -
+| Füße   | Sommer-Radschuhe SPD     | Sommer-Radschuhe SPD  | Sommer-Radschuhe SPD  | Sommer-Radschuhe SPD    | Sommer-Radschuhe SPD    | Sommer-Radschuhe SPD
+| "      | dicke Neopren-Überschuhe | Neopren-Überschuhe    | -                     | -                       | -                       | -
+| "      | normaldicke Socken       | normaldicke Socken    | normaldicke Socken    | normaldicke Socken      | normaldicke Socken      | dünnere Mesh-Socken
+| "      | (oder Winter-Radschuhe)  | oder winddichte Socken| -                     | -                       | -                       | -
+| Regen  | Regenjacke im Gepäck     | Regenjacke im Gepäck  | Regenjacke im Gepäck  | Regenjacke im Gepäck    | ggf. Regenjacke Gepäck  | aushalten
 
 
 - Sportbrille:
@@ -239,24 +256,35 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 	- großer Sichtbereich
 	- gegen Zugluft, Insekten, Split, ...
 	- Sonnenschutz (UV)
-	- Bügel passen in Radhelme
-	- wird ueber Helmriemen getragen, damit kein Gefriemel im Ungluecksfall
+	- Bügel nicht gebogen sondern gerade:
+		- passen in Radhelme
+		- leichter aufsetzbar/abnehmbar ohne sich in Helmbändern zu verheddern
+	- wird _ueber_ statt unter dem Helmriemen getragen, damit kein Gefriemel im Ungluecksfall und Rüffel durch Stylepolizei
+		- Nachteil: Vergessen beim Helmabsetzen = Brille fliegt auf den Boden
 	- ...
 	- Klarsicht fuer Abend/Herbst/Winter, oder photochromatisch
 	- Uvex Unisex Sportstyle 227: Design evtl. zu rund, Saeubern/Antibeschlag nervt
-	- Alpina RAM Q-Lite: korrektes eckiges Rennradfahrer-Design, abends aber zu dunkel, sonst zufrieden
+	- Alpina RAM Q-Lite: korrektes eckiges Rennradfahrer-Design, abends aber zu dunkel, sonst zufrieden - passt gut zu meinem Helm
 - Handschuhe:
 	- schuetzt Haende beim Hinfallen, Weiterfahren sonst schmerzhaft
 	- Lenkerband verschmutzt weniger schnell
 	- Wind-/Kaelteschutz
 	- Polsterung
 	- Kurzfinger: Castelli Men's Entrata V Glove
-	- Langfinger: Gripgrab Herbst (schwarz)
-- Trikot: VAUDE Radtrikot Tamaro III türkis
-	- leicht, atmungsaktiv, unguenstig mit Armlingen, da Aermel nicht anliegen und Kaelte einwehen kann
+	- Langfinger: Gripgrab Herbst (schwarz), Gripgrab Deep Winter (schwarz)
+- Trikot: 
+	- VAUDE Radtrikot Tamaro III türkis leicht, atmungsaktiv, unguenstig mit Armlingen, da Aermel nicht anliegen und Kaelte einwehen kann;
+		hat bisschen Fred-Vibes
+	- fahre im Sommer mittlerweile ein dünnes, locker liegendes Langarm-Merino-Hemd mit Halb-Reißverschluss: 
+		UV-Blocker und gutes Klima drunter gehabt; steckt in der Hose; hat auch weniger Fred-Vibes
 - Hose: GORE WEAR C3 Kurzhose
 	- Polsterung
 	- Trägerhose rollt nicht vom Bauch
+- Ueberhose:
+	- Dorftrottel-kompatibler als reine Bibshorts
+	- viele Taschen, erspart andere Taschen am Rad oder Trikot
+	- Sportful Supergiara taugt, waere das Bundsystem nicht so dumm: reißt schnell und hält kaum Gewicht, z.B. Handy in der Tasche, kein Silikongripper;
+		auf dem Rad egal, aber Hose rutscht beim Gehen, was sehr stoert
 - Schuhe:
 	- für Klickpedale (clipless): Shimano Deore XT PD-T8000 (Kombipedal: eine Seite SPD, andere Seite Plattform mit Stiften)
 	- mit SM-SH56-Cleats (erlaubt schräge Panikausstiege, taugt trotzdem sehr gut zum Pedalziehen)
@@ -264,11 +292,13 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 		meine Schnürren verhedderten sich schon mal im Kettenblatt, nicht so witzig; 
 		seither knote ich immer an den Rad-abgewandten Seiten statt auf der Schuhmitte
 - Herbst/Winter:
-	- Langaermel-Trikot orange (wobei dann eh meist Windweste oder Jacke drueber ist, highvis-Trikot eher sekundaer; hatte nur 1 oder 2x Windstopperhemd drunter, Tage schnell kaelter geworden)
+	- Langaermel-Trikot orange (wobei dann eh meist Windweste oder Jacke drueber ist, highvis-Trikot eher sekundaer; 
+		hatte nur 1 oder 2x Windstopperhemd drunter, Tage schnell kaelter geworden)
 	- Thermojacke
 	- im Spaetsommer mal einfache Regenjacke angehabt 
 		und darunter dann durch Schweiss so nass gewesen 
 		als haette ich mich gleich vollregnen lassen koennen
+	- Merino schwierig: trocknet langsamer
 - HighVis (v.a. Herbst-Winter, nachts):
 	- man sieht aus wie ein Idiot, statt Neongelb lieber nicht ganz so grelle Organgetoene
 	- Autofahrer finden es gut, als Radfahrer sieht man solche auch in Entfernung gut
@@ -276,25 +306,63 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 	- Merino-Outdoor-Langarmshirt (Ärmel hochziehen, sonst UV-Schutz)
 	- kurze Überhose
 	- Militär-Cap
+- Sonstiges:
+	- Armlinge und Beinlinge verwende ich sogut wie nicht mehr, 
+	  meist stimmt dann schon die Langarm-/Langbein-Auswahl; die nervt auch weniger als das Anzuppen;
+	  im letzten Sommer/Herbst gab's mal einen kalten Tag entlang des Wassers, da war ich froh ueber die Beinlinge;
+	  Vorteil ist das kleine Packmaß (Rückentaschen etc)
 
-
-## Werkzeug
-- Minitool
-- Luftpumpe:
-	- Teleskop-Pumpe für mehr Power
-	- Standpumpe mit Manometer (SKS Rennradkompressor)
-- Bürsten, 2x Schwämme (Antrieb und Rahmen, sonst schmiert mal Kettenöl auf Rahmen),
-	2x Wassereimer (Dreck und sauber zum Endabspuelen)
-- Drehmomentschlüssel
-	- bis 15 Nm reicht Auslösung für nur Rechtsgewinde (Ratsche links egal); Proxxon ist gut und Preis noch ok;
-	- 15-60 Nm braucht es beim Fahrrad unbedingt Auslösung für Rechts- und Linksgewinde (Pedale, ...), sonst Fehlkauf
-- gutes Set Inbus-Schlüssel
-- Kettenmesslehre
-- ...
 
 
 
 ## Wartung
+
+### Werkzeuge
+
+- Minitool
+	- besser man kauft die Teile einzeln, da Minitool sperrig und Inbus oft zu kurz
+- Luftpumpe:
+	- unterwegs: kleine Teleskop-Pumpe für mehr Power - ideal mit Schlauch, um Ventil zu schonen
+	- Keller: Standpumpe mit Manometer (SKS Rennradkompressor)
+- Drehmomentschlüssel
+	- bis 15 Nm reicht Auslösung für nur Rechtsgewinde (Ratsche links egal); Proxxon ist gut und Preis noch ok;
+	- 15-60 Nm braucht es beim Fahrrad unbedingt Auslösung für Rechts- und Linksgewinde (Pedale, ...), sonst Fehlkauf;
+		- bei manchen großen guenstigeren Rechtsgewinde-Drehmos kann man den Kopf drehen, wenn man 2 Schrauben loest (Proxxon), Sache von 1 Minute
+- hochwertiges Set Inbus-Schlüssel, das genau sitzt und Schrauben nicht ausnudelt (Inbus Original)
+- Kettenverschleißlehre (Rohloff Caliber 2)
+- Montageständer (CXWXC für 70 Euro i.O.)
+- Pinsel
+- Kasettenabzieher
+- Ausrichthilfe für Bremsscheiben
+- Flachrundzange 
+	- z.B. für Splints bei den Bremsen, oder Festhalten von Bowdenzügen; 
+	- Knipex 25 01 125 ist so klein, dass sie noch in die Werkzeug-Satteltasche passt (die kleine Knipex Kobra ist m.M.n. am modernen Fahrrad eher nutzlos)
+- Ventileinsatzschlüssel (Parktool VC-1)
+- Reifenheber (die blauen von Schwalbe sollen stabil genug und felgenschonend sein)
+- Kettennieter (Topeak All Speeds Chain)
+- Kettenschlosszange (Shimano TL-CN10)
+- ...
+
+
+### Schmierstoffkunde
+
+- Schmieröle?, Fette? und Wachse senken Reibwiderstand und schützen vor Flugrost:
+	- Kettenglieder
+	- Radachsen
+	- ...
+- Feinöle/Kriechöle für Gelenke/Federn
+	- Schaltkäfig
+	- Federn in SPD-Pedalen
+- Montagepasten erhöhen Reibwiderstand, verhindern Festfressen/Festrosten, erlauben weniger Drehmo/Schraubenvorspannkraft (materialschonender)
+	- Alu-Auflieger auf Alu-Lenker festmachen
+	- Sattelklemmen
+	- Sattelstütze im Sitzrohr
+	- Gewinde z.B. Pedale in Kurbel (Shimano Anti-Seize)
+- Unvertraeglichkeiten
+	- kein Fett an Carbon, beschaedige Fasern 
+		(mein Bikeshop hat mal _synthetisches_ Fett auf Steuerlager gegeben?)
+
+
 
 ### Inspektionen
 
@@ -309,6 +377,7 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 
 
 
+
 ### Verschleissteile (bevorraten)
 
 - Kette
@@ -320,7 +389,10 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 - Schaltungsrädchen
 - Kettenblaetter
 - Lenkerband
-- Reifen (Profil)
+- Haubenabdeckungen Gummi bei den Bremsschalthebeln
+- Reifenmantel (Profil)
+- Ventileinsätze (koennen z.B. durch Tubeless-Dichtmilch verstopfen oder beim Luftpumpen unguenstig verbiegen)
+- seltener: Speichen, Speichennippel
 
 
 Kein Verschleißteil, aber proprietär und zu bevorraten, weil Bezug schwer werden könnte:
@@ -328,23 +400,43 @@ Kein Verschleißteil, aber proprietär und zu bevorraten, weil Bezug schwer werd
 - Sitzstangenschraube (beim Revolt, Adapter auch?)
 
 
-Schmierungen:
-- kein Fett an Carbon, beschaedigt Fasern 
-	(mein Bikeshop hat mal _synthetisches_ Fett auf Steuerlager gegeben?)
-
-
-
 
 ### Radwäsche
 
-"Ich benutze nie aber niemals Kettenreiniger es haut die ganze schmierung zwischen den Glieder raus. Kette reinigt man mit der Zahnbürste und etliche saubere Lappen. Kassette wird abgezogen und So gereinigt. Dann Fahrrad mit schlauch komplett nass machen. Bike cleaner ordentlich drauf sprühen fertig abspülen fertig. Trocknen Rahmen polieren mit entsprechenden Mitteln. Freilauf fetten zusammen bauen. Kette neu schmieren paar mal auf und ab schalten. Kette durch ein sauberes Tuch nochmal ziehen und fertig.
-So und wenn du mit Kettenreiniger die schmierung zwischen den Glieder raus waschen tust wirst du die schmierung zwischen den Glieder nicht mehr hinbekommen und deine Kette Verschleißt schneller. Zur Info bin Zweirad Mechaniker und im Amateur Bereich ein erfolgreicher Fahrer weiß auf was es ankommt."
+"Ich benutze nie aber niemals Kettenreiniger; 
+es haut die ganze schmierung zwischen den Glieder raus. 
+Kette reinigt man mit der Zahnbürste und etliche saubere Lappen. 
+Kassette wird abgezogen und So gereinigt. 
+Dann Fahrrad mit schlauch komplett nass machen. 
+Bike cleaner ordentlich drauf sprühen fertig abspülen fertig. 
+Trocknen Rahmen polieren mit entsprechenden Mitteln. 
+Freilauf fetten zusammen bauen. 
+Kette neu schmieren paar mal auf und ab schalten. 
+Kette durch ein sauberes Tuch nochmal ziehen und fertig.
+So und wenn du mit Kettenreiniger die schmierung zwischen den Glieder raus waschen tust 
+wirst du die schmierung zwischen den Glieder nicht mehr hinbekommen 
+und deine Kette Verschleißt schneller. 
+Zur Info bin Zweirad Mechaniker und im Amateur Bereich ein erfolgreicher Fahrer weiß auf was es ankommt."
+
 
 Motorrad-Reiniger mehr und billiger (hab ich damals vom Fahrradladen bekommen, die würden das auch so machen)
+
+- Sprühflasche 1000 ml, z.B.
+	- JMC Gel-Motorradreiniger
+	- NIGRIN Bike-Care Fahrrad-Reiniger
+
+- Bürsten, 2x Schwämme (Antrieb und Rahmen, sonst schmiert mal Kettenöl auf Rahmen),
+	2x Wassereimer (Dreck und sauber zum Endabspuelen)
+
+- besser: Kärcher Niedrigdruckreiniger (großes Volumen 7L reicht fuer 1 Waesche, nicht kleiner kaufen):
+	Hochdruckreiniger (Tankstelle) vermeiden (bzw. mit viel Abstand nutzen), schießen Schmierung aus den Lagern 
+
+- Handtuch (kein Wischmopptuch, das fusselt brutal) zum Trocknen von Rahmen, Lenker, Sattel und und Laufrädern
 
 
 
 ### Schaltung einstellen
+
 - kleinster Gang = geringste Zugspannung
 - Test: in kleinstes Ritzel und dann Gang für Gang nach oben und wieder zurück
 - Zugspannung hinten: Rädchen an dem Zeugs hinten in die Richtung drehen, in die es besser schalten soll (rechts -> kleine Ritzel)
@@ -415,11 +507,30 @@ Motorrad-Reiniger mehr und billiger (hab ich damals vom Fahrradladen bekommen, d
 7. neue Kette säubern, evtl. schmieren
 
 
+### Pedale wechseln
+
+- Links/Rechtsgewinde! beide Seiten jeweils Öffnen in Richtung Hinterrad und Schließen in Richtung Vorderrad [TODO nochmal gegenpruefen]
+- Schmieren z.B. mit Shimano Anti-Seize fuer dichte starre Verbindung, die nicht festrosten/festfressen soll
+- TODO
+
+
+
+
+### Felge zentrieren / Truing
+
+- Zentrierständer / Wheel Truing Stand
+- TODO
+- s. Parktool YouTube
+
+
+
+
 
 
 ## Bikepacking
 
 - Bikepacking vs. Radreise/Biketouring
+	- Bikepacking urspr. für Offroad
 - Hauptproblem: Packmaß und Gewicht; Packmaß wichtiger
 - Schwere Sachen niedrig (weniger balancieren) 
 	und im Zentrum des Fahrrads (frontal und seitlich)
@@ -436,8 +547,10 @@ Motorrad-Reiniger mehr und billiger (hab ich damals vom Fahrradladen bekommen, d
 - Gabeltaschen (hässlich)
 - Rahmentasche (Halb- oder Vollrahmentasche)
 	- Giant Halbrahmentasche H2Pro, gefaellt mir bisher
+	- verhunzen aber Radästhethik
 - Arschrakete (Satteltasche): 
 	- Zefal Z Adventure R17: kein separater Packsack, aber trotzdem ok, wasserdicht, wackelt wenig
+	- umso hässlicher je länger und höher sie absteht
 - Oberrohrtasche
 	- ~~Giant H2Pro~~, wackelt, Reißverschluss ausgefaedelt und nicht mehr reinbekommen, weggeworfen
 	- Craft Cadence Bolt-on mit bequemerer Klappe statt Reißverschluss, 
@@ -461,7 +574,7 @@ Für Tagesstouren komplett ausreichend,
 bei Mehrtagesstouren bei meinen "Reine-Lehre"-Kapazitäten nur mit Biwaksack 
 (Doppelwand-Zelt bekomm ich nicht mehr unter/kleiner ohne aufs Koch-Set zu verzichten).
 Nötigt auch viel zu Tetris.
-Oder eben dann untypische bzw. Hybridlösung.
+Oder eben dann Hybridlösung.
 
 Viele Taschen zerstören Rad-Ästhethik (leicht und schlank), 
 die vielleicht mitbedenken
@@ -485,6 +598,7 @@ die vielleicht mitbedenken
   verschandelt das Rad auch nicht zu stark; musste den Stab etwas kürzen (hab meine Flex genommen, 
   Alu macht keine Funken; kleine Metallsäge oder Drehmel ginge auch);
   Extragewicht ist noch ok (real ~650 g)
+- ggf. Mini-Panniers, jedenfalls keine Maxi-Panniers (Bike-Touring)
 
 
 
@@ -499,29 +613,33 @@ die vielleicht mitbedenken
 	- Adventure Hydration 3-Liter-Cranktank = 4x 750ml-Flaschen; perfekter Schwerpunkt mitte unten im Rad
 		- da SPoF, habe ich noch ein Katadyn-Hydrapak-Wasserfilter-Set (2 Liter), das sich klein packen lässt
 	- gute Alternative: Trinkblase in Vollrahmentasche und evtl. Extra-Flasche(n) in den Stem-Bags/Food-Pouches
+	- Cargo-Cages statt Flaschenhalter und dann 2x 1,5l-Flaschen (z.B. aus Edelstahl oder Supermarkt-Plastikflasche)
 - Schlafsystem Fruehling-Sommer-Herbst:
 	- Hauptprobleme: 
 		- Hitze/Kaelte,
 		- wasserdicht/atmungsaktiv
-		- Viehzeug
+		- Insekten, Kleintiere (Nagetiere), große Tiere (Wildschwein, Rehe, ...)
 		- Lage (Wildcamping/Campingplatz/Fewo/Hotel)
 	- Isomatte: 
 		- Thermarest Neoair Xlite, bequem und Packmaß noch ok (XL ist schon größerer Klotz als die S-Version in der Werbung)
-	- Schlafsack (untested):
-		- Sommer: Carinthia G90 (hab meinen Carinthia Tropen verkauft; würde auch nichts mil. (zu weites) mehr kaufen; zivil ist oft sinniger)
-	- Shelter (untested):
-		- Robens Mountain Biwak (mit kleinem Insektennetz-Fenster aber ohne Hoop-Stangen, was sehr nervt; 
+	- Schlafsack:
+		- Sommer: Carinthia G90 (hab meinen Carinthia Tropen verkauft; würde auch nichts mil. (zu weites) mehr kaufen; zivil ist oft sinniger), 
+			immer Sommer ist es hier morgens trotzdem schonmal 10-11 Grad
+	- Shelter:
+		- untested: Robens Mountain Biwak (mit kleinem Insektennetz-Fenster aber ohne Hoop-Stangen, was sehr nervt; 
 			Kaputze aber aufhängbar, evtl. separate Schnur quer zw. 2 Bäumen spannen und dann Kaputzenschnur dort befestigen);
 			für Sommer vermutl. eher ungeeignet
-		- Wechsel Pathfinder TL Zelt (etwas bulky und ~2 kg, aber noch ok, kein (bequemes) aufrechtes Sitzen, sonst sehr gut/robust, hohe Wassersäule)
-	- Liner, damit weniger Waesche=mehr Haltbarkeit; alternativ Base-Layer tragen (Multi-use)
-	- Unterlage, damit nichts durchsticht
+		- Wechsel Pathfinder TL Zelt: etwas bulky und ~2 kg, aber noch ok, kein (bequemes) aufrechtes Sitzen, sonst sehr gut/robust, hohe Wassersäule;
+			man kann aber aufrecht sitzen, wenn man dabei aus dem Fenster ragt z.B. beim Kochen
+	- Liner, damit weniger Waesche = mehr Haltbarkeit; alternativ Base-Layer tragen (Multi-use)
+	- Unterlage, damit nichts durchsticht und die Bodenfeuchtigkeit nicht durchdringt (auch im Sommer)
 		- Bundeswehr Elefantenhaut (bulky, schwer, guenstig)
 		- Wechsel Pathfinder Footprint (bulky, passgenau, teuer)
 		- Six Moon Designs Footprint Large Polycro (klein, ultraleicht, guenstiger) 
 		- genau unter Zelt legen, damit nichts auf den Ueberstand regnet und unters Zelt laeuft
 - Nacht:
 	- Stirnlampe (abends/nachts Shelter-Suche und -Aufbau (Rotlicht empfohlen), Backup-Rad-Frontlampe)
+		- sinnvoll, wenn man im Zelt eine Aufhängung hätte
 	- Reifenreflektoren: Habe Katzenaugen gegen schwarzen Reflektorklebestreifen ersetzt
 	- Akku-Rücklicht: Ersatz in Tasche (Redundanz)
 	- Akku-Frontlicht
@@ -530,13 +648,15 @@ die vielleicht mitbedenken
 - Hygiene-System:
 	- "Ein Radrennfahrer muss seinen Hintern besser pflegen als sein Gesicht." (Radrennprofi Rudi Altig)
 	- large Body-Wipes, einzelverpackt
+	- guter Schrupp-Waschlappen und Wasser aus der Trinkflasche
+	- Unterleib muss gar nicht mit Seife gewaschen werden, wird sogar abgeraten (zerstöre hauteigene Abwehr-Fettschicht); Teebaumöl desinfiziert
 - Wechselkleidung / Warm-Kit:
 - Kommunikation & Informationstechnik:
 	- Smartphone
 	- kleine Klapptastatur fürs Smartphone (Admin/Programmierung SSH, Mails, Recherche schneller)
 - Wartung:
 - Sonstiges:
-	- Schutzfolie gegen Riemen der Taschen
+	- Schutzfolie gegen Abrieb durch Taschenriemen
 
 
 
@@ -605,10 +725,12 @@ Gutes Setup auf YT:
 	- Griffzange Trangia (48g), 
 	- Zündstahl, Feuerzeug BIC 
 	- Stove Edelrid Kiro St (80g)
-	- Kartuschenfuß MSR Universal (33g)
+	- Kartuschenfuß MSR Universal (33g); Kartuschengrößen sind nicht wirkl. standardisiert, der MSR-Fuß ist flexibel; hatte vorher einen von Edelrid mit 2 oder 3 festen Fassungen, auf dem die Colman-Kartusche nicht passte (wenige mm Abweichung)
 	- Lappen, Scheuervlies-Topfschwamm (3g)
 	- Topfschaber-Plektrum
+	- stabiler Dosenöffner Nogent 3 Etoiles 04020H Mini-Kim
 	- alles im Netzbeutel
+- Schneidbrett/Nudelsieb Trangia Multidisc 18 cm
 - 25-cm-Nylon-Löffel mit Topf-schonender Silikonlippe GSI Essential Spoon (26g)
 	- lange Titan-Goeffel/Sporks gut fuer Trekking-Tueten, verkratzen aber Toepfe
 	  und muessen bei Gabel/Messer extra verpackt werden, 
@@ -649,13 +771,20 @@ Gutes Setup auf YT:
 - TODO
 
 
+### Inspiration aus Survival/Bushcraft/Prepping
+
+- TODO
+
+
 
 
 ## Herbst/Winter
 
 - Schutzbleche, gibt welche die kann man schraublos verbauen, z.B. bei Rädern ohne Anbaupunkte
+	- SKS S-Blade / S-Board Schutzblech (aus Kunststoff)
 - "Salzwasser tödlich"
 	- immer gründlich säubern
+	- hatte ein Lager in meinem Steuersatz korrodiert, musste ersetzt werden (Lenker knackte immer beim Einschlagen in beide Richtungen)
 - siehe [Kleidung](#kleidung)
 
 
