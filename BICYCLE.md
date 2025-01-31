@@ -1,6 +1,6 @@
 # Fahrrad
 
-_"Driving a car is like watching a movie ,but riding a bike is like acting in one."_
+_"Driving a car is like watching a movie, but riding a bike is like acting in one."_
 
 
 ## Übersicht
@@ -319,32 +319,54 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 
 ### Werkzeuge
 
+Allgemein:
+
 - Minitool
 	- besser man kauft die Teile einzeln, da Minitool sperrig und Inbus oft zu kurz
-- Luftpumpe:
-	- unterwegs: kleine Teleskop-Pumpe für mehr Power - ideal mit Schlauch, um Ventil zu schonen
-	- Keller: Standpumpe mit Manometer (SKS Rennradkompressor)
+- Schrauberbitset (BOSCH Professional 32tlg.)
 - Drehmomentschlüssel
 	- bis 15 Nm reicht Auslösung für nur Rechtsgewinde (Ratsche links egal); Proxxon ist gut und Preis noch ok;
 	- 15-60 Nm braucht es beim Fahrrad unbedingt Auslösung für Rechts- und Linksgewinde (Pedale, ...), sonst Fehlkauf;
 		- bei manchen großen guenstigeren Rechtsgewinde-Drehmos kann man den Kopf drehen, wenn man 2 Schrauben loest (Proxxon), Sache von 1 Minute
 - hochwertiges Set Inbus-Schlüssel, das genau sitzt und Schrauben nicht ausnudelt (Inbus Original)
-- Kettenverschleißlehre (Rohloff Caliber 2)
-- Montageständer (CXWXC für 70 Euro i.O.)
 - Pinsel
-- Kasettenabzieher
-- Ausrichthilfe für Bremsscheiben
 - Flachrundzange 
 	- z.B. für Splints bei den Bremsen, oder Festhalten von Bowdenzügen; 
 	- Knipex 25 01 125 ist so klein, dass sie noch in die Werkzeug-Satteltasche passt (die kleine Knipex Kobra ist m.M.n. am modernen Fahrrad eher nutzlos)
+- Montagestaender (CXWXC taugt gut und laesst sich kompakt verstauen)
+
+
+Antrieb:
+
+- Kettenverschleißlehre (Rohloff Caliber 2)
+- Kettenschlosszange (Shimano TL-CN10)
+- Kettennieter (Topeak All Speeds Chain)
+- Montageständer (CXWXC für 70 Euro i.O.)
+- ...
+
+Laufrad:
+
+- Luftpumpe:
+	- unterwegs: kleine Teleskop-Pumpe für mehr Power - ideal mit Schlauch, um Ventil zu schonen
+			(habe SKS Supershort + SKS Zipflinger; gibt es aber auch in Einheit)
+	- Keller: Standpumpe mit Manometer (SKS Rennradkompressor)
+	- Tubeless-Kompressor-Pumpe/Druckbehaelter/Booster (Airshot)
+- Kasettenabzieher (UNIOR Kassettenschluessel mit Fuehrungsstift + GEDORE 29cm-Quergriff)
+- Kettenpeitsche/Kettenzange
+- Ausrichthilfe für Bremsscheiben
 - Ventileinsatzschlüssel (Parktool VC-1)
 - Reifenheber (die blauen von Schwalbe sollen stabil genug und felgenschonend sein)
-- Kettennieter (Topeak All Speeds Chain)
-- Kettenschlosszange (Shimano TL-CN10)
+- Speichenspanner
+- Speichennippelwerkzeug (Speichennippeldreher von Innenseite der Felge)
+- Zentrierstaender (UNIOR 1688)
+	- Achsenadapter
+	- Sensor Bremsscheibe
+- Dichtstoffspritze (STANS Notubes Injector) oder direkt aus kleiner 59ml-Dichtmilch-Flasche
+- Scheibenbremsjustierer
 - ...
 
 
-### Schmierstoffkunde
+### Kleine Schmierstoffkunde
 
 - Schmieröle?, Fette? und Wachse senken Reibwiderstand und schützen vor Flugrost:
 	- Kettenglieder
@@ -365,8 +387,12 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 
 Silikonfette
 Silikonspray
+Dichtmilch
+Schraubensicherung
+Entfetter, Bremsenreiniger
 
-WD40 - scheinbar fast immer verkehrt am Fahrrad; gaebe bessere Alternativen, die besser säubern und rückfetten
+
+WD40 scheinbar fast immer verkehrt am Fahrrad; gaebe bessere Alternativen, die besser säubern und rückfetten
 
 
 
@@ -537,7 +563,7 @@ Motorrad-Reiniger mehr und billiger (hab ich damals vom Fahrradladen bekommen, d
 
 Als Hobby-Zentrierstaender habe ich den kleinen von UNIOR geholt, der ist verwindungssteif/steht wie eine 1 
 und laesst sich zusammengelegt schnell wieder in den Schrank packen.
-Professionellere haben Uhren mit beweglichen Fuehlern. 
+Professionellere haben Messuhren mit beweglichen Fuehlern. 
 Manche bauen sich selbst welche aus Systemprofilen. 
 Fuer Andere reicht ein Kabelbinder an der Sitzstrebe.
 
@@ -551,6 +577,15 @@ Fuer Andere reicht ein Kabelbinder an der Sitzstrebe.
 - STI-Brems-Schalthebel-Kombination Shimano
 - mechanische Schaltung/Bremsen
 - innenverlegte Zuege
+
+Gerissener Zug zählt wohl zum Verschleiß und Verschleißteile sind bei Gewährleistung meist ausgenommen. 
+Zusätzliche (freiwillige) Garantien gibt es nur vom Hersteller Giant 
+und auch dort nur auf den Rahmen und paar andere Teile
+(wie z.B. damals mit meinem korrodierten Steuersatz).
+Außerdem bin ich mittlerweile in der Nachweispflicht und wüsste nicht, 
+wie ich nachweisen sollte, dass das Ganze bereits bei Auslieferung mangelhaft war. 
+Angeblich hätten solche Züge tats. nur eine Haltbarkeit von 1-3 Jahren bei sportlicheren Fahrern.
+
 
 ![Abgerissener Schaltzug im STI](BICYCLE-sti.jpg)
 
@@ -912,7 +947,7 @@ siehe Abschnitt zum "Zentrieren"
 ### Sitzknochenabstand ausmessen
 
 
-![Reifen](BICYCLE-saddlefit.jpg)
+![Sitzknochen auf Wellpappe messen](BICYCLE-saddlefit.jpg)
 
 1. Wellpappe auf harten Tisch legen
 	- Wellpappe kostenlos zusammen mit SQLab-Werbematerial bestellbar, gute Werbeidee, die Links bringt: 
@@ -925,13 +960,13 @@ siehe Abschnitt zum "Zentrieren"
 	(bei mir war 3x identischer Wert, 1x 1,5 cm Abweichung)
 
 
-### Breite
+### Optimale Breite
 
 Bei Sitzknochenabstand _x_ (Tabelle von Fahrrad-XXL):
 
 | Fahrradtyp                        | Sitzhaltung          | Sattel-Mindestbreite
 |-----------------------------------|----------------------|---------------------
-| TT                                | aerodynamisch        | _x_ +   0 cm
+| TT/Zeitfahrrad                    | aerodynamisch        | _x_ +   0 cm
 | Rennrad, CX, sportl. Gravel       | sportlich            | _x_ + 1-2 cm
 | MTB, Fitnessbike, Gravel-Reiserad | entspannt-sportl.    | _x_ + 2-3 cm
 | Trekkingrad, Citybike             | leicht vorgeneigt    | _x_ + 3-4 cm
@@ -943,7 +978,6 @@ Bei Zwischengrößen, die größere nehmen
 ### Polsterung, Form, Material
 
 TODO
-
 
 - Flach vs Curved = aero vs aufrechte Sitzposition (commuter, endurance), mehr Bewegung auf Sattel mgl. vs lock-in
 - Kurz vs Lang = Aero-Position (Nase drückt nicht in Weichteile) vs mehr Bewegung und Offroad-Kontrolle mit Oberschenkeln
