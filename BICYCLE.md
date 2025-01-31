@@ -333,7 +333,7 @@ Allgemein:
 - Flachrundzange 
 	- z.B. für Splints bei den Bremsen, oder Festhalten von Bowdenzügen; 
 	- Knipex 25 01 125 ist so klein, dass sie noch in die Werkzeug-Satteltasche passt (die kleine Knipex Kobra ist m.M.n. am modernen Fahrrad eher nutzlos)
-- Montagestaender (CXWXC taugt gut und laesst sich kompakt verstauen)
+- Montagestaender (CXWXC fuer nur 70 Euro taugt gut und laesst sich kompakt verstauen)
 
 
 Antrieb:
@@ -341,8 +341,10 @@ Antrieb:
 - Kettenverschleißlehre (Rohloff Caliber 2)
 - Kettenschlosszange (Shimano TL-CN10)
 - Kettennieter (Topeak All Speeds Chain)
-- Montageständer (CXWXC für 70 Euro i.O.)
+- Kasettenabzieher (UNIOR Kassettenschluessel mit Fuehrungsstift + GEDORE 29cm-Quergriff)
+- Kettenpeitsche/Kettenzange
 - ...
+
 
 Laufrad:
 
@@ -351,8 +353,6 @@ Laufrad:
 			(habe SKS Supershort + SKS Zipflinger; gibt es aber auch in Einheit)
 	- Keller: Standpumpe mit Manometer (SKS Rennradkompressor)
 	- Tubeless-Kompressor-Pumpe/Druckbehaelter/Booster (Airshot)
-- Kasettenabzieher (UNIOR Kassettenschluessel mit Fuehrungsstift + GEDORE 29cm-Quergriff)
-- Kettenpeitsche/Kettenzange
 - Ausrichthilfe für Bremsscheiben
 - Ventileinsatzschlüssel (Parktool VC-1)
 - Reifenheber (die blauen von Schwalbe sollen stabil genug und felgenschonend sein)
@@ -362,7 +362,6 @@ Laufrad:
 	- Achsenadapter
 	- Sensor Bremsscheibe
 - Dichtstoffspritze (STANS Notubes Injector) oder direkt aus kleiner 59ml-Dichtmilch-Flasche
-- Scheibenbremsjustierer
 - ...
 
 
@@ -390,7 +389,7 @@ Silikonspray
 Dichtmilch
 Schraubensicherung
 Entfetter, Bremsenreiniger
-
+Reifenmontierpaste/Reifenmontagefluessigkeit
 
 WD40 scheinbar fast immer verkehrt am Fahrrad; gaebe bessere Alternativen, die besser säubern und rückfetten
 
