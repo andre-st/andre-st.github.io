@@ -407,6 +407,10 @@ Kein Verschleißteil, aber proprietär und zu bevorraten, weil Bezug schwer werd
 - Sitzstangenschraube (beim Revolt, Adapter auch?)
 
 
+![Schaltauge](BICYCLE-derhang.jpg)
+
+
+
 Auf Verschleissteile gibt es idR. keine Gewaehrleistung vom Fahrrad-Haendler.
 
 
@@ -545,10 +549,10 @@ Fuer Andere reicht ein Kabelbinder an der Sitzstrebe.
 ### Bowdenzuege ersetzen
 
 - STI-Brems-Schalthebel-Kombination Shimano
+- mechanische Schaltung/Bremsen
 - innenverlegte Zuege
 
-![AeroPress](COOKING-sti.jpg)
-
+![Abgerissener Schaltzug im STI](BICYCLE-sti.jpg)
 
 
 Schaltzug:
@@ -906,6 +910,9 @@ siehe Abschnitt zum "Zentrieren"
 ## Sattel
 
 ### Sitzknochenabstand ausmessen
+
+
+![Reifen](BICYCLE-saddlefit.jpg)
 
 1. Wellpappe auf harten Tisch legen
 	- Wellpappe kostenlos zusammen mit SQLab-Werbematerial bestellbar, gute Werbeidee, die Links bringt: 
