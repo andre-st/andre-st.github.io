@@ -363,6 +363,12 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 		(mein Bikeshop hat mal _synthetisches_ Fett auf Steuerlager gegeben?)
 
 
+Silikonfette
+Silikonspray
+
+WD40 - scheinbar fast immer verkehrt am Fahrrad; gaebe bessere Alternativen, die besser säubern und rückfetten
+
+
 
 ### Inspektionen
 
@@ -381,6 +387,7 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 ### Verschleissteile (bevorraten)
 
 - Kette
+- Bowdenzug (Schaltzug 1-3 Jahre Lebensdauer bei sportlichen Fahrern/Pendlern/...)
 - Kasette
 - Bremsbelaege
 - Bremsscheibe 
@@ -398,6 +405,9 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 Kein Verschleißteil, aber proprietär und zu bevorraten, weil Bezug schwer werden könnte:
 - Schaltauge (Sollbruchstelle zw. Rahmen und Schaltkäfig, falls Rad zur Seite fällt; kann verbiegen und brechen)
 - Sitzstangenschraube (beim Revolt, Adapter auch?)
+
+
+Auf Verschleissteile gibt es idR. keine Gewaehrleistung vom Fahrrad-Haendler.
 
 
 
@@ -518,11 +528,33 @@ Motorrad-Reiniger mehr und billiger (hab ich damals vom Fahrradladen bekommen, d
 
 ### Felge zentrieren / Truing
 
-- Zentrierständer / Wheel Truing Stand
-- TODO
+
+![Reifen](BICYCLE-truing.jpg)
+
+Als Hobby-Zentrierstaender habe ich den kleinen von UNIOR geholt, der ist verwindungssteif/steht wie eine 1 
+und laesst sich zusammengelegt schnell wieder in den Schrank packen.
+Professionellere haben Uhren mit beweglichen Fuehlern. 
+Manche bauen sich selbst welche aus Systemprofilen. 
+Fuer Andere reicht ein Kabelbinder an der Sitzstrebe.
+
 - s. Parktool YouTube
 
 
+
+
+### Bowdenzuege ersetzen
+
+- STI-Brems-Schalthebel-Kombination Shimano
+- innenverlegte Zuege
+
+![AeroPress](COOKING-sti.jpg)
+
+
+
+Schaltzug:
+
+
+Bremszug:
 
 
 
@@ -576,14 +608,20 @@ bei Mehrtagesstouren bei meinen "Reine-Lehre"-Kapazitäten nur mit Biwaksack
 Nötigt auch viel zu Tetris.
 Oder eben dann Hybridlösung.
 
-Viele Taschen zerstören Rad-Ästhethik (leicht und schlank), 
-die vielleicht mitbedenken
+Viele Taschen zerstören die Rad-Ästhethik (leicht und schlank).
+Idealerweise in einer anderen Farbe als der Rahmen (z.B. schwarzer Rahmen, grüne Taschen).
+So verschwimmt die Tasche nicht mit dem Rahmen und laesst das Rad klumpiger erscheinen.
+Der Rahmen setzt sich besser ab, das schlanke Rad bleibt erkennbar.
+
+Entscheiden: Komfort waehrend der Fahrt (wenig Gewicht/Ausruestung) oder nach der Fahrt (viel Gewicht).
+Vielleicht braucht es mehr Komfort am Ende, weil man wenig waehrend der Fahrt hatte.
+Andererseits ist ein Faltstuhl vor dem eigenen Zelt schon eine tolle Sache, um lesend oder mit einem Podcast Zeit tot zu schlagen.
 
 
 
 ### Hybridlösung
 
-- Gepäckträger + 30/35 Liter Rucksack oder Drybag mit Trage-Gurten
+- Gepäckträger + 15-35 Liter Rucksack oder Drybag mit Trage-Gurten
 	- viel mehr Platz als in der Arschrakete
 	- "Hike-a-Bike" (klettern etc) viel einfacher mit Rucksack auf dem Rücken 
 		statt auf dem Rad, oder 2x laufen
@@ -593,12 +631,11 @@ die vielleicht mitbedenken
 	- Ästhetik nicht hässlicher als die Arschrakete
 	- siehe YouTube Tristan Ridley Perfect Setup
 
-- Earthpak 30l vglw. günstig, wirkt robust (wird sich zeigen)
 - Ortlieb Quick Rack: 15 Sekunden Anbau, 5 Sekunden Abbau ohne Schraubengewinde auszuleiern,
   verschandelt das Rad auch nicht zu stark; musste den Stab etwas kürzen (hab meine Flex genommen, 
   Alu macht keine Funken; kleine Metallsäge oder Drehmel ginge auch);
   Extragewicht ist noch ok (real ~650 g)
-- ggf. Mini-Panniers, jedenfalls keine Maxi-Panniers (Bike-Touring)
+- ggf. Mini-Panniers oder Rucksack-Molle-Pouches, jedenfalls keine Maxi-Panniers (Bike-Touring)
 
 
 
@@ -676,10 +713,14 @@ Gutes Setup auf YT:
 - Mehrtagestour 
 	- in mehrere Tages-Touren aufteilen (Ziel=Schlafplatz?)
 	- 3+ Schlafplätze pro Tag planen: gute/normale/schlechte Tagesfitness
+	- an Bahnhoefen entlang planen, damit man schnell im Zug zurueckfahren kann (Infekt etc)
+	- an Trinkwasser/Resupply-Stellen entlang planen: Friedhoefe, Imbiss, Tankstellen, Supermaerkte, ...
+	- Fewos/Hotels spontan erst am vorabend oder selben Tag buchen (wenn die Strecke und Fitness klar ist) = weniger Stress; 
+			scheinbar finde sich immer was, zur Not wildcampen
 	
 - Navigation: Wahoo Elemnt Bolt V2
 	- separat zum Handy: bessere/separate Akkuzeit, wasserdicht, kleiner etc
-	- POI-Funktionalitaet eher schlecht
+	- POI-Funktionalitaet eher schlecht v.a. mit Hinblick auf Resupply- und Schlafplaetze-Planung
 		- Herzchen ueber die App: https://www.reddit.com/r/wahoofitness/comments/vi12mx/just_found_how_to_add_pois_on_my_elmnt_shaped_is/
 		- mit Powerbutton: "Save my location"
 		- gibt Hacks im Internet mit ADB (Bolt ist ein Android-Geraet) und selbstgenerierten Karten und POI-Symbolen (Tanken, Baecker, ..., Wasserstellen)
@@ -719,6 +760,8 @@ Gutes Setup auf YT:
 
 ### Mein Kochset aktuell:
 
+Groessere Version:
+
 - 1,5L-Duossal-Topf Trangia (236g) mit: 
 	- 550ml-Titanbecher Toaks (73g)
 	- 100g-Gaskartusche Optimus
@@ -737,8 +780,43 @@ Gutes Setup auf YT:
 	  um nicht durch Drybag o.a. durchzustossen
 - Wasserfilter-Set Katadyn Hydrapak 2l
 - Kaffee-Los 125-ml-Schraubbehälter
-- 1,2l Ziploc-Tueten IKEA Istad
-	- z.B. Rossmann Früchte-Müsli, Dehydriertes zusammengekippt, ...
+- 1,2l Ziploc-Tueten IKEA Istad mit Lebensmitteln, Dehydriertes zusammengekippt, ...
+
+
+Kleine Version:
+
+- schmaler Titan-Topf:  Boundless Voyage 900 ml _oder_ Toaks 550 ml
+- 100g-Gaskartusche Optimus
+- Zündstahl, Feuerzeug BIC 
+- Stove Edelrid Kiro St (80g)
+- Kaffee-Los 125-ml-Schraubbehälter
+- Kartuschenfuß MSR Universal (33g)
+- stabiler Dosenöffner Nogent 3 Etoiles 04020H Mini-Kim
+- Titan-Goeffel
+- 1,2l Ziploc-Tueten IKEA Istad mit Nudeln, ...
+
+
+Mini-Version:
+
+- 1,2l Ziploc-Tueten IKEA Istad mit Rossmann Früchte-Müsli und (Hafer-)Milchpulver: 
+	Wasser in die Tuete und direkt aus der Tuete essen
+
+
+
+### Lebensmittel
+
+Ziel: maximale Kohlenhydrate (primaer) und Proteine (sekundaer) auf kleinstem Stauraum bei geringem Gewicht
+
+
+Kalte Kueche &gt; warme Kueche (Kochgelegenheiten, Stauplatz, Dauer, ...):
+- Muesli mit Milchpulver oder Haferdrinkpulver, Mandeldrinkpulver leider zu mehlig, loest sich nicht gut; in Ziploc-Tuete
+- Thunfischsalat mit Couscous
+- Powergels, Proteinriegel
+
+Warm:
+- Pesto
+- chin. Nudeln, die unter 5 Minuten kochen
+- ...
 
 
 
@@ -803,6 +881,25 @@ Gutes Setup auf YT:
 	- Shore­Härte (z.B. 60a), je höher, desto weicher das Gummi
 - Drahtwulst vs. Faltwulst
 - wann wechseln?
+
+
+
+![Reifen](BICYCLE-wheel.jpg)
+
+Ich hatte mir bei Kleinanzeigen.de ein Hinter-Laufrad (mit Kassette und Bremsscheibe) fuer _25 Euro_ besorgt, 
+an dem ich lernen und ueben konnte (anstelle meiner teuren Räder): 
+Mantel/Schlauch (de)montieren, 
+Zentrieren der Felge und der Bremsscheibe, 
+Einspeichen, CO2-Kartusche mal in Action erleben, 
+Gefuehl fuer Lage- und Groessenverhaeltnisse entwickeln, 
+die Kassette abziehen usw.
+
+Die Felge entsprach der Groesse meiner Raedern, war allerdings breiter.
+
+Vor Kauf vor Ort habe ich auf Felgenrisse bei den Nippeln gesucht, Freilaufgaengigkeit, Speichenspannung mit den Fingern geprueft.
+Nach der Saueberung sah es fast wie neu aus, fahren wuerde ich damit aber nicht.
+
+siehe Abschnitt zum "Zentrieren"
 
 
 
