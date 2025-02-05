@@ -210,6 +210,15 @@ Nicht-StVoZ-Alternativen:
 
 ## Kleidung
 
+Kleine Materialkunde:
+| Material               | Trocknung | Waerme | Kuehlung | bleibt geruchsarm | Hautgefuehl | Preis   | Kommentar
+|------------------------|-----------|--------|----------|-------------------|-------------|---------|----------------
+| Baumwolle              | \*        | \*\*\* | \*\*\*   | \*                | \*\*        | \*\*\*  | 
+| Merino-Wolle           | \*\*      | \*\*\* | \*\*\*   | \*\*\*            | \*\*\*      | \*      | 
+| ...                    |           |        |          |                   |             |         | 
+
+
+
 Helm:
 	- sollte einfarbig weiss oder schwarz sein, damit man ihn mit allen Kleidern kombinieren kann; sonst beißen sich evtl. Farben
 	- Größe gut, wenn man noch Spiel beim Einstellrädchen hat:
@@ -290,7 +299,8 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 	- mit SM-SH56-Cleats (erlaubt schräge Panikausstiege, taugt trotzdem sehr gut zum Pedalziehen)
 	- Boa-Verschlussmechanismus evtl. besser als Schnürren; 
 		meine Schnürren verhedderten sich schon mal im Kettenblatt, nicht so witzig; 
-		seither knote ich immer an den Rad-abgewandten Seiten statt auf der Schuhmitte
+		seither knote ich immer an den Rad-abgewandten Seiten statt auf der Schuhmitte;
+		nach einem Jahr habe ich die Schlaufe auf der Schuhezunge entdeckt, unter die man Schlaufen und Enden steckt und dort fixiert
 - Herbst/Winter:
 	- Langaermel-Trikot orange (wobei dann eh meist Windweste oder Jacke drueber ist, highvis-Trikot eher sekundaer; 
 		hatte nur 1 oder 2x Windstopperhemd drunter, Tage schnell kaelter geworden)
@@ -411,6 +421,8 @@ WD40 scheinbar fast immer verkehrt am Fahrrad; gaebe bessere Alternativen, die b
 
 ### Verschleissteile (bevorraten)
 
+Auf Verschleissteile gibt es idR. keine Gewaehrleistung vom Fahrrad-Haendler.
+
 - Kette
 - Bowdenzug (Schaltzug 1-3 Jahre Lebensdauer bei sportlichen Fahrern/Pendlern/...)
 - Kasette
@@ -428,15 +440,14 @@ WD40 scheinbar fast immer verkehrt am Fahrrad; gaebe bessere Alternativen, die b
 
 
 Kein Verschleißteil, aber proprietär und zu bevorraten, weil Bezug schwer werden könnte:
-- Schaltauge (Sollbruchstelle zw. Rahmen und Schaltkäfig, falls Rad zur Seite fällt; kann verbiegen und brechen)
+- Schaltauge (Sollbruchstelle zw. Rahmen und Schaltkäfig, falls Rad zur Seite fällt; kann verbiegen und brechen)  
+  ![Schaltauge](derhang.jpg)
 - Sitzstangenschraube (beim Revolt, Adapter auch?)
 
 
-![Schaltauge](BICYCLE-derhang.jpg)
-
-
-
-Auf Verschleissteile gibt es idR. keine Gewaehrleistung vom Fahrrad-Haendler.
+Stahl rostet,
+Alu rostet nicht aber oxidiert weißlich - diese Patina sieht nicht gut aus, waere aber nicht weiter schlimm (rostet nicht durch wie Stahl),
+Carbon? Titan?
 
 
 
@@ -558,7 +569,7 @@ Motorrad-Reiniger mehr und billiger (hab ich damals vom Fahrradladen bekommen, d
 ### Felge zentrieren / Truing
 
 
-![Reifen](BICYCLE-truing.jpg)
+![Reifen](truing.jpg)
 
 Als Hobby-Zentrierstaender habe ich den kleinen von UNIOR geholt, der ist verwindungssteif/steht wie eine 1 
 und laesst sich zusammengelegt schnell wieder in den Schrank packen.
@@ -586,13 +597,122 @@ wie ich nachweisen sollte, dass das Ganze bereits bei Auslieferung mangelhaft wa
 Angeblich hätten solche Züge tats. nur eine Haltbarkeit von 1-3 Jahren bei sportlicheren Fahrern.
 
 
-![Abgerissener Schaltzug im STI](BICYCLE-sti.jpg)
+![Abgerissener Schaltzug im STI](sti.jpg)
+
+
+- Schaltzug 4mm, Bremszug 5mm, also das dickere, kann beim Erkennen des Kabels helfen, wenn es unterm Lenkerband irgendwo hinfuehrt...
+- Radien beachten, also das alles schoen rund und nicht zu eng laueft, nichts knicken, sonst reibt der Zug 
+- 
+
+
+Begriffe:
+
+- Drahtzug / Seil: Geflecht aus vielen duennen Stahldraehten
+- Aussenhuelle
+- Zugnippel
+- (Huellen-)Endkappe, ggf. gedichtet, schliessen die Huellen, so dass nur noch der blanke Zug durchguckt, 
+	sind oft auch noetig, um den Bowdenzug in Fuehrungen usw. einzustecken;
+	die Endkappen gibt es in verschiedenen Ausfuehrungen, nicht nur modisch begruendete
+- Zugend-Huelse verhindert Ausfranzen des Zugs am Ende, schuetzt vor allem den User vor Verletzungen
+
+
+Nicht verkehrt "Sets" zu kaufen, da ist vieles drin, was man vielleicht vergessen haette.
+
+
+Werkzeuge (teils optional):
+
+- Bowdenzug-Cutter, evtl. mit Crimp-Funktion fuer Huelsen und (Metall-)Kappen (z.B. Gedore GEDORE Bowdenzug-Zange 170 mm 8317-160 JC)
+	fuer ein sauberes Schnittbild, damit der Zug nicht ausfranzt bzw. die Huelle murks wird;
+	allgemeine Kabelscheren oder Seitenschneider nur mit Vorsicht
+- Feile bzw. Schleifpapier, um eine geschnittene Huelle eben/glatt zu machen, ideal bis gleichauf mit Metal innen, und nichts schief haengt
+- konische Nadel / Pieker, um die Huelle wieder rund zu oeffnen, falls sie beim Cutten zusammengedrueckt wurde
+- 1-2mm Schrumpfschlauch oder Stossverbinder, 
+	um alten und neuen Zug zu verbinden und beim Ausfaedeln des alten Zugs den neuen Zug gleich nachzuziehen, 
+	hauptsaechlich bei innenverlegten Zuegen;
+	beim Schrumpfschlauch nur die Enden schrumpfen und in der Mitte nicht so sehr, sonst rutschen die Zuege aus dem Schrumpfschlauch raus oder die Verbindung wird beeintraechtigt.
+	daher bisschen Zugfestigkeit testen; wenn ausreichend fest, funktioniert es auch ganz gut, damit durch kleine Loecher zu kommen
+- Haken o.a., um Zuege aus Oeffnungen rauszufischen
+- Lineal, um beim Ablaengen die alte Zughuellen als Referenz fuer neue zu nehmen (kann man auch direkt zusammenhalten, wenn es einfacher geht)
+- evtl. was zum Schmieren der Zuege in den Huellen, aber z.B. Shimano OT-SP41 soll nicht geschmiert werden, da die von Haus aus vorgeschmiert kommen, Ol ist sogar nachteilig, zieht Dreck rein
+- Inbus-Schluessel fuer Schraube am Schaltkaefig, alles Andere wird bei meinem Rad sonst nur mit der Hand rausgezeogen, gesteckt und gefaedelt
+- Silikonspray zum Schmieren der Zugaufnahme im Bremsschalthebel, kein Öl; der Zug macht auch an der Stelle noch kleine Bewegungen
+- Druckluft zum Ausblasen von Drahtresten (mit Vorsicht verwenden: nur bei Zugfuehrung einblasen)
+
+
+Gerissenen Schaltzug im STI-Bremsschalthebel entfernen:
+
+den Griffgummi kann man nach vorne und nach hinten (richtung Lenker) wickeln.
+den Griffgummi kann man direkt unter dem Hebel greifen und etwas nach vorne Ziehen, dann loest sich der Gummi auf der Hood-Spitze beim Bremshebel.
+
+Auf der Innenseite des Hebels ist eine helle Klappe, die kann man mit den Fingern oder etwas Spitzel heraushebeln.
+
+Kleinen Hebel nutzen, damit die Zugnippelaufnahme Richtung Außenoeffnung kommt (von Außenseite auf den Schalter gesehen)
+
+Von Unten auf den Hebel geschaut befindet sich ein Service-Fenster, verdeckt mit eine Klappe mit Schraube: Nach Loesen kommt man an das Schaltwerk heran
+und kann abgerissene Zugteile vorsichtig herausziehen.
+Um diese Klappe wieder anbringen zu koennen sollte man den Griffgummi erst nach hinten Richtung Lenker wickeln.
+
 
 
 Schaltzug:
 
+Shimano-Zuege sind 1,2 mm - viele andere nur 1,1mm, macht die Verwendung mit markenfremden Aussenhuellen evtl. schwieriger
+Jagwire LEX Aussenhuellen waeren wohl mit Shimano bzw. max 1,2mm kompatibel. 
+Mein Fahrrad kam mit Jagwire-Huellen trotz Shimano-Gruppe ausm Radladen.
+
+TODO
+
+Beim Einfaedeln immer schoen Radien lassen, nichts knicken;
+wenn man eng um die Ecke muss, erstmal eine Schlaufe drehen und den Enden Spielraum lassen, der Zugnippel muss nicht gleich eingelegt sein;
+hab das erst am Ende gemacht, wenn alles verlegt war;
+
+
+Schalttest mit Finger am Zugende, nur fuers Auge nicht gleich gut erkennbar
+
+kleinste Ritzel und den Zug dann leicht gespannt fixieren; Rest ueber Feineinstellschraube
+
+s. Schaltung einstellen
+
+
 
 Bremszug:
+
+
+
+
+### Dichtmilch erneuern
+
+![Felge mit Dichtmilch-Datum-Etikett](tubeless.jpg)
+
+Ich notiere das Datum meiner letzten Erneuerung direkt auf den Laufraedern:
+Das Etikett besteht aus einem schwarzen Stueck 3M 33+ Scotch Elektroisolierband mit 19mm Breite
+und einem weissen Schriftzug aus einem Edding 780 Glanzlackmarker weiss 0,8mm Rundspitze.
+
+Nach einigen Monaten trocknet die Milch aus.
+
+Mit Dichtmilch sollte man regelm. fahren und nicht lange im Keler stehen lassen, 
+sonst bildet sich im Reifen am Boden eine Verklumpung und damit eine Unwucht.
+
+
+Nachfuellen:
+
+- man kann haeufiger direkt nachfuellen, das Gewicht getrockneter alter Dichtmilch betraegt nur wenige Gramm und ist vernachlaessigbar.
+- es gibt 59ml-Flaschen direkt mit Spitze, die man in die Ventiloeffnung druecken kann:
+	1. Luft rauslassen
+	2. Ventileinsatz herausschrauben
+	3. Ventil auf 12 Uhr, damit man mit der Flasche nicht rumsaut
+	4. Flasche ansetzen und zusammen mit dem Ventil auf 6 Uhr drehen
+	5. ausdruecken
+	6. Ventiloeffnung bisschen saeubern, z.B. mit Ohrstaebchen
+	7. Ventileinsatz reinschrauben
+	8. aufpumpen, nicht knallvoll
+	9. paar mal Rad seitlich nach vorne wenden, dann wie uhr drehen, dann zu sich drehen, wieder wie uhr drehen, wiederholen
+
+
+
+Saeubern:
+
+
 
 
 
@@ -609,6 +729,10 @@ Bremszug:
 
 - je leichter das Rad, umso besser: Gewicht nervt bei Anstiegen und 
    ermuedet ueber lange Strecken schneller und geht auch staerker auf die Substanz/Gelenke etc.
+
+- die einzige Form des Reisens: zu Fuss ist man nach Stunden noch am selben Ort, im Auto fliegt alles vorbei, Flugzeug oder Zug ist kein Reisen sondern Transport (Reisender vs Passagier),
+	auf dem Fahrrad reist man langsam um alles aufzunehmen, aber schnell genug, um vorwaerts zu kommen
+
 
 
 
@@ -922,7 +1046,7 @@ Warm:
 
 
 
-![Reifen](BICYCLE-wheel.jpg)
+![Reifen](wheel.jpg)
 
 Ich hatte mir bei Kleinanzeigen.de ein Hinter-Laufrad (mit Kassette und Bremsscheibe) fuer _25 Euro_ besorgt, 
 an dem ich lernen und ueben konnte (anstelle meiner teuren Räder): 
@@ -946,7 +1070,7 @@ siehe Abschnitt zum "Zentrieren"
 ### Sitzknochenabstand ausmessen
 
 
-![Sitzknochen auf Wellpappe messen](BICYCLE-saddlefit.jpg)
+![Sitzknochen auf Wellpappe messen](saddlefit.jpg)
 
 1. Wellpappe auf harten Tisch legen
 	- Wellpappe kostenlos zusammen mit SQLab-Werbematerial bestellbar, gute Werbeidee, die Links bringt: 
@@ -1001,7 +1125,9 @@ TODO
 
 ## Lenker
 
-### Aerolenker / TT-Bars
+### Aerolenker / TT-Bars / Auflieger
+
+![Auflieger](tt.jpg)
 
 - Bequemlichkeit: zusätzl. Griffposition/Entlastung der Handgelenke
 - Aeroposition: mehr Speed, unterm Wind wegtauchen
