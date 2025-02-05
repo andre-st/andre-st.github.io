@@ -698,7 +698,7 @@ Nachfuellen:
 
 - man kann haeufiger direkt nachfuellen, das Gewicht getrockneter alter Dichtmilch betraegt nur wenige Gramm und ist vernachlaessigbar.
 - es gibt 59ml-Flaschen direkt mit Spitze, die man in die Ventiloeffnung druecken kann:
-	1. Luft rauslassen
+	1. Luft rauslassen, sonst fliegt einem der Ventileinsatz um die Ohren
 	2. Ventileinsatz herausschrauben
 	3. Ventil auf 12 Uhr, damit man mit der Flasche nicht rumsaut
 	4. Flasche ansetzen und zusammen mit dem Ventil auf 6 Uhr drehen
@@ -1134,6 +1134,7 @@ TODO
 	- schmale Figur wichtiger als tiefe Sitzposition
 	- kein Geschwindigkeitsvorteil, wenn man Position nicht lange fahren kann / zu unbequem ist, deswegen vllt. langsamer tritt
 	- je nach Sattel drückt evtl Spitze; gibt Stubby/Short-Nose Saddles (ISM), gibt speziellen Redshift-Seat-Post
+	- paar km/h Gewinn, am Ende macht aber die Fitness den Unterschied
 - Armpads müssen Ellenbogen aufnehmen, nicht nur Unterarme, sonst Belastung Schultern statt Entlastung (Stütze über Skelett)
 	- Abhängigkeit von der Rad-Geometrie
 	- Adjustierbarkeit der Arm-Pads
@@ -1148,15 +1149,15 @@ TODO
 - Radästhetik schlechter; Sportrad eigtl. max. minimalistisch und 'Unterlenker vs TT-Bars'?; 
 	- bei Gravel baut das Rad dadurch optisch nach rechts-oben auf wie Sprungschanze in Himmel, schöner wäre parallel zum Boden
 	- winkel ausrichten am oberrohr falls mgl./noch sinnvoll
+	- weiterer Bauchstein zur Fred-Werdung
 - Klemmung mit Montagepaste, einheitliche Gaps bei den Schraubklemmen beachten
 	- Schutz der Lenkerstange mit Elektroisolierbar fraglich bzgl. Haltfestigkeit
 - verwende Profile Design T5+ mit dazugehörigem Profile Design Lenkerband; Stangen sehr nah beeinander aber Pads max Außen und zum Körper,
 	so liegen/"fallen" meine Arme natürlicher = anstrengungsfreiere Position;
+- Totgewicht in der Stadt und Offroad
 
 
-
-
-
+Habe den Auflieger wieder abgebaut, auch wenn er Spass macht. Schlankeres Bike gefaellt mir letztlich besser.
 
 
 
