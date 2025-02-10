@@ -377,31 +377,35 @@ Laufrad:
 
 ### Kleine Schmierstoffkunde
 
-- Schmieröle?, Fette? und Wachse senken Reibwiderstand und schützen vor Flugrost:
-	- Kettenglieder
-	- Radachsen
-	- ...
-- Feinöle/Kriechöle für Gelenke/Federn
-	- Schaltkäfig
-	- Federn in SPD-Pedalen
-- Montagepasten erhöhen Reibwiderstand, verhindern Festfressen/Festrosten, erlauben weniger Drehmo/Schraubenvorspannkraft (materialschonender)
-	- Alu-Auflieger auf Alu-Lenker festmachen
-	- Sattelklemmen
-	- Sattelstütze im Sitzrohr
-	- Gewinde z.B. Pedale in Kurbel (Shimano Anti-Seize)
-- Unvertraeglichkeiten
-	- kein Fett an Carbon, beschaedige Fasern 
-		(mein Bikeshop hat mal _synthetisches_ Fett auf Steuerlager gegeben?)
 
-
-Silikonfette
-Silikonspray
-Dichtmilch
-Schraubensicherung
-Entfetter, Bremsenreiniger
-Reifenmontierpaste/Reifenmontagefluessigkeit
-
-WD40 scheinbar fast immer verkehrt am Fahrrad; gaebe bessere Alternativen, die besser säubern und rückfetten
+|-----------------------------------|--------------------|--------------------|------------------------------|---------------------|-----------------------
+| Produkt                           | Typ                | Hauptzweck         | Do                           | Don't               | Kommentar
+|-----------------------------------|--------------------|--------------------|------------------------------|---------------------|-----------------------
+| Shimano Anti-Seize                | Montagepaste       | Trennmittel        | Gewinde zw. Kurbel und Pedal, <br>Bolzen Sattelklemmung, <br>Sattelstuetze-Sitzrohr-Klemmung, <br>Gewinde Kurbelarme, <br> Vorbauschrauben | alles mit Carbon (macht Oberflaeche zu glatt), <br>Sattelstreben-Klemmflaeche | Montagepaste mit niedrigem Reibungswert; verhindert Korrosion und Kaltverschweissung von Alu und Stahl; trennt Kontaktflaechen/Festbacken von Metallen = leichtere Enfernbarkeit; nur geringe Schmierung fuer bewegl. Teile (anders als Fett), Partikel koennten sogar Lager/Gewinde beschaedigen; zuvorderst Trennmittel; daempfende Schicht reduziert Knarzgeraeusche von Mikrobewegungen zw Stuetze und Rahmen
+| Motorex Anti-Seize                | Montagepaste       | Trennmittel        | " " "                        | " " "               | " " "
+| ??? Alu-Montagepaste              | Montagepaste       | Reibung erhoehen   | Klemmflaeche Alu-Alu (z.B. TT-Aerobars/Auflieger)     |   | Montagepaste mit hohem Reibungswert; erlaubt Anzug mit weniger Drehmoment/Schraubenvorspannkraft = materialschonender;  alternativ Silikonpaste mit hohem Reibungswert 
+| Muc-off Carbon Gripper            | Montagepaste       | Reibung erhoehen   | Klemmflaeche Carbon          | Klemmfläche Alu-Alu (knarzt)  | Montagepaste mit hohem Reibungswert; erlaubt Anzug mit weniger Drehmoment/Schraubenvorspannkraft = materialschonender
+| WD40 Silikonspray                 |                    |                    |                              |                     |
+| WD40 Rostentferner                |                    |                    |                              |                     | 
+| WD40 Kontaktspray                 |                    |                    |                              |                     |
+| WD40 klassisch                    |                    |                    |                              | alles               |
+| Brunox Turbo-Spray                |                    |                    |                              |                     | 
+| Inbus Schraubensicherung          | Schraubensicherung | Einkleben          | Bremsscheiben-Bolzen, Cleats-Schrauben (Schuh)  |                     | 
+| Liquimoly LM47 Langzeitfett       | Fett               | Reibung reduzieren |                              | Carbon (Fett beschaedigt Fasern)  | 
+| Liquimoly Dry Lube                | Öl                 | Reibung reduzieren | Kette im Sommer              | Kassetten-Ritzel    | punktuell auf Kettglieder, nur dort muss Öl hin, sonst sauber
+| Liquimoly Wet Lube                | Öl                 | Reibung reduzieren | Kette im Herbst/Winter       | " " "               | " " "
+| Liquimoly Multi-Spray Plus 7      |                    |                    |                              |                     |
+| Nigrin Bike-Care Fahrradreiniger  |                    |                    |                              |                     |
+| Nigrin Bike-Care Feinöl           | Öl                 |                    | Umwerfer-Federn?, <br>SPD-Pedal-Federn?, Umwerfer-Gelenke?  |            | 
+| Würth Bremsenreiniger             | Entfetter          | Entfetten          | Bremsscheiben                |                     |
+| Würth Industrie Clean             |                    |                    | Etiketten, Kleberueckstaende |                  |
+| ??? synthetisches Fett            |                    |                    |                              |                     | mein Bikeshop hat mal _synthetisches_ Fett auf Steuerlager meiner Carbongabel gegeben?
+| ??? Silikonfett                   |                    |                    |                              |                     |
+| Giant Tire Sealant                | Dichtmilch         | Verschließen       | Tubeless-Reifen              |                     |
+| ??? Reifenmontierpaste/-fluessigk |                    |                    |                              |                     |
+| ??? Kettenwachs                   | Wachs              |                    |                              |                     | Alternative zum Kettenoel
+| ??? Steuersatzfett                | Fett               |                    |                              |                     | 
+| Isopropyl-Alkohol, Hand-Sanitizer |                    |                    | Bremsscheiben, Hoods-Griffgummi-Inneres fuer Montage gleitfaehig machen | |
 
 
 
@@ -423,20 +427,35 @@ WD40 scheinbar fast immer verkehrt am Fahrrad; gaebe bessere Alternativen, die b
 
 Auf Verschleissteile gibt es idR. keine Gewaehrleistung vom Fahrrad-Haendler.
 
-- Kette
-- Bowdenzug (Schaltzug 1-3 Jahre Lebensdauer bei sportlichen Fahrern/Pendlern/...)
-- Kasette
-- Bremsbelaege
-- Bremsscheibe 
+- Kette laengt sich mit der Zeit, Schaltung wird ungenauer, Ritzel nutzen sich staerker ab
+- Bowdenzug reisst
+	- 2x Schaltzug (1-3 Jahre Lebensdauer bei sportlichen Fahrern/Pendlern/...), Fein-Einstellschraube evtl. wiederverwendbar
+	- 2x Bremszug
+- Kassette(nritzel) wird abgeschliffen/verformt und beeintraechtigt Schaltung
+- Bremsbelag wird duenner/abgeschliffen
+- Bremsscheibe wird duenner/abgeschliffen 
 	- Breite min 1,5 mm, oder Min-Wert steht drauf, oder Kaufbreite-(Kaufbreite\*0,35), 
 	  Messung nicht ueber die Raender (bleiben dick) sondern quer auf die Bremsflaeche
-- Schaltungsrädchen
-- Kettenblaetter
-- Lenkerband
-- Haubenabdeckungen Gummi bei den Bremsschalthebeln
-- Reifenmantel (Profil)
-- Ventileinsätze (koennen z.B. durch Tubeless-Dichtmilch verstopfen oder beim Luftpumpen unguenstig verbiegen)
-- seltener: Speichen, Speichennippel
+- Schaltungsrädchen (ideal selten)
+- Kettenblatt wird abgeschliffen/verformt
+- Lenkerband loest sich auf, sitzt nicht mehr, reisst
+- Haubenabdeckungen/Griffgummi (Bracket Covers) bei den Bremsschalthebeln werden ungleichmaessig abgerieben, nicht huebsch
+- Reifenmantel (Profil) wird abgerieben 
+	- seltener Felgenband kann reissen, z.B. bei Wartung
+	- Schlauch reisst ein oder Tubeless-Dichtmilch trocknet ein
+- Ventileinsätze verstopfen durch Dichtmilch, verbiegen beim Aufpumpen oder brechen sogar ab, werden undicht
+- Speichen brechen (ideal selten), Speichennippel mit Speichenresten nach Bruch, Korrossion
+- Kleinkram:
+	- Endhuelsen fuer Schaltzug/Bremszug
+	- Endkappen in versch. Ausfuerhungen fuer Schaltzug/Bremszug
+	- Schrauben Flaschenhalter
+	- Ventilkappen
+	- ...
+- Pflegeprodukte:
+	- Schmierstoffe (s. Abschnitt "Kleine Schmierstoffkunde")
+	- Putzmittel (s. Abschnitt "Radwaesche")
+	- Werkstatt-Handschuhe
+	- ...
 
 
 Kein Verschleißteil, aber proprietär und zu bevorraten, weil Bezug schwer werden könnte:
@@ -614,6 +633,9 @@ Begriffe:
 	sind oft auch noetig, um den Bowdenzug in Fuehrungen usw. einzustecken;
 	die Endkappen gibt es in verschiedenen Ausfuehrungen, nicht nur modisch begruendete
 - Zugend-Huelse verhindert Ausfranzen des Zugs am Ende, schuetzt vor allem den User vor Verletzungen
+- Schaltkaefig
+- Fein-Einstellschraube
+- Klemmschraube / Klemmung
 
 
 Nicht verkehrt "Sets" zu kaufen, da ist vieles drin, was man vielleicht vergessen haette.
@@ -651,6 +673,11 @@ Kleinen Hebel nutzen, damit die Zugnippelaufnahme Richtung Außenoeffnung kommt 
 Von Unten auf den Hebel geschaut befindet sich ein Service-Fenster, verdeckt mit eine Klappe mit Schraube: Nach Loesen kommt man an das Schaltwerk heran
 und kann abgerissene Zugteile vorsichtig herausziehen.
 Um diese Klappe wieder anbringen zu koennen sollte man den Griffgummi erst nach hinten Richtung Lenker wickeln.
+
+Drahtzug maximal 3-5 cm (inkl. Endhuelse) hinter der Klemmung überstehen lassen;
+kuerzer wirkt professioneller: sauberer (kein unnoetiger Drahtueberschuss), 
+weniger Risiko fuer Kontakt mit Bauteilen, Kleidung oder Gestruepp und entsprechende Geraeusche;
+mind 1-2 cm aber unbedingt stehen lassen, damit man den Zug noch beim Nachjustieren greifen kann.
 
 
 
