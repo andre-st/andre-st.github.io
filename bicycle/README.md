@@ -3,6 +3,9 @@
 _"Driving a car is like watching a movie, but riding a bike is like acting in one."_
 
 
+_ACHTUNG: Alles work-in-progress hier, mag sich alles ändern_
+
+
 ## Übersicht
 
 - [Begriffe](#begriffe)
@@ -26,39 +29,68 @@ _"Driving a car is like watching a movie, but riding a bike is like acting in on
 ## Begriffe
 
 - Ritzel: Zahnräder hinten
-- Kettenblätter: Zahnräder vorne
+- Kurbel
+- Kettenblatt: Zahnräder vorne
 - Kassette: Bündel an Zahnrädern hinten
+- Kassette modular:
 - Kettenradgarnitur: Bündel an Zahnrädern vorne?
 - Rahmen: Rohrgestänge insgesamt
 - [Rohre](https://cdn.prod.www.spiegel.de/images/5fdc5420-0001-0004-0000-000001203310_w860_r1.7551020408163265_fpx33.03_fpy50.jpg):
 	- Oberrohr
 	- Unterrohr
 	- Sitzrohr / Sattelrohr
-	- Sattenstütze (Rohr am Sattel, das dann wiederum im Sitzrohr steckt)
+	- Sattelstütze (Rohr am Sattel, das dann wiederum im Sitzrohr steckt)
 	- Steuerrohr
 	- Gabel
 	- Sitzstrebe / Druckstrebe / Hinterbau
 	- Kettenstrebe             / Hinterbau
 	- Tretlagergehäuse
-- Umwerfer
+- Umwerfer vorne/hinten
 - Gang
 - Lenker
 	- Unterlenker
 	- Oberlenker
 	- Flair
+	- Dropbar
+	- Flatbar
 - Bowdenzug (hatte immer "Bautenzug" verstanden)
-- Schaltauge: daran ist das hintere Schaltwerk angebracht/eingeschraubt; wenige Grad Abweichung schon ändern ganze Schaltgeometrie; fängt Seitenschläge auf;
-		austauschen, wenn verbogen; gerade biegen kann dazu führen, dass es bricht und ganze Schaltkäfig in die Speichen kommt und viel kaputt macht;
-		Ersatzschaltauge besorgen (kann dann z.B. auf Reisen Werkstatt einbauen)
+- Schaltauge: 
+	daran ist das hintere Schaltwerk angebracht/eingeschraubt; wenige Grad Abweichung schon ändern ganze Schaltgeometrie; fängt Seitenschläge auf;
+	austauschen, wenn verbogen; gerade biegen kann dazu führen, dass es bricht und ganze Schaltkäfig in die Speichen kommt und viel kaputt macht;
+	Ersatzschaltauge besorgen (kann dann z.B. auf Reisen Werkstatt einbauen)
+- Sattel
+	- Sattelschienen
+	- Sattelklemmung: Verbindet Sattelstuetze und Sattel durch Klemmung an den Sattelschienen
 - Fahrradtypen:
 	Rennrad, Endurance-Rennrad, Gravelbike, Enduro-MTB, Hardtail-MTB, Fully (Full Suspension MTB), 
 	Adventure-Bike, Cyclocrosser (CX), Trekking-Bike
 - Kadenz
-- Fred: man kann auf dem Rad durch Kleidungswahl und Modifikationen/Anbauten am Rad 
-	schnell wie ein Clown aussehen ohne es zu merken, verwandt mit MAMIL; v.a. im Rennrad-Bereich ist Minimalismus/cleane Optik angesehen
-- MAMIL: Middle-aged Men in Lycra; Presswurst-Optik dank Bierbauch im Skinsuit, auf dem irgendwelche Logos gedruckt wurden, 
+- Fred: 
+	man kann auf dem Rad durch Kleidungswahl und Modifikationen/Anbauten am Rad 
+	schnell wie ein Clown aussehen ohne es zu merken, verwandt mit MAMIL; 
+	v.a. im Rennrad-Bereich ist Minimalismus/cleane Optik angesehen
+- MAMIL: 
+	Middle-aged Men in Lycra; Presswurst-Optik dank Bierbauch im Skinsuit, 
+	auf dem irgendwelche Logos gedruckt wurden, 
 	was vermeintlich Pro aussehen würde; verwandt mit Fred
-
+- Laufrad: Gesamtheit von
+	- Steckachse
+	- Schnellspanner
+	- Felge
+	- Mantel
+	- Reifen: s. Mantel
+	- Ventil
+	- Karkasse
+	- Hub
+	- Nabe
+	- Speiche
+	- Speichennippel
+	- Speichenmuster
+	- Schlauch
+	- Clincher
+	- Tubeless
+	- Tubular
+	- System-Laufradsatz
 
 
 
@@ -240,13 +272,13 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 |        | -5-4&deg;C               | 4-7&deg;C             | 7-9&deg;C             | 9-13&deg;C              | 13-18&deg;C             | 18-30&deg;C
 |--------|--------------------------|-----------------------|-----------------------|-------------------------|-------------------------|----------------------------
 | Kopf   | Helm                     | Helm                  | Helm                  | Helm                    | Helm                    | Helm
-| "      | dicke Unterhelmmütze     | dünne Unterhelmmütze  | ggf. Unterhelmmütze   | -                       | -                       | -
-| "      | Klarsichtbrille          | Klarsichtbrille       | Klarsichtbrille       | Klarsicht-/Sonnenbrille | Sonnenbrille            | Sonnenbrille
-| "      | Buff (kalte Atmung)      | Buff (Atmung)         | ggf. Buff (Atmung)    | -                       | -                       | -
-| Torso  | Thermo-Softshelljacke    | Thermo-Softshelljacke | Thermo-Softshelljacke | dünne 80%-Windjacke     | Kurzarmtrikot           | Kurzarmtrikot
-| "      | Langarm-Mesh-Baselayer   | Langarm-Merinohemd    | dünner Kurzarm-Basel. | dicker Thermo-Baselayer | Windweste               | oder dünnes Merino-Langarmshirt
-| "      | oder Thermo-Baselayer    | -                     | -                     | -                       | Armlinge (dünn wirklos) | - 
-| "      | ggf. Langarm-Triko       | -                     | -                     | -                       | oder Windstopper-Unterhemd   | Sonnencreme (oder UV-Armlinge)
+| "      | dünne Unterhelmmütze     | dünne Unterhelmmütze  | ggf. Unterhelmmütze   | -                       | -                       | -
+| "      | Buff Hinterkopf+Gesicht  | Buff (Atmung)         | ggf. Buff (Atmung)    | -                       | -                       | -
+| "      | Klarsicht-/Sonnenbrille  | Klarsicht-/Sonnenbrille  | Klarsicht-/Sonnenbrille  | Klarsicht-/Sonnenbrille  | Sonnenbrille     | Sonnenbrille
+| Torso  | Thermo-Softshelljacke    | Thermo-Softshelljacke    | Thermo-Softshelljacke    | dünne 80%-Windjacke      | Kurzarmtrikot    | Kurzarmtrikot
+| "      | Langarm-Trikot-Midlayer  | dicker Thermo-Baselayer  | dünner Kurzarm-Basel.    | dicker Thermo-Baselayer  | Windweste        | oder dünnes Merino-Langarmshirt
+| "      | Kurzarm-Baselayer        | -                     | -                     | -                       | Armlinge (dünn wirklos) | - 
+| "      |                          | -                     | -                     | -                       | oder Windstopper-Unterhemd  | Sonnencreme (oder UV-Armlinge)
 | "      | -                        | -                     | -                     | -                       | Langarmtrikot           | -
 | Hände  | Krebshandschuhe          | Langfingerhandschuhe  | Langfingerhandschuhe  | dünne Handschuhe        | Kurzfingerhandschuhe    | Kurzfingerhandschuhe
 | Beine  | windblock. Thermo-Tights | lange aufgerau. Bibs  | lange aufgerauhte Bibs| lange Bibs              | Bibshorts               | Bibshorts
@@ -289,6 +321,7 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 - Hose: GORE WEAR C3 Kurzhose
 	- Polsterung
 	- Trägerhose rollt nicht vom Bauch
+	- siehe auch Abschnitt Sattel
 - Ueberhose:
 	- Dorftrottel-kompatibler als reine Bibshorts
 	- viele Taschen, erspart andere Taschen am Rad oder Trikot
@@ -321,6 +354,10 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 	  meist stimmt dann schon die Langarm-/Langbein-Auswahl; die nervt auch weniger als das Anzuppen;
 	  im letzten Sommer/Herbst gab's mal einen kalten Tag entlang des Wassers, da war ich froh ueber die Beinlinge;
 	  Vorteil ist das kleine Packmaß (Rückentaschen etc)
+	- habe eine duenne und dicke Unterhelmmuetze von Gripgrab; bei Temperaturen -2 bis 2 hat die dünne immer gereicht, 
+		wenn man das Buff auch noch bis über den Hinterkopf gezogen hat (und daruber dann die dünne Mütze), 
+		dann wurde aus beidem quasi eine dickere Unterhelmmütze,
+		und die Wangen usw. wurdem auch noch geschuetzt
 
 
 
@@ -352,7 +389,8 @@ Antrieb:
 - Kettenschlosszange (Shimano TL-CN10)
 - Kettennieter (Topeak All Speeds Chain)
 - Kasettenabzieher (UNIOR Kassettenschluessel mit Fuehrungsstift + GEDORE 29cm-Quergriff)
-- Kettenpeitsche/Kettenzange
+- Kettenpeitsche oder besser: Kettenzange
+- Kurbelabzieher (z.B. Kettenblattwechsel)
 - ...
 
 
@@ -369,43 +407,96 @@ Laufrad:
 - Speichenspanner
 - Speichennippelwerkzeug (Speichennippeldreher von Innenseite der Felge)
 - Zentrierstaender (UNIOR 1688)
-	- Achsenadapter
+	- Achsenadapter (die kleinen Magnetischen von UNIOR sind fuer das Modell ineffizient/unbrauchbar; besser mit Stange, da man Rad oefter umschlagen muss mit 1 Sensor)
 	- Sensor Bremsscheibe
 - Dichtstoffspritze (STANS Notubes Injector) oder direkt aus kleiner 59ml-Dichtmilch-Flasche
 - ...
 
 
+
+
 ### Kleine Schmierstoffkunde
 
+| Eigenschaft      | Öl                               | Fett
+|------------------|----------------------------------|------------------------
+| Konsistenz       | flüssig bei Raumtemperatur       | halbfest bis fest
+| Zusammensetzung  | reine Grundöle + Additive        | Mischung aus Öl und Verdicker wie Lithiumseife oder PTFE
+| Anwendung        | schnell-bewegl. Teile            | stark belastete, langsam bewegl. oder dauerhaft geschuetzte Teile, Lager, Tretlager, Gewinde, Steuersatz
+| Haftung          | dringt in enge Zwischenräume, bildet dünnen Schutzfilm | haftet länger an 
+| Haltbarkeit      | wäscht sich schnell aus          | besserer Schutz gegen Wasser
 
-|-----------------------------------|--------------------|--------------------|------------------------------|---------------------|-----------------------
+
+- Teile vor dem Auftragen von Fett gruendlich saubern, sonst erzeugt man eine Schleifpaste.
+- meisten Fette sind lithiumverseift und nicht so wasserfest wie calciumbasierte Fette wie Motorex 2000
+- Allgemein:
+	- Auf alles was klemmen soll, kommt Carbon-Montagepaste mit Schleifpartikeln
+	- Auf alles, was sich im Betrieb drehen/bewegen soll, kommt Fett
+	- Auf alles, was im Betrieb fest sein soll, aber rein/raus geschraubt werden muss, kommt Montagepaste.
+		Wenn man keine Montagepaste hat, kann man auch einfach Fett nehmen.
+		Fett zu nehmen ist besser, als das Gewinde trocken zu schrauben.
+- Motorex 2000: "Steckachse und im Steuersatz nicht optimal finde. 
+	Durch die Rotationsbewegungen scheint es sich mit der Zeit etwas zu verklumpen."
+- Silikonfett wird als synthetisches Fett betrachtet, 
+		weil es auf synthetischen Silikonölen basiert, 
+		anstatt auf natürlichen Ölen oder Fetten;
+		greift Kunsstoffe (Carbon) nicht an
+- auf Grund der elektrochemischen Spannungsreihe erzeugt Kupferpaste bei Alu und Stahl unter Feuchtigkeit Korrosion
+- Calcium-verseiftes Fett nennt sich auch Staufferfett
+
+
+
 | Produkt                           | Typ                | Hauptzweck         | Do                           | Don't               | Kommentar
 |-----------------------------------|--------------------|--------------------|------------------------------|---------------------|-----------------------
-| Shimano Anti-Seize                | Montagepaste       | Trennmittel        | Gewinde zw. Kurbel und Pedal, <br>Bolzen Sattelklemmung, <br>Sattelstuetze-Sitzrohr-Klemmung, <br>Gewinde Kurbelarme, <br> Vorbauschrauben | alles mit Carbon (macht Oberflaeche zu glatt), <br>Sattelstreben-Klemmflaeche | Montagepaste mit niedrigem Reibungswert; verhindert Korrosion und Kaltverschweissung von Alu und Stahl; trennt Kontaktflaechen/Festbacken von Metallen = leichtere Enfernbarkeit; nur geringe Schmierung fuer bewegl. Teile (anders als Fett), Partikel koennten sogar Lager/Gewinde beschaedigen; zuvorderst Trennmittel; daempfende Schicht reduziert Knarzgeraeusche von Mikrobewegungen zw Stuetze und Rahmen
-| Motorex Anti-Seize                | Montagepaste       | Trennmittel        | " " "                        | " " "               | " " "
-| ??? Alu-Montagepaste              | Montagepaste       | Reibung erhoehen   | Klemmflaeche Alu-Alu (z.B. TT-Aerobars/Auflieger)     |   | Montagepaste mit hohem Reibungswert; erlaubt Anzug mit weniger Drehmoment/Schraubenvorspannkraft = materialschonender;  alternativ Silikonpaste mit hohem Reibungswert 
-| Muc-off Carbon Gripper            | Montagepaste       | Reibung erhoehen   | Klemmflaeche Carbon          | Klemmfläche Alu-Alu (knarzt)  | Montagepaste mit hohem Reibungswert; erlaubt Anzug mit weniger Drehmoment/Schraubenvorspannkraft = materialschonender
+| Shimano Anti-Seize<br>Motorex Anti-Seize | Montagepaste| Trennmittel        | Gewinde zw. Kurbel und Pedal, <br>Bolzen Sattelklemmung, <br>Sattelstuetze-Sitzrohr-Klemmung, <br>Gewinde Kurbelarme, <br> Vorbauschrauben | alles mit Carbon (macht Oberflaeche zu glatt), <br>Sattelstreben-Klemmflaeche | Montagepaste mit niedrigem Reibungswert; verhindert Korrosion und Kaltverschweissung von Alu und Stahl; trennt Kontaktflaechen/Festbacken von Metallen = leichtere Enfernbarkeit; nur geringe Schmierung fuer bewegl. Teile (anders als Fett), Partikel koennten sogar Lager/Gewinde beschaedigen; zuvorderst Trennmittel; daempfende Schicht reduziert Knarzgeraeusche von Mikrobewegungen zw Stuetze und Rahmen / Fugen zwischen den Bauteilen aufgefüllt und ein flächiger Kontakt hergestellt also die Haftung verbessert- keine Bewegungen und kein Knacken mehr
+| ??? Alu-Montagepaste              | Montagepaste, Reibungspaste | Reibung erhoehen   | Klemmflaeche Alu-Alu (z.B. TT-Aerobars/Auflieger)  || Montagepaste mit hohem Reibungswert; erlaubt Anzug mit weniger Drehmoment/Schraubenvorspannkraft = materialschonender;  alternativ Silikonpaste mit hohem Reibungswert 
+| Muc-off Carbon Gripper<br>Muc-Off Carbon Assembly Paste<br>Finish Line Carbon Fiber Paste<br>Park Tool CSG-2            | Montagepaste, Reibungspaste | Reibung erhoehen   | Klemmflaeche Carbon-\* | Klemmfläche Alu-Alu (knarzt)  | Montagepaste mit hohem Reibungswert; erlaubt Anzug mit weniger Drehmoment/Schraubenvorspannkraft = materialschonender; MucOff Gripper fuer hoeher belastete Sachen wie Vorbau/Lenker/Sattelstuetze
+| Muc-off Bio Degreaser             | Entfetter          | Entfetten          |                              |                     | weniger aggressive zu Gummi-/Kunststoffteilen (Dichtungen) als Bremsenreiniger
 | WD40 Silikonspray                 |                    |                    |                              |                     |
 | WD40 Rostentferner                |                    |                    |                              |                     | 
 | WD40 Kontaktspray                 |                    |                    |                              |                     |
 | WD40 klassisch                    |                    |                    |                              | alles               |
-| Brunox Turbo-Spray                |                    |                    |                              |                     | 
-| Inbus Schraubensicherung          | Schraubensicherung | Einkleben          | Bremsscheiben-Bolzen, Cleats-Schrauben (Schuh)  |                     | 
-| Liquimoly LM47 Langzeitfett       | Fett               | Reibung reduzieren |                              | Carbon (Fett beschaedigt Fasern)  | 
-| Liquimoly Dry Lube                | Öl                 | Reibung reduzieren | Kette im Sommer              | Kassetten-Ritzel    | punktuell auf Kettglieder, nur dort muss Öl hin, sonst sauber
-| Liquimoly Wet Lube                | Öl                 | Reibung reduzieren | Kette im Herbst/Winter       | " " "               | " " "
+| Finishline Premium-Grease         | Fett               |                    |                              |                     | alte PTFE-Version mit "Trilinium" (Eigenbezeichnung) ersetzt
+| Shimano Premium-Fett              | Fett               |                    |                              |                     |
+| Inbus Schraubensicherung<br>Loctite | Klebstoff        | Loslösen hindern   | Bremsscheiben-Bolzen, Cleats-Schrauben (Schuh), Bremsgriff-Schrauben, Lenker-Schrauben  |  | sicherheitsrelevante Teile; gg. Lockerung durch Vibration; bietet auch Korrossionsschutz; Loctite blau ist niedrigfest bis mittelfest, rot ist hochfest
+| Liquimoly LM47 Langzeitfett       | Fett (Lagerfett)   | Reibung reduzieren |                              | Carbon (Fett blaeht Carbon-bindendes Epoxidharz )  | 
+| Liquimoly Silikonfett             | Fett (synthetisch) |                    | Carbon                       |                     | 
+| Liquimoly Dry oder Wet Lube       | Öl                 | Reibung reduzieren | Kette im Sommer/Herbstwinter | Kassetten-Ritzel (verschmutzt ohne Nutzen), Bremsscheibe | punktuell auf Kettenglieder, nur dort muss Öl hin, sonst sauber
 | Liquimoly Multi-Spray Plus 7      |                    |                    |                              |                     |
 | Nigrin Bike-Care Fahrradreiniger  |                    |                    |                              |                     |
-| Nigrin Bike-Care Feinöl           | Öl                 |                    | Umwerfer-Federn?, <br>SPD-Pedal-Federn?, Umwerfer-Gelenke?  |            | 
-| Würth Bremsenreiniger             | Entfetter          | Entfetten          | Bremsscheiben                |                     |
-| Würth Industrie Clean             |                    |                    | Etiketten, Kleberueckstaende |                  |
-| ??? synthetisches Fett            |                    |                    |                              |                     | mein Bikeshop hat mal _synthetisches_ Fett auf Steuerlager meiner Carbongabel gegeben?
-| ??? Silikonfett                   |                    |                    |                              |                     |
-| Giant Tire Sealant                | Dichtmilch         | Verschließen       | Tubeless-Reifen              |                     |
-| ??? Reifenmontierpaste/-fluessigk |                    |                    |                              |                     |
+| Nigrin Bike-Care Feinöl           | Öl (Kriechöl)      |                    | ?                            | Bremsscheibe        | 
+| Brunox Turbo-Spray                | Öl (Kriechöl)      | Reinigen           | ?                            | Bremsscheibe        | lockert festgefressene Teile, Schmierun, Wasser fernhalten, Korrossionschutz; wohl ueberall dort falsch, wo WD40 falsch waere
+| Balistol PTFE-Trockenschmierung   | PTFE+Lsgmittel     | Reibung reduzieren | Schrauben, Gewinde, Schaltwerk-Federn/-Gelenke   | | nicht fettig oder klebrig bleibt, sondern eine trockene, schmierende Schicht hinterlässt, die weniger Schmutz und Staub anzieht
+| Würth Bremsenreiniger             | Entfetter          | Entfetten          | Bremsscheibe                 |                     | Bremsenreiniger oft auf Alkoholbasis (alt. reinen Alkohol nehmen)
+| Würth Industrie Clean             |                    |                    | Etiketten, Kleberueckstaende |                     |
+| Giant Tire Sealant                | Dichtmilch         | Löcher schließen   | Tubeless-Reifen              |                     |
+| Schwalbe Easy-Fit Montage Fluid   | Reifenmontierflüss.| Reibung reduzieren | Reifen                       |                     | vereinfacht Reifenmontage auf Felge
 | ??? Kettenwachs                   | Wachs              |                    |                              |                     | Alternative zum Kettenoel
-| ??? Steuersatzfett                | Fett               |                    |                              |                     | 
-| Isopropyl-Alkohol, Hand-Sanitizer |                    |                    | Bremsscheiben, Hoods-Griffgummi-Inneres fuer Montage gleitfaehig machen | |
+| ??? Steuersatzfett                | Fett               |                    |                              |                     | s.a. Kugellager-Abschmierfett (salzwasserbestaendig), s.a. Wälzlagerfett, Siliconpaste bei Carbon (Faser ist chemiebständig, aber deren Harz-Einbettung nicht)
+| Isopropyl-Alkohol, Hand-Sanitizer |                    |                    | Bremsscheiben, Hoods-Griffgummi-Inneres fuer Gleitfaehigkeit bei Montage | |
+| Talkumpulver                      |                    |                    | Reifenschlauch               |                     |
+
+
+
+Aktuell:
+
+| Bauteil                            | Vor-Reinigung          | Nachbehandlung 
+|------------------------------------|------------------------|-------------------------
+| Schaltwerk-Roellchen (Pullies)     | ?                      | ?
+| Schaltwerk-Federn/-Gelenke         | Brunox Turbo-Spray?    | Balistol PTFE-Trockenschmierung (Spray); Öl wuerde mehr Dreck anziehen und kann verharzen = schwergaengiger
+| Pedal-Cleat-Federn                 | Brunox Turbo-Spray?    | Balistol PTFE-Trockenschmierung (Spray)
+| Pedal-Kurbel-Gewinde               | IPA                    | Shimano Anti-Seize
+| Cleat-Schrauben im Schuh           | ?                      | Shimano Anti-Seize über 90% der Laenge und 10% Schraubensicherung am Ende
+| Sattelstuetze-Sitzrohr             | IPA                    | Shimano Anti-Seize, auch alle Teile des Schraubmechanismus = verhindert Knarzgeraeusche
+| Steuersatz                         | IPA, Muc-off Bio Degreaser + Pinsel zum Saeubern ausgebauter Lager, weniger aggressiv gegen Gummidichtung als Bremsenreiniger | Finishline Premium-Fett auf den Lager-Sitzen, _duenner_ Film um Cartridge Bearings und Gabelkonus, und dick unter der oberen Abdeckkappe (Gummiring) für Wasserdichtigkeit; unten wenig Fett (Dreck), oben mehr (kein Wassereintrag)
+| Griffgummis                        | ?                      | Hand-Sanitizer um neu aufzuziehen
+| Kette                              | ?                      | Liquimoly Dry bzw. Wet Lube
+| Kettenblatt                        | ?                      | ?
+| Kassette                           | ?                      | ?
+| Radwaesche allgemein               | ?                      | Nigrin Bike-Care Fahrradreiniger; auch fuer Kassette (obwohl besser, wenn man die separiert und mit Bremsenreiniger bearbeitet)
+| Reifen-Dichtmilch                  | ?                      | Giant Tire Selant (da Giant-Reifen/Felgenband/Felge)
+| Bremsscheibe                       | Wuerth Bremsenreiniger | ?
+
+
 
 
 
@@ -426,25 +517,34 @@ Laufrad:
 ### Verschleissteile (bevorraten)
 
 Auf Verschleissteile gibt es idR. keine Gewaehrleistung vom Fahrrad-Haendler.
+Immer in bestimmter Menge vorhalten, weil nicht immer in der gesuchten Ausfuehrung in Shops verfuegbar (Corona), 
+manchmal auch laenger nicht oder gar nicht mehr. Hat man Zeit fuer Suche/Nachschub.
 
-- Kette laengt sich mit der Zeit, Schaltung wird ungenauer, Ritzel nutzen sich staerker ab
-- Bowdenzug reisst
+
+- Antrieb:
+	- 3x Kette (laengt sich mit der Zeit, Schaltung wird ungenauer, Ritzel nutzen sich staerker ab)
+	- 2x Kassette (Ritzel)wird abgeschliffen/verformt und beeintraechtigt Schaltung, Kette rutscht durch bei Kraft)
+	- 1x Kettenblatt (wird abgeschliffen/verformt, Kette rutscht durch bei Kraft; weniger Verschl. als Ritzel da groesser/mehr Auflage und weniger Kraft)
+	- 1x Schaltungsrädchen oben (Leitroellchen / Guide Pulley)
+	- 1x Schaltungsrädchen unten (Spannroellchen / Tension Pulley)
+- Bowdenzug (reisst):
 	- 2x Schaltzug (1-3 Jahre Lebensdauer bei sportlichen Fahrern/Pendlern/...), Fein-Einstellschraube evtl. wiederverwendbar
 	- 2x Bremszug
-- Kassette(nritzel) wird abgeschliffen/verformt und beeintraechtigt Schaltung
-- Bremsbelag wird duenner/abgeschliffen
-- Bremsscheibe wird duenner/abgeschliffen 
-	- Breite min 1,5 mm, oder Min-Wert steht drauf, oder Kaufbreite-(Kaufbreite\*0,35), 
-	  Messung nicht ueber die Raender (bleiben dick) sondern quer auf die Bremsflaeche
-- Schaltungsrädchen (ideal selten)
-- Kettenblatt wird abgeschliffen/verformt
-- Lenkerband loest sich auf, sitzt nicht mehr, reisst
-- Haubenabdeckungen/Griffgummi (Bracket Covers) bei den Bremsschalthebeln werden ungleichmaessig abgerieben, nicht huebsch
-- Reifenmantel (Profil) wird abgerieben 
-	- seltener Felgenband kann reissen, z.B. bei Wartung
-	- Schlauch reisst ein oder Tubeless-Dichtmilch trocknet ein
-- Ventileinsätze verstopfen durch Dichtmilch, verbiegen beim Aufpumpen oder brechen sogar ab, werden undicht
-- Speichen brechen (ideal selten), Speichennippel mit Speichenresten nach Bruch, Korrossion
+- Bremsen:
+	- 4x Bremsbelag (wird duenner/abgeschliffen)
+	- 2x Bremsscheibe (wird duenner/abgeschliffen:
+		(Breite min 1,5 mm, oder Min-Wert steht drauf, oder Kaufbreite-(Kaufbreite\*0,35), 
+		Messung nicht ueber die Raender (bleiben dick) sondern quer auf die Bremsflaeche) + ggf je 6 Schrauben
+- Lenker:
+	- 2x Lenkerband (loest sich auf, sitzt nicht mehr, reisst)
+	- 4x Haubenabdeckungen/Griffgummi (Bracket Covers bei den Bremsschalthebeln werden ungleichmaessig abgerieben, nicht huebsch)
+	- 2x Steuersatzlager exakt mit Aussen- und v.a. Innendurchmesser, falls der Gabelschaft anders dimensioniert ist
+- Laufrad:
+	- ?x Reifenmantel (Profil) wird abgerieben 
+	- 2x seltener Felgenband kann reissen, z.B. bei Wartung
+	- ?x Schlauch reisst ein oder Tubeless-Dichtmilch trocknet ein
+	- 6x Ventileinsätze verstopfen durch Dichtmilch, verbiegen beim Aufpumpen oder brechen sogar ab, werden undicht
+	- 4x Speichen brechen (ideal selten), Speichennippel mit Speichenresten nach Bruch, Korrossion
 - Kleinkram:
 	- Endhuelsen fuer Schaltzug/Bremszug
 	- Endkappen in versch. Ausfuerhungen fuer Schaltzug/Bremszug
@@ -456,6 +556,12 @@ Auf Verschleissteile gibt es idR. keine Gewaehrleistung vom Fahrrad-Haendler.
 	- Putzmittel (s. Abschnitt "Radwaesche")
 	- Werkstatt-Handschuhe
 	- ...
+
+
+Verschleiß feststellen:
+- Ersatz-Kettenblatt gegen montiertes Blatt halten und Zaehne vergleichen: Grate, spitzrunde Haifischzaehne, ...
+- Kettenlehre
+- Durchrutschen neuer Ketten
 
 
 Kein Verschleißteil, aber proprietär und zu bevorraten, weil Bezug schwer werden könnte:
@@ -486,6 +592,10 @@ So und wenn du mit Kettenreiniger die schmierung zwischen den Glieder raus wasch
 wirst du die schmierung zwischen den Glieder nicht mehr hinbekommen 
 und deine Kette Verschleißt schneller. 
 Zur Info bin Zweirad Mechaniker und im Amateur Bereich ein erfolgreicher Fahrer weiß auf was es ankommt."
+
+
+Manche Mechaniker empfehlen weniger als haeufiger zu reinigen.
+Wasser spuelt viel aus, Wasser bleibt irgendwo stehen und laesst korrodieren.
 
 
 Motorrad-Reiniger mehr und billiger (hab ich damals vom Fahrradladen bekommen, die würden das auch so machen)
@@ -537,11 +647,17 @@ Motorrad-Reiniger mehr und billiger (hab ich damals vom Fahrradladen bekommen, d
 - ideal biologisch abbaubares Öl
 - ideal leicht auswaschbares Öl, da man sich 100% damit immer mal wieder irgendwo einsaut (bei normalen Hosen: Hose unten nah ans Bein abbinden)
 - manche nutzen Wachs statt Öl, erfordert aber Komplettreinigung
+- angeblich beste: ein Tröpfchen auf jede einzelne der 57 Gliederrollen (Start-/Endpunkt Kettenschloss) - zeitintensiv
+	- meine version: Tropfen auf Pinsel (flach, nicht breiter als Kette) 
+	  und immer ein Kettensegment von oben einstreichen (unterer Kettenlauf), 
+	  dann halbe- oder vierteldrehung weiterkurbeln - sauberer und schneller; abwischen muss man Ende bei allen Methoden
+	- schlechteste: direkt auf Kette ausgiesen und drehen
+- oel einwandern lassen - angeblich stunde warten, angeblich ideal ueber nacht
 - am Ende immer nochmal abwischen: 
-	Ol muss nur in die Glieder, nicht auf der Kette bzw. an den Kettenseiten; 
+	Ol muss nur _in_ die Glieder, nicht auf der Kette bzw. an den Kettenseiten; 
 	dort zieht es nur Dreck an und verschleisst den Antrieb mehr statt weniger
-- tröpfchenweise auf die Glieder-Rollen (Start-/Endpunkt Kettenschloss)
-- korrekt geölte Kette bleibt silbern (schwarz = zu viel/zu viel Dreck); auch korrekte Ritzel sind silber und nicht schwarz
+- korrekt geölte Kette bleibt silbern (schwarz = zu viel/zu viel Dreck); auch korrekte Ritzel sind silber und nicht schwarz;
+	erkennt man den newb
 
 
 
@@ -703,6 +819,157 @@ s. Schaltung einstellen
 
 
 Bremszug:
+
+
+
+
+### Steuersatz (Headset), Gabel
+
+- Knackt oder quietscht beim Einschlagen des Lenkers und 
+	- Grund ist keine der Klemmungen am Vorbau 
+	- Grund ist kein reibender Bowdenzug
+- Gabel-Service mind. 1x im Jahr = Selbermachen
+- hatte nach dem ersten Winter Knacken durch korrodierte Lager, 
+		und jetzt nach dem zweiten Winter (obwohl nur Trockenfahrt) ein Quietschen wie Gummi auf Metal
+
+- Unterscheidung 1: 
+		[ ] Gewinde-Steuersatz (alt),
+		[x] gewindeloser Ahead-Steuersatz (modern)
+- Unterscheidung 2: 
+		[ ] Aussenliegende Schalen (EC External Cups), 
+		[ ] Semi-integrierte Lagerschalen (ZS Zero Stack), 
+		[x] Voll-integrierte Lagerschalen (IS Integrated Standard)
+- Unterscheidung 3:
+		[ ] gerader Schaft
+		[x] "Tapered" = konischer Schaft, nach oben verjuengt; verschieden große lager-durchmesser
+- Bei einigen Modelle bilden die Lager und die Lagerschalen eine Einheit
+- Reduzierhulesen und Reduzier-Steuersätze helfen beim Einpassen duennerer Gabelschaefte
+- Fahrradteilhersteller 2010 auf Standard "SHIS" zur Angabe des Steuersatz-Typs: 
+		z.B. EC34/30 mit 
+		Bauart (EC,ZS,IS), 
+		erste  Zahl = Steuerrohr-Durchmesser
+		zweite Zahl = Gabelschaft-Durchmesser
+
+
+#### Schmieren, Fetten
+
+- Nachfetten von Lagern, Lagersitzen, Lagerschalen, Gabelschaft 
+		und allen Kontaktflächen verhindert Korrision und erleichtert die Demontage/Montage
+- zum Nachfetten reicht es, wenn man die Gabel nur ein Stück herauszieht 
+- Bei offenen Lagern fetten Sie die Kugelringe mit Wälzlagerfett
+- Man kann das Lager etwas zusätzlich gegen die Elemente schützen, 
+	indem man Fett außen aufs Lager anbringt, optimalerweise eines, das für die Verwendung bei Carbon offiziell zugelassen ist
+- Da Aluminium im Steuerrohrbereich durch Feuchtigkeit korrodieren kann, 
+	ist es sinnvoll, eine dünne Schicht Fett (z. B. Montagefett oder Korrosionsschutzfett) 
+	auf die Innenwände aufzutragen, besonders bei Fahrten in feuchtem Klima;
+	ABER kein Fett auf die Lagersitze, da dort präziser Halt erforderlich ist.
+- Gabelschaft (Carbon) vs. Spacerringe oder Vorbau:  
+	Falls deine Gabel einen Carbon-Schaft hat, 
+	könnte das Geräusch von einer trockenen oder unsauber montierten Verbindung zwischen Gabelschaft und Spacern oder Vorbau kommen.
+	Lösung: Gabelschaft reinigen und eine dünne Schicht Carbon-Montagepaste auftragen (falls Carbon auf Metall trifft).
+- Steuersatz (Lager oder Dichtung):  
+	Manche Steuersätze haben eine Gummidichtung zwischen Rahmen und Lager. 
+	Wenn diese trocken ist oder leicht verschoben sitzt, 
+	kann sie beim Drehen des Lenkers ein quietschendes Geräusch machen.
+	Lösung: Lagerdeckel und Dichtung reinigen, leicht mit Silikonfett oder PTFE-Spray schmieren (kein Öl oder dickes Fett).
+- Lagerschale im Steuerrohr:  
+	Falls dein Steuersatz ein integriertes oder semi-integriertes Lager hat, könnte es sein, dass die Lagerschale nicht perfekt sitzt oder leicht klemmt.
+	Lösung: Lagersitz prüfen, reinigen und evtl. eine sehr dünne Schicht Fett auftragen.
+- Carbon-Schmiererei:
+	- NUTZE Carbon-Montagepaste für Klemmstellen, z. B. Vorbau, Sattelstütze
+	- NUTZE PTFE-/Teflon-Fett für Lager, Steuersatz, Schrauben, Gewinde
+	- NUTZE Silikonfett für Dichtungen, Steuersatzkappe, Spacer
+	- KEIN Kupfer- oder Aluminiumfett (kann mit Carbon reagieren), 
+	- KEIN normales Mehrzweckfett wie Lithiumfett oder Marinefett bzw. mineralölbasiertes Fett (kann das Harz im Carbon angreifen),
+	- KEIN Lithium- oder Kalziumseifenfette (häufige Metallfette)
+	- KEIN Kupfer- oder Aluminium-Anti-Seize-Pasten (enthalten oft aggressive Zusätze)
+	- KEINE lösungsmittelhaltige Schmierstoffe (WD-40, Aceton, Bremsenreiniger), machen Harz spröde
+	- KEIN WD-40 oder Öl als Ersatz für Fett (bietet keinen Langzeitschutz)
+- Silikonfett wird nicht direkt in den Lagermechanismus 
+	(also zwischen die Kugeln oder Rollen) selbst geschmiert, 
+	sondern ist vielmehr für Dichtungen, 
+	Gummiteile und Kunststoffkomponenten rund um das Lager gedacht. 
+	Es wird verwendet, um Dichtungen zu pflegen und Reibung an Gummiteilen 
+	zu reduzieren. Für die inneren Lagerteile (wie Kugeln und Rollen) sollte hingegen spezielles Lagerfett verwendet werden
+
+Teile:
+	- Ahead-Expander sitzt mit Gewinde im Gabelschaft = leicht PTFE/Teflon-Fett
+	- Steuersatz-Kappe: Schraube für die Ahead-Kappe sizt in einem Gewinde = leicht PTFE/Teflon/Silikon-Fett
+	- Steuersatz-Gummi-Dichtungen = Silikonfett (zur Not weniger lang haltendes Silikonspray), verhindert Austrocknung oder Quietschen
+	- 
+
+
+
+
+
+#### Vollintegrierte Lagerschalen (IS Integrated Standard)
+
+- braucht kein Einpresswerkzeug
+- Lager liegen in Buchten und koennen mir Finger oder Plastikpieker rausgeholt werden
+- AHead-Kappe nur fuer Lagerspiel zustaendig, nicht zum fixieren - das macht die Klemme am Vorbau; daher auch nicht zuknallen, sondern sanft
+
+
+Mein Fall: Giant-Overdrive-Steerer, konische Carbon-Gabel in Alu-Rahmen, Bremskabel in Gabel aber nicht im Rahmen integriert
+
+Aufbau:
+
+mehr oder weniger sichtbar:
+1. [x] Spannschraube/Stellschraube durch Ahead-Kappe
+2. [x] Ahead-Kappe auf Gabelschaft
+3. [ ] Ahead-Kralle (Metallgabel, Spezialwerkzeug) oder [x] Ahead-Klemme/Plug/Expander (Carbon, Inbus) im Gabelschaft
+		[x] CARBON: hier darf keine Aheadkralle eingeschlagen werden! 
+		Diese würden den Schaft beschädigen, wodurch er an Stabilität verliert und brechen kann. 
+		Bei Carbonschäften ausschließlich geschraubte Krallen!
+4. [x] Vorbau um Gabelschaft ("Stem")
+5. [x] "Spacer"/"Washer" um Gabelschaft
+6. [x] Abschlussdeckel/Staubring ("Dust Cover") / Lagerkonus oben
+
+innerlich oben:
+7. [ ] Zentrierring ("Compression ring")
+8. [x] Lenkkopf-Lager ("Bearing")
+
+falls semi-integriert:
+9. [ ] obere Lagerschale ("Upper Cup"),  nach oben geoeffnet
+10. [ ] untere Lagerschale ("Lower Cup"), umgedreht/nach unten geoeffnet
+
+innerlich unten:
+11. [x] Lenkkopf-Lager ("Bearing")
+12. [ ] Konusring ("Race Crown") - moeglicherweise schon integriert bei Voll-Carbon-Gabelschaft, sonst evtl. aus Alu bei Carbongabel
+13. [x] Gabelbruecke und Gabelschenkel
+
+
+
+Werkzeug:
+- [x] Aufschlagwerkzeug für den Gabelkonus
+- [ ] Einschlagwerkzeug für Aheadkrallen (hab ich nicht)
+- [x] Inbus-Schluessel
+- [ ] Fett? Eventuell Fett (in der Regel sind die Sätze jedoch vorgefettet)
+
+
+Oeffnen:
+
+1. Bei jedem Schritt Fotos machen!
+2. Vorderrad ausbauen
+3. Gabel am Unterrohr mit Band sichern, ggf. Kissen/Bettdecke o.a., damit eine herunter fallende Gabel weicher landet
+4. AHead-Kappe abschrauben
+5. Vorbauschrauben loesen - Gabel koennte jetzt schon rausfallen!
+6. Lenker abziehen und vorsichtig haengen lassen oder irgendwo mit Band fixieren, ggf. auf Lappen, um Schrammen zu verhindern
+7. Spacer und Abdeckung vom Gabelschaft nehmen
+8. Ideal: Bremskabel lang genug und nicht im Rahmen integriert, sonst Scheibenbremse vom Rahmen loesen; 
+		Gabel baumelt zwar am Kabel rum, aber genug Spielraum zum Saeubern
+9. Gabel vorsichtig rausziehen
+
+
+
+
+
+
+Schliessen:
+
+
+
+
+
 
 
 
@@ -1147,6 +1414,28 @@ TODO
 - Rails kompatibel mit seat post klemme? einige carbon-rails haben einen ovalen statt runden Durchschnitt
 - Fahrergewicht
 - Brooks-C17-Oberfläche soll Hosen fressen
+
+
+### Historie
+
+#### Meine Sättel
+
+| Modell                              | Groesse     | Einsatz                     | Punkte und Befinden
+|-------------------------------------|-------------|-----------------------------|-----------------
+| Giant Approach (Stock)              | 145 mm      | All-Road, Gravel            | ? von 5: bin 1 Jahr damit herumgefahren, obwohl "eigentlich" zu schmal
+| Fizik Terra Argo X5                 | 160 mm      | All-Road, Gravel, sportlich | 4 von 5: straff, gut, Polsterhose zwingend
+| Ergon SR Allroad Core Comp Men      | M-L         | All-Road, Langstrecke       | ? von 5: komfortabler
+
+
+#### Meine Polsterhosen
+
+| Modell                              | Polster            | Einsatz  | Sattel   | Punkte und Befinden
+|-------------------------------------|--------------------|----------|----------|----------
+| Gore Wear Bibs                      | Schaumstoff        | max 3h   | G, F, E  | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores; gute Standard-Hose
+| Gore Wear Tights                    | Schaumstoff        | max 3h   | F        | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores; gute Hose sonst
+| Gore Wear Tights Windstopper        | Schaumstoff        | max 3h   | F        | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores; Rest der Hose ist genial
+| Gonso SQLab GO M Bibs               | Gel/Elastomer 6mm  | max 6h   | F, E     | 4 von 5: Polster top, Träger zu kurz
+
 
 
 
