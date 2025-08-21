@@ -119,21 +119,26 @@ GIANT Revolt 2 (2022) XL Black-Diamond Gravelbike (Ladenkauf 2023):
 | Kette weiter vom Fahrrad            | Kette näher am Fahrrad
 
 
-### Schalt-Vorgehen
+
+### Schalt-Vorgehen (Kettenschaltung)
+
+- Gangwechsel erfolgt nur beim Pedalieren
 - im Leerlauf schalten, nicht währenddessen treten, leichtes Antreten
-- im Stand oder langsam am Hügel: Rad anheben, hochschalten, kurbeln; nicht mit Kraft bergauf in neuen Gang treten, sonst kann Bowdenzug reißen o.a.
+- nicht mit Kraft bergauf in neuen Gang treten, sonst kann Bowdenzug reißen o.a.
 - Pedale beim Schalten nicht rückwärts treten
-- vorausschauend schalten
+- vorausschauend schalten (Ampel, Huegel, stockender Verkehr, ...)
 	- vorm Anhalten in leichteren Gang schalten, damit Antreten leichter und weniger belastend fürs Material
-- ideal vorne auf kleinem Blatt fahren (und hinten mitte-groß): 
-	- höhere Trittfrequenz = weniger Belastung für Knie und Gelenke;
-	- Radler trainieren für Ausdauer nicht Kraft, Kraftreten (hohe Übersetzung) eher sinnlos
+- Gang im Stehen korrigieren: Vorderbremse ziehen, Rad nach vorn schieben, dass das Hinterrad in der Luft haengt und dann mit dem eingeklickten Fuß die Kurbel drehen
+- höhere Trittfrequenz = weniger Belastung für Knie und Gelenke
+- Radler trainieren für Ausdauer nicht Kraft, Kraftreten (hohe Übersetzung) eher sinnlos
 - nicht über Kreuz schalten:
-	- schlecht: kleines Zahnrad hinten und kleines Zahnrad vorne = klein-klein vermeiden (Kreuz)
+	- schlecht: kleines Zahnrad hinten (Ritzel) und kleines Zahnrad vorne (Kettenblatt) = klein-klein vermeiden (Kreuz)
 	- schlecht: großes Zahnrad vorne und großes Zahnrad hinten   = groß-groß vermeiden (Kreuz)
 	- gut: klein-mitte hinten und großes vorne
 	- gut: mitte       hinten und groß oder klein vorne
 	- gut: mitte-groß  hinten und klein vorne
+- beim Wiegetritt vorher bisschen schwerer schalten
+
 
 
 
@@ -256,40 +261,41 @@ Helm:
 	- Größe gut, wenn man noch Spiel beim Einstellrädchen hat:
 		- lockern bei Druckschmerzen nach längerer Zeit (Kopf schwillt auch an)
 		- Platz für Unterhelmmütze
+	- Polster entfern- und reinigbar; Ersatzpolster kaufbar (musste meine aum Ausland bestellen)
 	- Unterscheidungen:
 
-| Rennradhelm (Giro Synthe 2 MIPS)                      | Stadthelm                                | ...
-|-------------------------------------------------------|------------------------------------------|-------------------
-| starke belüftet                                       | weniger belüftet für mehr Crash-Masse    |
-| MIPS (mglw. nur Marketing Gimmick)                    |                                          |
-| Klickstecker getauscht gegen Fidlock                  |                                          |
-| "GIRO"- und MIPS-Logoaufkleber entfernt               |                                          |
+| Rennradhelm (Giro Synthe 2 MIPS)                      | Stadthelm                                | Aerohelm |  ...
+|-------------------------------------------------------|------------------------------------------|----------|--------
+| starke belüftet                                       | weniger belüftet für mehr Crash-Masse    | weniger belueftet   |
+| MIPS (mglw. nur Marketing Gimmick)                    |                                          |          |
+| "GIRO"- und MIPS-Logoaufkleber entfernt               |                                          |          |
 
 
 
 Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 
-|        | -5-4&deg;C               | 4-7&deg;C             | 7-9&deg;C             | 9-13&deg;C              | 13-18&deg;C             | 18-30&deg;C
-|--------|--------------------------|-----------------------|-----------------------|-------------------------|-------------------------|----------------------------
-| Kopf   | Helm                     | Helm                  | Helm                  | Helm                    | Helm                    | Helm
-| "      | dünne Unterhelmmütze     | dünne Unterhelmmütze  | ggf. Unterhelmmütze   | -                       | -                       | -
-| "      | Buff Hinterkopf+Gesicht  | Buff (Atmung)         | ggf. Buff (Atmung)    | -                       | -                       | -
-| "      | Klarsicht-/Sonnenbrille  | Klarsicht-/Sonnenbrille  | Klarsicht-/Sonnenbrille  | Klarsicht-/Sonnenbrille  | Sonnenbrille     | Sonnenbrille
-| Torso  | Thermo-Softshelljacke    | Thermo-Softshelljacke    | Thermo-Softshelljacke    | dünne 80%-Windjacke      | Kurzarmtrikot    | Kurzarmtrikot
-| "      | Langarm-Trikot-Midlayer  | dicker Thermo-Baselayer  | dünner Kurzarm-Basel.    | dicker Thermo-Baselayer  | Windweste        | oder dünnes Merino-Langarmshirt
-| "      | Kurzarm-Baselayer        | -                     | -                     | -                       | Armlinge (dünn wirklos) | - 
-| "      |                          | -                     | -                     | -                       | oder Windstopper-Unterhemd  | Sonnencreme (oder UV-Armlinge)
-| "      | -                        | -                     | -                     | -                       | Langarmtrikot           | -
-| Hände  | Krebshandschuhe          | Langfingerhandschuhe  | Langfingerhandschuhe  | dünne Handschuhe        | Kurzfingerhandschuhe    | Kurzfingerhandschuhe
-| Beine  | windblock. Thermo-Tights | lange aufgerau. Bibs  | lange aufgerauhte Bibs| lange Bibs              | Bibshorts               | Bibshorts
-| "      |                          | oder Winterbeinlinge  | oder Beinlinge        | oder Beinlinge          | -                       | -
-| "      |                          | kurze Wind-Überhose   | -                     | -                       | -                       | -
-| "      |                          | Thermo-Tights         | -                     | -                       | -                       | -
-| Füße   | Sommer-Radschuhe SPD     | Sommer-Radschuhe SPD  | Sommer-Radschuhe SPD  | Sommer-Radschuhe SPD    | Sommer-Radschuhe SPD    | Sommer-Radschuhe SPD
-| "      | dicke Neopren-Überschuhe | Neopren-Überschuhe    | -                     | -                       | -                       | -
-| "      | normaldicke Socken       | normaldicke Socken    | normaldicke Socken    | normaldicke Socken      | normaldicke Socken      | dünnere Mesh-Socken
-| "      | (oder Winter-Radschuhe)  | oder winddichte Socken| -                     | -                       | -                       | -
-| Regen  | Regenjacke im Gepäck     | Regenjacke im Gepäck  | Regenjacke im Gepäck  | Regenjacke im Gepäck    | ggf. Regenjacke Gepäck  | aushalten
+|        | -5-4&deg;C               | 4-7&deg;C                | 7-9&deg;C                | 9-13&deg;C              | 13-18&deg;C              | 18-30&deg;C
+|--------|--------------------------|--------------------------|--------------------------|-------------------------|--------------------------|----------------------------
+| Kopf   | Helm                     | Helm                     | Helm                     | Helm                    | Helm                     | Helm
+| "      | dünne Unterhelmmütze     | dünne Unterhelmmütze     | ggf. Unterhelmmütze      | -                       | -                        | -
+| "      | Buff Hinterkopf+Gesicht  | Buff (Atmung)            | ggf. Buff (Atmung)       | -                       | -                        | -
+| "      | Klarsicht-/Sonnenbrille  | Klarsicht-/Sonnenbrille  | Klarsicht-/Sonnenbrille  | Klarsicht-/Sonnenbrille | Sonnenbrille             | Sonnenbrille
+| Torso  | Thermo-Softshelljacke    | Thermo-Softshelljacke    | Thermo-Softshelljacke    | dünne 80%-Windjacke     | Kurzarmtrikot            | Kurzarmtrikot
+| "      | Langarm-Trikot-Midlayer  | dicker Thermo-Baselayer  | dünner Kurzarm-Basel.    | dicker Thermo-Baselayer | Windweste                | oder dünnes Merino-Langarmshirt
+| "      | Kurzarm-Baselayer        | -                        | -                        | -                       | Armlinge (dünn wirklos)  | - 
+| "      |                          | -                        | -                        | -                       | o. Windstopper-Unterhemd | Sonnencreme (oder UV-Armlinge)
+| "      | -                        | -                        | -                        | -                       | Langarmtrikot            | -
+| Hände  | Krebshandschuhe          | Langfingerhandschuhe     | Langfingerhandschuhe     | dünne Handschuhe        | Kurzfingerhandschuhe     | Kurzfingerhandschuhe
+| Beine  | windblock. Thermo-Tights | lange aufgerau. Bibs     | lange aufgerauhte Bibs   | lange Bibs              | Bibshorts                | Bibshorts
+| "      |                          | oder Winterbeinlinge     | oder Beinlinge           | oder Beinlinge          | -                        | -
+| "      |                          | kurze Wind-Überhose      | -                        | -                       | -                        | -
+| "      |                          | Thermo-Tights            | -                        | -                       | -                        | -
+| Füße   | Sommer-Radschuhe SPD     | Sommer-Radschuhe SPD     | Sommer-Radschuhe SPD     | Sommer-Radschuhe SPD    | Sommer-Radschuhe SPD     | Sommer-Radschuhe SPD
+| "      | dicke Neopren-Überschuhe | Neopren-Überschuhe       | -                        | -                       | -                        | -
+| "      | normaldicke Socken       | normaldicke Socken       | normaldicke Socken       | normaldicke Socken      | normaldicke Socken       | dünnere Mesh-Socken
+| "      | (oder Winter-Radschuhe)  | oder winddichte Socken   | -                        | -                       | -                        | -
+| Regen  | Regenjacke im Gepäck     | Regenjacke im Gepäck     | Regenjacke im Gepäck     | Regenjacke im Gepäck    | ggf. Regenjacke Gepäck   | aushalten
+| "      | Regenponcho              | Regenponcho              | Regenponcho              | Regenponcho             | ggf. Regenponcho         | aushalten
 
 
 - Sportbrille:
@@ -298,49 +304,48 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 	- gegen Zugluft, Insekten, Split, ...
 	- Sonnenschutz (UV)
 	- Bügel nicht gebogen sondern gerade:
-		- passen in Radhelme
+		- passen in Radhelm-Lueftungsschlitze, falls man sie eine Weile nicht tragen moechte
 		- leichter aufsetzbar/abnehmbar ohne sich in Helmbändern zu verheddern
 	- wird _ueber_ statt unter dem Helmriemen getragen, damit kein Gefriemel im Ungluecksfall und Rüffel durch Stylepolizei
 		- Nachteil: Vergessen beim Helmabsetzen = Brille fliegt auf den Boden
 	- ...
 	- Klarsicht fuer Abend/Herbst/Winter, oder photochromatisch
-	- Uvex Unisex Sportstyle 227: Design evtl. zu rund, Saeubern/Antibeschlag nervt
-	- Alpina RAM Q-Lite: korrektes eckiges Rennradfahrer-Design, abends aber zu dunkel, sonst zufrieden - passt gut zu meinem Helm
 - Handschuhe:
 	- schuetzt Haende beim Hinfallen, Weiterfahren sonst schmerzhaft
 	- Lenkerband verschmutzt weniger schnell
 	- Wind-/Kaelteschutz
 	- Polsterung
 	- Kurzfinger: Castelli Men's Entrata V Glove
-	- Langfinger: Gripgrab Herbst (schwarz), Gripgrab Deep Winter (schwarz)
+	- Langfinger: Gripgrab Herbst (schwarz), Gripgrab Deep Winter (schwarz), Castelli Perfetto Light Glove (sehr duenn, 0 Polsterung, winddicht)
 - Trikot: 
-	- VAUDE Radtrikot Tamaro III türkis leicht, atmungsaktiv, unguenstig mit Armlingen, da Aermel nicht anliegen und Kaelte einwehen kann;
-		hat bisschen Fred-Vibes
-	- fahre im Sommer mittlerweile ein dünnes, locker liegendes Langarm-Merino-Hemd mit Halb-Reißverschluss: 
-		UV-Blocker und gutes Klima drunter gehabt; steckt in der Hose; hat auch weniger Fred-Vibes
-- Hose: GORE WEAR C3 Kurzhose
-	- Polsterung
-	- Trägerhose rollt nicht vom Bauch
+	- weites Hemd mit engen Bibs = Fred-Vibes: locker-locker oder eng-eng
+	- Gravel-Style: fahre Frueh-Sommer bis Frueh-Herbst mittlerweile ein dünnes, etwas lockerer liegendes Langarm-Merino-Hemd mit Halb-Reißverschluss: 
+		UV-Blocker und gutes Klima drunter gehabt; steckt in einer duennen, enger geschnittenen Ueber-Hose; 
+		nicht presswurst-eng figurbetont wie Roadies und nicht zu baggy wie MTB-Fahrer
+- Radhose:
+	- Polster
+	- Trägerhose (Bib) rollt nicht vom Bauch
 	- siehe auch Abschnitt Sattel
+	- zusammen mit Ueberhosen ergeben auch "Bib-Liner" Sinn; sind luftiger und Rueckentaschen des Liners ersetzen fehlende Rueckentaschen am Trikot/Hemd
 - Ueberhose:
-	- Dorftrottel-kompatibler als reine Bibshorts
-	- viele Taschen, erspart andere Taschen am Rad oder Trikot
+	- Anmutung kompatibler mit laendlich wohnenden Hillbillies als enge, abzeichnende Bibshorts
+	- Taschen, erspart andere Taschen am Rad oder Trikot
 	- Sportful Supergiara taugt, waere das Bundsystem nicht so dumm: reißt schnell und hält kaum Gewicht, z.B. Handy in der Tasche, kein Silikongripper;
 		auf dem Rad egal, aber Hose rutscht beim Gehen, was sehr stoert
 - Schuhe:
-	- für Klickpedale (clipless): Shimano Deore XT PD-T8000 (Kombipedal: eine Seite SPD, andere Seite Plattform mit Stiften)
+	- für Klickpedale (clipless)
 	- mit SM-SH56-Cleats (erlaubt schräge Panikausstiege, taugt trotzdem sehr gut zum Pedalziehen)
-	- Boa-Verschlussmechanismus evtl. besser als Schnürren; 
-		meine Schnürren verhedderten sich schon mal im Kettenblatt, nicht so witzig; 
-		seither knote ich immer an den Rad-abgewandten Seiten statt auf der Schuhmitte;
-		nach einem Jahr habe ich die Schlaufe auf der Schuhezunge entdeckt, unter die man Schlaufen und Enden steckt und dort fixiert
+	- Boa-Verschlussmechanismus evtl. besser als Schnürren
+	- Radschuhe mit Schnuerren haben oft eine flexible Lasche auf der Zunge, 
+		unter die man die Schnüren fixieren kann, damit sie sich nicht aufs Kettenblatt oder Pedalgewinde wickeln
 - Herbst/Winter:
 	- Langaermel-Trikot orange (wobei dann eh meist Windweste oder Jacke drueber ist, highvis-Trikot eher sekundaer; 
 		hatte nur 1 oder 2x Windstopperhemd drunter, Tage schnell kaelter geworden)
 	- Thermojacke
 	- im Spaetsommer mal einfache Regenjacke angehabt 
 		und darunter dann durch Schweiss so nass gewesen 
-		als haette ich mich gleich vollregnen lassen koennen
+		als haette ich mich gleich vollregnen lassen koennen;
+		probiere es seither mit Fahrrad-optimierten Poncho, der breiter belueftet wird
 	- Merino schwierig: trocknet langsamer
 - HighVis (v.a. Herbst-Winter, nachts):
 	- man sieht aus wie ein Idiot, statt Neongelb lieber nicht ganz so grelle Organgetoene
@@ -350,7 +355,7 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 	- kurze Überhose
 	- Militär-Cap
 - Sonstiges:
-	- Armlinge und Beinlinge verwende ich sogut wie nicht mehr, 
+	- Armlinge und Beinlinge verwende ich selten (im Alltag; nur noch, wenn Packvolumen problem wird), 
 	  meist stimmt dann schon die Langarm-/Langbein-Auswahl; die nervt auch weniger als das Anzuppen;
 	  im letzten Sommer/Herbst gab's mal einen kalten Tag entlang des Wassers, da war ich froh ueber die Beinlinge;
 	  Vorteil ist das kleine Packmaß (Rückentaschen etc)
@@ -371,12 +376,19 @@ Allgemein:
 - Minitool
 	- besser man kauft die Teile einzeln, da Minitool sperrig und Inbus oft zu kurz
 - Schrauberbitset (BOSCH Professional 32tlg.)
-- Drehmomentschlüssel
+- Drehmomentschlüssel, um "nach fest kommt ab" zu vermeiden
+	- "handfest" keine Einheitsvorstellung (bei mir leicht in den Widerstand reinfahren, also spannen, bei Anderen mimikverzerrt solange Kraft drauf bis sich nichts mehr regt, also "anknallen"; taugt beides nichts)
 	- bis 15 Nm reicht Auslösung für nur Rechtsgewinde (Ratsche links egal); Proxxon ist gut und Preis noch ok;
 	- 15-60 Nm braucht es beim Fahrrad unbedingt Auslösung für Rechts- und Linksgewinde (Pedale, ...), sonst Fehlkauf;
 		- bei manchen großen guenstigeren Rechtsgewinde-Drehmos kann man den Kopf drehen, wenn man 2 Schrauben loest (Proxxon), Sache von 1 Minute
+	- festes Anziehen in gleichmäßigen Viertelumdrehungen mit der Ratsche – nicht zu kleine, aber auch nicht zu große Schritte. So spürt man das Auslösen klarer und verringert die Gefahr des Überdrehens.
+	- immer am Griff anfassen – der Schlüssel ist für diese Position kalibriert; falsches Greifen verändert den Hebelarm und verfälscht das Drehmoment.
+	- nach dem Einstellen den Drehring arretieren – verhindert ungewolltes Verstellen während der Arbeit.
+	- nach Gebrauch entspannen – Einstellmoment auf den Minimalwert zurückdrehen (nicht unter den Minimalwert), um ein Setzen der Feder zu vermeiden. Beim Proxxon MC15 also bei 3 Nm; komplett entspannt klappert er
+	- geforderte Drehmomente gelten in der Regel für trockene Schrauben. Bei geölten oder gefetteten Schrauben verringert sich die Reibung, die Vorspannkraft steigt deutlich – Drehmoment entsprechend reduzieren. Bei Flächen (nicht Gewinden) können bestimmte Montagepasten (z.B. Carbonpaste) die Reibung bewusst erhöhen, so dass man materialschonender mit weniger Anzugsmoment klemmen kann.
+	- Drehmomente nur bewusst anpassen – bei unkritischen Schrauben kann man zur Materialschonung leicht unter den Herstellerwert gehen, bei sicherheitsrelevanten Verbindungen jedoch immer den exakten Sollwert verwenden. Falls man unterschiedliche Materialien klemmt, z.B. bei Sattelstützklemme oder Klemmkopf für die Sattelschienen, dann natürlich nicht den Sollwert vom härteren Material nehmen.
 - hochwertiges Set Inbus-Schlüssel, das genau sitzt und Schrauben nicht ausnudelt (Inbus Original)
-- Pinsel
+- Pinsel fuers Auftragen von Fetten oder Loesemitteln
 - Flachrundzange 
 	- z.B. für Splints bei den Bremsen, oder Festhalten von Bowdenzügen; 
 	- Knipex 25 01 125 ist so klein, dass sie noch in die Werkzeug-Satteltasche passt (die kleine Knipex Kobra ist m.M.n. am modernen Fahrrad eher nutzlos)
@@ -412,6 +424,9 @@ Laufrad:
 - Dichtstoffspritze (STANS Notubes Injector) oder direkt aus kleiner 59ml-Dichtmilch-Flasche
 - ...
 
+
+Reinigung:
+- ...
 
 
 
@@ -460,7 +475,7 @@ Laufrad:
 | Inbus Schraubensicherung<br>Loctite | Klebstoff        | Loslösen hindern   | Bremsscheiben-Bolzen, Cleats-Schrauben (Schuh), Bremsgriff-Schrauben, Lenker-Schrauben  |  | sicherheitsrelevante Teile; gg. Lockerung durch Vibration; bietet auch Korrossionsschutz; Loctite blau ist niedrigfest bis mittelfest, rot ist hochfest
 | Liquimoly LM47 Langzeitfett       | Fett (Lagerfett)   | Reibung reduzieren |                              | Carbon (Fett blaeht Carbon-bindendes Epoxidharz )  | 
 | Liquimoly Silikonfett             | Fett (synthetisch) |                    | Carbon                       |                     | 
-| Liquimoly Dry oder Wet Lube       | Öl                 | Reibung reduzieren | Kette im Sommer/Herbstwinter | Kassetten-Ritzel (verschmutzt ohne Nutzen), Bremsscheibe | punktuell auf Kettenglieder, nur dort muss Öl hin, sonst sauber
+| Liquimoly Dry oder Wet Lube       | Öl                 | Reibung reduzieren | Kette im Sommer/Herbstwinter | Kassetten-Ritzel (verschmutzt ohne Nutzen), Bremsscheibe | punktuell auf Kettenglieder, nur dort muss Öl hin, sonst sauber; ich verwende einen kleinen, festen flachen Pinsel, Tropfen Öl drauf und streich dann eine Bahn, wdh. insg. 3 Tropfen pro Bahn: sauberste Arbeit und Ergebnis
 | Liquimoly Multi-Spray Plus 7      |                    |                    |                              |                     |
 | Nigrin Bike-Care Fahrradreiniger  |                    |                    |                              |                     |
 | Nigrin Bike-Care Feinöl           | Öl (Kriechöl)      |                    | ?                            | Bremsscheibe        | 
@@ -477,23 +492,23 @@ Laufrad:
 
 
 
-Aktuell:
+Aktueller Schmierplan:
 
 | Bauteil                            | Vor-Reinigung          | Nachbehandlung 
 |------------------------------------|------------------------|-------------------------
-| Schaltwerk-Roellchen (Pullies)     | ?                      | ?
-| Schaltwerk-Federn/-Gelenke         | Brunox Turbo-Spray?    | Balistol PTFE-Trockenschmierung (Spray); Öl wuerde mehr Dreck anziehen und kann verharzen = schwergaengiger
-| Pedal-Cleat-Federn                 | Brunox Turbo-Spray?    | Balistol PTFE-Trockenschmierung (Spray)
+| Schaltwerk-Roellchen (Pullies)     | nur mechanisch         | ?
+| Schaltwerk-Federn/-Gelenke         | ?                      | Balistol PTFE-Trockenschmierung (Spray); Öl wuerde mehr Dreck anziehen und kann verharzen = schwergaengiger; Alternative Brunox nur bei viel Regen
+| Pedal-Cleat-Federn                 | ?                      | Balistol PTFE-Trockenschmierung (Spray); Alternative Brunox nur bei viel Regen
 | Pedal-Kurbel-Gewinde               | IPA                    | Shimano Anti-Seize
 | Cleat-Schrauben im Schuh           | ?                      | Shimano Anti-Seize über 90% der Laenge und 10% Schraubensicherung am Ende
 | Sattelstuetze-Sitzrohr             | IPA                    | Shimano Anti-Seize, auch alle Teile des Schraubmechanismus = verhindert Knarzgeraeusche
 | Steuersatz                         | IPA, Muc-off Bio Degreaser + Pinsel zum Saeubern ausgebauter Lager, weniger aggressiv gegen Gummidichtung als Bremsenreiniger | Finishline Premium-Fett auf den Lager-Sitzen, _duenner_ Film um Cartridge Bearings und Gabelkonus, und dick unter der oberen Abdeckkappe (Gummiring) für Wasserdichtigkeit; unten wenig Fett (Dreck), oben mehr (kein Wassereintrag)
-| Griffgummis                        | ?                      | Hand-Sanitizer um neu aufzuziehen
+| Griffgummis                        | ?                      | Hand-Sanitizer falls neu aufzuziehen
 | Kette                              | ?                      | Liquimoly Dry bzw. Wet Lube
 | Kettenblatt                        | ?                      | ?
 | Kassette                           | ?                      | ?
 | Radwaesche allgemein               | ?                      | Nigrin Bike-Care Fahrradreiniger; auch fuer Kassette (obwohl besser, wenn man die separiert und mit Bremsenreiniger bearbeitet)
-| Reifen-Dichtmilch                  | ?                      | Giant Tire Selant (da Giant-Reifen/Felgenband/Felge)
+| Reifen-Dichtmilch                  | ?                      | Giant Tire Sealant (da Giant-Reifen/Felgenband/Felge) oder Stans (Giant angeblich nur rebranded; offiziell bei Giant auch nur Empfehlung fuer Giant oder Stans)
 | Bremsscheibe                       | Wuerth Bremsenreiniger | ?
 
 
@@ -1086,16 +1101,22 @@ Andererseits ist ein Faltstuhl vor dem eigenen Zelt schon eine tolle Sache, um l
 	- morgens leichter/schneller zu packen
 	- Ästhetik nicht hässlicher als die Arschrakete
 	- siehe YouTube Tristan Ridley Perfect Setup
-
 - Ortlieb Quick Rack: 15 Sekunden Anbau, 5 Sekunden Abbau ohne Schraubengewinde auszuleiern,
   verschandelt das Rad auch nicht zu stark; musste den Stab etwas kürzen (hab meine Flex genommen, 
   Alu macht keine Funken; kleine Metallsäge oder Drehmel ginge auch);
   Extragewicht ist noch ok (real ~650 g)
 - ggf. Mini-Panniers oder Rucksack-Molle-Pouches, jedenfalls keine Maxi-Panniers (Bike-Touring)
+- Front-Rack Jack The Bike Rack:
+	- kein Fixierung an meiner Carbon-Gabel
+	- weniger Rieb auf den Bowdenzughuellen
+	- Platz auf dem gesamten Lenker fuer die Haende
+	- werkzeuglos an- und abbaubar in paar Sekunden
 
 
 
 ### Basisausrüstung
+
+TODO muss ich komplett ueberarbeiten:
 
 - Lebensmittel
 	- Kohlenhydrate (beim Strampeln verbrannt)
@@ -1118,6 +1139,7 @@ Andererseits ist ein Faltstuhl vor dem eigenen Zelt schon eine tolle Sache, um l
 	- Schlafsack:
 		- Sommer: Carinthia G90 (hab meinen Carinthia Tropen verkauft; würde auch nichts mil. (zu weites) mehr kaufen; zivil ist oft sinniger), 
 			immer Sommer ist es hier morgens trotzdem schonmal 10-11 Grad
+		- Schlafsack wird gepimpt mit Daunenjacke und Thermohose, die ich auch ausserhalb tragen kann = modularer
 	- Shelter:
 		- untested: Robens Mountain Biwak (mit kleinem Insektennetz-Fenster aber ohne Hoop-Stangen, was sehr nervt; 
 			Kaputze aber aufhängbar, evtl. separate Schnur quer zw. 2 Bäumen spannen und dann Kaputzenschnur dort befestigen);
@@ -1143,6 +1165,7 @@ Andererseits ist ein Faltstuhl vor dem eigenen Zelt schon eine tolle Sache, um l
 	- large Body-Wipes, einzelverpackt
 	- guter Schrupp-Waschlappen und Wasser aus der Trinkflasche
 	- Unterleib muss gar nicht mit Seife gewaschen werden, wird sogar abgeraten (zerstöre hauteigene Abwehr-Fettschicht); Teebaumöl desinfiziert
+	- RIAS-Tuchtabletten + 100ml-Flasche mit Fluessigkeitsmix aus Wasser/Teebaumoel/Glycerin/Campseife/Vitamin-E-Oel = spart Wasser und viel Platz
 - Wechselkleidung / Warm-Kit:
 - Kommunikation & Informationstechnik:
 	- Smartphone
@@ -1173,6 +1196,17 @@ Gutes Setup auf YT:
 	- an Trinkwasser/Resupply-Stellen entlang planen: Friedhoefe, Imbiss, Tankstellen, Supermaerkte, ...
 	- Fewos/Hotels spontan erst am vorabend oder selben Tag buchen (wenn die Strecke und Fitness klar ist) = weniger Stress; 
 			scheinbar finde sich immer was, zur Not wildcampen
+	- einfacher mit fester Zeitvorgabe zu planen (was schafft man zu sehen) als eine Planung der benoetigten Zeit (analysis paralysis)
+	- ersten Tag evtl. ruhiger angehen; letzten Tag nah am Bahnhof/Faehre o.a. planen
+	
+- Info-Basics:
+	- von wo kommt der Wind
+	- wann geht die Sonne auf und unter (Schlafplatzsuche)
+	- wie warm wird es am Tag und wie kalt in der Nacht (Schlafsetup-Limits)
+	- Regenwahrscheinlichkeit
+	- Vergleiche mit Vorjahr(en)
+	- https://www.meteoblue.com/
+	- https://de.weatherspark.com/
 	
 - Navigation: Wahoo Elemnt Bolt V2
 	- separat zum Handy: bessere/separate Akkuzeit, wasserdicht, kleiner etc
@@ -1184,15 +1218,19 @@ Gutes Setup auf YT:
 			- https://github.com/yokuha/Wahoo-maps
 		- manche veraendern die Abbiegehinweise (CUEs) in den GPX-Tracks(?) mit Hinweis auf POI (Rechts gehts zum Baecker)
 	
-- Navigation (Backup): Smartphone
+- Navigation-Backup: Smartphone
 	- Komoot
 	- OsmAndMaps (Offline-Karte mit vielen POIs)
 		- Komoot-GPX-Track in OsmAndMaps laden
 	- Google Maps
 	- ungetestet: Orux Maps, MagicEarth, PocketEarth
 	
+- Navigation-Backup (Radcomputer und Smartphone tot oder absent): Physische Karten
+	- Kleiner Kompass schadet nicht, um Karte zu norden (z.B. mind. SUUNTO Clip-Dingsda), also wo man hinguckt und weitergeht (Kompasse auf Nord- oder Sued-Hemisphaere kalibriert)
+
 - Wildcamping-Platzsuche TODO
 	- Stealth-Camping
+	- Wild-Shelter-Apps
 
 
 
@@ -1258,6 +1296,12 @@ Mini-Version:
 	Wasser in die Tuete und direkt aus der Tuete essen
 
 
+Kalte-Kueche-Version:
+
+- Klappbarer Goeffel
+
+
+
 
 ### Lebensmittel
 
@@ -1266,8 +1310,10 @@ Ziel: maximale Kohlenhydrate (primaer) und Proteine (sekundaer) auf kleinstem St
 
 Kalte Kueche &gt; warme Kueche (Kochgelegenheiten, Stauplatz, Dauer, ...):
 - Muesli mit Milchpulver oder Haferdrinkpulver, Mandeldrinkpulver leider zu mehlig, loest sich nicht gut; in Ziploc-Tuete
-- Thunfischsalat mit Couscous
-- Powergels, Proteinriegel
+- paar kleine flache Dosen mit Thunfisch-Couscous (363 kcal); sonst nur Zucker eklig
+- Proteinriegel eher salzig als suess
+- Powergels (Zucker)
+
 
 Warm:
 - Pesto
@@ -1429,13 +1475,14 @@ TODO
 
 #### Meine Polsterhosen
 
-| Modell                              | Polster            | Einsatz  | Sattel   | Punkte und Befinden
-|-------------------------------------|--------------------|----------|----------|----------
-| Gore Wear Bibs                      | Schaumstoff        | max 3h   | G, F, E  | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores; gute Standard-Hose
-| Gore Wear Tights                    | Schaumstoff        | max 3h   | F        | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores; gute Hose sonst
-| Gore Wear Tights Windstopper        | Schaumstoff        | max 3h   | F        | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores; Rest der Hose ist genial
-| Gonso SQLab GO M Bibs               | Gel/Elastomer 6mm  | max 6h   | F, E     | 4 von 5: Polster top, Träger zu kurz
-
+| Modell                                 | Polster            | Einsatz  | Sattel   | Punkte und Befinden
+|----------------------------------------|--------------------|----------|----------|----------
+| Gore Wear Bibs                         | Schaumstoff        | max 3h   | G, F, E  | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores; gute Standard-Hose
+| Gore Wear Tights                       | Schaumstoff        | max 3h   | F        | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores; gute Hose sonst
+| Gore Wear Tights Windstopper           | Schaumstoff        | max 3h   | F        | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores; Rest der Hose ist genial
+| Gonso SQLab GO M Bibs (2x)             | Gel/Elastomer 6mm  | max 6h   | F, E     | 4 von 5: Polster gut, Träger beim alten Modell zu kurz; kann sich nicht durchsitzen und beste Trocknungszeit gut fuer Radreisen
+| GripGrab AquaRepel Bibs                | Schaumstoff        | max ?    | E        | ? von ?: Kurze Hose fuer Herbsteinsatz
+| Castelli Unlimited Ultimate Bib-Liner  | Schaumstoff        | max 2-3h | E        | 5 von 5: Progetto X2 Polster genial, guter Sitz der Hose; mein Fav fuer Standardrunden; laengste Trocknungszeit fuer Radreisen eher ungeeignet
 
 
 
