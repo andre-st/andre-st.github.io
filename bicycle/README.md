@@ -1093,6 +1093,8 @@ Andererseits ist ein Faltstuhl vor dem eigenen Zelt schon eine tolle Sache, um l
 
 ### Hybridlösung
 
+![Bikepacking-Touring-Hybrid](bikepack.jpg)
+
 - Gepäckträger + 15-35 Liter Rucksack oder Drybag mit Trage-Gurten
 	- viel mehr Platz als in der Arschrakete
 	- "Hike-a-Bike" (klettern etc) viel einfacher mit Rucksack auf dem Rücken 
@@ -1140,7 +1142,7 @@ TODO muss ich komplett ueberarbeiten:
 	- Schlafsack:
 		- Sommer: Carinthia G90 (hab meinen Carinthia Tropen verkauft; würde auch nichts mil. (zu weites) mehr kaufen; zivil ist oft sinniger), 
 			immer Sommer ist es hier morgens trotzdem schonmal 10-11 Grad
-		- Schlafsack wird gepimpt mit Daunenjacke und Thermohose, die ich auch ausserhalb tragen kann = modularer
+		- duenner Schlafsack wird gepimpt mit Daunenjacke und Thermohose, die ich auch ausserhalb tragen kann = modularer, platzsparender
 	- Shelter:
 		- untested: Robens Mountain Biwak (mit kleinem Insektennetz-Fenster aber ohne Hoop-Stangen, was sehr nervt; 
 			Kaputze aber aufhängbar, evtl. separate Schnur quer zw. 2 Bäumen spannen und dann Kaputzenschnur dort befestigen);
@@ -1471,16 +1473,16 @@ TODO
 |-------------------------------------|-------------|-----------------------------|-----------------
 | Giant Approach (Stock)              | 145 mm      | All-Road, Gravel            | ? von 5: bin 1 Jahr damit herumgefahren, obwohl "eigentlich" zu schmal
 | Fizik Terra Argo X5                 | 160 mm      | All-Road, Gravel, sportlich | 4 von 5: straff, gut, Polsterhose zwingend
-| Ergon SR Allroad Core Comp Men      | M-L         | All-Road, Langstrecke       | ? von 5: komfortabler
+| Ergon SR Allroad Core Comp Men      | M-L         | All-Road, Langstrecke       | 5 von 5: komfortabler
 
 
 #### Meine Polsterhosen
 
 | Modell                                 | Polster            | Einsatz  | Sattel   | Punkte und Befinden
 |----------------------------------------|--------------------|----------|----------|----------
-| Gore Wear Bibs                         | Schaumstoff        | max 3h   | G, F, E  | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores; gute Standard-Hose
-| Gore Wear Tights                       | Schaumstoff        | max 3h   | F        | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores; gute Hose sonst
-| Gore Wear Tights Windstopper           | Schaumstoff        | max 3h   | F        | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores; Rest der Hose ist genial
+| Gore Wear Bibs                         | Schaumstoff        | max 3h   | G, F, E  | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (Oberstoff loest sich und bildet Rubbel-Falten); gute Standard-Hose
+| Gore Wear Tights                       | Schaumstoff        | max 3h   | F        | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (" " "); gute Hose sonst
+| Gore Wear Tights Windstopper           | Schaumstoff        | max 3h   | F        | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (" " "); Rest der Hose ist genial
 | Gonso SQLab GO M Bibs (2x)             | Gel/Elastomer 6mm  | max 6h   | F, E     | 4 von 5: Polster gut, Träger beim alten Modell zu kurz; kann sich nicht durchsitzen und beste Trocknungszeit gut fuer Radreisen
 | GripGrab AquaRepel Bibs                | Schaumstoff        | max ?    | E        | ? von ?: Kurze Hose fuer Herbsteinsatz
 | Castelli Unlimited Ultimate Bib-Liner  | Schaumstoff        | max 2-3h | E        | 5 von 5: Progetto X2 Polster genial, guter Sitz der Hose; mein Fav fuer Standardrunden; laengste Trocknungszeit fuer Radreisen eher ungeeignet
