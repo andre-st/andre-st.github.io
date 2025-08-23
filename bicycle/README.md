@@ -24,6 +24,7 @@ _ACHTUNG: Alles work-in-progress hier, mag sich alles ändern_
 - [Reifen](#reifen)
 - [Sattel](#sattel)
 - [Lenker](#lenker)
+- [Wahoo-Hackerei](#wahoo-hackerei)
 
 
 
@@ -145,7 +146,7 @@ GIANT Revolt 2 (2022) XL Black-Diamond Gravelbike (Ladenkauf 2023):
 
 ### Schalthebel
 
-Rennrad-Schalthebel / Dropbars:
+Rennrad-Schalthebel / Dropbars / STI:
 
 | L1 (Bremse)           | L2                 | R1 (Bremse)                  | R2
 |-----------------------|--------------------|------------------------------|--------------------
@@ -322,7 +323,7 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 	- weites Hemd mit engen Bibs = Fred-Vibes: locker-locker oder eng-eng
 	- Gravel-Style: fahre Frueh-Sommer bis Frueh-Herbst mittlerweile ein dünnes, etwas lockerer liegendes Langarm-Merino-Hemd mit Halb-Reißverschluss: 
 		UV-Blocker und gutes Klima drunter gehabt; steckt in einer duennen, enger geschnittenen Ueber-Hose; 
-		nicht presswurst-eng figurbetont wie Roadies und nicht zu baggy wie MTB-Fahrer
+		nicht presswurst-eng figurbetont wie Roadies und nicht zu baggy wie MTB-Fahrer; Aermel kann man bei Bedarf hoch/runterziehen 
 - Radhose:
 	- Polster
 	- Trägerhose (Bib) rollt nicht vom Bauch
@@ -351,12 +352,10 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 - HighVis (v.a. Herbst-Winter, nachts):
 	- man sieht aus wie ein Idiot, statt Neongelb lieber nicht ganz so grelle Organgetoene
 	- Autofahrer finden es gut, als Radfahrer sieht man solche auch in Entfernung gut
-- Casual-Alternativen für längere Touren:
-	- Merino-Outdoor-Langarmshirt (Ärmel hochziehen, sonst UV-Schutz)
-	- kurze Überhose
-	- Militär-Cap
+	- vermute, Problem ist meist weniger, dass Radler nicht genug wie Tannenbaum leuchtet, sondern Autofahrer nicht hingucken (Handy, Fahrerfensterseite) oder Radfahrer verdeckt wird
+	- Farbe nachts egal, Reflektoren wichtiger
 - Sonstiges:
-	- Armlinge und Beinlinge verwende ich selten (im Alltag; nur noch, wenn Packvolumen problem wird), 
+	- Armlinge und Beinlinge verwende ich selten im Alltag; nur noch, wenn Packvolumen problem wird; 
 	  meist stimmt dann schon die Langarm-/Langbein-Auswahl; die nervt auch weniger als das Anzuppen;
 	  im letzten Sommer/Herbst gab's mal einen kalten Tag entlang des Wassers, da war ich froh ueber die Beinlinge;
 	  Vorteil ist das kleine Packmaß (Rückentaschen etc)
@@ -1196,11 +1195,14 @@ Gutes Setup auf YT:
 	- in mehrere Tages-Touren aufteilen (Ziel=Schlafplatz?)
 	- 3+ Schlafplätze pro Tag planen: gute/normale/schlechte Tagesfitness
 	- an Bahnhoefen entlang planen, damit man schnell im Zug zurueckfahren kann (Infekt etc)
-	- an Trinkwasser/Resupply-Stellen entlang planen: Friedhoefe, Imbiss, Tankstellen, Supermaerkte, ...
+	- an Trinkwasser/Resupply-Stellen entlang planen: Friedhoefe, Imbiss, Tankstellen, Supermaerkte, Trinkbrunnen, ...
 	- Fewos/Hotels spontan erst am vorabend oder selben Tag buchen (wenn die Strecke und Fitness klar ist) = weniger Stress; 
-			scheinbar finde sich immer was, zur Not wildcampen
+			scheinbar finde sich immer was, zur Not wildcampen;
+			als Soloradler mit 1P-Zelt finden Zeltplaetze nicht selten noch Luecken (ggf. vorher anfragen, wie spontan man kommen kann)
 	- einfacher mit fester Zeitvorgabe zu planen (was schafft man zu sehen) als eine Planung der benoetigten Zeit (analysis paralysis)
 	- ersten Tag evtl. ruhiger angehen; letzten Tag nah am Bahnhof/Faehre o.a. planen
+	- rueckwaerts planen: Ende zu Anfang
+	- belebte Orte an unmoeglichen Tageszeiten durchfahren, sehr frueh oder spaet
 	
 - Info-Basics:
 	- von wo kommt der Wind
@@ -1213,14 +1215,7 @@ Gutes Setup auf YT:
 	
 - Navigation: Wahoo Elemnt Bolt V2
 	- separat zum Handy: bessere/separate Akkuzeit, wasserdicht, kleiner etc
-	- POI-Funktionalitaet eher schlecht v.a. mit Hinblick auf Resupply- und Schlafplaetze-Planung
-		- Herzchen ueber die App: https://www.reddit.com/r/wahoofitness/comments/vi12mx/just_found_how_to_add_pois_on_my_elmnt_shaped_is/
-		- mit Powerbutton: "Save my location"
-		- gibt Hacks im Internet mit ADB (Bolt ist ein Android-Geraet) und selbstgenerierten Karten und POI-Symbolen (Tanken, Baecker, ..., Wasserstellen)
-			- https://www.heise.de/select/ct/2022/26/2230710050673252243
-			- https://github.com/yokuha/Wahoo-maps
-		- manche veraendern die Abbiegehinweise (CUEs) in den GPX-Tracks(?) mit Hinweis auf POI (Rechts gehts zum Baecker)
-	
+	- POI-Funktionalitaet schlecht v.a. mit Hinblick auf Resupply- und Schlafplaetze-Planung (siehe Abschnitt "Wahoo Hackerei")
 - Navigation-Backup: Smartphone
 	- Komoot
 	- OsmAndMaps (Offline-Karte mit vielen POIs)
@@ -1257,7 +1252,7 @@ Gutes Setup auf YT:
 
 ### Mein Kochset aktuell:
 
-Groessere Version:
+#### Groessere Version:
 
 - 1,5L-Duossal-Topf Trangia (236g) mit: 
 	- 550ml-Titanbecher Toaks (73g)
@@ -1280,7 +1275,7 @@ Groessere Version:
 - 1,2l Ziploc-Tueten IKEA Istad mit Lebensmitteln, Dehydriertes zusammengekippt, ...
 
 
-Kleine Version:
+#### Kleine Version:
 
 - schmaler Titan-Topf:  Boundless Voyage 900 ml _oder_ Toaks 550 ml
 - 100g-Gaskartusche Optimus
@@ -1293,13 +1288,7 @@ Kleine Version:
 - 1,2l Ziploc-Tueten IKEA Istad mit Nudeln, ...
 
 
-Mini-Version:
-
-- 1,2l Ziploc-Tueten IKEA Istad mit Rossmann Früchte-Müsli und (Hafer-)Milchpulver: 
-	Wasser in die Tuete und direkt aus der Tuete essen
-
-
-Kalte-Kueche-Version:
+#### Kalte-Kueche-Version:
 
 - Klappbarer Goeffel
 
@@ -1311,18 +1300,19 @@ Kalte-Kueche-Version:
 Ziel: maximale Kohlenhydrate (primaer) und Proteine (sekundaer) auf kleinstem Stauraum bei geringem Gewicht
 
 
-Kalte Kueche &gt; warme Kueche (Kochgelegenheiten, Stauplatz, Dauer, ...):
-- Muesli mit Milchpulver oder Haferdrinkpulver, Mandeldrinkpulver leider zu mehlig, loest sich nicht gut; in Ziploc-Tuete
+Kalte Kueche &gt; warme Kueche (Kochgelegenheiten, Packmaß, Dauer, Feuerverbote, ...):
+- Rossmann Fruechte-Muesli mit Milchpulver oder Haferdrinkpulver, Mandeldrinkpulver leider zu mehlig, 
+	loest sich nicht gut; in 1,2l-Ziploc-Tueten, direkt aus Tuete essbar
 - paar kleine flache Dosen mit Thunfisch-Couscous (363 kcal); sonst nur Zucker eklig
 - Proteinriegel eher salzig als suess
 - Powergels (Zucker)
+- warmes Essen oft unterwegs abgreifbar
 
 
-Warm:
+Warme Kueche:
 - Pesto
 - chin. Nudeln, die unter 5 Minuten kochen
 - ...
-
 
 
 ### Gaskartuschen
@@ -1341,12 +1331,10 @@ Warm:
 	- in gut durchluefteten Raeumen
 
 
-
 ### Feuer:
 
 - Gaskocher gilt rechtl. als "offenes Feuer" und ist im Wald idR. verboten 
 	(Kerzen sind schon "offenes Feuer")
-
 
 
 ### Rezepte:
@@ -1388,7 +1376,6 @@ Warm:
 - wann wechseln?
 
 
-
 ![Reifen](wheel.jpg)
 
 Ich hatte mir bei Kleinanzeigen.de ein Hinter-Laufrad (mit Kassette und Bremsscheibe) fuer _25 Euro_ besorgt, 
@@ -1418,7 +1405,6 @@ siehe Abschnitt zum "Zentrieren"
 1. Wellpappe auf harten Tisch legen
 	- Wellpappe kostenlos zusammen mit SQLab-Werbematerial bestellbar, gute Werbeidee, die Links bringt: 
 		https://www.sq-lab.com/en/products/equipment/sqlab-family-friends-sitbone-measurement-set.html
-
 2. draufsetzen, Knie höher als Hintern, bisschen wackeln
 3. Abdrücke mit Stift als Kreis umranden, Kreuz in Kreis einzeichnen (Mittelpunkt)
 	und Abstand zw. Kreuz-Schnittpunkten messen
@@ -1469,23 +1455,23 @@ TODO
 
 #### Meine Sättel
 
-| Modell                              | Groesse     | Einsatz                     | Punkte und Befinden
-|-------------------------------------|-------------|-----------------------------|-----------------
-| Giant Approach (Stock)              | 145 mm      | All-Road, Gravel            | ? von 5: bin 1 Jahr damit herumgefahren, obwohl "eigentlich" zu schmal
-| Fizik Terra Argo X5                 | 160 mm      | All-Road, Gravel, sportlich | 4 von 5: straff, gut, Polsterhose zwingend
-| Ergon SR Allroad Core Comp Men      | M-L         | All-Road, Langstrecke       | 5 von 5: komfortabler
+| Modell                                 | Groesse     | Einsatz                     | Punkte und Befinden
+|----------------------------------------|-------------|-----------------------------|-----------------
+| Giant Approach (Stock)                 | 145 mm      | All-Road, Gravel            | ? von 5: bin 1 Jahr damit herumgefahren, obwohl "eigentlich" zu schmal
+| Fizik Terra Argo X5                    | 160 mm      | All-Road, Gravel, sportlich | 4 von 5: straff, gut, Polsterhose zwingend
+| Ergon SR Allroad Core Comp Men         | M-L         | All-Road, Langstrecke       | 5 von 5: komfortabler
 
 
 #### Meine Polsterhosen
 
-| Modell                                 | Polster            | Einsatz  | Sattel   | Punkte und Befinden
-|----------------------------------------|--------------------|----------|----------|----------
-| Gore Wear Bibs                         | Schaumstoff        | max 3h   | G, F, E  | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (Oberstoff loest sich und bildet Rubbel-Falten); gute Standard-Hose
-| Gore Wear Tights                       | Schaumstoff        | max 3h   | F        | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (" " "); gute Hose sonst
-| Gore Wear Tights Windstopper           | Schaumstoff        | max 3h   | F        | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (" " "); Rest der Hose ist genial
-| Gonso SQLab GO M Bibs (2x)             | Gel/Elastomer 6mm  | max 6h   | F, E     | 4 von 5: Polster gut, Träger beim alten Modell zu kurz; kann sich nicht durchsitzen und beste Trocknungszeit gut fuer Radreisen
-| GripGrab AquaRepel Bibs                | Schaumstoff        | max ?    | E        | ? von ?: Kurze Hose fuer Herbsteinsatz
-| Castelli Unlimited Ultimate Bib-Liner  | Schaumstoff        | max 2-3h | E        | 5 von 5: Progetto X2 Polster genial, guter Sitz der Hose; mein Fav fuer Standardrunden; laengste Trocknungszeit fuer Radreisen eher ungeeignet
+| Modell                                 | Polster         | Einsatz  | Sattel   | trocknet | Punkte und Befinden
+|----------------------------------------|-----------------|----------|----------|----------|-----------------------------------------
+| Gore Wear Bibs                         | Schaum          | max 3h   | G, F, E  | \*\*     | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (Oberstoff loest sich und bildet Rubbel-Falten); gute Standard-Hose
+| Gore Wear Tights                       | Schaum          | max 3h   | F        | \*\*     | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (" " "); gute Hose sonst
+| Gore Wear Tights Windstopper           | Schaum          | max 3h   | F        | \*\*     | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (" " "); Rest der Hose ist genial
+| Gonso SQLab GO M Bibs (2x)             | Gel/Elast. 6mm  | max 6h   | F, E     | \*\*\*\* | 4 von 5: Polsterkomfort konstant gut genug, kein Durchsitzen; Träger beim alten Modell zu kurz; gut fuer Radreisen
+| GripGrab AquaRepel Bibs                | Schaum          | max ?    | E        | \*\*     | ? von ?: Kurze Hose fuer Herbsteinsatz
+| Castelli Unlimited Ultimate Bib-Liner  | Schaum          | max 2-3h | E        | \*       | 5 von 5: Progetto X2 Polster genial, guter Sitz der Hose; mein Fav fuer Standardrunden; fuer Radreisen eher ungeeignet; hat Rueckentaschen
 
 
 
@@ -1524,6 +1510,12 @@ TODO
 
 
 Habe den Auflieger wieder abgebaut, auch wenn er Spass macht. Schlankeres Bike gefaellt mir letztlich besser.
+
+
+
+# Wahoo-Hackerei
+
+see [my Github Wahoo-repository](https://github.com/andre-st/wahoo)
 
 
 
