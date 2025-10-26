@@ -290,8 +290,10 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 | Hände  | Krebshandschuhe          | Langfingerhandschuhe     | Langfingerhandschuhe     | dünne Handschuhe        | Kurzfingerhandschuhe     | Kurzfingerhandschuhe
 | Beine  | windblock. Thermo-Tights | lange aufgerau. Bibs     | lange aufgerauhte Bibs   | lange Bibs              | Bibshorts                | Bibshorts
 | "      |                          | oder Winterbeinlinge     | oder Beinlinge           | oder Beinlinge          | -                        | -
-| "      |                          | kurze Wind-Überhose      | -                        | -                       | -                        | -
-| "      |                          | Thermo-Tights            | -                        | -                       | -                        | -
+| "      |                          | kurze windd. Überhose    | mit winddichten Bibs     | mit winddichten Bibs    | -                        | -
+| "      |                          | oder Thermo-Tights       | -                        | -                       | -                        | -
+| "      |                          | oder Sommerbibs mit      | oder Sommerbibs mit      | -                       | -                        | -
+| "      |                          | langer Ueberhose         | langer Ueberhose         | -                       | -                        | -
 | Füße   | Sommer-Radschuhe SPD     | Sommer-Radschuhe SPD     | Sommer-Radschuhe SPD     | Sommer-Radschuhe SPD    | Sommer-Radschuhe SPD     | Sommer-Radschuhe SPD
 | "      | dicke Neopren-Überschuhe | Neopren-Überschuhe       | -                        | -                       | -                        | -
 | "      | normaldicke Socken       | normaldicke Socken       | normaldicke Socken       | normaldicke Socken      | normaldicke Socken       | dünnere Mesh-Socken
@@ -325,10 +327,13 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 		UV-Blocker und gutes Klima drunter gehabt; steckt in einer duennen, enger geschnittenen Ueber-Hose; 
 		nicht presswurst-eng figurbetont wie Roadies und nicht zu baggy wie MTB-Fahrer; Aermel kann man bei Bedarf hoch/runterziehen 
 - Radhose:
-	- Polster
-	- Trägerhose (Bib) rollt nicht vom Bauch
+	- Polster: mMn. schwimmende besser als statische; 3d-geformte Polster vermutl. sinnvoller wenn man ungepolsterte Plastikschalen-Rennradsattel hat,
+		sonst addieren sich die Polsteroptimierungen u.U. unguenstig und die Polsterhuegel wandern unterm Hintern;
+		ich komme jedenfalls mit den neutralen/flachen Polstern besser klar bei meiner leichten Sattelpolsterung (Ergon SR Allroad Core).
 	- siehe auch Abschnitt Sattel
+	- Trägerhose (Bib) rollt nicht vom Bauch
 	- zusammen mit Ueberhosen ergeben auch "Bib-Liner" Sinn; sind luftiger und Rueckentaschen des Liners ersetzen fehlende Rueckentaschen am Trikot/Hemd
+	- System fuer Herbst/Winter: mehrere hochwertige Sommer-Bibs mit polsterfreier Thermo-Ueberhose = bessere/gewohnte Polster, oekonomischer: brauch nur 1 lange Hose, kann Bibs durchwechseln und waschen
 - Ueberhose:
 	- Anmutung kompatibler mit laendlich wohnenden Hillbillies als enge, abzeichnende Bibshorts
 	- Taschen, erspart andere Taschen am Rad oder Trikot
@@ -354,6 +359,8 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 	- Autofahrer finden es gut, als Radfahrer sieht man solche auch in Entfernung gut
 	- vermute, Problem ist meist weniger, dass Radler nicht genug wie Tannenbaum leuchtet, sondern Autofahrer nicht hingucken (Handy, Fahrerfensterseite) oder Radfahrer verdeckt wird
 	- Farbe nachts egal, Reflektoren wichtiger
+	- Debatte (inkl Reflektoren) macht Radsicherheit zum Privatproblem des Individuums und 
+		ignoriert allgm. Verkehrsinfrastruktur mit Gefaehrdungsstellen fuer Radler, Autos, Fussgaenger
 - Sonstiges:
 	- Armlinge und Beinlinge verwende ich selten im Alltag; nur noch, wenn Packvolumen problem wird; 
 	  meist stimmt dann schon die Langarm-/Langbein-Auswahl; die nervt auch weniger als das Anzuppen;
@@ -376,7 +383,7 @@ Allgemein:
 - Minitool
 	- besser man kauft die Teile einzeln, da Minitool sperrig und Inbus oft zu kurz
 - Schrauberbitset (BOSCH Professional 32tlg.)
-- Drehmomentschlüssel, um "nach fest kommt ab" zu vermeiden
+- Drehmomentschlüssel, vermeidet "nach fest kommt ab"
 	- "handfest" keine Einheitsvorstellung (bei mir leicht in den Widerstand reinfahren, also spannen, bei Anderen mimikverzerrt solange Kraft drauf bis sich nichts mehr regt, also "anknallen"; taugt beides nichts)
 	- bis 15 Nm reicht Auslösung für nur Rechtsgewinde (Ratsche links egal); Proxxon ist gut und Preis noch ok;
 	- 15-60 Nm braucht es beim Fahrrad unbedingt Auslösung für Rechts- und Linksgewinde (Pedale, ...), sonst Fehlkauf;
@@ -422,6 +429,8 @@ Laufrad:
 	- Achsenadapter (die kleinen Magnetischen von UNIOR sind fuer das Modell ineffizient/unbrauchbar; besser mit Stange, da man Rad oefter umschlagen muss mit 1 Sensor)
 	- Sensor Bremsscheibe
 - Dichtstoffspritze (STANS Notubes Injector) oder direkt aus kleiner 59ml-Dichtmilch-Flasche
+- Konusschlüssel falls Konuslager
+- Ein- und Auspresswerkzeuge falls Cartridge-Lager
 - ...
 
 
@@ -509,8 +518,8 @@ Aktueller Schmierplan:
 | Kassette                           | ?                      | ?
 | Radwaesche allgemein               | ?                      | Nigrin Bike-Care Fahrradreiniger; auch fuer Kassette (obwohl besser, wenn man die separiert und mit Bremsenreiniger bearbeitet)
 | Reifen-Dichtmilch                  | ?                      | Giant Tire Sealant (da Giant-Reifen/Felgenband/Felge) oder Stans (Giant angeblich nur rebranded; offiziell bei Giant auch nur Empfehlung fuer Giant oder Stans)
-| Bremsscheibe                       | Wuerth Bremsenreiniger | ?
-
+| Bremsscheibe                       | IPA oder Wuerth Bremsenreiniger | ?
+| Radlager Vorderrad Konuslager      | Bio Degreaser, IPA, WD40 Rostentferner | Finishline Premium-Grease
 
 
 
@@ -533,13 +542,13 @@ Aktueller Schmierplan:
 
 Auf Verschleissteile gibt es idR. keine Gewaehrleistung vom Fahrrad-Haendler.
 Immer in bestimmter Menge vorhalten, weil nicht immer in der gesuchten Ausfuehrung in Shops verfuegbar (Corona), 
-manchmal auch laenger nicht oder gar nicht mehr. Hat man Zeit fuer Suche/Nachschub.
+manchmal auch laenger nicht oder gar nicht mehr. Mit Vorrat hat man Zeit fuer Suche/Nachschub.
 
 
 - Antrieb:
 	- 3x Kette (laengt sich mit der Zeit, Schaltung wird ungenauer, Ritzel nutzen sich staerker ab)
-	- 2x Kassette (Ritzel)wird abgeschliffen/verformt und beeintraechtigt Schaltung, Kette rutscht durch bei Kraft)
-	- 1x Kettenblatt (wird abgeschliffen/verformt, Kette rutscht durch bei Kraft; weniger Verschl. als Ritzel da groesser/mehr Auflage und weniger Kraft)
+	- 2x Kassette (Ritzel) wird abgeschliffen/verformt und beeintraechtigt Schaltung, Kette rutscht durch bei Kraft)
+	- 1x Kettenblatt (wird abgeschliffen/verformt, Kette rutscht durch bei Kraft; weniger Verschl. als Ritzel da groesser/mehr Auflage und weniger Kraft); evtl. 2x falls erwartbare Beschaffungsprobleme fuer verwendete Kurbel
 	- 1x Schaltungsrädchen oben (Leitroellchen / Guide Pulley)
 	- 1x Schaltungsrädchen unten (Spannroellchen / Tension Pulley)
 - Bowdenzug (reisst):
@@ -552,17 +561,22 @@ manchmal auch laenger nicht oder gar nicht mehr. Hat man Zeit fuer Suche/Nachsch
 		Messung nicht ueber die Raender (bleiben dick) sondern quer auf die Bremsflaeche) + ggf je 6 Schrauben
 - Lenker:
 	- 2x Lenkerband (loest sich auf, sitzt nicht mehr, reisst)
-	- 4x Haubenabdeckungen/Griffgummi (Bracket Covers bei den Bremsschalthebeln werden ungleichmaessig abgerieben, nicht huebsch)
-	- 2x Steuersatzlager exakt mit Aussen- und v.a. Innendurchmesser, falls der Gabelschaft anders dimensioniert ist
+	- 4x Haubenabdeckungen/Griffgummi (Bracket Covers bei den Bremsschalthebeln werden ungleichmaessig abgerieben, nicht huebsch; oder Knicke durch Wartungsarbeiten)
+	- 2x Steuersatzlager exakt mit Aussen- und v.a. Innendurchmesser und z.B. 45-Grad-Kanten
 - Laufrad:
 	- ?x Reifenmantel (Profil) wird abgerieben 
 	- 2x seltener Felgenband kann reissen, z.B. bei Wartung
 	- ?x Schlauch reisst ein oder Tubeless-Dichtmilch trocknet ein
 	- 6x Ventileinsätze verstopfen durch Dichtmilch, verbiegen beim Aufpumpen oder brechen sogar ab, werden undicht
 	- 4x Speichen brechen (ideal selten), Speichennippel mit Speichenresten nach Bruch, Korrossion
+	- Konus und Konuslager-Kugeln falls Konuslager (Kerbungen/"Pitting"), je Größe z.B. 22 pro Rad-Seite, 100 also für 2 Laufräder; 200 evtl. auf Vorrat
+		Konusse sind tats. als Verschleißteile konzipiert und angeblich etwas weicher als die feste Schale an der Nabe;
+		manche schleifen sie wieder glatttrund (Dremel/Bohrer+Sandpapier);
+		manche Schalen sind nur eingepresst, aber einzelne Ersatzschalen zu besorgen ist idR. schwierig, oft dann neue Nabe oder Laufrad;
+		Lager mind. 1x Jahr inspezieren
 - Kleinkram:
 	- Endhuelsen fuer Schaltzug/Bremszug
-	- Endkappen in versch. Ausfuerhungen fuer Schaltzug/Bremszug
+	- Endkappen in versch. Ausfuehrungen fuer Schaltzug/Bremszug
 	- Schrauben Flaschenhalter
 	- Ventilkappen
 	- ...
@@ -865,7 +879,6 @@ Bremszug:
 		erste  Zahl = Steuerrohr-Durchmesser
 		zweite Zahl = Gabelschaft-Durchmesser
 
-
 #### Schmieren, Fetten
 
 - Nachfetten von Lagern, Lagersitzen, Lagerschalen, Gabelschaft 
@@ -912,9 +925,6 @@ Teile:
 	- Steuersatz-Kappe: Schraube für die Ahead-Kappe sizt in einem Gewinde = leicht PTFE/Teflon/Silikon-Fett
 	- Steuersatz-Gummi-Dichtungen = Silikonfett (zur Not weniger lang haltendes Silikonspray), verhindert Austrocknung oder Quietschen
 	- 
-
-
-
 
 
 #### Vollintegrierte Lagerschalen (IS Integrated Standard)
@@ -975,15 +985,120 @@ Oeffnen:
 9. Gabel vorsichtig rausziehen
 
 
-
-
-
-
 Schliessen:
 
 
 
 
+
+
+### Radlager
+
+![Vorderrad Giant 2SX Konus](radlager-konus.jpg)
+
+
+Unterscheidung:
+	- [ ] Cartrdige-Lager abgedichtete Industrielager
+		- Ein- und Auspresswerkzeug mit korrekten Adaptern/Drifts
+		- Fett
+	- [x] Konuslager mit Kugeln
+		- Werkzeug: Konusschluessel in den richtigen Groessen: zum Kontern und schrauben
+		- Lagerfett (s. Abschnitt Schmierstoffkunde)
+		- Lagerkugeln: 
+			-Bevorzugt Wälzlagerstahl 100Cr6 / 1.3505, 
+			- gehärtet auf HRC 60–66 (HRC 40 ist Baumarktqualitaet),
+			- mit Genauigkeitsklasse irgendwo zw. G5-G20 (also der Rundschliff, niedrigere Zahl = hoehere Praezision, G20 ist noch ok, darueber nicht mehr), 
+			- nach DIN 5401 / ISO 3290.
+			- Optional auch in Edelstahl (z.B. 440C), 
+			  falls mit vergleichbarer Härte ≥58 HRC verfügbar
+		- Magnet zum Entfernen der Kugeln: habe "Cat-Eye-Magnete" aus der Nagelkosmetik gekauft und den Magnet nochmal mit Superkleber in der Fassung verhaftet, 
+			klein mit Griff; Teleskopmagnet wohl auch ok;
+			Magnet nur zum Entfernen und wenn man sie nicht wieder einsetzen möchte (magnetische Kugeln haften sich sonst angeblich an pittings)
+		- Pinzette zum Einsetzen der Kugeln
+			(evtl. Trick mit eingesetzter Achse einfach die Kugeln reinfallen zu lassen)
+			- habe eine von Knipex, funktioniert ganz gut
+
+Bei meinem Modell waere vorne Konuslager und hinten Cartridge/gedichtetes Industrielager:
+	- vorne wirke nur Kraft von oben und hinten (radial); Konus rolle besser als Cartridge (keine Frage von billig oder teuer; auch immer noch in teuren Raedern verbaut)
+	- hinten wirken noch seitliche Kraefte durch den Antrieb (axial/torsional), wo Cartridge-Lager stabiler sind
+
+
+#### Vorbereitungen:
+
+- Handtuch auf Montagetisch, Rad auf dem Handtuch: hält herausfallende Kugeln auf; alternativ ueber einem Eimer arbeiten
+- Bremsscheiben entfernen (Torx 25, 4-6 Nm) kann es leichter machen - falls man an der Seite zumindest an der Achse was korrigieren muss, im Idealfall nicht
+- Ablagen für die Einzelteile, ggf. getrennt nach Antriebs- und Nichtantriebs-/Bremsseite
+- Kugeln spaeter immer mal wieder abzaehlen
+
+
+#### Vorderrad-Lager oeffnen
+
+1. ganz Aussen sitzen die Sicherungsmuttern (Mutter mit zusaetzlichem Plastikring), 
+	dann eine Staubkappe, 
+	dann der Konus, der Lagerkugeln auf der inneren Lagerschale mit einer definierten Spannung haelt
+2. zuerst an der Antriebsseite oeffnen (also gegenueber von der Bremsscheibe)
+3. Konusschluessel an Konus, dort kontern und Sicherungsmutter gegen Uhrzeigersinn aufdrehen
+4. Sicherungsmutter, Staubkappe, Konus entfernen (bei Komplettwartung)
+	- ueberall merken, wo oben und unten war: entweder durch entsprechendes Ablegen in einer Schale oder Skizze auf Notizzettel
+5. Kugeln entfernen mit Magnet oder Pinzette
+6. Rad umdrehen, dabei die Achse festhalten (sonst fliegen Kugeln raus) und Achse an der Bremsseite entfernen
+7. Kugeln entfernen
+
+
+#### Vorderrad-Lager reinigen
+
+![Siffiges Konuslager Vorderrad Giant Revolt 2](radlager-korrosion.jpg)
+
+- alles reinigen: Achse, Konus, Schale, Kontermutter; Kugeln nur wenn neueren Datums
+- Bio-Degresser aufspruehen
+- mit Wattestäbschen den Grind entfernen
+- Bio-Degresser, IPA, Rostentferner, Polieren, je nachdem - bis alles wieder glaenzt
+
+
+
+#### Lagerteile untersuchen
+
+![Lagerschale mit Einkerbungen/Pittings](radlager-pittings.jpg)
+
+- minimalste Einkerbungen sorgen schon fuer sandiges Feeling/rauen Lauf; sollte tats. perfekt glattrund sein für minimalsten Punktkontakt zw. Kugel und Flächen
+- Kugeln idealerweise entsorgen und neue nehmen, kosten nicht die Welt
+
+
+#### Vorderrad-Lager schmieren und Kugeln einsetzen
+
+- lieber zu viel Fett als zu wenig (trotzdem nicht uebertreiben), wenn es rausquirlt ist aber auch nicht verkehrt
+
+1. bei der Nondrive-Seite (also Bremsschreiben-Seite) anfangen
+2. erste Fettschicht auf der Lagerschale
+3. Kugeln einsetzen, sollte Ring ausfüllen + 1 Luecke
+	- manche Schalen haetten Vertiefungen fuer die Aufnahme der Kugeln, meine ist plan
+4. zweite Fettschicht ueber die Kugeln
+5. Achse, Konus, Staubkappe einfetten
+6. Achse mit dem Konus einsetzen und bisschen wackeln und drehen, damit sich die Kugeln richtig setzen
+7. Rad umdrehen, Achse dabei festhalten, und auf der anderen Seite dann schmieren und Kugeln einsetzen
+
+
+#### Vorderrad-Lager schließen und justieren
+
+Unterscheidungen:
+	- [ ] Schnellspanner
+			- minimales Spiel der Achse erhalten, kaum fuehlbar; Schnellspanner presst/spannt zusaetzlich und kompensiere das Lagerspiel
+	- [x] Steckachse
+			- kein Spiel der Achse
+
+Beachten:
+	- gleiche Abstaende an den Achsenenden (wenn es dumm kommt, war das ab Werk schon ungleich und man muesste evtl. Scheibenbremse korrigieren)
+
+Trick:
+1. Achse auf der gegenüberliegenden Seite richtig andrücken, damit auf der anderen Seite vollstaendiges Gewinde verfuegbar ist (sonst spaeter ungewolltest Achsenspiel)
+2. Konus ranschieben bis man Kugeln kontaktiert
+3. Sicherungsmutter auf den Konus mit der Hand drehen
+4. Konus jetzt gegen die Mutter sichern (statt umgekehrt), so dass der Konus beim Spannen gegen die Mutter von den Kugeln minimalst zurueckgeht
+
+
+### Nachbereitungen
+
+- nach 50 km nochmal pruefen: Achsenspiel (kippelt das Laufrad in der Gabel), Rauheit, ...
 
 
 
@@ -1020,7 +1135,6 @@ Nachfuellen:
 
 
 Saeubern:
-
 
 
 
@@ -1300,7 +1414,7 @@ Gutes Setup auf YT:
 Ziel: maximale Kohlenhydrate (primaer) und Proteine (sekundaer) auf kleinstem Stauraum bei geringem Gewicht
 
 
-Kalte Kueche &gt; warme Kueche (Kochgelegenheiten, Packmaß, Dauer, Feuerverbote, ...):
+Kalte Kueche &gt; warme Kueche (Kochgelegenheiten, Packmaß, Dauer, Trinkwasserverbrauch, Feuerverbote, ...):
 - Rossmann Fruechte-Muesli mit Milchpulver oder Haferdrinkpulver, Mandeldrinkpulver leider zu mehlig, 
 	loest sich nicht gut; in 1,2l-Ziploc-Tueten, direkt aus Tuete essbar
 - paar kleine flache Dosen mit Thunfisch-Couscous (363 kcal); sonst nur Zucker eklig
