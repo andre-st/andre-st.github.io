@@ -177,14 +177,14 @@ dann gegen Faltschloss getauscht,
 da sich paar Sekunden Sicherheitsgewinn nicht lohnen:
 
 
-| Bügelschloss Trelock U6 16mm Dicke                                               | Faltschloss ABUS Bordo 6000K BIG  (120cm)
-|----------------------------------------------------------------------------------|---------------------------------------------------
-| Installation: in Rahmen hässlich und sperrig, behindert Trinkflasche etc         | relativ schmal im Rahmen, wird nur breiter zu den Beinen mit mehr Länge, besser als Bügel, aber schön es auch nicht und nimmt Platz für weitere Trinkflasche weg; die Klappe des billigen Plastikhalters bricht schnell und das Schloss kann rausfallen, muss man dann mit einem Klettband ersetzen
-| Abschließen: Passte bei mir nicht um Rahmen und Hinterrad                        | passt um alles
-| Abschließen: Kaum Länge oder Durchmesser für Geländer, Bäume, Laternen           | passt um fast alles
-| Sicherheit: 150-€-Akkuflex ~60s, örtl. Unflexibilität kompromittiert Sichtweite  | Flex ~20s(?), wahrscheinlicher in Sichtweite platzierbar
-| Gewicht: merkbar hoch mit 1-2 kg                                                 | halb so schwer, aber leicht auch nicht
-| Preis: 75 €                                                                      | 130 € überteuert (im Fahrradladen)
+| Bügelschloss Trelock U6 16mm Dicke                                               | Faltschloss ABUS Bordo 6000K BIG  (120cm)                  | Kettenschloss
+|----------------------------------------------------------------------------------|---------------------------------------------------|--------|--------------------------------
+| Installation: in Rahmen hässlich und sperrig, behindert Trinkflasche etc         | relativ schmal im Rahmen, wird nur breiter zu den Beinen mit mehr Länge, besser als Bügel, aber schön es auch nicht und nimmt Platz für weitere Trinkflasche weg; die Klappe des billigen Plastikhalters bricht schnell und das Schloss kann rausfallen, muss man dann mit einem Klettband ersetzen   | 
+| Abschließen: Passte bei mir nicht um Rahmen und Hinterrad                        | passt um alles                                             | passt um alles
+| Abschließen: Kaum Länge oder Durchmesser für Geländer, Bäume, Laternen           | passt um fast alles                                        | passt um fast alles
+| Sicherheit: 150-€-Akkuflex ~60s, örtl. Unflexibilität kompromittiert Sichtweite  | Flex ~20s(?), wahrscheinlicher in Sichtweite platzierbar   | bei 3 mm: Flex 3s, grosser Bolzenschneider 3s; haelt aber Gelegenheitsdiebe ab und ist dabei widerstandsfaehiger als die Minischloesser
+| Gewicht: merkbar hoch mit 1-2 kg                                                 | halb so schwer, aber leicht auch nicht                     | bei 3 mm: 300g
+| Preis: 75 €                                                                      | 130 € überteuert (im Fahrradladen)                         | 40 €
 
 
 - wer dicke Faltschlösser knacken kann, hat Werkzeug auch für Bügelschlösser
@@ -335,29 +335,29 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 	- siehe auch Abschnitt Sattel
 	- Trägerhose (Bib) rollt nicht vom Bauch
 	- zusammen mit Ueberhosen ergeben auch "Bib-Liner" Sinn; sind luftiger und Rueckentaschen des Liners ersetzen fehlende Rueckentaschen am Trikot/Hemd
-	- System fuer Herbst/Winter: mehrere hochwertige Sommer-Bibs mit polsterfreier Thermo-Ueberhose = bessere/gewohnte Polster, oekonomischer: brauch nur 1 lange Hose, kann Bibs durchwechseln und waschen
+	- System fuer Herbst/Winter: mehrere hochwertige Sommer-Bibs mit polsterfreier Thermo-Ueberhose = bessere/gewohnte Polster, oekonomischer: kann 1 lange Hose laenger tragen und Bibs durchwechseln/waschen
 - Ueberhose:
 	- Anmutung kompatibler mit laendlich wohnenden Hillbillies als enge, abzeichnende Bibshorts
 	- Taschen, erspart andere Taschen am Rad oder Trikot
-	- Sportful Supergiara taugt, waere das Bundsystem nicht so dumm: reißt schnell und hält kaum Gewicht, z.B. Handy in der Tasche, kein Silikongripper;
+	- Hose "Sportful Supergiara" taugt, waere das Bundsystem nicht so dumm: reißt schnell und hält kaum Gewicht, z.B. Handy in der Tasche, kein Silikongripper;
 		auf dem Rad egal, aber Hose rutscht beim Gehen, was sehr stoert
 - Schuhe:
 	- für Klickpedale (clipless)
 	- mit SM-SH56-Cleats (erlaubt schräge Panikausstiege, taugt trotzdem sehr gut zum Pedalziehen)
-	- Boa-Verschlussmechanismus evtl. besser als Schnürren
+	- Boa-Verschlussmechanismus evtl. besser als Schnürren?
 	- Radschuhe mit Schnuerren haben oft eine flexible Lasche auf der Zunge, 
 		unter die man die Schnüren fixieren kann, damit sie sich nicht aufs Kettenblatt oder Pedalgewinde wickeln
 - Herbst/Winter:
-	- Langaermel-Trikot orange (wobei dann eh meist Windweste oder Jacke drueber ist, highvis-Trikot eher sekundaer; 
+	- Langaermel-Trikot in orange (wobei dann eh meist Windweste oder Jacke drueber ist, highvis-Trikot eher sekundaer; 
 		hatte nur 1 oder 2x Windstopperhemd drunter, Tage schnell kaelter geworden)
 	- Thermojacke
 	- im Spaetsommer mal einfache Regenjacke angehabt 
 		und darunter dann durch Schweiss so nass gewesen 
 		als haette ich mich gleich vollregnen lassen koennen;
 		probiere es seither mit Fahrrad-optimierten Poncho, der breiter belueftet wird
-	- Merino schwierig: trocknet langsamer
+	- Merino schwierig: trocknet langsamer als technische Plastikkleidung (aber schneller als Baumwolle)
 - HighVis (v.a. Herbst-Winter, nachts):
-	- man sieht aus wie ein Idiot, statt Neongelb lieber nicht ganz so grelle Organgetoene
+	- man sieht aus wie ein Idiot, statt Neongelb lieber nicht ganz so grelle Signalfarben wie orange, rot, matteres gelb
 	- Autofahrer finden es gut, als Radfahrer sieht man solche auch in Entfernung gut
 	- vermute, Problem ist meist weniger, dass Radler nicht genug wie Tannenbaum leuchtet, sondern Autofahrer nicht hingucken (Handy, Fahrerfensterseite) oder Radfahrer verdeckt wird
 	- Farbe nachts egal, Reflektoren wichtiger
@@ -401,7 +401,7 @@ Allgemein:
 - Flachrundzange 
 	- z.B. für Splints bei den Bremsen, oder Festhalten von Bowdenzügen; 
 	- Knipex 25 01 125 ist so klein, dass sie noch in die Werkzeug-Satteltasche passt (die kleine Knipex Kobra ist m.M.n. am modernen Fahrrad eher nutzlos)
-- Montagestaender (CXWXC fuer nur 70 Euro taugt gut und laesst sich kompakt verstauen)
+- Montagestaender (CXWXC fuer nur 70 Euro taugt richtig gut fuer Bio-Bikes und laesst sich kompakt verstauen)
 
 
 Antrieb:
@@ -438,6 +438,27 @@ Laufrad:
 
 Reinigung:
 - ...
+
+
+
+Taeglich am Fahrrad:
+- Werkzeugtasche (SKS Explorer Straps 800 ml):
+	- Inbus 3,4,5  (3er bei mir fuer Bremsbelagnachstellung)
+	- Bits PH1, PH2 mit kleinem Daumenschrauber (Shimano-Schaltgruppe)
+	- Tubeless-Wuerstchen mit Pieker und Minimesser (klappbar)
+	- Reifenheber Schwalbe 2x
+	- TPU-Schlauch
+	- TPU-Schlauch-Reperatur-Kit
+	- Reifen-Reperaturkit (Boots)
+	- Minizange Knipex Kobra
+	- Mini-Kettennieter mit Griff = Ventileinsatzschluessel
+	- Speichennippel-Spanner
+	- Nitril-Handschuhe
+	- RIAS Trockentuecher in Tablettenform (Schmutz am Rad oder Oel-Haende abwischen, Frischmachen im Schwitz-Sommer, Notfall-Klopapier)
+	- ...
+- Minipumpe (SKS Supershort) am Sitzrohr mit paar Metern Panzertape aufgewickelt
+
+
 
 
 
@@ -637,6 +658,7 @@ Motorrad-Reiniger mehr und billiger (hab ich damals vom Fahrradladen bekommen, d
 
 - Bürsten, 2x Schwämme (Antrieb und Rahmen, sonst schmiert mal Kettenöl auf Rahmen),
 	2x Wassereimer (Dreck und sauber zum Endabspuelen)
+	- mag die Holzbuersten von Peaty's (nicht zu verwechseln mit Pedro's, sehen aber auch ok aus)
 
 - besser: Kärcher Niedrigdruckreiniger (großes Volumen 7L reicht fuer 1 Waesche, nicht kleiner kaufen):
 	Hochdruckreiniger (Tankstelle) vermeiden (bzw. mit viel Abstand nutzen), schießen Schmierung aus den Lagern 
@@ -1052,9 +1074,9 @@ Bei meinem Modell waere vorne Konuslager und hinten Cartridge/gedichtetes Indust
 _(Abb.: Korrosion im Radlager, Fett ausgewaschen; ab Werk in 2.5 Jahren nie gewartet; Antriebsseite halbwegs ok, bremsenseitig obiges Bild)_
 
 - alles reinigen: Achse, Konus, Schale, Kontermutter; Kugeln nur wenn neueren Datums
-- Bio-Degresser aufspruehen
+- Bio-Degreaser aufspruehen
 - mit Wattestäbschen den Grind entfernen
-- Bio-Degresser, IPA, Rostentferner, Polieren, je nachdem - bis alles wieder glaenzt
+- Bio-Degreaser, IPA, Rostentferner, Polieren, je nachdem - bis alles wieder glaenzt
 
 
 
@@ -1064,7 +1086,9 @@ _(Abb.: Korrosion im Radlager, Fett ausgewaschen; ab Werk in 2.5 Jahren nie gewa
 _(Abb.: Pittings in der Lagerschale)_
 
 - minimalste Einkerbungen (Pittings) in der Lagerschale oder an der schraegen Laufflaeche des Konus sorgen schon fuer sandiges Feeling/rauen Lauf;
-	sollte tats. perfekt glattrund sein für minimalsten Punktkontakt zw. Kugel und Flächen
+	sollte tats. perfekt glattrund sein für minimalsten Punktkontakt zw. Kugel und Flächen; 
+	das Rad hier laeuft nach Instandsetzung wesentlich besser als vorher (handgedrehte Achse klemmt stellenweise) und auch nur leicht sandig (trotz Pittings), 
+	aber nie wieder butterweich und mehr Verschleiß ist zu erwarten
 - Kugeln idealerweise entsorgen und neue nehmen, kosten nicht die Welt
 - manche Lagerschalen sind nur eingepresst und koennten theoretisch getauscht werden, 
 	scheitert aber an Ersatzteilen, bzw. Notwendigkeit, gleich eine ganze Ersatznabe kaufen zu muessen;
