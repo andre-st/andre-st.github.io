@@ -24,7 +24,9 @@ _ACHTUNG: Alles work-in-progress hier, mag sich alles ändern_
 - [Reifen](#reifen)
 - [Sattel](#sattel)
 - [Lenker](#lenker)
+- [Shops](#shops)
 - [Wahoo-Hackerei](#wahoo-hackerei)
+
 
 
 
@@ -1059,13 +1061,14 @@ _(Abb.: Korrosion im Radlager, Fett ausgewaschen; ab Werk in 2.5 Jahren nie gewa
 #### Lagerteile untersuchen
 
 ![Lagerschale mit Einkerbungen/Pittings](radlager-pittings.jpg)
-_(Abb.: Pittings in der Lagerschale, nicht tief, aber zahlreich)_
+_(Abb.: Pittings in der Lagerschale)_
 
-- minimalste Einkerbungen in der Lagerschale oder an der schraegen Laufflaeche des Konus sorgen schon fuer sandiges Feeling/rauen Lauf; sollte tats. perfekt glattrund sein für minimalsten Punktkontakt zw. Kugel und Flächen
+- minimalste Einkerbungen (Pittings) in der Lagerschale oder an der schraegen Laufflaeche des Konus sorgen schon fuer sandiges Feeling/rauen Lauf;
+	sollte tats. perfekt glattrund sein für minimalsten Punktkontakt zw. Kugel und Flächen
 - Kugeln idealerweise entsorgen und neue nehmen, kosten nicht die Welt
 - manche Lagerschalen sind nur eingepresst und koennten theoretisch getauscht werden, 
 	scheitert aber an Ersatzteilen, bzw. Notwendigkeit, gleich eine ganze Ersatznabe kaufen zu muessen;
-	ansonsten ist die Name am Ende bzw. das Laufrad, wenn man keine Lust aufs Einspeichen einer neuen Nabe hat
+	ansonsten ist die Nabe am Ende bzw. das komplette Laufrad, wenn man keine Lust aufs Einspeichen einer neuen Nabe hat
 
 
 #### Vorderrad-Lager schmieren und Kugeln einsetzen
@@ -1077,7 +1080,7 @@ _(Abb.: Pittings in der Lagerschale, nicht tief, aber zahlreich)_
 3. Kugeln einsetzen, sollte Ring ausfüllen + 1 Luecke
 	- manche Schalen haetten Vertiefungen fuer die Aufnahme der Kugeln, meine ist plan
 4. zweite Fettschicht ueber die Kugeln
-5. Achse, Konus, Staubkappe einfetten
+5. Achse, Konus, Staubkappe leicht einfetten
 6. Achse mit dem Konus einsetzen und bisschen wackeln und drehen, damit sich die Kugeln richtig setzen
 7. Rad umdrehen, Achse dabei festhalten, und auf der anderen Seite dann schmieren und Kugeln einsetzen
 
@@ -1629,6 +1632,21 @@ TODO
 
 
 Habe den Auflieger wieder abgebaut, auch wenn er Spass macht. Schlankeres Bike gefaellt mir letztlich besser.
+
+
+
+# Shops
+
+Versuche Amazon weitestgehend zu vermeiden (mgl. Fakes, nicht wieder aufgearbeitete Kundenruecklaeufer, ...)
+
+
+| Website                                | Teile                                | Kommentar
+|----------------------------------------|--------------------------------------|-----------------------------
+| bike24.de                              | alles                                | Ruecksende-Etikett direkt im Paket, schneller Versand
+| bike-discount.de                       | alles                                | manchmal gute Preise
+| woembi.de                              | Lagerkugeln (G20, HRC&ge;60)         |
+| kugellager-shop.net                    | gedichtete Industrielager, Lagerkugeln auf Anfrage (G10)  | Edelstahlversionen kaufen
+
 
 
 
