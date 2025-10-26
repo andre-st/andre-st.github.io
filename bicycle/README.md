@@ -998,25 +998,24 @@ Schliessen:
 
 
 Unterscheidung:
-	- [ ] Cartrdige-Lager abgedichtete Industrielager
-		- Ein- und Auspresswerkzeug mit korrekten Adaptern/Drifts
-		- Fett
-	- [x] Konuslager mit Kugeln
-		- Werkzeug: Konusschluessel in den richtigen Groessen: zum Kontern und schrauben
-		- Lagerfett (s. Abschnitt Schmierstoffkunde)
-		- Lagerkugeln: 
-			-Bevorzugt Wälzlagerstahl 100Cr6 / 1.3505, 
-			- gehärtet auf HRC 60–66 (HRC 40 ist Baumarktqualitaet),
-			- mit Genauigkeitsklasse irgendwo zw. G5-G20 (also der Rundschliff, niedrigere Zahl = hoehere Praezision, G20 ist noch ok, darueber nicht mehr), 
-			- nach DIN 5401 / ISO 3290.
-			- Optional auch in Edelstahl (z.B. 440C), 
-			  falls mit vergleichbarer Härte ≥58 HRC verfügbar
-		- Magnet zum Entfernen der Kugeln: habe "Cat-Eye-Magnete" aus der Nagelkosmetik gekauft und den Magnet nochmal mit Superkleber in der Fassung verhaftet, 
-			klein mit Griff; Teleskopmagnet wohl auch ok;
-			Magnet nur zum Entfernen und wenn man sie nicht wieder einsetzen möchte (magnetische Kugeln haften sich sonst angeblich an pittings)
-		- Pinzette zum Einsetzen der Kugeln
-			(evtl. Trick mit eingesetzter Achse einfach die Kugeln reinfallen zu lassen)
-			- habe eine von Knipex, funktioniert ganz gut
+- [ ] Cartrdige-Lager abgedichtete Industrielager
+	- Ein- und Auspresswerkzeug mit korrekten Adaptern/Drifts
+	- Fett
+- [x] Konuslager mit Kugeln
+	- Werkzeug: Konusschluessel in den richtigen Groessen: zum Kontern und schrauben
+	- Lagerfett (s. Abschnitt Schmierstoffkunde)
+	- Lagerkugeln: 
+		- Bevorzugt Wälzlagerstahl 100Cr6 / 1.3505, 
+		- gehärtet auf HRC 60–66 (HRC 40 ist Baumarktqualitaet),
+		- mit Genauigkeitsklasse irgendwo zw. G5-G20 (also der Rundschliff, niedrigere Zahl = hoehere Praezision, G20 ist noch ok, darueber nicht mehr), 
+		- nach DIN 5401 / ISO 3290.
+		- Optional auch in Edelstahl (z.B. 440C), 
+		  falls mit vergleichbarer Härte ≥58 HRC verfügbar
+	- Magnet zum Entfernen der Kugeln: habe "Cat-Eye-Magnete" aus der Nagelkosmetik gekauft und den Magnet nochmal mit Superkleber in der Fassung verhaftet, 
+		klein mit Griff; Teleskopmagnet wohl auch ok;
+		Magnet nur zum Entfernen und wenn man sie nicht wieder einsetzen möchte (magnetische Kugeln haften sich sonst angeblich an pittings)
+	- Pinzette zum Einsetzen der Kugeln
+		(evtl. Trick mit eingesetzter Achse einfach die Kugeln reinfallen zu lassen); habe eine von Knipex, funktioniert ganz gut
 
 Bei meinem Modell waere vorne Konuslager und hinten Cartridge/gedichtetes Industrielager:
 	- vorne wirke nur Kraft von oben und hinten (radial); Konus rolle besser als Cartridge (keine Frage von billig oder teuer; auch immer noch in teuren Raedern verbaut)
@@ -1048,6 +1047,7 @@ Bei meinem Modell waere vorne Konuslager und hinten Cartridge/gedichtetes Indust
 #### Vorderrad-Lager reinigen
 
 ![Siffiges Konuslager Vorderrad Giant Revolt 2](radlager-korrosion.jpg)
+/(Abb.: Korrosion im Radlager, Fett ausgewaschen; ab Werk in 2.5 Jahren nie gewartet; Antriebsseite halbwegs ok, bremsenseitig obiges Bild)/
 
 - alles reinigen: Achse, Konus, Schale, Kontermutter; Kugeln nur wenn neueren Datums
 - Bio-Degresser aufspruehen
@@ -1060,8 +1060,12 @@ Bei meinem Modell waere vorne Konuslager und hinten Cartridge/gedichtetes Indust
 
 ![Lagerschale mit Einkerbungen/Pittings](radlager-pittings.jpg)
 
-- minimalste Einkerbungen sorgen schon fuer sandiges Feeling/rauen Lauf; sollte tats. perfekt glattrund sein für minimalsten Punktkontakt zw. Kugel und Flächen
+- minimalste Einkerbungen in der Lagerschale oder an der schraegen Laufflaeche des Konus sorgen schon fuer sandiges Feeling/rauen Lauf; sollte tats. perfekt glattrund sein für minimalsten Punktkontakt zw. Kugel und Flächen
 - Kugeln idealerweise entsorgen und neue nehmen, kosten nicht die Welt
+- manche Lagerschalen sind nur eingepresst und koennten theoretisch getauscht werden, 
+	scheitert aber an Ersatzteilen, bzw. Notwendigkeit, gleich eine ganze Ersatznabe kaufen zu muessen;
+	ansonsten ist die Name am Ende bzw. das Laufrad, wenn man keine Lust aufs Einspeichen einer neuen Nabe hat
+
 
 
 #### Vorderrad-Lager schmieren und Kugeln einsetzen
