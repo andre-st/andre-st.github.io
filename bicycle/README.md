@@ -1018,14 +1018,14 @@ Unterscheidung:
 		(evtl. Trick mit eingesetzter Achse einfach die Kugeln reinfallen zu lassen); habe eine von Knipex, funktioniert ganz gut
 
 Bei meinem Modell waere vorne Konuslager und hinten Cartridge/gedichtetes Industrielager:
-	- vorne wirke nur Kraft von oben und hinten (radial); Konus rolle besser als Cartridge (keine Frage von billig oder teuer; auch immer noch in teuren Raedern verbaut)
-	- hinten wirken noch seitliche Kraefte durch den Antrieb (axial/torsional), wo Cartridge-Lager stabiler sind
+- vorne wirke nur Kraft von oben und hinten (radial); Konus rolle besser als Cartridge (keine Frage von billig oder teuer; auch immer noch in teuren Raedern verbaut)
+- hinten wirken noch seitliche Kraefte durch den Antrieb (axial/torsional), wo Cartridge-Lager stabiler sind
 
 
 #### Vorbereitungen:
 
 - Handtuch auf Montagetisch, Rad auf dem Handtuch: hält herausfallende Kugeln auf; alternativ ueber einem Eimer arbeiten
-- Bremsscheiben entfernen (Torx 25, 4-6 Nm) kann es leichter machen - falls man an der Seite zumindest an der Achse was korrigieren muss, im Idealfall nicht
+- Bremsscheiben entfernen (Torx 25, 4-6 Nm) kann es leichter machen - falls man an dieser Seite zumindest an der Achse was korrigieren muss, im Idealfall nicht
 - Ablagen für die Einzelteile, ggf. getrennt nach Antriebs- und Nichtantriebs-/Bremsseite
 - Kugeln spaeter immer mal wieder abzaehlen
 
@@ -1047,7 +1047,7 @@ Bei meinem Modell waere vorne Konuslager und hinten Cartridge/gedichtetes Indust
 #### Vorderrad-Lager reinigen
 
 ![Siffiges Konuslager Vorderrad Giant Revolt 2](radlager-korrosion.jpg)
-/(Abb.: Korrosion im Radlager, Fett ausgewaschen; ab Werk in 2.5 Jahren nie gewartet; Antriebsseite halbwegs ok, bremsenseitig obiges Bild)/
+_(Abb.: Korrosion im Radlager, Fett ausgewaschen; ab Werk in 2.5 Jahren nie gewartet; Antriebsseite halbwegs ok, bremsenseitig obiges Bild)_
 
 - alles reinigen: Achse, Konus, Schale, Kontermutter; Kugeln nur wenn neueren Datums
 - Bio-Degresser aufspruehen
@@ -1059,6 +1059,7 @@ Bei meinem Modell waere vorne Konuslager und hinten Cartridge/gedichtetes Indust
 #### Lagerteile untersuchen
 
 ![Lagerschale mit Einkerbungen/Pittings](radlager-pittings.jpg)
+_(Abb.: Pittings in der Lagerschale, nicht tief, aber zahlreich)_
 
 - minimalste Einkerbungen in der Lagerschale oder an der schraegen Laufflaeche des Konus sorgen schon fuer sandiges Feeling/rauen Lauf; sollte tats. perfekt glattrund sein für minimalsten Punktkontakt zw. Kugel und Flächen
 - Kugeln idealerweise entsorgen und neue nehmen, kosten nicht die Welt
@@ -1067,10 +1068,9 @@ Bei meinem Modell waere vorne Konuslager und hinten Cartridge/gedichtetes Indust
 	ansonsten ist die Name am Ende bzw. das Laufrad, wenn man keine Lust aufs Einspeichen einer neuen Nabe hat
 
 
-
 #### Vorderrad-Lager schmieren und Kugeln einsetzen
 
-- lieber zu viel Fett als zu wenig (trotzdem nicht uebertreiben), wenn es rausquirlt ist aber auch nicht verkehrt
+- lieber zu viel Fett als zu wenig (trotzdem nicht uebertreiben), wenn es rausquirlt ist auch nicht verkehrt (Waermeentw. und Bremswirkung wohl vernachlaessigbar)
 
 1. bei der Nondrive-Seite (also Bremsschreiben-Seite) anfangen
 2. erste Fettschicht auf der Lagerschale
@@ -1092,6 +1092,7 @@ Unterscheidungen:
 
 Beachten:
 	- gleiche Abstaende an den Achsenenden (wenn es dumm kommt, war das ab Werk schon ungleich und man muesste evtl. Scheibenbremse korrigieren)
+	- gutes Rad laeuft butterweich, 0 Widerstand, kein leichtes sandiges Reiben, das Lager sollte man 0 spueren, als waere es gar nicht da
 
 Trick:
 1. Achse auf der gegenüberliegenden Seite richtig andrücken, damit auf der anderen Seite vollstaendiges Gewinde verfuegbar ist (sonst spaeter ungewolltest Achsenspiel)
