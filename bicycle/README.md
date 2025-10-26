@@ -1637,15 +1637,16 @@ Habe den Auflieger wieder abgebaut, auch wenn er Spass macht. Schlankeres Bike g
 
 # Shops
 
-Versuche Amazon weitestgehend zu vermeiden (mgl. Fakes, nicht wieder aufgearbeitete Kundenruecklaeufer, ...)
+Ich versuche Amazon und Amazon Marketplace mittlerweile weitestgehend zu vermeiden 
+	(ich kann Fakes nicht ausschliessen, Berichte von nicht wieder aufgearbeiteten Kundenruecklaeufern, ...)
 
 
-| Website                                | Teile                                | Kommentar
-|----------------------------------------|--------------------------------------|-----------------------------
-| bike24.de                              | alles                                | Ruecksende-Etikett direkt im Paket, schneller Versand
-| bike-discount.de                       | alles                                | manchmal gute Preise
-| woembi.de                              | Lagerkugeln (G20, HRC&ge;60)         |
-| kugellager-shop.net                    | gedichtete Industrielager, Lagerkugeln auf Anfrage (G10)  | Edelstahlversionen kaufen
+| Website                                                | Teile                     | Kommentar
+|--------------------------------------------------------|---------------------------|-----------------------------
+| [bike24.de](https://bike24.de)                         | alles                     | Ruecksende-Etikett direkt im Paket, schneller Versand
+| [bike-discount.de](https://bike-discount.de)           | alles                     | manchmal gute Preise
+| [woembi.de](https://www.woembi.de)                     | Lagerkugeln (G20, HRC&ge;60)                              |
+| [kugellager-shop.net](https://www.kugellager-shop.net) | gedichtete Industrielager, Lagerkugeln auf Anfrage (G10)  | Edelstahlversionen kaufen
 
 
 
