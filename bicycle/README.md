@@ -17,6 +17,20 @@ _ACHTUNG: Alles work-in-progress hier, mag sich alles ändern_
 - [Straßenzulassung StVoZ](#)
 - [Kleidung](#kleidung)
 - [Wartung](#wartung)
+	- Werkzeuge
+	- Kleine Schmierstoffkunde
+	- Verschleissteile bevorraten
+	- Radwaesche
+	- Schaltung einstellen
+	- Bremsen einstellen
+	- Kette schmieren
+	- Kette wechseln
+	- Pedale wechseln
+	- Felge zentrieren / Truing
+	- Bowdenzuege ersetzen
+	- Steuersatz (Headset), Gabel
+	- Radlager
+	- Dichtmilch erneuern
 - [Bikepacking](#bikepacking)
 - [Tourplanung](#tourplanung)
 - [Reisekueche](#reisekueche)
@@ -448,8 +462,8 @@ Taeglich am Fahrrad:
 	- Tubeless-Wuerstchen mit Pieker und Minimesser (klappbar)
 	- Reifenheber Schwalbe 2x
 	- TPU-Schlauch
-	- TPU-Schlauch-Reperatur-Kit
-	- Reifen-Reperaturkit (Boots)
+	- TPU-Schlauch-Reparatur-Kit
+	- Reifen-Reparaturkit (Boots)
 	- Minizange Knipex Kobra
 	- Mini-Kettennieter mit Griff = Ventileinsatzschluessel
 	- Speichennippel-Spanner
@@ -547,25 +561,20 @@ Aktueller Schmierplan:
 
 
 
-### Inspektionen
-
-- nach 200 km sollte man bei Neurädern den Erst-Service machen
-	- neue Bowden-Züge längen sich 
-	- Speichen müssen nachgespannt werden
-	- tats. hatte ich nach 500 km Klimpergeräusche im Hinterrad, der Klang, wenn man Speichen an den Speichenkreuzpunkten zusammendrückt.;
-		Werkstatt meines Händlers hat 2x nachgespannt und danach war wieder alles ok. War auch erst nach 500 km dort.
-- falls kein Serviceheft, Inspektionen im Handbuch eintragen lassen, sieht gut aus bei
-	- Gewährleistung
-	- Weiterverkauf
-
-
-
-
-### Verschleissteile (bevorraten)
+### Verschleissteile bevorraten
 
 Auf Verschleissteile gibt es idR. keine Gewaehrleistung vom Fahrrad-Haendler.
 Immer in bestimmter Menge vorhalten, weil nicht immer in der gesuchten Ausfuehrung in Shops verfuegbar (Corona), 
 manchmal auch laenger nicht oder gar nicht mehr. Mit Vorrat hat man Zeit fuer Suche/Nachschub.
+
+
+Nach 200 km sollte man bei Neurädern den Erst-Service machen:
+	- neue Bowden-Züge längen sich 
+	- Speichen müssen nachgespannt werden
+	- tats. hatte ich nach 500 km Klimpergeräusche im Hinterrad, der Klang, 
+		wenn man Speichen an den Speichenkreuzpunkten zusammendrückt.;
+		Werkstatt meines Händlers hat 2x nachgespannt und 
+		danach war wieder alles ok. War auch erst nach 500 km dort
 
 
 - Antrieb:
@@ -592,7 +601,7 @@ manchmal auch laenger nicht oder gar nicht mehr. Mit Vorrat hat man Zeit fuer Su
 	- ?x Schlauch reisst ein oder Tubeless-Dichtmilch trocknet ein
 	- 6x Ventileinsätze verstopfen durch Dichtmilch, verbiegen beim Aufpumpen oder brechen sogar ab, werden undicht
 	- 4x Speichen brechen (ideal selten), Speichennippel mit Speichenresten nach Bruch, Korrossion
-	- Konus und Konuslager-Kugeln falls Konuslager (Kerbungen/"Pitting"), je Größe z.B. 22 pro Rad-Seite, 100 also für 2 Laufräder; 200 evtl. auf Vorrat
+	- Konus und Konuslager-Kugeln falls Konuslager (Kerbungen/Mulden/"Pitting"), je Größe z.B. 22 pro Rad-Seite, 100 also für 2 Laufräder; 200 evtl. auf Vorrat
 		Konusse sind tats. als Verschleißteile konzipiert und angeblich etwas weicher als die feste Schale an der Nabe;
 		manche schleifen sie wieder glatttrund (Dremel/Bohrer+Sandpapier);
 		manche Schalen sind nur eingepresst, aber einzelne Ersatzschalen zu besorgen ist idR. schwierig, oft dann neue Nabe oder Laufrad;
@@ -628,7 +637,7 @@ Carbon? Titan?
 
 
 
-### Radwäsche
+### Radwaesche
 
 "Ich benutze nie aber niemals Kettenreiniger; 
 es haut die ganze schmierung zwischen den Glieder raus. 
@@ -878,6 +887,10 @@ Bremszug:
 
 ### Steuersatz (Headset), Gabel
 
+
+![Steuersatz, Gabelkonus](steuersatz.jpg)
+
+
 - Knackt oder quietscht beim Einschlagen des Lenkers und 
 	- Grund ist keine der Klemmungen am Vorbau 
 	- Grund ist kein reibender Bowdenzug
@@ -1026,9 +1039,9 @@ Unterscheidung:
 	- Ein- und Auspresswerkzeug mit korrekten Adaptern/Drifts
 	- Fett
 - [x] Konuslager mit Kugeln
-	- Werkzeug: Konusschluessel in den richtigen Groessen: zum Kontern und schrauben
+	- Werkzeug: Konusschluessel in den richtigen Groessen (2x 19 mm bei mir): zum Kontern und schrauben
 	- Lagerfett (s. Abschnitt Schmierstoffkunde)
-	- Lagerkugeln: 
+	- Lagerkugeln (bei mir 22 x 1/8 Zoll je Seite): 
 		- Bevorzugt Wälzlagerstahl 100Cr6 / 1.3505, 
 		- gehärtet auf HRC 60–66 (HRC 40 ist Baumarktqualitaet),
 		- mit Genauigkeitsklasse irgendwo zw. G5-G20 (also der Rundschliff, niedrigere Zahl = hoehere Praezision, G20 ist noch ok, darueber nicht mehr), 
@@ -1037,7 +1050,7 @@ Unterscheidung:
 		  falls mit vergleichbarer Härte ≥58 HRC verfügbar
 	- Magnet zum Entfernen der Kugeln: habe "Cat-Eye-Magnete" aus der Nagelkosmetik gekauft und den Magnet nochmal mit Superkleber in der Fassung verhaftet, 
 		klein mit Griff; Teleskopmagnet wohl auch ok;
-		Magnet nur zum Entfernen und wenn man sie nicht wieder einsetzen möchte (magnetische Kugeln haften sich sonst angeblich an pittings)
+		Magnet nur zum Entfernen und wenn man sie nicht wieder einsetzen möchte (magnetische Kugeln haften sich sonst angeblich an pitting)
 	- Pinzette zum Einsetzen der Kugeln
 		(evtl. Trick mit eingesetzter Achse einfach die Kugeln reinfallen zu lassen); habe eine von Knipex, funktioniert ganz gut
 
@@ -1083,11 +1096,11 @@ _(Abb.: Korrosion im Radlager, Fett ausgewaschen; ab Werk in 2.5 Jahren nie gewa
 #### Lagerteile untersuchen
 
 ![Lagerschale mit Einkerbungen/Pittings](radlager-pittings.jpg)
-_(Abb.: Pittings in der Lagerschale)_
+_(Abb.: Pitting in der Lagerschale)_
 
-- minimalste Einkerbungen (Pittings) in der Lagerschale oder an der schraegen Laufflaeche des Konus sorgen schon fuer sandiges Feeling/rauen Lauf;
+- minimalste Kerben/Mulden-Bildung (Pitting) in der Lagerschale oder an der schraegen Laufflaeche des Konus sorgen schon fuer sandiges Feeling/rauen Lauf;
 	sollte tats. perfekt glattrund sein für minimalsten Punktkontakt zw. Kugel und Flächen; 
-	das Rad hier laeuft nach Instandsetzung wesentlich besser als vorher (handgedrehte Achse klemmt stellenweise) und auch nur leicht sandig (trotz Pittings), 
+	das Rad hier laeuft nach Instandsetzung wesentlich besser als vorher (handgedrehte Achse klemmt stellenweise) und auch nur leicht sandig (trotz Pitting), 
 	aber nie wieder butterweich und mehr Verschleiß ist zu erwarten
 - Kugeln idealerweise entsorgen und neue nehmen, kosten nicht die Welt
 - manche Lagerschalen sind nur eingepresst und koennten theoretisch getauscht werden, 
@@ -1128,7 +1141,7 @@ Trick:
 4. Konus jetzt gegen die Mutter sichern (statt umgekehrt), so dass der Konus beim Spannen gegen die Mutter von den Kugeln minimalst zurueckgeht
 
 
-### Nachbereitungen
+#### Nachbereitungen
 
 - nach 50 km nochmal pruefen: Achsenspiel (kippelt das Laufrad in der Gabel), Rauheit, ...
 
@@ -1185,7 +1198,8 @@ Saeubern:
 - je leichter das Rad, umso besser: Gewicht nervt bei Anstiegen und 
    ermuedet ueber lange Strecken schneller und geht auch staerker auf die Substanz/Gelenke etc.
 
-- die einzige Form des Reisens: zu Fuss ist man nach Stunden noch am selben Ort, im Auto fliegt alles vorbei, Flugzeug oder Zug ist kein Reisen sondern Transport (Reisender vs Passagier),
+- die einzige Form des Reisens: zu Fuss ist man nach Stunden noch am selben Ort, im Auto fliegt alles vorbei, 
+	Flugzeug, Bus oder Zug ist kein Reisen sondern Transport (Reisender vs Passagier),
 	auf dem Fahrrad reist man langsam um alles aufzunehmen, aber schnell genug, um vorwaerts zu kommen
 
 
@@ -1446,7 +1460,7 @@ Gutes Setup auf YT:
 Ziel: maximale Kohlenhydrate (primaer) und Proteine (sekundaer) auf kleinstem Stauraum bei geringem Gewicht
 
 
-Kalte Kueche &gt; warme Kueche (Kochgelegenheiten, Packmaß, Dauer, Trinkwasserverbrauch, Feuerverbote, ...):
+Kalte Kueche &gt; warme Kueche (Kochgelegenheiten/Feuerverbote egal, kleineres Packmaß, kuerze Dauer, kaum Trinkwasserverbrauch, ...):
 - Rossmann Fruechte-Muesli mit Milchpulver oder Haferdrinkpulver, Mandeldrinkpulver leider zu mehlig, 
 	loest sich nicht gut; in 1,2l-Ziploc-Tueten, direkt aus Tuete essbar
 - paar kleine flache Dosen mit Thunfisch-Couscous (363 kcal); sonst nur Zucker eklig
@@ -1671,6 +1685,7 @@ Ich versuche Amazon und Amazon Marketplace mittlerweile weitestgehend zu vermeid
 | [bike-discount.de](https://bike-discount.de)           | alles                     | manchmal gute Preise
 | [woembi.de](https://www.woembi.de)                     | Lagerkugeln (G20, HRC&ge;60)                              |
 | [kugellager-shop.net](https://www.kugellager-shop.net) | gedichtete Industrielager, Lagerkugeln auf Anfrage (G10)  | Edelstahlversionen kaufen
+| [giantbikespares.com](https://giantbikespares.com)     | Giant-Ersatzteile         | trotz UK-Export billiger als beim lokalen Haendler
 
 
 
