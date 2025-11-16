@@ -1100,7 +1100,7 @@ _(Abb.: Pitting in der Lagerschale)_
 
 - minimalste Kerben/Mulden-Bildung (Pitting) in der Lagerschale oder an der schraegen Laufflaeche des Konus sorgen schon fuer sandiges Feeling/rauen Lauf;
 	sollte tats. perfekt glattrund sein für minimalsten Punktkontakt zw. Kugel und Flächen; 
-	das Rad hier laeuft nach Instandsetzung wesentlich besser als vorher (handgedrehte Achse klemmt stellenweise) und auch nur leicht sandig (trotz Pitting), 
+	das Rad hier laeuft nach Instandsetzung wesentlich besser als vorher (mit der Hand gedrehte Achse klemmte stellenweise) und auch nur leicht sandig (trotz Pitting), 
 	aber nie wieder butterweich und mehr Verschleiß ist zu erwarten
 - Kugeln idealerweise entsorgen und neue nehmen, kosten nicht die Welt
 - manche Lagerschalen sind nur eingepresst und koennten theoretisch getauscht werden, 
@@ -1527,14 +1527,15 @@ Warme Kueche:
 		Je höher der Wert, desto besser soll der Reifen walken können
 - Laufleistung
 - Rollwiderstand
+- Vibration / Schwingungswiderstand
 - Geräuschentwicklung
 - Nasshaftung
 - Pannenschutz
 - Gummimischung
 	- Shore­Härte (z.B. 60a), je höher, desto weicher das Gummi
 - Drahtwulst vs. Faltwulst
+- Maßhaltung
 - wann wechseln?
-
 
 ![Reifen](wheel.jpg)
 
@@ -1552,6 +1553,33 @@ Vor Kauf vor Ort habe ich auf Felgenrisse bei den Nippeln gesucht, Freilaufgaeng
 Nach der Saueberung sah es fast wie neu aus, fahren wuerde ich damit aber nicht.
 
 siehe Abschnitt zum "Zentrieren"
+
+Rotierende Masse, die man beschleunigen oder hochtragen muss: Reifengewicht \* ?
+
+
+### Montage
+
+- gegenueber des Ventils anfrangen (Ventilteil in der Felge hebt sonst Reifen wieder aus der tiefern Felgenmitte) = paar mm mehr Spiel
+- alles in die tiefere Felgenmitte legen = paar mm mehr Spiel
+- von oben mit Kraft nach unten Richtung ventil massieren/ziehen, damit sich Reifen dehnt = paar mm mehr Spiel
+- Flanken evtl. mit Montagefluessigkeit benetzen, damit besser flutscht
+- pruefen, ob gleichmaessig aufgezogen: TODO
+- aufpumpen / kompressor (airshot)
+
+
+### Demontage
+
+- ...
+
+
+### Meine Reifen
+
+| Modell                      | Groesse / Real | Felge innen    | Gewicht 1x | Profil      | Preis 1x       | TPI      | BRR | Tubeless Sealant | Einsatz         | Bewertung
+|-----------------------------|----------------|----------------|------------|-------------|----------------|----------|-----|------------------|-----------------|---------------------------------------------
+| Giant Crosscut AT 2 (Stock) | 700x38C / 40   | Giant SX2 25mm | 673g       | Semi-Slick  | 35 Euro (2025) | 60       | -   | Giant (=Stans?)  | Allroad, Gravel | sehr schwer, unzerstoerbar (seit ~3 Jahren kein Platten), auch nicht langsam
+| Tufo Thundero HD            | 700x40C / 41   | Giant SX2 25mm | 439g       | Semi-Slick  | 40 Euro (2025) | 130/255  | 5/5 | Orange Endurance | Allroad, Gravel | ?
+| Michelin Pro 5 TLR          | 700x35C /  ?   | Giant SX2 25mm | 390g       | Slick       | 50 Euro (2025) | 120      | 5/5 | Orange Endurance | Allroad         | ?
+
 
 
 
@@ -1619,7 +1647,7 @@ TODO
 |----------------------------------------|-------------|-----------------------------|-----------------
 | Giant Approach (Stock)                 | 145 mm      | All-Road, Gravel            | ? von 5: bin 1 Jahr damit herumgefahren, obwohl "eigentlich" zu schmal
 | Fizik Terra Argo X5                    | 160 mm      | All-Road, Gravel, sportlich | 4 von 5: straff, gut, Polsterhose zwingend
-| Ergon SR Allroad Core Comp Men         | M-L         | All-Road, Langstrecke       | 5 von 5: komfortabler
+| Ergon SR Allroad Core Comp Men         | M-L         | All-Road, Langstrecke       | 5 von 5: komfortabler, trotzdem noch vglw. flach, geht sogar eine Weile ohne Polster
 
 
 #### Meine Polsterhosen
@@ -1628,9 +1656,9 @@ TODO
 |----------------------------------------|-----------------|----------|----------|----------|-----------------------------------------
 | Gore Wear Bibs                         | Schaum          | max 3h   | G, F, E  | \*\*     | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (Oberstoff loest sich und bildet Rubbel-Falten); gute Standard-Hose
 | Gore Wear Tights                       | Schaum          | max 3h   | F        | \*\*     | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (" " "); gute Hose sonst
-| Gore Wear Tights Windstopper           | Schaum          | max 3h   | F        | \*\*     | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (" " "); Rest der Hose ist genial
+| Gore Wear Tights Windstopper           | Schaum          | max 3h   | F        | \*\*     | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (" " "); Rest der Hose ist genial, fuhr damit problemlos bei Minustemperaturen
 | Gonso SQLab GO M Bibs (2x)             | Gel/Elast. 6mm  | max 6h   | F, E     | \*\*\*\* | 4 von 5: Polsterkomfort konstant gut genug, kein Durchsitzen; Träger beim alten Modell zu kurz; gut fuer Radreisen
-| GripGrab AquaRepel Bibs                | Schaum          | max ?    | E        | \*\*     | ? von ?: Kurze Hose fuer Herbsteinsatz
+| GripGrab AquaRepel Bibs                | Schaum          | max ?    | E        | \*\*     | 4 von 5: Kurze Hose fuer Herbsteinsatz mit Beinlingen bis 8 Grad
 | Castelli Unlimited Ultimate Bib-Liner  | Schaum          | max 2-3h | E        | \*       | 5 von 5: Progetto X2 Polster genial, guter Sitz der Hose; mein Fav fuer Standardrunden; fuer Radreisen eher ungeeignet; hat Rueckentaschen
 
 
