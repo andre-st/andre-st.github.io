@@ -6,6 +6,12 @@ _"Driving a car is like watching a movie, but riding a bike is like acting in on
 _ACHTUNG: Alles work-in-progress hier, mag sich alles ändern_
 
 
+Dieses Dokument versammelt meine Fahrrad-Erfahrungen und -Recherchen seit 2023, als Wieder-Anfänger nach mehr als 15 Jahren ohne Fahrrad.
+Davor bin ich als Kind und Jugendlicher viel Fahrrad gefahren, aber nie mit dem heiligen Ernst von heute:
+Heute (2025) konsumiere ich täglich Youtube-Radcontent und Rad-Web-Foren, schraube alles am Esel, 
+erkunde stundenlang die Gegend und unternehme Radreisen.
+
+
 
 ## Übersicht
 
@@ -39,8 +45,7 @@ _ACHTUNG: Alles work-in-progress hier, mag sich alles ändern_
 - [Sattel](#sattel)
 - [Lenker](#lenker)
 - [Shops](#shops)
-- [Wahoo-Hackerei](#wahoo-hackerei)
-
+- [Wirtschaft](#wirtschaft)
 
 
 
@@ -266,6 +271,7 @@ Nicht-StVoZ-Alternativen:
 ## Kleidung
 
 Kleine Materialkunde:
+
 | Material               | Trocknung | Waerme | Kuehlung | bleibt geruchsarm | Hautgefuehl | Preis   | Kommentar
 |------------------------|-----------|--------|----------|-------------------|-------------|---------|----------------
 | Baumwolle              | \*        | \*\*\* | \*\*\*   | \*                | \*\*        | \*\*\*  | 
@@ -505,6 +511,7 @@ Taeglich am Fahrrad:
 - Calcium-verseiftes Fett nennt sich auch Staufferfett
 
 
+#### Produktliste:
 
 | Produkt                           | Typ                | Hauptzweck         | Do                           | Don't               | Kommentar
 |-----------------------------------|--------------------|--------------------|------------------------------|---------------------|-----------------------
@@ -538,7 +545,7 @@ Taeglich am Fahrrad:
 
 
 
-Aktueller Schmierplan:
+#### Aktueller Schmierplan:
 
 | Bauteil                            | Vor-Reinigung          | Nachbehandlung 
 |------------------------------------|------------------------|-------------------------
@@ -1391,22 +1398,31 @@ Gutes Setup auf YT:
 	- Wild-Shelter-Apps
 
 
+### Wahoo-Hackerei:
+
+see [my Github Wahoo-repository](https://github.com/andre-st/wahoo)
+
+
+
+
+
+
 
 ## Reisekueche
 
 ### Kleine Materialkunde:
 
-| Material                           | Gesundheit | Waermeleitf. | Gewicht  | Preis    | Kommentar
-|------------------------------------|------------|--------------|----------|----------|---------------------
-| Aluminium                          | \*         | \*\*\*       | \*\*     | \*\*\*   | Ablösung bei Abrieb und Säuren (Tomaten etc), Ablagerung im Koerper, komme durch Bluthirnschranke
-| eloxiertes/anodisiertes Aluminium  | \*         | \*\*\*       | \*\*     | \*\*\*   | festere Schicht gegen Abrieb und Säuren
-| hart-eloxiertes/anod. Aluminium    | \*\*       | \*\*\*       | \*\*     | \*\*     | noch festere Schicht
-| Edelstahl                          | \*\*\*     | \*           | \*       | \*\*\*   | evtl. minderwertiger Alu-Topf schwerer als hochwert. duenner Edelstahl
-| Duossal                            | \*\*\*     | \*\*         | \*\*     | \*\*     | Duo-StainlessSteel-ALuminium: SS innen, Alu aussen
-| Titan                              | \*\*       | \*           | \*\*\*   | \*       | 
-| Keramik                            |            |              |          |          | 
-| Nylon                              |            |              |          |          | 
-| Silikon lebensmittelecht           |            |              |          |          | 
+| Material                     | Gesundheit | Waermeleitf. | Gewicht  | Preis    | Kommentar
+|------------------------------|------------|--------------|----------|----------|---------------------
+| Aluminium                    | \*----     | \*\*\*--     | \*\*---  | \*\*\*-- | Ablösung bei Abrieb und Säuren (Tomaten etc), Ablagerung im Koerper, komme durch Bluthirnschranke
+| eloxiertes/anodisiertes Alu  | \*----     | \*\*\*--     | \*\*---  | \*\*\*-- | festere Schicht gegen Abrieb und Säuren
+| hart-eloxiertes/anod. Alu    | \*\*---    | \*\*\*--     | \*\*---  | \*\*---  | noch festere Schicht
+| Edelstahl                    | \*\*\*--   | \*----       | \*----   | \*\*\*-- | evtl. minderwertiger Alu-Topf schwerer als hochwert. duenner Edelstahl
+| Duossal                      | \*\*\*--   | \*\*---      | \*\*---  | \*\*---  | Duo-StainlessSteel-ALuminium: SS innen, Alu aussen
+| Titan                        | \*\*---    | \*----       | \*\*\*-- | \*----   | 
+| Keramik                      |            |              |          |          | 
+| Nylon                        |            |              |          |          | 
+| Silikon lebensmittelecht     |            |              |          |          | 
 
 
 
@@ -1527,13 +1543,13 @@ Warme Kueche:
 		Je höher der Wert, desto besser soll der Reifen walken können
 - Laufleistung
 - Rollwiderstand
-- Vibration / Schwingungswiderstand
+- Schwingungswiderstand
 - Geräuschentwicklung
 - Nasshaftung
 - Pannenschutz
 - Gummimischung
 	- Shore­Härte (z.B. 60a), je höher, desto weicher das Gummi
-- Drahtwulst vs. Faltwulst
+- Wulst, Drahtwulst vs. Faltwulst
 - Maßhaltung
 - wann wechseln?
 
@@ -1559,12 +1575,19 @@ Rotierende Masse, die man beschleunigen oder hochtragen muss: Reifengewicht \* ?
 
 ### Montage
 
-- gegenueber des Ventils anfrangen (Ventilteil in der Felge hebt sonst Reifen wieder aus der tiefern Felgenmitte) = paar mm mehr Spiel
-- alles in die tiefere Felgenmitte legen = paar mm mehr Spiel
+- Laufrichtung des Reifens beachten
+- Reifen-Logo mittig am Ventil positionieren
+- gegenueber des Ventils anfangen entlang beider Seiten nach unten ins Felgenbett zu druecken 
+	(Ventilteil in der Felge hebt sonst Reifen wieder aus der tiefern Felgenmitte) = paar mm mehr Spiel
+- alles in die tiefere Felgenmitte legen = paar mm mehr Spiel; erste Reifenseite evtl möglichst nah am Außenrand
 - von oben mit Kraft nach unten Richtung ventil massieren/ziehen, damit sich Reifen dehnt = paar mm mehr Spiel
-- Flanken evtl. mit Montagefluessigkeit benetzen, damit besser flutscht
-- pruefen, ob gleichmaessig aufgezogen: TODO
-- aufpumpen / kompressor (airshot)
+- Wulst der noch nicht eingelegten Seite innen/außen/unten  evtl. mit Montagefluessigkeit benetzen, damit besser flutscht
+- pruefen, ob gleichmaessig aufgezogen: alles schön in die Mitte massieren
+- aufpumpen / kompressor (airshot) mit 4 bar (max 5 idR bei Tubeless/Gravel)
+- Linie vom Reifen sollte direkt an der Felge drumherumlaufen
+- auf 3 runter und dann über Nacht stehen lassen und schauen, ob der Reifen Luft hält
+- Luft ablassen, Ventilkern rausschrauben und Dichtmilch einfüllen; wieder aufpumpen
+
 
 
 ### Demontage
@@ -1572,13 +1595,51 @@ Rotierende Masse, die man beschleunigen oder hochtragen muss: Reifengewicht \* ?
 - ...
 
 
+### Reifenwahl
+
+"Hinten Speed, vorne Grip":
+
+- fehlender Grip vorne wirft dich uebel vom Rad, fehlender Grip hinten rutscht eher durch und laesst sich wieder einfangen
+- unwichtig, dass beide Reifen gleichen Typs und gleichen Gewichts sein muessen
+- Kombination von Unterschieden kann Vorteile haben / asymmetrisches Setup
+- manche Hersteller bieten sogar Front/Rear-Sets an
+- Vorn=Hinten:
+	- Traditionsautomatismus, Marketing
+	- ähnliches Feedback vom Boden
+	- gleiches Nassgrip-Verhalten beider Reifen
+	- Reifentausch HR/VR mgl.
+	- symmetrisch ästhetischer
+	- einfacher/gut genug; asymetrisch mehr Knobelei
+- Nasshaftung (Wet grip) _auf Asphalt_ bei profillosen Slick-Reifen besser (mehr Kontaktfläche) als bei profilierten Noppen-/Stollenreifen,
+	off-road ist es umgekehrt
+
+
+| Gesichtspunkt  | Hinterreifen (Vortrieb) | Vorderreifen (Handling) | Bemerkung
+|----------------|-------------------------|-------------------------|--------------------------
+| Antriebskräfte | Großteil                | -                       | HR belasteter
+| Tragegewicht   | 60%                     | 40%                     | HR belasteter
+| Verschleiß     | schneller               | langsamer               | 
+| Compound       | härter                  | weicher                 | HR robuster, VR mehr Grip für Kurven, Notbremsung
+| TPI            | weniger                 | mehr                    | HR robuster, VR geschmeidiger/Grip
+| Reifenbreite   | schmaler                | breiter                 | max. 3mm, sonst wabbeliges Fahrverhalten
+| Rollwiderstand | *entscheidend*          | -                       | für Gesamtgeschw. auf gerader Strecke; lahmer VR weniger Einfluss auf HR als umgekehrt
+| Reifengewicht  | -                       | -                       | Rollwiderstand unabh. vom Reifengewicht sondern von Abroll-Verformung (Material, Aufbau, Breite, Luftdruck) \* Normalkraft auf Reifen (Gewicht Fahrer + Rad, Reifengewicht +300g Bruchteil); aber: leichte Reifen beschleunigen/bremsen schneller und sind agiler in Kurven (Inertia/rotierende Masse), halten Speed aber nicht so lange (Momentum)
+
+
+### Meine Felgen
+
+Giant SX2		25mm		Giant Tubeless Felgenband 28mm x 4.7m
+
+
 ### Meine Reifen
 
-| Modell                      | Groesse / Real | Felge innen    | Gewicht 1x | Profil      | Preis 1x       | TPI      | BRR | Tubeless Sealant | Einsatz         | Bewertung
-|-----------------------------|----------------|----------------|------------|-------------|----------------|----------|-----|------------------|-----------------|---------------------------------------------
-| Giant Crosscut AT 2 (Stock) | 700x38C / 40   | Giant SX2 25mm | 673g       | Semi-Slick  | 35 Euro (2025) | 60       | -   | Giant (=Stans?)  | Allroad, Gravel | sehr schwer, unzerstoerbar (seit ~3 Jahren kein Platten), auch nicht langsam
-| Tufo Thundero HD            | 700x40C / 41   | Giant SX2 25mm | 439g       | Semi-Slick  | 40 Euro (2025) | 130/255  | 5/5 | Orange Endurance | Allroad, Gravel | ?
-| Michelin Pro 5 TLR          | 700x35C /  ?   | Giant SX2 25mm | 390g       | Slick       | 50 Euro (2025) | 120      | 5/5 | Orange Endurance | Allroad         | ?
+Angaben (Preis, Gewicht etc) beziehen sich immer auf 1 Reifen statt beide.
+
+| Modell                      | Groesse (Real) | Felge innen    | Gewicht | Profil     | Preis (Jahr) | TPI     | BRR          | Tubeless Sealant           | Einsatz         | Druck (Systemgew.) | Bewertung
+|-----------------------------|----------------|----------------|---------|------------|--------------|---------|--------------|----------------------------|-----------------|--------------------|------------------------------------
+| Giant Crosscut AT 2 (Stock) | 700x38C (40)   | Giant SX2 25mm | 673g    | Semi-Slick | 35 € (2025)  | 60      | ??? (20,0 W) | 59ml Giant (=Stans?)       | Allroad, Gravel | 2,9 bar (105 kg)   | schwer, unzerstoerbar (seit ~3 Jahren plattenfrei), nicht langsam, Drahtreifen
+| Tufo Thundero HD            | 700x40C (41)   | Giant SX2 25mm | 439g    | Semi-Slick | 40 € (2025)  | 130/255 | 5/5 (19,2 W) | 59ml Orange Endurance      | Allroad, Gravel | 2,7 bar (105 kg)   | ?, Faltreifen, Stans und Tufo-Sealant wuerden nicht dichten, Orange aber ganz gut
+| Michelin Pro 5 TLR          | 700x35C (35)   | Giant SX2 25mm | 390g    | Slick      | 50 € (2025)  | 120     | 5/5 (13,8 W) | 50ml Finish Line FiberLink | Allroad         | 3,3 bar (105 kg)   | Faltreifen; Montage für TL-Reifen relativ gut mit Hand und Standpumpe; Kurbel kommt naeher an den Boden
 
 
 
@@ -1604,13 +1665,13 @@ Rotierende Masse, die man beschleunigen oder hochtragen muss: Reifengewicht \* ?
 
 Bei Sitzknochenabstand _x_ (Tabelle von Fahrrad-XXL):
 
-| Fahrradtyp                        | Sitzhaltung          | Sattel-Mindestbreite
-|-----------------------------------|----------------------|---------------------
-| TT/Zeitfahrrad                    | aerodynamisch        | _x_ +   0 cm
-| Rennrad, CX, sportl. Gravel       | sportlich            | _x_ + 1-2 cm
-| MTB, Fitnessbike, Gravel-Reiserad | entspannt-sportl.    | _x_ + 2-3 cm
-| Trekkingrad, Citybike             | leicht vorgeneigt    | _x_ + 3-4 cm
-| Hollandrad                        | aufrecht             | _x_ + 4-5 cm
+| Fahrradtyp                        | Sitzhaltung       | Sattel-Mindestbreite
+|-----------------------------------|-------------------|---------------------
+| TT/Zeitfahrrad                    | aerodynamisch     | _x_ +   0 cm
+| Rennrad, CX, sportl. Gravel       | sportlich         | _x_ + 1-2 cm
+| MTB, Fitnessbike, Gravel-Reiserad | entspannt-sportl. | _x_ + 2-3 cm
+| Trekkingrad, Citybike             | leicht vorgeneigt | _x_ + 3-4 cm
+| Hollandrad                        | aufrecht          | _x_ + 4-5 cm
 
 Bei Zwischengrößen, die größere nehmen
 
@@ -1631,7 +1692,6 @@ TODO
 	2. That padding moves with you and stays at the anatomical locations where you will need it, regardless of how you sit on the saddle
 	3. I can throw my chamios shorts in the wash when they get funky. A cushioned ass-sweat soaked seat, not so much.
 	4. level and positioning of padding that you want is different according to how hard you are pressing on the pedals (and unweighting the saddle) and how upright you are sitting
-
 - fore/aft-einstellungen:
 - Satteltasche befestigbar?
 - Rails kompatibel mit seat post klemme? einige carbon-rails haben einen ovalen statt runden Durchschnitt
@@ -1639,31 +1699,57 @@ TODO
 - Brooks-C17-Oberfläche soll Hosen fressen
 
 
-### Historie
 
-#### Meine Sättel
+### Meine Sättel
 
-| Modell                                 | Groesse     | Einsatz                     | Punkte und Befinden
-|----------------------------------------|-------------|-----------------------------|-----------------
-| Giant Approach (Stock)                 | 145 mm      | All-Road, Gravel            | ? von 5: bin 1 Jahr damit herumgefahren, obwohl "eigentlich" zu schmal
-| Fizik Terra Argo X5                    | 160 mm      | All-Road, Gravel, sportlich | 4 von 5: straff, gut, Polsterhose zwingend
-| Ergon SR Allroad Core Comp Men         | M-L         | All-Road, Langstrecke       | 5 von 5: komfortabler, trotzdem noch vglw. flach, geht sogar eine Weile ohne Polster
+| Modell                                 | Groesse | Einsatz                     | Preis (Jahr) | Bewertung  | Kommentar
+|----------------------------------------|---------|-----------------------------|--------------|------------|------------------------
+| Giant Approach (Stock)                 | 145 mm  | All-Road, Gravel            | ?            | ?          | bin 1 Jahr damit herumgefahren, obwohl "eigentlich" zu schmal
+| Fizik Terra Argo X5                    | 160 mm  | All-Road, Gravel, sportlich | 100 € (2024) | \*\*\*\*-  | straff, gut, Polsterhose zwingend
+| Ergon SR Allroad Core Comp Men         | M-L     | All-Road, Langstrecke       |              | \*\*\*\*\* | komfortabler, trotzdem noch vglw. flach, geht sogar eine Weile ohne Polster
 
 
-#### Meine Polsterhosen
+### Meine Radhosen
 
-| Modell                                 | Polster         | Einsatz  | Sattel   | trocknet | Punkte und Befinden
-|----------------------------------------|-----------------|----------|----------|----------|-----------------------------------------
-| Gore Wear Bibs                         | Schaum          | max 3h   | G, F, E  | \*\*     | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (Oberstoff loest sich und bildet Rubbel-Falten); gute Standard-Hose
-| Gore Wear Tights                       | Schaum          | max 3h   | F        | \*\*     | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (" " "); gute Hose sonst
-| Gore Wear Tights Windstopper           | Schaum          | max 3h   | F        | \*\*     | 3 von 5: Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (" " "); Rest der Hose ist genial, fuhr damit problemlos bei Minustemperaturen
-| Gonso SQLab GO M Bibs (2x)             | Gel/Elast. 6mm  | max 6h   | F, E     | \*\*\*\* | 4 von 5: Polsterkomfort konstant gut genug, kein Durchsitzen; Träger beim alten Modell zu kurz; gut fuer Radreisen
-| GripGrab AquaRepel Bibs                | Schaum          | max ?    | E        | \*\*     | 4 von 5: Kurze Hose fuer Herbsteinsatz mit Beinlingen bis 8 Grad
-| Castelli Unlimited Ultimate Bib-Liner  | Schaum          | max 2-3h | E        | \*       | 5 von 5: Progetto X2 Polster genial, guter Sitz der Hose; mein Fav fuer Standardrunden; fuer Radreisen eher ungeeignet; hat Rueckentaschen
+| Modell                                 | Polster        | Einsatz (Saison)  | Sattel  | trocknet  | Bewertung  | Kommentar
+|----------------------------------------|----------------|-------------------|---------|-----------|------------|--------------------------------
+| Gore Wear Bibs                         | Schaum         | max 3h   (Sommer) | G, F, E | \*\*---   | \*\*\*--   | Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (Oberstoff loest sich und bildet Rubbel-Falten); gute Standard-Hose
+| Gonso SQLab GO M Bibs (2x)             | Gel/Elast. 6mm | max 6h   (Sommer) | F, E    | \*\*\*\*- | \*\*\*\*-  | Polsterkomfort konstant gut genug, kein Durchsitzen; Träger beim alten Modell zu kurz; gut fuer Radreisen
+| Castelli Unlimited Ultimate Bib-Liner  | Schaum         | max 2-3h (Sommer) | E       | \*----    | \*\*\*\*\* | Progetto X2 Polster genial, guter Sitz der Hose; mein Fav fuer Standardrunden; fuer Radreisen eher ungeeignet; hat Rueckentaschen
+| Gore Wear Tights                       | Schaum         | max 3h   (Herbst) | F       | \*\*---   | \*\*\*--   | Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (" " "); gute Hose sonst
+| GripGrab AquaRepel Bibs                | Schaum         | max ?    (Herbst) | E       | \*\*---   | \*\*\*\*-  | Kurze Hose fuer Herbsteinsatz mit Beinlingen bis 8 Grad
+| Gore Wear Tights Windstopper           | Schaum         | max 3h   (Winter) | F       | \*\*---   | \*\*\*--   | Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (" " "); Rest der Hose ist genial, fuhr damit problemlos bei Minustemperaturen
+| Gonso Essential Softshell              | ohne           | &infin;  (Winter) | E       | ?         | \*\*\*--   | Winterhose, die ich ueber Sommer-Bibs mit gutem Polster ziehe; muss weniger Winterhosen kaufen
+| Überhose Sportful Supergiara 002 ('24) | ohne           | &infin;  (Sommer) | F       | ?         | \*\*\*--   | viele kluge Taschen, duemmste Bundsystem ever: haelt beladene Hose nicht und ist mir irgendwann beim Nachspannen gerissen
+| Überhose Maloja StagiasM Gravel        | ohne           | &infin;  (Sommer) | E       | \*\*\*\-- | \*\*\*\*-  | richtige Länge, leicht, laser-perforiert, aber nur 1 Tasche (Smartphone)
+
 
 
 
 ## Lenker
+
+
+### Meine Lenker und Lenkerbänder
+
+
+| Lenker                                      | Breite OL/UL | Drop-Shape | Bewertung | Kommentar
+|---------------------------------------------|--------------|------------|-----------|--------------------
+| Giant Contact XR Ergo-Control (Stock)       | 460 / 510 mm | Compact    |           |
+| Profile Design Sonic Ergo T5+ Lenkeraufsatz |              | -          |           | s. Abschnitt "Aerolenker"
+
+
+
+| Lenkerband                       | Dicke  | Einsatz         | Preis (Jahr) | Bewertung  | Kommentar
+|----------------------------------|--------|-----------------|--------------|------------|--------------------------------
+| Giant Cork? (Stock)              | mittel | Allroad, Gravel | ?            | \*\*\*\*-  | war ganz angenehm; 3 Tage Backpacking mit Regen hat es geloest
+| Profile Design Aerobar Wrap      | dünn   | Allroad         | 25 € (2023)  | \*\*\*\*\* | fuer Lenkeraufsatz; duenner als Dropbar, damit keine Wurst-Optik
+| FSA Ultra-Gel Kork               | mittel | Allroad, Gravel | 13 € (2025)  | \*\*\*\*-  | Band traegt nicht so dick auf, daempft dennoch, Grip ok, sieht gut aus; andere Abschlussstreifen/Barends verwenden (ugly)
+| Selle Italia SmooTape Gran Fondo | 2,5 mm | Allroad, Gravel | 13 € (2025)  | Todo       | ueberlappungsfrei; Eva-Gel
+| SRAM SuperCork Bar Tape          | mittel | Allroad, Gravel | 10 € (2025)  | Todo       | guenstiges Notfall-Korkband (fahre Shimano)
+
+
+
+
 
 ### Aerolenker / TT-Bars / Auflieger
 
@@ -1703,24 +1789,61 @@ Habe den Auflieger wieder abgebaut, auch wenn er Spass macht. Schlankeres Bike g
 
 # Shops
 
-Ich versuche Amazon und Amazon Marketplace mittlerweile weitestgehend zu vermeiden 
-	(ich kann Fakes nicht ausschliessen, Berichte von nicht wieder aufgearbeiteten Kundenruecklaeufern, ...)
+| Alle Bestellungen top                                  | Teile                     | Versand | Kommentar
+|--------------------------------------------------------|---------------------------|---------|--------------------
+| [bike24.de](https://bike24.de)                         | alles                     | DHL     | Ruecksende-Etikett direkt im Paket, schneller Versand
+| [bike-discount.de](https://bike-discount.de)           | alles                     | DHL     | oft gute Preise
+| [kugellager-shop.net](https://www.kugellager-shop.net) | Industrielager, Lagerkugeln G10 auf Anfrage  | ? | Edelstahlversionen kaufen
+| [decathlon.de](https://decathlon.de)                   | Kleidung, Bikepacking     | ?       | bisher immer alles bekommen, Ruecksendung unproblematisch; guenstige "Szenetipps" wie brauchbare Forclaz MT100 Daunenjacke oder gut verpackbare Forclaz MT500 Sandalen
+| [agu.com](https://agu.com)                             | Kleidung                  | DHL     | Niederlande, Ruecksendung unproblematisch, manchmal 50% Preisnachlass
+| [globetrotter.de](https://globetrotter.de)             | Bikepacking               | DHL     |
 
 
-| Website                                                | Teile                     | Kommentar
+| Bisher einzige Bestellung top                          | Teile                     | Versand | Kommentar
+|--------------------------------------------------------|---------------------------|---------|--------------------
+| [r2-bike.com](https://r2-bike.com)                     | alles                     | DHL     |
+| [woembi.de](https://www.woembi.de)                     | Lagerkugeln G20 HRC&ge;60 | ?       |
+| [giantbikespares.com](https://giantbikespares.com)     | Giant-Ersatzteile         | DHL     | trotz UK-Export billiger als beim lokalen Haendler
+
+
+| Viele Bestellungen okay                                | Teile                     | Versand | Kommentar
+|--------------------------------------------------------|---------------------------|---------|--------------------
+| [bike-components.de](https://bike-comonents.de)        | alles                     | DPD/GLS | funktioniert im Allg., lefern aber evtl mit anderen Diensten trotz DHL-Logo; auch mal Paket von anderem Kunden erhalten
+
+
+| Shops, die ich vermeide                                | Teile                     | Kommentar
 |--------------------------------------------------------|---------------------------|-----------------------------
-| [bike24.de](https://bike24.de)                         | alles                     | Ruecksende-Etikett direkt im Paket, schneller Versand
-| [bike-discount.de](https://bike-discount.de)           | alles                     | manchmal gute Preise
-| [woembi.de](https://www.woembi.de)                     | Lagerkugeln (G20, HRC&ge;60)                              |
-| [kugellager-shop.net](https://www.kugellager-shop.net) | gedichtete Industrielager, Lagerkugeln auf Anfrage (G10)  | Edelstahlversionen kaufen
-| [giantbikespares.com](https://giantbikespares.com)     | Giant-Ersatzteile         | trotz UK-Export billiger als beim lokalen Haendler
+| Sportfits.de                                           | alles                     | eigene negative Erfahrung
+| Amazon (Marketplace)                                   | Kleidung, Teile           | kaufe nur, wenn ich lange woanders nichts finde; man liest von Fakes und Wiederverkauf kaputter Kundenruecklaeufern
+| TradeInn / BikeInn                                     | alles                     | Spanien; bei Ärger wäre unverhältns. Aufwand
+| Satafixie.de                                           | alles                     | Spanien
+| Hardloop.de                                            | alles                     | Frankreich
+| Alltricks.de                                           | alles                     | Frankreich
 
 
 
 
-# Wahoo-Hackerei
 
-see [my Github Wahoo-repository](https://github.com/andre-st/wahoo)
+# Wirtschaft
+
+Oekonomische Zusammenhaenge, Rationales, ... 
+
+
+### Fahrrad-Handel (LBS, Online)
+
+TODO
+- Margen
+- Preise
+- Arbeitseinheiten Abrechnung
+- Kataloge
+- Fehler
+- Verhandlungen
+
+
+### Fahrrad-Hersteller (B2B)
+
+TODO
+
 
 
 
