@@ -1553,7 +1553,7 @@ Warme Kueche:
 - Maßhaltung
 - wann wechseln?
 
-![Reifen](wheel.jpg)
+![Laufrad](wheel.jpg)
 
 Ich hatte mir bei Kleinanzeigen.de ein Hinter-Laufrad (mit Kassette und Bremsscheibe) fuer _25 Euro_ besorgt, 
 an dem ich lernen und ueben konnte (anstelle meiner teuren Räder): 
@@ -1596,6 +1596,9 @@ Rotierende Masse, die man beschleunigen oder hochtragen muss: Reifengewicht \* ?
 
 
 ### Reifenwahl
+
+![Reifen](tires.jpg)
+
 
 "Hinten Speed, vorne Grip":
 
@@ -1741,7 +1744,7 @@ TODO
 
 | Lenkerband                       | Dicke  | Einsatz         | Preis (Jahr) | Bewertung  | Kommentar
 |----------------------------------|--------|-----------------|--------------|------------|--------------------------------
-| Giant Cork? (Stock)              | mittel | Allroad, Gravel | ?            | \*\*\*\*-  | war ganz angenehm; 3 Tage Backpacking mit Regen hat es geloest
+| Giant Cork? (Stock)              | mittel | Allroad, Gravel | ?            | \*\*\*\*-  | war ganz angenehm; 4 Tage Backpacking mit Regen hat ihm den Rest gegeben
 | Profile Design Aerobar Wrap      | dünn   | Allroad         | 25 € (2023)  | \*\*\*\*\* | fuer Lenkeraufsatz; duenner als Dropbar, damit keine Wurst-Optik
 | FSA Ultra-Gel Kork               | mittel | Allroad, Gravel | 13 € (2025)  | \*\*\*\*-  | Band traegt nicht so dick auf, daempft dennoch, Grip ok, sieht gut aus; andere Abschlussstreifen/Barends verwenden (ugly)
 | Selle Italia SmooTape Gran Fondo | 2,5 mm | Allroad, Gravel | 13 € (2025)  | Todo       | ueberlappungsfrei; Eva-Gel
@@ -1789,7 +1792,7 @@ Habe den Auflieger wieder abgebaut, auch wenn er Spass macht. Schlankeres Bike g
 
 # Shops
 
-| Alle Bestellungen top                                  | Teile                     | Versand | Kommentar
+| Alle_Bestellungen_top                                  | Teile                     | Versand | Kommentar
 |--------------------------------------------------------|---------------------------|---------|--------------------
 | [bike24.de](https://bike24.de)                         | alles                     | DHL     | Ruecksende-Etikett direkt im Paket, schneller Versand
 | [bike-discount.de](https://bike-discount.de)           | alles                     | DHL     | oft gute Preise
@@ -1799,27 +1802,27 @@ Habe den Auflieger wieder abgebaut, auch wenn er Spass macht. Schlankeres Bike g
 | [globetrotter.de](https://globetrotter.de)             | Bikepacking               | DHL     |
 
 
-| Bisher einzige Bestellung top                          | Teile                     | Versand | Kommentar
+| Bisher_erste_Bestellung_top                            | Teile                     | Versand | Kommentar
 |--------------------------------------------------------|---------------------------|---------|--------------------
 | [r2-bike.com](https://r2-bike.com)                     | alles                     | DHL     |
 | [woembi.de](https://www.woembi.de)                     | Lagerkugeln G20 HRC&ge;60 | ?       |
 | [giantbikespares.com](https://giantbikespares.com)     | Giant-Ersatzteile         | DHL     | trotz UK-Export billiger als beim lokalen Haendler
 
 
-| Viele Bestellungen okay                                | Teile                     | Versand | Kommentar
+| Viele_Bestellungen_okay                                | Teile                     | Versand | Kommentar
 |--------------------------------------------------------|---------------------------|---------|--------------------
 | [bike-components.de](https://bike-comonents.de)        | alles                     | DPD/GLS | funktioniert im Allg., lefern aber evtl mit anderen Diensten trotz DHL-Logo; auch mal Paket von anderem Kunden erhalten
 
 
-| Shops, die ich vermeide                                | Teile                     | Kommentar
+| Shops_die_ich_vermeide                                 | Teile                     | Kommentar
 |--------------------------------------------------------|---------------------------|-----------------------------
 | Sportfits.de                                           | alles                     | eigene negative Erfahrung
-| Amazon (Marketplace)                                   | Kleidung, Teile           | kaufe nur, wenn ich lange woanders nichts finde; man liest von Fakes und Wiederverkauf kaputter Kundenruecklaeufern
-| TradeInn / BikeInn                                     | alles                     | Spanien; bei Ärger wäre unverhältns. Aufwand
-| Satafixie.de                                           | alles                     | Spanien
-| Hardloop.de                                            | alles                     | Frankreich
-| Alltricks.de                                           | alles                     | Frankreich
-
+| Suicycle-store.com                                     | alles                     | eigene negative Erfahrung
+| Amazon (Marketplace)                                   | Kleidung, Teile           | kaufe nur, wenn ich lange woanders nichts finde; man liest von Fakes und Wiederverkauf kaputter Kundenruecklaeufer
+| TradeInn / BikeInn                                     | alles                     | Sitz Spanien; bei Ärger wäre unverhältns. Aufwand
+| Santafixie.de                                          | alles                     | Sitz Spanien
+| Hardloop.de                                            | alles                     | Sitz Frankreich
+| Alltricks.de                                           | alles                     | Sitz Frankreich
 
 
 
