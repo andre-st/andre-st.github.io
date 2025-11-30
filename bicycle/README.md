@@ -8,7 +8,7 @@ _ACHTUNG: Alles work-in-progress hier, mag sich alles ändern_
 
 Dieses Dokument versammelt meine Fahrrad-Erfahrungen und -Recherchen seit 2023, als Wieder-Anfänger nach mehr als 15 Jahren ohne Fahrrad.
 Davor bin ich als Kind und Jugendlicher viel Fahrrad gefahren, aber nie mit dem heiligen Ernst von heute:
-Heute (2025) konsumiere ich täglich Youtube-Radcontent und Rad-Web-Foren, schraube alles am Esel, 
+Heute (2025) recherchiere ich täglich Youtube-Radcontent und Rad-Web-Foren/Blogs/Bücher, schraube alles am Esel, 
 erkunde stundenlang die Gegend und unternehme Radreisen.
 
 
@@ -1638,11 +1638,11 @@ Giant SX2		25mm		Giant Tubeless Felgenband 28mm x 4.7m
 
 Angaben (Preis, Gewicht etc) beziehen sich immer auf 1 Reifen statt beide.
 
-| Modell                      | Groesse (Real) | Felge innen    | Gewicht | Profil     | Preis (Jahr) | TPI     | BRR          | Tubeless Sealant           | Einsatz         | Druck (Systemgew.) | Bewertung
-|-----------------------------|----------------|----------------|---------|------------|--------------|---------|--------------|----------------------------|-----------------|--------------------|------------------------------------
-| Giant Crosscut AT 2 (Stock) | 700x38C (40)   | Giant SX2 25mm | 673g    | Semi-Slick | 35 € (2025)  | 60      | ??? (20,0 W) | 59ml Giant (=Stans?)       | Allroad, Gravel | 2,9 bar (105 kg)   | schwer, unzerstoerbar (seit ~3 Jahren plattenfrei), nicht langsam, Drahtreifen
-| Tufo Thundero HD            | 700x40C (41)   | Giant SX2 25mm | 439g    | Semi-Slick | 40 € (2025)  | 130/255 | 5/5 (19,2 W) | 59ml Orange Endurance      | Allroad, Gravel | 2,7 bar (105 kg)   | ?, Faltreifen, Stans und Tufo-Sealant wuerden nicht dichten, Orange aber ganz gut
-| Michelin Pro 5 TLR          | 700x35C (35)   | Giant SX2 25mm | 390g    | Slick      | 50 € (2025)  | 120     | 5/5 (13,8 W) | 50ml Finish Line FiberLink | Allroad         | 3,3 bar (105 kg)   | Faltreifen; Montage für TL-Reifen relativ gut mit Hand und Standpumpe; Kurbel kommt naeher an den Boden
+| Modell                      | Groesse (Real) | Felge innen    | Gewicht | Profil     | Preis (Jahr) | TPI     | BRR          | Tubeless Sealant       | Einsatz         | Druck (Systemgew.) | Bewertung
+|-----------------------------|----------------|----------------|---------|------------|--------------|---------|--------------|------------------------|-----------------|--------------------|------------------------------------
+| Giant Crosscut AT 2 (Stock) | 700x38C (40)   | Giant SX2 25mm | 673g    | Semi-Slick | 35 € (2025)  | 60      | ??? (20,0 W) | 59ml Giant (=Stans?)   | Allroad, Gravel | 2,9 bar (105 kg)   | schwer, unzerstoerbar (seit ~3 Jahren plattenfrei), nicht langsam, Drahtreifen
+| Tufo Thundero HD            | 700x40C (41)   | Giant SX2 25mm | 439g    | Semi-Slick | 40 € (2025)  | 130/255 | 5/5 (19,2 W) | 59ml Orange Endurance  | Allroad, Gravel | 2,7 bar (105 kg)   | ?, Faltreifen, Stans und Tufo-Sealant wuerden nicht dichten, Orange aber ganz gut
+| Michelin Pro 5 TLR          | 700x35C (35)   | Giant SX2 25mm | 390g    | Slick      | 50 € (2025)  | 120     | 5/5 (13,8 W) | 35ml Orange Endurance  | Allroad         | 3,3 bar (105 kg)   | Faltreifen; Montage für TL-Reifen relativ gut mit Hand und Standpumpe; 32er wäre auf meiner Felge grenzwertig und zu hart bei meinem Systemgewicht: verlöre mehr Energie (reibt mehr gegen den Untergrund statt verformend darüber zu gleiten) = langsamer, schlechtere Kurvenstabi, unkomfortabler
 
 
 
@@ -1807,17 +1807,18 @@ Habe den Auflieger wieder abgebaut, auch wenn er Spass macht. Schlankeres Bike g
 | [r2-bike.com](https://r2-bike.com)                     | alles                     | DHL     |
 | [woembi.de](https://www.woembi.de)                     | Lagerkugeln G20 HRC&ge;60 | ?       |
 | [giantbikespares.com](https://giantbikespares.com)     | Giant-Ersatzteile         | DHL     | trotz UK-Export billiger als beim lokalen Haendler
+| [raaad.de](https://raaad.de)                           | alles                     | DHL     |
 
 
-| Viele_Bestellungen_okay                                | Teile                     | Versand | Kommentar
+| Bestellung_okay                                        | Teile                     | Versand | Kommentar
 |--------------------------------------------------------|---------------------------|---------|--------------------
 | [bike-components.de](https://bike-comonents.de)        | alles                     | DPD/GLS | funktioniert im Allg., lefern aber evtl mit anderen Diensten trotz DHL-Logo; auch mal Paket von anderem Kunden erhalten
+| Suicycle-store.com                                     | alles                     | DHL     | Hamburg; nicht auf Lieferzeiten/Verfuegbarkeiten im Shop verlassen; liefern dann aber und Kontakt auch freundlich
 
 
 | Shops_die_ich_vermeide                                 | Teile                     | Kommentar
 |--------------------------------------------------------|---------------------------|-----------------------------
 | Sportfits.de                                           | alles                     | eigene negative Erfahrung
-| Suicycle-store.com                                     | alles                     | eigene negative Erfahrung
 | Amazon (Marketplace)                                   | Kleidung, Teile           | kaufe nur, wenn ich lange woanders nichts finde; man liest von Fakes und Wiederverkauf kaputter Kundenruecklaeufer
 | TradeInn / BikeInn                                     | alles                     | Sitz Spanien; bei Ärger wäre unverhältns. Aufwand
 | Santafixie.de                                          | alles                     | Sitz Spanien
