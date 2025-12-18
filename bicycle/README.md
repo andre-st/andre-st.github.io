@@ -1638,11 +1638,11 @@ Giant SX2		25mm		Giant Tubeless Felgenband 28mm x 4.7m
 
 Angaben (Preis, Gewicht etc) beziehen sich immer auf 1 Reifen statt beide.
 
-| Modell                      | Groesse (Real) | Felge innen    | Gewicht | Profil     | Preis (Jahr) | TPI     | BRR          | Tubeless Sealant       | Einsatz         | Druck (Systemgew.) | Bewertung
-|-----------------------------|----------------|----------------|---------|------------|--------------|---------|--------------|------------------------|-----------------|--------------------|------------------------------------
-| Giant Crosscut AT 2 (Stock) | 700x38C (40)   | Giant SX2 25mm | 673g    | Semi-Slick | 35 € (2025)  | 60      | ??? (20,0 W) | 59ml Giant (=Stans?)   | Allroad, Gravel | 2,9 bar (105 kg)   | schwer, unzerstoerbar (seit ~3 Jahren plattenfrei), nicht langsam, Drahtreifen
-| Tufo Thundero HD            | 700x40C (41)   | Giant SX2 25mm | 439g    | Semi-Slick | 40 € (2025)  | 130/255 | 5/5 (19,2 W) | 59ml Orange Endurance  | Allroad, Gravel | 2,7 bar (105 kg)   | ?, Faltreifen, Stans und Tufo-Sealant wuerden nicht dichten, Orange aber ganz gut
-| Michelin Pro 5 TLR          | 700x35C (35)   | Giant SX2 25mm | 390g    | Slick      | 50 € (2025)  | 120     | 5/5 (13,8 W) | 35ml Orange Endurance  | Allroad         | 3,3 bar (105 kg)   | Faltreifen; Montage für TL-Reifen relativ gut mit Hand und Standpumpe; 32er wäre auf meiner Felge grenzwertig und zu hart bei meinem Systemgewicht: verlöre mehr Energie (reibt mehr gegen den Untergrund statt verformend darüber zu gleiten) = langsamer, schlechtere Kurvenstabi, unkomfortabler
+| Modell                      | Groesse (Real) | Felge innen    | Gewicht | Profil     | Preis (Jahr) | TPI     | BRR          | Tubeless Sealant       | Einsatz         | Druck (Systemgew.) | Montage                          | Sonstiges
+|-----------------------------|----------------|----------------|---------|------------|--------------|---------|--------------|------------------------|-----------------|--------------------|----------------------------------|---------------------------
+| Giant Crosscut AT 2 (Stock) | 700x38C (40)   | Giant SX2 25mm | 673g    | Semi-Slick | 35 € (2025)  | 60      | ??? (20,0 W) | 59ml Giant (=Stans?)   | Allroad, Gravel | 2,9 bar (105 kg)   |                                  | schwer, unzerstoerbar (seit ~3 Jahren plattenfrei), nicht langsam, Drahtreifen
+| Tufo Thundero HD            | 700x40C (41)   | Giant SX2 25mm | 439g    | Semi-Slick | 40 € (2025)  | 130/255 | 5/5 (19,2 W) | 59ml Orange Endurance  | Allroad, Gravel | 2,7 bar (105 kg)   |                                  | ?, Faltreifen, Stans und Tufo-Sealant wuerden nicht dichten, Orange aber ganz gut
+| Michelin Pro 5 TLR          | 700x35C (35)   | Giant SX2 25mm | 390g    | Slick      | 50 € (2025)  | 120     | 5/5 (13,8 W) | 35ml Orange Endurance  | Allroad         | 3,3 bar (105 kg)   | trotz TL: nur Hände + Standpumpe | Faltreifen; 32 statt 35 mm wäre auf der Gravel-Felge grenzwertig und bei meinem Systemgewicht zu hart: verlöre mehr Energie (springt und reibt mehr gegen realen Asphalt statt verformend darüber zu gleiten) = langsamer und schlechtere Kurvenstabi und unkomfortabler
 
 
 
@@ -1735,22 +1735,47 @@ TODO
 ### Meine Lenker und Lenkerbänder
 
 
-| Lenker                                      | Breite OL/UL | Drop-Shape | Bewertung | Kommentar
-|---------------------------------------------|--------------|------------|-----------|--------------------
-| Giant Contact XR Ergo-Control (Stock)       | 460 / 510 mm | Compact    |           |
-| Profile Design Sonic Ergo T5+ Lenkeraufsatz |              | -          |           | s. Abschnitt "Aerolenker"
+| Lenker                                      | Flare | Breite OL/UL | Drop-Shape | Material    | Gewicht | Preis            | Bewertung  | Kommentar
+|---------------------------------------------|-------|--------------|------------|-------------|---------|------------------|------------|--------------------
+| Giant Contact XR Ergo-Control (Stock)       |     8 | 460 / 510 mm | kompakt    | Alu         |    337g | ?                |            | recht leicht für diese Größe
+| Profile Design Sonic Ergo T5+ Lenkeraufsatz |    13 | 348 Länge    | -          | Alu 6061-T6 |         | &gt;100 € (2023) | \*\*\*\*\* | s. Abschnitt "Aerolenker"
+| Moquai Aero Rennradlenker                   |     0 | 420 / 420 mm | kompakt    | Alu 6061    |   "285g"| 27 € (2025)      | \*\*\*\*-  | schwerer als mein Giant-460mm-Lenker, hab den Messwert aber nicht mehr in Erinnerung, offiz. Gewicht kann nicht stimmen; sieht aber gut aus; sehr subtil mit Logos/Markierungen, alles schwarz auf schwarz; gute Rampe zu den STIs; flat-tops sehen nicht so ausladend aus
+| FSA AGX Adventure Compact                   |    12 | 440 / 500 mm | kompakt    | Alu 6061    |   "325g"| 18 € (2025 Sale) | Todo       |
+
+
+1. Flattop-Lenker sind schwerer zu fitten:
+	will man die Drops ebenerdig machen, dann stimmt evtl. das Flattop nicht mehr;
+	evtl. will man flache/ovalisierte Tops nicht ebenerdig sondern 1-n Grad geneigt, 
+	so dass sich der Fahrer bisschen abdrücken kann und nicht flach rüberrutscht;
+2. Compact Dropbar: 
+	den Bügel von den Tops zu den Hoods ebenerdig ausrichten (nicht die tops); 
+	die Hoods dann uebergangslos ansetzen und den Händen "anbieten" 
+	(sollten gefuehlt autom. in die Hand fallen statt dass die Hand danach suchen muss)
+
+
+| Lenkerband                        | Dicke  | Einsatz         | Preis (Jahr) | Feeling  | Haftung     | Bewertung  |  Kommentar
+|-----------------------------------|--------|-----------------|--------------|----------|-------------|------------|---------
+| Giant Cork? (Stock)               | mittel | Allroad, Gravel | ?            | Kork-Gel | ?           | \*\*\*\*\* | war ganz angenehm; scheint stufenfrei/ueberlappungsfrei; 4 Tage Backpacking mit Regen hat ihm den Rest gegeben
+| Profile Design Aerobar Wrap       | dünn   | Road            | 25 € (2023)  | Gummi    | Kleber?     | \*\*\*\*\* | fuer Lenkeraufsatz; duenner als Dropbar, damit keine Wurst-Optik; ausreichend Grip; Bandkante drueckt sich als "Fortsetzungslinie" durch und macht das gleichmäßige wickeln einfach
+| FSA Ultra-Gel Kork                | mittel | Allroad, Gravel | 13 € (2025)  | Kork-Gel | Kleber      | \*\*\*\*-  | Band traegt nicht so dick auf, daempft dennoch, Grip ok, sieht gut aus, ging schnell drauf, mit ital. 8 ausreichende Länge; hässl. Abschlussstreifen/Barends; hinterlässt nervige Rückstände auf dem Lenker beim Abwickeln
+| Selle Italia SmooTape Gran Fondo  | 2,5 mm | Allroad         | 13 € (2025)  | Eva-Gel  | Silikon/Zug | \*\*\*--   | unklar ob auf mitte zu wickeln oder dünnere stufe auf stufe (wie soll das in Biegungen stufenfrei gehen?); Feeling langweiliger als Kork; erscheint aus etwas Entfernung tats. stufenfrei, an den Händen weniger; ledrigerer Look; ist ok, haut mich aber nicht wirklich um; bleib dann auch lieber bei komplett schwarzem Band (weiße Logos = Vogelshit); hässl. Abschlussstreifen
+| Selle Italia Smart Tape Greentech | 2,5 mm | Allroad, Gravel | 12 € (2025)  | Gummi    | nichts/Zug  | Todo       | hält allein auf Zug
+| Cinelli Gel Gork                  | mittel | Allroad, Gravel | 22 € (2025)  | Kork-Gel | Kleber      | Todo       | wie FSA Ultra-Gel Kork (vermutl. white label produkt)
+| SRAM SuperCork Bar Tape           | mittel | Allroad, Gravel | 10 € (2025)  | Kork-Gel | Kleber      | Todo       | wie FSA Ultra-Gel Kork (vermutl. white label produkt); guenstiges Notfall-Korkband (fahre Shimano)
 
 
 
-| Lenkerband                       | Dicke  | Einsatz         | Preis (Jahr) | Bewertung  | Kommentar
-|----------------------------------|--------|-----------------|--------------|------------|--------------------------------
-| Giant Cork? (Stock)              | mittel | Allroad, Gravel | ?            | \*\*\*\*-  | war ganz angenehm; 4 Tage Backpacking mit Regen hat ihm den Rest gegeben
-| Profile Design Aerobar Wrap      | dünn   | Allroad         | 25 € (2023)  | \*\*\*\*\* | fuer Lenkeraufsatz; duenner als Dropbar, damit keine Wurst-Optik
-| FSA Ultra-Gel Kork               | mittel | Allroad, Gravel | 13 € (2025)  | \*\*\*\*-  | Band traegt nicht so dick auf, daempft dennoch, Grip ok, sieht gut aus; andere Abschlussstreifen/Barends verwenden (ugly)
-| Selle Italia SmooTape Gran Fondo | 2,5 mm | Allroad, Gravel | 13 € (2025)  | Todo       | ueberlappungsfrei; Eva-Gel
-| SRAM SuperCork Bar Tape          | mittel | Allroad, Gravel | 10 € (2025)  | Todo       | guenstiges Notfall-Korkband (fahre Shimano)
-
-
+1. Lenker mit Aero-Flattops: Reverse-Wrapping ist huebscher, also von oben nach unten in die Drops. 
+	Band am Oberlenker dort anfangen/enden lassen, wo das Lenkerrohr noch gleichmäßig dick ist, nicht in die Verjüngung reinkommen, nicht mal bisschen.
+	Nachteil von Reverse: Kante zur Reibrichtung mit der Hand more or less.
+	Falls normale Wicklung, auch dort versuchen, Zipfel zu schneiden, so dass man nur max 2 cm Isoband braucht.
+	Sicherung mit 4 cm Isoband sieht billig aus.
+2. Lenkerband mit Logos: an den Drops angefangen Logos zum Hinterrad ausrichten, also so dass man von Fahrerseite normal ablesen könnte.
+	Weiße Logos auf schwarzen Lenkerband ergeben einerseits interessantes Muster - gut passend zu weißer Schrift auf dem Reifen;
+	sehen andererseits aber aus wie Hühnerstange bzw. Bestuhlung durch Vogelschar.
+	Erwarte Sprüche.
+3. Abschlussstreifen: Silikon-Reparaturband als besseres finishing tape; dicker als Isotape und etwas gummiartigere Anmutung, wirkt weniger billig;
+	zum Tape mitgelieferte Abschlussstreifen waren bei mir bisher immer hässlich
 
 
 
@@ -1798,16 +1823,18 @@ Habe den Auflieger wieder abgebaut, auch wenn er Spass macht. Schlankeres Bike g
 | [bike-discount.de](https://bike-discount.de)           | alles                     | DHL     | oft gute Preise
 | [kugellager-shop.net](https://www.kugellager-shop.net) | Industrielager, Lagerkugeln G10 auf Anfrage  | ? | Edelstahlversionen kaufen
 | [decathlon.de](https://decathlon.de)                   | Kleidung, Bikepacking     | ?       | bisher immer alles bekommen, Ruecksendung unproblematisch; guenstige "Szenetipps" wie brauchbare Forclaz MT100 Daunenjacke oder gut verpackbare Forclaz MT500 Sandalen
-| [agu.com](https://agu.com)                             | Kleidung                  | DHL     | Niederlande, Ruecksendung unproblematisch, manchmal 50% Preisnachlass
+| [agu.com](https://agu.com)                             | Kleidung                  | DHL     | Niederlande, Ruecksendung unproblematisch, manchmal 50% Preisnachlass im Shop
 | [globetrotter.de](https://globetrotter.de)             | Bikepacking               | DHL     |
 
 
 | Bisher_erste_Bestellung_top                            | Teile                     | Versand | Kommentar
 |--------------------------------------------------------|---------------------------|---------|--------------------
 | [r2-bike.com](https://r2-bike.com)                     | alles                     | DHL     |
+| [raaad.de](https://raaad.de)                           | alles                     | DHL     |
+| [enjoyyourbike.com](https://enjoyyourbike.com)         | alles                     | DHL     | iLOPACK GmbH Fulfillment
 | [woembi.de](https://www.woembi.de)                     | Lagerkugeln G20 HRC&ge;60 | ?       |
 | [giantbikespares.com](https://giantbikespares.com)     | Giant-Ersatzteile         | DHL     | trotz UK-Export billiger als beim lokalen Haendler
-| [raaad.de](https://raaad.de)                           | alles                     | DHL     |
+| [framesandgear.com](https://framesandgear.com/)        | Computer-Halterung        | UPS     | Dänemark; teuer, aber sehr clean, stabile Konstruktion mit 2 Neigungsschrauben, richtige Höhe und Breite (z.B. genau für 27mm-Vorbauschrauben-Abstand = unguenstiger Wiederverkaufs-/Transferwert); beliefern angebl. auch TdF-Elite
 
 
 | Bestellung_okay                                        | Teile                     | Versand | Kommentar
@@ -1818,12 +1845,12 @@ Habe den Auflieger wieder abgebaut, auch wenn er Spass macht. Schlankeres Bike g
 
 | Shops_die_ich_vermeide                                 | Teile                     | Kommentar
 |--------------------------------------------------------|---------------------------|-----------------------------
-| Sportfits.de                                           | alles                     | eigene negative Erfahrung
+| Sportfits.de                                           | alles                     | eigene negative Erfahrung, schlechteste bisher überhaupt
 | Amazon (Marketplace)                                   | Kleidung, Teile           | kaufe nur, wenn ich lange woanders nichts finde; man liest von Fakes und Wiederverkauf kaputter Kundenruecklaeufer
 | TradeInn / BikeInn                                     | alles                     | Sitz Spanien; bei Ärger wäre unverhältns. Aufwand
 | Santafixie.de                                          | alles                     | Sitz Spanien
 | Hardloop.de                                            | alles                     | Sitz Frankreich
-| Alltricks.de                                           | alles                     | Sitz Frankreich
+| Alltricks.de                                           | alles                     | Sitz Frankreich; hatte aber schon geliefert
 
 
 
