@@ -6,11 +6,13 @@ _"Driving a car is like watching a movie, but riding a bike is like acting in on
 _ACHTUNG: Alles work-in-progress hier, mag sich alles ändern_
 
 
-Dieses Dokument versammelt meine Fahrrad-Erfahrungen und -Recherchen seit 2023 – als Wieder-Anfänger nach mehr als 15 Jahren ohne Fahrrad.
+1. Dieses Dokument versammelt meine Fahrrad-Erfahrungen und -Recherchen seit 2023 – als Wieder-Anfänger nach mehr als 15 Jahren ohne Fahrrad.
 Davor bin ich als Kind und Jugendlicher viel Fahrrad gefahren, jedoch weniger passioniert als heute:
 Heute verarbeite ich täglich Youtube-Radcontent und Rad-Web-Foren/Blogs/Bücher, schraube alles am Esel, 
 erkunde stundenlang die Gegend und unternehme mehrtägige Radreisen.
 Trotz regelm. Überarbeitung sind Inhalte hier unterschiedlicher Qualität und zeigen manchmal noch Spuren der Anfänge.
+
+2. Stern-Bewertungen sind immmer von max. 5 Sternen (1 Stern = schlecht; 5 beste; 3 ok)
 
 
 ## Übersicht
@@ -258,7 +260,7 @@ Spontane Wegfahrsperre ohne richtiges Schloss:
 
 
 
-## Straßenzulassung StVoZ
+## Straßenzulassung StVoZ 2025
 
 - 4 Reflektoren in den Pedalen (Deutschland Pflicht "2 Rückstrahler")
 - 2 Reflektoren in den Speichen (180 Grad versetzte Katzenaugen oder Speichensticks rundum), 
@@ -274,9 +276,10 @@ Spontane Wegfahrsperre ohne richtiges Schloss:
 - 20 Euro Bußgeld; höher falls Gefährdung oder Sachbeschädigung
 
 
-Mit Reflektoren verliert man Street-Cred. beim Sportrad ("Fred").
+Mit Reflektoren verliert man beim Sport-Rad natürlich Street-Credibility ("Fred").
 StVoZ-ungültige, aber funktionale Alternativen:
-- schwarze Reflektorstreifen auf schwarzer Felge
+
+- schwarze Reflektorstreifen auf schwarzer Felge (nicht übertreiben)
 
 
 
@@ -1250,6 +1253,8 @@ Saeubern:
 
 ## Bikepacking
 
+![Bikepacking](bikepack-place.jpg)
+
 - Bikepacking vs. Radreise/Biketouring
 	- Bikepacking urspr. für Offroad
 - Hauptproblem: Packmaß und Gewicht; Packmaß wichtiger
@@ -1315,7 +1320,7 @@ Andererseits ist ein Faltstuhl vor dem eigenen Zelt schon eine tolle Sache, um l
 
 ### Hybridlösung
 
-![Bikepacking-Touring-Hybrid](bikepack.jpg)
+![Bikepacking-Touring-Hybrid](bikepack-setup.jpg)
 
 - Gepäckträger + 15-35 Liter Rucksack oder Drybag mit Trage-Gurten
 	- mehr Platz als in der Arschrakete
@@ -1417,10 +1422,10 @@ Gutes Setup auf YT:
 	- Komoot
 	- ungetestet: Ride with GPS (RwGPS)
 - Info-Basics Wetterdaten:
-	- Vergleich mit Vorjahren: https://de.weatherspark.com/
+	- Vergleich mit Vorjahren bei Anreise erst in paar Wochen: https://de.weatherspark.com/
 	- aktuelles Wetter:        https://www.meteoblue.com/
-	- von wo kommt der Wind (üblicherweise)  = Fahrrichtung der Route umdrehen
-	- wann geht die Sonne auf                = guter Abfahrtszeitpunkt
+	- von wo kommt der Wind (üblicherweise)  = Richtung der Route so fahren, dass man Wind im Rücken statt Gegenwind hat, vor allem am Ende, wenn Kraft und Psyche nachlassen
+	- wann geht die Sonne auf                = gute Aufbruchszeit während der Reisetage, bei Wildcamping evtl. späteste Abfahrzeit
 	- wann geht die Sonne unter              = spätester Zeitpunkt für Schlafplatzsuche
 	- wie kalt wird es in der Nacht          = Schlafsetup-Limits
 	- wie kalt wird es am Tag                = Kleidungsmenge/Packvolumen
@@ -1474,12 +1479,12 @@ see [my Github Wahoo-repository](https://github.com/andre-st/wahoo)
 
 | Material                     | Gesundheit | Waermeleitf. | Gewicht  | Preis    | Kommentar
 |------------------------------|------------|--------------|----------|----------|---------------------
-| Aluminium                    | \*----     | \*\*\*--     | \*\*---  | \*\*\*-- | Ablösung bei Abrieb und Säuren (Tomaten etc), Ablagerung im Koerper, komme durch Bluthirnschranke
-| eloxiertes/anodisiertes Alu  | \*----     | \*\*\*--     | \*\*---  | \*\*\*-- | festere Schicht gegen Abrieb und Säuren
-| hart-eloxiertes/anod. Alu    | \*\*---    | \*\*\*--     | \*\*---  | \*\*---  | noch festere Schicht
-| Edelstahl                    | \*\*\*--   | \*----       | \*----   | \*\*\*-- | evtl. minderwertiger Alu-Topf schwerer als hochwert. duenner Edelstahl
-| Duossal                      | \*\*\*--   | \*\*---      | \*\*---  | \*\*---  | Duo-StainlessSteel-ALuminium: SS innen, Alu aussen
-| Titan                        | \*\*---    | \*----       | \*\*\*-- | \*----   | 
+| Aluminium                    | \*         | \*\*\*       | \*\*     | \*\*\*   | Ablösung bei Abrieb und Säuren (Tomaten etc), Ablagerung im Koerper, komme durch Bluthirnschranke
+| eloxiertes/anodisiertes Alu  | \*         | \*\*\*       | \*\*     | \*\*\*   | festere Schicht gegen Abrieb und Säuren
+| hart-eloxiertes/anod. Alu    | \*\*       | \*\*\*       | \*\*     | \*\*     | noch festere Schicht
+| Edelstahl                    | \*\*\*     | \*           | \*       | \*\*\*   | evtl. minderwertiger Alu-Topf schwerer als hochwert. duenner Edelstahl
+| Duossal                      | \*\*\*     | \*\*         | \*\*     | \*\*     | Duo-StainlessSteel-ALuminium: SS innen, Alu aussen
+| Titan                        | \*\*       | \*           | \*\*\*   | \*       | 
 | Keramik                      |            |              |          |          | 
 | Nylon                        |            |              |          |          | 
 | Silikon lebensmittelecht     |            |              |          |          | 
@@ -1772,7 +1777,7 @@ TODO
 | Modell                                 | Groesse | Einsatz                     | Preis (Jahr) | Bewertung  | Kommentar
 |----------------------------------------|---------|-----------------------------|--------------|------------|------------------------
 | Giant Approach (Stock)                 | 145 mm  | All-Road, Gravel            | ?            | ?          | bin 1 Jahr damit herumgefahren, obwohl "eigentlich" zu schmal
-| Fizik Terra Argo X5                    | 160 mm  | All-Road, Gravel, sportlich | 100 € (2024) | \*\*\*\*-  | straff, gut, Polsterhose zwingend
+| Fizik Terra Argo X5                    | 160 mm  | All-Road, Gravel, sportlich | 100 € (2024) | \*\*\*\*   | straff, gut, Polsterhose zwingend
 | Ergon SR Allroad Core Comp Men         | M-L     | All-Road, Langstrecke       |              | \*\*\*\*\* | komfortabler, trotzdem noch vglw. flach, geht sogar eine Weile ohne Polster
 
 
@@ -1780,15 +1785,15 @@ TODO
 
 | Modell                                 | Polster        | Einsatz (Saison)  | Sattel  | trocknet  | Bewertung  | Kommentar
 |----------------------------------------|----------------|-------------------|---------|-----------|------------|--------------------------------
-| Gore Wear Bibs                         | Schaum         | max 3h   (Sommer) | G, F, E | \*\*---   | \*\*\*--   | Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (Oberstoff loest sich und bildet Rubbel-Falten); gute Standard-Hose
-| Gonso SQLab GO M Bibs (2x)             | Gel/Elast. 6mm | max 6h   (Sommer) | F, E    | \*\*\*\*- | \*\*\*\*-  | Polsterkomfort konstant gut genug, kein Durchsitzen; Träger beim alten Modell zu kurz; gut fuer Radreisen
-| Castelli Unlimited Ultimate Bib-Liner  | Schaum         | max 2-3h (Sommer) | E       | \*----    | \*\*\*\*\* | Progetto X2 Polster genial, guter Sitz der Hose; mein Fav fuer Standardrunden; fuer Radreisen eher ungeeignet; hat Rueckentaschen
-| Gore Wear Tights                       | Schaum         | max 3h   (Herbst) | F       | \*\*---   | \*\*\*--   | Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (" " "); gute Hose sonst
-| GripGrab AquaRepel Bibs                | Schaum         | max ?    (Herbst) | E       | \*\*---   | \*\*\*\*-  | Kurze Hose fuer Herbsteinsatz mit Beinlingen bis 8 Grad
-| Gore Wear Tights Windstopper           | Schaum         | max 3h   (Winter) | F       | \*\*---   | \*\*\*--   | Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (" " "); Rest der Hose ist genial, fuhr damit problemlos bei Minustemperaturen
-| Gonso Essential Softshell              | ohne           | &infin;  (Winter) | E       | ?         | \*\*\*--   | Winterhose, die ich ueber Sommer-Bibs mit gutem Polster ziehe; muss weniger Winterhosen kaufen
-| Überhose Sportful Supergiara 002 ('24) | ohne           | &infin;  (Sommer) | F       | ?         | \*\*\*--   | viele kluge Taschen, duemmste Bundsystem ever: haelt beladene Hose nicht und ist mir irgendwann beim Nachspannen gerissen
-| Überhose Maloja StagiasM Gravel        | ohne           | &infin;  (Sommer) | E       | \*\*\*\-- | \*\*\*\*-  | richtige Länge, leicht, laser-perforiert, aber nur 1 Tasche (Smartphone)
+| Gore Wear Bibs                         | Schaum         | max 3h   (Sommer) | G, F, E | \*\*      | \*\*\*     | Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (Oberstoff loest sich und bildet Rubbel-Falten); gute Standard-Hose
+| Gonso SQLab GO M Bibs (2x)             | Gel/Elast. 6mm | max 6h   (Sommer) | F, E    | \*\*\*\*  | \*\*\*\*   | Polsterkomfort konstant gut genug, kein Durchsitzen; Träger beim alten Modell zu kurz; gut fuer Radreisen
+| Castelli Unlimited Ultimate Bib-Liner  | Schaum         | max 2-3h (Sommer) | E       | \*        | \*\*\*\*\* | Progetto X2 Polster genial, guter Sitz der Hose; mein Fav fuer Standardrunden; fuer Radreisen eher ungeeignet; hat Rueckentaschen
+| Gore Wear Tights                       | Schaum         | max 3h   (Herbst) | F       | \*\*      | \*\*\*     | Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (" " "); gute Hose sonst
+| GripGrab AquaRepel Bibs                | Schaum         | max ?    (Herbst) | E       | \*\*      | \*\*\*\*   | Kurze Hose fuer Herbsteinsatz mit Beinlingen bis 8 Grad
+| Gore Wear Tights Windstopper           | Schaum         | max 3h   (Winter) | F       | \*\*      | \*\*\*     | Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (" " "); Rest der Hose ist genial, fuhr damit problemlos bei Minustemperaturen
+| Gonso Essential Softshell              | ohne           | &infin;  (Winter) | E       | ?         | \*\*\*     | Winterhose, die ich ueber Sommer-Bibs mit gutem Polster ziehe; muss weniger Winterhosen kaufen
+| Überhose Sportful Supergiara 002 ('24) | ohne           | &infin;  (Sommer) | F       | ?         | \*\*\*     | viele kluge Taschen, duemmste Bundsystem ever: haelt beladene Hose nicht und ist mir irgendwann beim Nachspannen gerissen
+| Überhose Maloja StagiasM Gravel        | ohne           | &infin;  (Sommer) | E       | \*\*\*\   | \*\*\*\*   | richtige Länge, leicht, laser-perforiert, aber nur 1 Tasche (Smartphone)
 
 
 
@@ -1803,7 +1808,7 @@ TODO
 |---------------------------------------------|-------|--------------|------------|-------------|---------|------------------|------------|--------------------
 | Giant Contact XR Ergo-Control (Stock)       |     8 | 460 / 510 mm | kompakt    | Alu         |    337g | ?                |            | recht leicht für diese Größe
 | Profile Design Sonic Ergo T5+ Lenkeraufsatz |    13 | 348 Länge    | -          | Alu 6061-T6 |         | &gt;100 € (2023) | \*\*\*\*\* | s. Abschnitt "Aerolenker"
-| Moquai Aero Rennradlenker                   |     0 | 420 / 420 mm | kompakt    | Alu 6061    |   "285g"| 27 € (2025)      | \*\*\*\*-  | schwerer als mein Giant-460mm-Lenker, hab den Messwert aber nicht mehr in Erinnerung, offiz. Gewicht kann nicht stimmen; sieht aber gut aus; sehr subtil mit Logos/Markierungen, alles schwarz auf schwarz; gute Rampe zu den STIs; flat-tops sehen nicht so ausladend aus
+| Moquai Aero Rennradlenker                   |     0 | 420 / 420 mm | kompakt    | Alu 6061    |   "285g"| 27 € (2025)      | \*\*\*\*   | schwerer als mein Giant-460mm-Lenker, hab den Messwert aber nicht mehr in Erinnerung, offiz. Gewicht kann nicht stimmen; sieht aber gut aus; sehr subtil mit Logos/Markierungen, alles schwarz auf schwarz; gute Rampe zu den STIs; flat-tops sehen nicht so ausladend aus
 | FSA AGX Adventure Compact                   |    12 | 440 / 500 mm | kompakt    | Alu 6061    |   "325g"| 18 € (2025 Sale) | Todo       |
 
 
@@ -1822,8 +1827,8 @@ TODO
 |-----------------------------------|--------|-----------------|--------------|-------------|-------------|------------|---------
 | Giant Cork? (Stock)               | mittel | Allroad, Gravel | ?            | Kork        | ?           | \*\*\*\*\* | war ganz angenehm; scheint stufenfrei/ueberlappungsfrei; 4 Tage Backpacking mit Regen hat ihm den Rest gegeben
 | Profile Design Aerobar Wrap       | dünn   | Road            | 25 € (2023)  | Gummi       | Kleber?     | \*\*\*\*\* | fuer Lenkeraufsatz; duenner als Dropbar, damit keine Wurst-Optik; ausreichend Grip; Bandkante drueckt sich als "Fortsetzungslinie" durch und macht das gleichmäßige wickeln einfach
-| FSA Ultra-Gel Kork                | mittel | Allroad, Gravel | 13 € (2025)  | Kork        | Kleber      | \*\*\*\*-  | Band traegt nicht so dick auf, daempft dennoch, Grip ok, sieht gut aus, ging schnell drauf, mit ital. 8 ausreichende Länge; hässl. Abschlussstreifen/Barends; hinterlässt nervige Rückstände auf dem Lenker beim Abwickeln
-| Selle Italia SmooTape Gran Fondo  | 2,5 mm | Allroad         | 13 € (2025)  | Schaumstoff | Silikon/Zug | \*\*\*--   | unklar ob auf mitte zu wickeln oder dünnere stufe auf stufe (wie soll das in Biegungen stufenfrei gehen?); Feeling langweiliger als Kork; erscheint aus etwas Entfernung tats. stufenfrei, an den Händen weniger; ledrigerer Look; ist ok, haut mich aber nicht wirklich um; bleib dann auch lieber bei komplett schwarzem Band (weiße Logos = Vogelshit); hässl. Abschlussstreifen
+| FSA Ultra-Gel Kork                | mittel | Allroad, Gravel | 13 € (2025)  | Kork        | Kleber      | \*\*\*\*   | Band traegt nicht so dick auf, daempft dennoch, Grip ok, sieht gut aus, ging schnell drauf, mit ital. 8 ausreichende Länge; hässl. Abschlussstreifen/Barends; hinterlässt nervige Rückstände auf dem Lenker beim Abwickeln
+| Selle Italia SmooTape Gran Fondo  | 2,5 mm | Allroad         | 13 € (2025)  | Schaumstoff | Silikon/Zug | \*\*\*     | unklar ob auf mitte zu wickeln oder dünnere stufe auf stufe (wie soll das in Biegungen stufenfrei gehen?); Feeling langweiliger als Kork; erscheint aus etwas Entfernung tats. stufenfrei, an den Händen weniger; ledrigerer Look; ist ok, haut mich aber nicht wirklich um; bleib dann auch lieber bei komplett schwarzem Band (weiße Logos = Vogelshit); hässl. Abschlussstreifen
 | Selle Italia Smart Tape Greentech | 2,5 mm | Allroad, Gravel | 12 € (2025)  | Gummi       | nichts/Zug  | Todo       | hält allein auf Zug
 | Cinelli Gel Gork                  | mittel | Allroad, Gravel | 22 € (2025)  | Kork        | Kleber      | Todo       | wie FSA Ultra-Gel Kork (vermutl. white label produkt)
 | SRAM SuperCork Bar Tape           | mittel | Allroad, Gravel | 10 € (2025)  | Kork        | Kleber      | Todo       | wie FSA Ultra-Gel Kork (vermutl. white label produkt); guenstiges Notfall-Korkband (fahre Shimano)
