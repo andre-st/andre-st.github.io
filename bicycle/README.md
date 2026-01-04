@@ -39,13 +39,13 @@ Trotz regelm. Überarbeitung sind Inhalte hier unterschiedlicher Qualität und z
 	- Steuersatz (Headset), Gabel
 	- Radlager
 	- Dichtmilch erneuern
-- [Bikepacking](#bikepacking)
-- [Tourplanung](#tourplanung)
-- [Reisekueche](#reisekueche)
 - [Herbst/Winter](#herbst-winter)
 - [Reifen](#reifen)
 - [Sattel](#sattel)
 - [Lenker](#lenker)
+- [Bikepacking](#bikepacking)
+- [Tourplanung](#tourplanung)
+- [Reisekueche](#reisekueche)
 - [Shops](#shops)
 - [Wirtschaft](#wirtschaft)
 
@@ -1251,344 +1251,6 @@ Saeubern:
 
 
 
-## Bikepacking
-
-![Bikepacking](bikepack-place.jpg)
-
-- Bikepacking vs. Radreise/Biketouring
-	- Bikepacking urspr. für Offroad
-- Hauptproblem: Packmaß und Gewicht; Packmaß wichtiger
-- Schwere Sachen niedrig (weniger balancieren) 
-	und im Zentrum des Fahrrads (frontal und seitlich)
-- 0 &lt; Rad-Systemgewicht - Fahrergewicht, Fahrradgewicht, Taschengewicht, ggf. Lenkeraufsatz, ...
-
-
-- je leichter das Rad, umso besser: Gewicht nervt bei Anstiegen und 
-   ermuedet ueber lange Strecken schneller und geht auch staerker auf die Substanz/Gelenke etc.
-
-- die einzige Form des Reisens: zu Fuss ist man nach Stunden noch am selben Ort, im Auto fliegt alles vorbei, 
-	Flugzeug, Bus oder Zug ist kein Reisen sondern Transport (Reisender vs Passagier),
-	auf dem Fahrrad reist man langsam um alles aufzunehmen, aber schnell genug, um vorwaerts zu kommen
-
-
-
-
-### Reine Lehre
-
-- Gabeltaschen (hässlich)
-- Rahmentasche (Halb- oder Vollrahmentasche)
-	- Giant Halbrahmentasche H2Pro, gefaellt mir bisher
-	- verhunzen aber Radästhethik
-- Arschrakete (Satteltasche): 
-	- Zefal Z Adventure R17: kein separater Packsack, aber trotzdem ok, wasserdicht, wackelt wenig
-	- umso hässlicher je länger und höher sie absteht
-- Oberrohrtasche
-	- ~~Giant H2Pro~~, wackelt, Reißverschluss ausgefaedelt und nicht mehr reinbekommen, weggeworfen
-	- Craft Cadence Bolt-on mit bequemerer Klappe statt Reißverschluss, 
-		Schrauben fuer meine Anschraubpunkte (statt Riemen), (angebl.) wasserdicht, taugte bisher
-- Lenkertasche
-	- Giant H2Pro 12 Liter Harness + Drybag
-	- Altura Vortex 11 Liter Rolltop Toploader (2024-Version mit orangem Strap)
-	- Drybags taugen fuer leichte, ausfuellend-weiche, sperrige Items wie Zelt, Isomatte, Schlafsack;
-	  sind aber nicht formstabil und gut ins Harness einklemmbar bei 
-		vielen kleineren, härteren Einzelteillen z.B. Kochset, evtl Lebensmittel,
-		da eignen sich Taschen besser
-	- manche stützen Taschen mit Front-Racks oder kleiner "Pec Dec" bzw. "Rod Steward"
-- untypisch: Rear-Rack/Gepäckträger und Paniers/Gepäckträgertaschen;
-	- der Lehre nach dann zumindest nicht bulky (Micro/Mini-Paniers)
-	- oder Rack-Trunk
-
-Zeltstangen bekomme ich zw. Rahmentasche und Oberrohr 
-mit verlängerten Klettbändern von der Rahmentasche, das hält sehr gut.
-
-Für Tagesstouren komplett ausreichend, 
-bei Mehrtagesstouren bei meinen "Reine-Lehre"-Kapazitäten nur mit Biwaksack 
-(Doppelwand-Zelt bekomm ich nicht mehr unter/kleiner ohne aufs Koch-Set zu verzichten).
-Nötigt auch viel zu Tetris.
-Oder eben dann Hybridlösung.
-
-Viele Taschen zerstören die Rad-Ästhethik (leicht und schlank).
-Idealerweise in einer anderen Farbe als der Rahmen (z.B. schwarzer Rahmen, grüne Taschen).
-So verschwimmt die Tasche nicht mit dem Rahmen und laesst das Rad klumpiger erscheinen.
-Der Rahmen setzt sich besser ab, das schlanke Rad bleibt erkennbar.
-
-Entscheiden: Komfort waehrend der Fahrt (wenig Gewicht/Ausruestung) oder nach der Fahrt (viel Gewicht).
-Vielleicht braucht es mehr Komfort am Ende, weil man wenig waehrend der Fahrt hatte.
-Andererseits ist ein Faltstuhl vor dem eigenen Zelt schon eine tolle Sache, um lesend oder mit einem Podcast Zeit tot zu schlagen.
-
-
-
-### Hybridlösung
-
-![Bikepacking-Touring-Hybrid](bikepack-setup.jpg)
-
-- Gepäckträger + 15-35 Liter Rucksack oder Drybag mit Trage-Gurten
-	- mehr Platz als in der Arschrakete
-	- "Hike-a-Bike" (klettern etc) einfacher mit Rucksack auf dem Rücken 
-		statt auf dem Rad, oder 2x laufen
-	- anspruchsvolleres Gelände mit Ausrüstung auf dem Rücken statt Hinterrad (?)
-	- Ausrüstung leichter irgendwo hinzunehmen
-	- morgens leichter/schneller zu packen
-	- Ästhetik nicht hässlicher als die Arschrakete
-	- siehe YouTube Tristan Ridley Perfect Setup
-- Ortlieb Quick Rack: 15 Sekunden Anbau, 5 Sekunden Abbau ohne Schraubengewinde auszuleiern,
-  verschandelt das Rad auch nicht zu stark; musste den Stab etwas kürzen (hab meine Flex genommen, 
-  Alu macht keine Funken; kleine Metallsäge oder Drehmel ginge auch);
-  Extragewicht ist noch ok (real ~650 g)
-- ggf. Mini-Panniers oder Rucksack-Molle-Pouches, jedenfalls keine Maxi-Panniers (Bike-Touring)
-- Front-Rack Jack The Bike Rack:
-	- kein Fixierung an meiner Carbon-Gabel
-	- weniger Rieb auf den Bowdenzughuellen
-	- Platz auf dem gesamten Lenker fuer die Haende
-	- werkzeuglos an- und abbaubar in paar Sekunden
-	- mehr Mglk. zum improvisieren
-	- weniger Gefrickel als mit einer Lenkerrolle
-
-
-### Basisausrüstung
-
-TODO muss ich komplett ueberarbeiten bzw. mein tats. Planungs-Spreadsheet verlinken
-
-- Lebensmittel
-	- Kohlenhydrate (beim Strampeln verbrannt)
-	- Elektrolyte (ausgeschwitzt)
-	- Proteine (Regeneration)
-- Kochset: 
-	- siehe [Reiseküche](#reisekueche)
-- Wasser-Alternativen: 
-	- Adventure Hydration 3-Liter-Cranktank = 4x 750ml-Flaschen; perfekter Schwerpunkt mitte unten im Rad
-		- da SPoF, habe ich noch ein Katadyn-Hydrapak-Wasserfilter-Set (2 Liter), das sich klein packen lässt
-	- Trinkblase in Vollrahmentasche und evtl. Extra-Flasche(n) in den Stem-Bags/Food-Pouches
-	- Cargo-Cages statt Flaschenhalter und dann 2x 1,5l-Flaschen (z.B. aus Edelstahl oder Supermarkt-Plastikflasche)
-	- 2 normale Flaschenhalter mit 1L-Plastik-Flaschen, ausreichend für viele Touren mit Resupply-Punkten
-- Schlafsystem Fruehling-Sommer-Herbst:
-	- Hauptprobleme: 
-		- Hitze/Kaelte,
-		- wasserdicht/atmungsaktiv
-		- Insekten, Kleintiere (Nagetiere), große Tiere (Wildschwein, Rehe, ...)
-		- Lage (Wildcamping/Campingplatz/Fewo/Hotel)
-	- Isomatte: 
-		- Thermarest Neoair Xlite, bequem und Packmaß noch ok (XL ist schon größerer Klotz als die S-Version in der Werbung)
-	- Schlafsack:
-		- Sommer: Carinthia G90 (hab meinen Carinthia Tropen verkauft: würde auch nichts militärisches mehr kaufen; zivil ist oft sinniger, wenn man nicht mit Waffe einsteigt), 
-			Sommer hat hier morgens schonmal 10-11 Grad
-		- duenner Schlafsack wird gepimpt mit Daunenjacke und Thermohose, die ich auch ausserhalb tragen kann = modularer, platzsparender
-	- Shelter:
-		- untested: Robens Mountain Biwak (mit kleinem Insektennetz-Fenster aber ohne Hoop-Stangen, was sehr nervt; 
-			Kaputze aber aufhängbar, ideal separate Schnur quer zw. 2 Bäumen spannen und dann Kaputzenschnur dort mittig einhängen;
-			für Sommer vermutl. eher ungeeignet
-		- Wechsel Pathfinder TL Zelt: etwas bulky und ~2 kg, aber noch ok, kein (bequemes) aufrechtes Sitzen, sonst sehr gut/robust, hohe Wassersäule;
-			man kann aber aufrecht sitzen, wenn man dabei aus dem Fenster ragt z.B. beim Kochen; oder aufrechter mit einem Packsack im Rücken
-	- Liner, damit weniger Waesche = mehr Haltbarkeit; alternativ Base-Layer tragen (Multi-use)
-	- Unterlage, damit nichts durchsticht und die Bodenfeuchtigkeit nicht durchdringt (auch im Sommer)
-		- Bundeswehr Elefantenhaut (bulky, schwer, stabil, guenstig)
-		- Wechsel Pathfinder Footprint (bulky, passgenau, teuer)
-		- Six Moon Designs Footprint Large Polycro (klein, ultraleicht, guenstiger) 
-		- genau unter Zelt legen, damit nichts auf den Ueberstand regnet und unters Zelt laeuft
-- Nacht:
-	- Stirnlampe (abends/nachts Shelter-Suche und -Aufbau (Rotlicht empfohlen), Backup-Rad-Frontlampe)
-		- sinnvoll, wenn man im Zelt eine Aufhängung hätte
-	- Reifenreflektoren: Habe Katzenaugen gegen schwarzen Reflektorklebestreifen ersetzt
-	- Akku-Rücklicht: Ersatz in Tasche (Redundanz)
-	- Akku-Frontlicht
-- Müll-Management:
-	- ?
-- Hygiene-System:
-	- "Ein Radrennfahrer muss seinen Hintern besser pflegen als sein Gesicht." (Radrennprofi Rudi Altig)
-	- large Body-Wipes, einzelverpackt
-	- guter Schrupp-Waschlappen und Wasser aus der Trinkflasche
-	- Unterleib muss gar nicht mit Seife gewaschen werden, wird sogar abgeraten (zerstöre hauteigene Abwehr-Fettschicht); Teebaumöl desinfiziert
-	- RIAS-Tuchtabletten + 100ml-Flasche mit Fluessigkeitsmix aus Wasser/Teebaumoel/Glycerin/Campseife/Vitamin-E-Oel = spart Wasser und viel Platz
-- Wechselkleidung / Warm-Kit:
-- Kommunikation & Informationstechnik:
-	- Smartphone
-	- kleine Klapptastatur fürs Smartphone (Admin/Programmierung SSH, Mails, Recherche schneller)
-- Wartung:
-- Sonstiges:
-	- Schutzfolie gegen Abrieb durch Taschenriemen
-
-
-
-
-Gutes Setup auf YT:
-- TODO
-- TODO
-
-
-
-## Tourplanung
-
-- Planung leichter am PC statt Smartphone:
-	- Komoot
-	- ungetestet: Ride with GPS (RwGPS)
-- Info-Basics Wetterdaten:
-	- Vergleich mit Vorjahren bei Anreise erst in paar Wochen: https://de.weatherspark.com/
-	- aktuelles Wetter:        https://www.meteoblue.com/
-	- von wo kommt der Wind (üblicherweise)  = Richtung der Route so fahren, dass man Wind im Rücken statt Gegenwind hat, vor allem am Ende, wenn Kraft und Psyche nachlassen
-	- wann geht die Sonne auf                = gute Aufbruchszeit während der Reisetage, bei Wildcamping evtl. späteste Abfahrzeit
-	- wann geht die Sonne unter              = spätester Zeitpunkt für Schlafplatzsuche
-	- wie kalt wird es in der Nacht          = Schlafsetup-Limits
-	- wie kalt wird es am Tag                = Kleidungsmenge/Packvolumen
-	- Regenwahrscheinlichkeit/-intensität    = Regen-Set (s. Abschnitt Kleidung); Trocknungsmglk. Fewo/Zeltplatz
-- Mehrtagestour:
-	- in mehrere Tages-Touren aufteilen (Ziel=Schlafplatz?)
-	- 3+ Schlafplätze pro Tag planen: gute/normale/schlechte Tagesfitness
-	- an Bahnhoefen entlang planen für schnelle Rückfahrt im Zug (Infekt etc)
-	- an Trinkwasser/Resupply-Stellen entlang planen: Friedhoefe, Imbiss, Tankstellen, Supermaerkte, Trinkbrunnen, ...
-	- Fewos/Hotels spontan erst am vorabend oder selben Tag buchen (wenn die Strecke und Fitness klar ist) = weniger Stress; 
-			scheinbar finde sich immer etwas, zur Not wildcampen;
-			als Soloradler mit 1P-Zelt finden Zeltplaetze nicht selten noch Luecken (ggf. vorher anfragen, wie spontan man kommen kann)
-	- einfacher mit fester Zeitvorgabe zu planen (timeboxing: was schafft man in 3 Tagen bei je 8h zu sehen/was weglassen) 
-		anstelle einer Planung der benoetigten Zeit fuer welche Ziele (analysis paralysis)
-	- ersten Tag evtl. ruhiger angehen
-	- den letzten Tag möglichst nah am Abreise-Bahnhof/Faehre o.a. planen/beginnen = weniger Stress; weniger, das schief gehen kann; Zeit zum Orientieren
-	- rueckwaerts planen: Routen-Ende (Schlafplatz/Bahnhof) zu Anfang und die Zwischen-Etappen dem Zeitrahmen anpassen
-	- beliebte Orte an unmoeglichen Tageszeiten durchfahren, sehr frueh oder spaet; in der Woche statt Wochenende
-	- Google MyMaps (My!) mit POI-Suche
-- Navigation: Wahoo Elemnt Bolt V2
-	- separat zum Handy: bessere/separate Akkuzeit, wasserdicht, kleiner etc
-	- POI-Funktionalitaet schlecht v.a. mit Hinblick auf Resupply- und Schlafplaetze-Planung (siehe Abschnitt "Wahoo Hackerei")
-- Navigation-Backup: Smartphone
-	- Komoot
-	- OsmAndMaps (Offline-Karte mit vielen POIs)
-		- Komoot-GPX-Track in OsmAndMaps laden
-	- Google Maps
-	- ungetestet: Orux Maps, MagicEarth, PocketEarth
-- Navigation-Backup (Radcomputer und Smartphone tot oder absent): Physische Karten
-	- Kleiner Kompass schadet nicht, um Karte zu norden (z.B. mind. SUUNTO Clip-Dingsda), also wo man hinguckt und weitergeht (Kompasse auf Nord- oder Sued-Hemisphaere kalibriert)
-	- phys. Karte an der Wand als Vorbereitung auf ein unbekanntes Gebiet: 
-		nicht wirkl. nötig bei PC-Planung aber hilft beim Verinnerlichen, Distanzverhältnisse, ..., beschriften (wasserfeste Folienmarker + IPA als "Radierer"), Sticker aufkleben
-	- alles unnötige (Legende, fernere Gebiete, ...) mit Schere wegschneiden = kleineres Packmaß
-- Wildcamping-Platzsuche TODO
-	- Stealth-Camping
-	- Wild-Shelter-Apps
-
-
-
-### Wahoo-Hackerei:
-
-see [my Github Wahoo-repository](https://github.com/andre-st/wahoo)
-
-
-
-
-
-## Reisekueche
-
-### Kleine Materialkunde:
-
-| Material                     | Gesundheit | Waermeleitf. | Gewicht  | Preis    | Kommentar
-|------------------------------|------------|--------------|----------|----------|---------------------
-| Aluminium                    | \*         | \*\*\*       | \*\*     | \*\*\*   | Ablösung bei Abrieb und Säuren (Tomaten etc), Ablagerung im Koerper, komme durch Bluthirnschranke
-| eloxiertes/anodisiertes Alu  | \*         | \*\*\*       | \*\*     | \*\*\*   | festere Schicht gegen Abrieb und Säuren
-| hart-eloxiertes/anod. Alu    | \*\*       | \*\*\*       | \*\*     | \*\*     | noch festere Schicht
-| Edelstahl                    | \*\*\*     | \*           | \*       | \*\*\*   | evtl. minderwertiger Alu-Topf schwerer als hochwert. duenner Edelstahl
-| Duossal                      | \*\*\*     | \*\*         | \*\*     | \*\*     | Duo-StainlessSteel-ALuminium: SS innen, Alu aussen
-| Titan                        | \*\*       | \*           | \*\*\*   | \*       | 
-| Keramik                      |            |              |          |          | 
-| Nylon                        |            |              |          |          | 
-| Silikon lebensmittelecht     |            |              |          |          | 
-
-
-### Mein groesseres Kochset:
-
-- 1,5L-Duossal-Topf Trangia (236g) mit: 
-	- 550ml-Titanbecher Toaks (73g)
-	- 100g-Gaskartusche Optimus
-	- Griffzange Trangia (48g), 
-	- Zündstahl, Feuerzeug BIC 
-	- Stove Edelrid Kiro St (80g)
-	- Kartuschenfuß MSR Universal (33g); Kartuschengrößen sind nicht wirkl. standardisiert, der MSR-Fuß ist flexibel; hatte vorher einen von Edelrid mit 2 oder 3 festen Fassungen, auf dem die Colman-Kartusche nicht passte (wenige mm Abweichung)
-	- Lappen, Scheuervlies-Topfschwamm (3g)
-	- Topfschaber-Plektrum
-	- stabiler Dosenöffner Nogent 3 Etoiles 04020H Mini-Kim
-	- alles im Netzbeutel
-- Schneidbrett/Nudelsieb Trangia Multidisc 18 cm
-- 25-cm-Nylon-Löffel mit Topf-schonender Silikonlippe GSI Essential Spoon (26g)
-	- lange Titan-Goeffel/Sporks gut fuer Trekking-Tueten, verkratzen aber Toepfe
-	  und muessen bei Gabel/Messer extra verpackt werden, 
-	  um nicht durch Drybag o.a. durchzustossen
-- Wasserfilter-Set Katadyn Hydrapak 2l
-- Kaffee-Los 125-ml-Schraubbehälter
-- 1,2l Ziploc-Tueten IKEA Istad mit Lebensmitteln, Dehydriertes zusammengekippt, ...
-
-
-### Mein kleineres Kochset:
-
-Falls man nicht zivilisationsfern unterwegs ist,
-dann ist nur spontaner Kaffee relevant.
-Alles andere lässt sich unterwegs lösen.
-
-- schmaler Titan-Topf:  Boundless Voyage 900 ml _oder_ Toaks 550 ml
-- 100g-Gaskartusche Optimus
-- Zündstahl, Feuerzeug BIC 
-- Stove Edelrid Kiro St (80g)
-- Kaffee-Los 125-ml-Schraubbehälter
-- Kartuschenfuß MSR Universal (33g)
-- stabiler Dosenöffner Nogent 3 Etoiles 04020H Mini-Kim
-- Titan-Goeffel
-- 1,2l Ziploc-Tueten IKEA Istad mit Nudeln, ...
-
-
-### Mein Kalte-Kueche-Kochset:
-
-Ohne Kochset hat man mehr Platz für Lebensmittel = öder aber autarker
-
-- Klappbarer Goeffel für Supermarkteinkäufe
-
-
-
-### Lebensmittel
-
-Ziel: primär maximale Kohlenhydrate (Energie) und 
-sekundär Proteine (Regeneration) sowie Elektrolyte (Krämpfe) 
-auf kleinstem Stauraum bei geringem Gewicht
-
-Kalte Kueche &gt; warme Kueche (Kochgelegenheiten/Feuerverbote egal, kleineres Packmaß/größere Mengen, kuerze Dauer, kaum Trinkwasserverbrauch, ...):
-- Rossmann Fruechte-Muesli mit Milchpulver oder Haferdrinkpulver, Mandeldrinkpulver leider zu mehlig, 
-	loest sich nicht gut; in 1,2l-Ziploc-Tueten, direkt aus Tuete essbar
-- paar kleine flache Dosen mit Thunfisch-Couscous (363 kcal); sonst nur Zucker eklig
-- Proteinriegel eher salzig als suess
-- Powergels (Zucker)
-- warmes Essen oft unterwegs abgreifbar
-
-
-Warme Kueche:
-- Pesto
-- chin. Nudeln, die unter 5 Minuten kochen
-- ...
-
-
-### Gaskartuschen
-
-- Entsorgung: 
-	- Wertstoffhof, falls nicht entleert, da "toxisch"
-	- entleert: gelbe Tonne
-	- es bleibt immer etwas ueber, 
-	  daher manuelle Entleerung mit Durchstecher (Jetboil CrunchIt),
-	  oder irgendwie Loch bohren
-	- alternativ mit Adapter nachfuellen
-- Lagerung:
-	- rechtl. maximal 2 Kartuschen pro Raum, egal wie gross
-	- nicht in Schlafraeumen
-	- nicht unter "Erdgleiche" (unter Erde wie Keller, da Blasenbildung)
-	- in gut durchluefteten Raeumen
-
-
-### Feuer:
-
-- Gaskocher gilt rechtl. als "offenes Feuer" und ist im Wald idR. verboten 
-	(Kerzen sind schon "offenes Feuer")
-
-
-### Rezepte:
-
-- TODO
-
-
-### Inspiration aus Survival/Bushcraft/Prepping
-
-- TODO
 
 
 
@@ -1686,16 +1348,16 @@ Rotierende Masse, die man beschleunigen oder hochtragen muss: Reifengewicht \* x
 	off-road ist es umgekehrt
 
 
-| Gesichtspunkt  | Hinterreifen (Vortrieb) | Vorderreifen (Handling) | Bemerkung
-|----------------|-------------------------|-------------------------|--------------------------
-| Antriebskräfte | Großteil                | -                       | HR belasteter
-| Tragegewicht   | 60%                     | 40%                     | HR belasteter
-| Verschleiß     | schneller               | langsamer               | 
-| Compound       | härter                  | weicher                 | HR robuster, VR mehr Grip für Kurven, Notbremsung
-| TPI            | weniger                 | mehr                    | HR robuster, VR geschmeidiger/Grip
-| Reifenbreite   | schmaler                | breiter                 | max. 3mm, sonst wabbeliges Fahrverhalten
-| Rollwiderstand | *entscheidend*          | -                       | für Gesamtgeschw. auf gerader Strecke; lahmer VR weniger Einfluss auf HR als umgekehrt
-| Reifengewicht  | -                       | -                       | Rollwiderstand unabh. vom Reifengewicht sondern von Abroll-Verformung (Material, Aufbau, Breite, Luftdruck) \* Normalkraft auf Reifen (Gewicht Fahrer + Rad, Reifengewicht +300g Bruchteil); aber: leichte Reifen beschleunigen/bremsen schneller und sind agiler in Kurven (Inertia/rotierende Masse), halten Speed aber nicht so lange (Momentum)
+| Gesichtspunkt  | Hinterreifen (=Vortrieb) | Vorderreifen (=Handling) | Bemerkung
+|----------------|--------------------------|--------------------------|--------------------------
+| Antriebskräfte | Großteil                 | -                        | HR belasteter
+| Tragegewicht   | 60%                      | 40%                      | HR belasteter
+| Verschleiß     | schneller                | langsamer                | manche tauschen irgendwann HR und VR (falls identisch)
+| Compound       | härter                   | weicher                  | HR robuster, VR mehr Grip für Kurven, Notbremsung
+| TPI            | weniger                  | mehr                     | HR robuster, VR geschmeidiger/Grip
+| Reifenbreite   | schmaler                 | breiter                  | max. 3mm Unterschied, sonst wabbeliges Fahrverhalten
+| Rollwiderstand | *entscheidend*           | -                        | für Gesamtgeschw. auf gerader Strecke; lahmer VR weniger Einfluss auf HR als umgekehrt
+| Reifengewicht  | -                        | -                        | Rollwiderstand unabh. vom Reifengewicht sondern von Abroll-Verformung (Material, Aufbau, Breite, Luftdruck) \* Normalkraft auf Reifen (Gewicht Fahrer + Rad, Reifengewicht +300g Bruchteil); aber: leichte Reifen beschleunigen/bremsen schneller und sind agiler in Kurven (Inertia/rotierende Masse), halten Speed aber nicht so lange (Momentum)
 
 
 ### Meine Felgen/Naben
@@ -1707,11 +1369,11 @@ Giant SX2		25mm		Giant Tubeless Felgenband 28mm x 4.7m
 
 Angaben (Preis, Gewicht etc) beziehen sich immer auf 1 Reifen statt beide.
 
-| Modell                      | Groesse (Real) | Felge innen    | Gewicht | Profil     | Preis (Jahr) | TPI     | BRR          | Tubeless Sealant       | Einsatz         | Druck (Systemgew.) | Montage                          | Sonstiges
-|-----------------------------|----------------|----------------|---------|------------|--------------|---------|--------------|------------------------|-----------------|--------------------|----------------------------------|---------------------------
-| Giant Crosscut AT 2 (Stock) | 700x38C (40)   | Giant SX2 25mm | 673g    | Semi-Slick | 35 € (2025)  | 60      | ??? (20,0 W) | 59ml Giant (=Stans?)   | Allroad, Gravel | 2,9 bar (105 kg)   |                                  | schwer, unzerstoerbar (seit ~3 Jahren plattenfrei), nicht langsam, Drahtreifen
-| Tufo Thundero HD            | 700x40C (41)   | Giant SX2 25mm | 439g    | Semi-Slick | 40 € (2025)  | 130/255 | 5/5 (19,2 W) | 59ml Orange Endurance  | Allroad, Gravel | 2,7 bar (105 kg)   |                                  | ?, Faltreifen, Stans und Tufo-Sealant wuerden nicht dichten, Orange aber ganz gut
-| Michelin Pro 5 TLR          | 700x35C (35)   | Giant SX2 25mm | 390g    | Slick      | 50 € (2025)  | 120     | 5/5 (13,8 W) | 35ml Orange Endurance  | Allroad         | 3,3 bar (105 kg)   | trotz TL: nur Hände + Standpumpe | Faltreifen; 32 statt 35 mm wäre auf der Gravel-Felge grenzwertig und bei meinem Systemgewicht zu hart: verlöre mehr Energie (springt und reibt mehr gegen realen Asphalt statt verformend darüber zu gleiten) = langsamer und schlechtere Kurvenstabi und unkomfortabler
+| Modell                      | Groesse (Real) | Felge innen    | Gewicht | Profil     | Preis (Jahr) | TPI     | BRR          | Tubeless Sealant       | Einsatz         | Druck (Systemgew.) | Montage                          | Reifenbauart | Sonstiges
+|-----------------------------|----------------|----------------|---------|------------|--------------|---------|--------------|------------------------|-----------------|--------------------|----------------------------------|--------------|-------------
+| Giant Crosscut AT 2 (Stock) | 700x38C (40)   | Giant SX2 25mm | 673g    | Semi-Slick | 35 € (2025)  | 60      | ??? (20,0 W) | 59ml Giant (=Stans?)   | Allroad, Gravel | 2,9 bar (105 kg)   |                                  | Drahtreifen  | schwer, unzerstoerbar (seit ~3 Jahren plattenfrei), nicht langsam
+| Tufo Thundero HD            | 700x40C (41)   | Giant SX2 25mm | 439g    | Semi-Slick | 40 € (2025)  | 130/255 | 5/5 (19,2 W) | 59ml Orange Endurance  | Allroad, Gravel | 2,7 bar (105 kg)   |                                  | Faltreifen   | Stans und Tufo-Sealant wuerden nicht dichten, Orange aber ganz gut
+| Michelin Pro 5 TLR          | 700x35C (35)   | Giant SX2 25mm | 390g    | Slick      | 50 € (2025)  | 120     | 5/5 (13,8 W) | 35ml Orange Endurance  | Allroad         | 3,3 bar (105 kg)   | trotz TL: nur Hände + Standpumpe | Faltreifen   | 32mm bei meinem Systemgewicht zu hart = Energieverlust (springt und reibt mehr gegen realen Asphalt statt verformend darüber zu gleiten) = langsamer/kurveninstabiler/unkomfortabler als 35er
 
 
 
@@ -1887,7 +1549,369 @@ Mag sich ändern, falls ich mal in Richtung 200-300 km am Tag oder Ultracycling 
 
 
 
-# Shops
+## Bikepacking
+
+![Bikepacking](bikepack-place.jpg)
+
+- Bikepacking vs. Radreise/Biketouring
+	- Bikepacking begriffl. von Backpacking abgeleitet – dem Reisen nur mit Rucksack (engl. Backpack)
+	- Bikepacking urspr. für Offroad
+	- entsprechend oft höherer "Hike-a-Bike"-Anteil (also Schieben)
+- Hauptproblem: Packmaß und Gewicht, Packmaß aber wichtiger
+- Schwere Sachen niedrig (weniger balancieren) 
+	und im Zentrum des Fahrrads (frontal und seitlich)
+- 0 &lt; Rad-Systemgewicht - Fahrergewicht, Fahrradgewicht, Taschengewicht, ggf. Lenkeraufsatz, ...
+
+
+- je leichter das Rad, umso besser: Gewicht nervt bei Anstiegen und 
+   ermuedet ueber lange Strecken schneller und geht auch staerker auf die Substanz/Gelenke etc.
+
+- die einzige Form des Reisens: zu Fuss ist man nach Stunden noch am selben Ort, im Auto fliegt alles vorbei, 
+	Flugzeug, Bus oder Zug ist kein Reisen sondern Transport (Reisender vs Passagier),
+	auf dem Fahrrad reist man langsam um alles aufzunehmen, aber schnell genug, um vorwaerts zu kommen
+
+
+
+
+### Reine Lehre
+
+- Gabeltaschen (hässlich)
+- Rahmentasche (Halb- oder Vollrahmentasche)
+	- Giant Halbrahmentasche H2Pro, gefaellt mir bisher
+	- verhunzen aber Radästhethik
+- Arschrakete (Satteltasche): 
+	- Zefal Z Adventure R17: kein separater Packsack, aber trotzdem ok, wasserdicht, wackelt wenig
+	- umso hässlicher je länger und höher sie absteht
+- Oberrohrtasche
+	- ~~Giant H2Pro~~, wackelt, Reißverschluss ausgefaedelt und nicht mehr reinbekommen, weggeworfen
+	- Craft Cadence Bolt-on mit bequemerer Klappe statt Reißverschluss, 
+		Schrauben fuer meine Anschraubpunkte (statt Riemen), (angebl.) wasserdicht, taugte bisher
+- Lenkertasche
+	- Giant H2Pro 12 Liter Harness + Drybag
+	- Altura Vortex 11 Liter Rolltop Toploader (2024-Version mit orangem Strap)
+	- Drybags taugen fuer leichte, ausfuellend-weiche, sperrige Items wie Zelt, Isomatte, Schlafsack;
+	  sind aber nicht formstabil und gut ins Harness einklemmbar bei 
+		vielen kleineren, härteren Einzelteillen z.B. Kochset, evtl Lebensmittel,
+		da eignen sich Taschen besser
+	- manche stützen Taschen mit Front-Racks oder kleiner "Pec Dec" bzw. "Rod Steward"
+- untypisch: Rear-Rack/Gepäckträger und Paniers/Gepäckträgertaschen;
+	- der Lehre nach dann zumindest nicht bulky (Micro/Mini-Paniers)
+	- oder Rack-Trunk
+
+Zeltstangen bekomme ich zw. Rahmentasche und Oberrohr 
+mit verlängerten Klettbändern von der Rahmentasche, das hält sehr gut.
+
+Für Tagesstouren komplett ausreichend, 
+bei Mehrtagesstouren bei meinen "Reine-Lehre"-Kapazitäten nur mit Biwaksack 
+(Doppelwand-Zelt bekomm ich nicht mehr unter/kleiner ohne aufs Koch-Set zu verzichten).
+Nötigt auch viel zu Tetris.
+Oder eben dann Hybridlösung.
+
+Viele Taschen zerstören die Rad-Ästhethik (leicht und schlank).
+Idealerweise in einer anderen Farbe als der Rahmen (z.B. schwarzer Rahmen, grüne Taschen).
+So verschwimmt die Tasche nicht mit dem Rahmen und laesst das Rad klumpiger erscheinen.
+Der Rahmen setzt sich besser ab, das schlanke Rad bleibt erkennbar.
+
+Entscheiden: Komfort waehrend der Fahrt (wenig Gewicht/Ausruestung) oder nach der Fahrt (viel Gewicht).
+Vielleicht braucht es mehr Komfort am Ende, weil man wenig waehrend der Fahrt hatte.
+Andererseits ist ein Faltstuhl vor dem eigenen Zelt schon eine tolle Sache, um lesend oder mit einem Podcast Zeit tot zu schlagen.
+
+
+
+### Hybridlösung
+
+![Bikepacking-Touring-Hybrid](bikepack-setup.jpg)
+
+- Gepäckträger + 15-35 Liter Rucksack oder Drybag mit Trage-Gurten
+	- mehr Platz als in der Arschrakete
+	- "Hike-a-Bike" (klettern etc) einfacher mit Rucksack auf dem Rücken 
+		statt auf dem Rad, oder 2x laufen
+	- anspruchsvolleres Gelände mit Ausrüstung auf dem Rücken statt Hinterrad (?)
+	- Ausrüstung leichter irgendwo hinzunehmen
+	- morgens leichter/schneller zu packen
+	- Ästhetik nicht hässlicher als die Arschrakete
+	- siehe YouTube Tristan Ridley Perfect Setup
+- Ortlieb Quick Rack: 15 Sekunden Anbau, 5 Sekunden Abbau ohne Schraubengewinde auszuleiern,
+  verschandelt das Rad auch nicht zu stark; musste den Stab etwas kürzen (hab meine Flex genommen, 
+  Alu macht keine Funken; kleine Metallsäge oder Drehmel ginge auch);
+  Extragewicht ist noch ok (real ~650 g)
+- ggf. Mini-Panniers oder Rucksack-Molle-Pouches, jedenfalls keine Maxi-Panniers (Bike-Touring)
+- Front-Rack Jack The Bike Rack:
+	- kein Fixierung an meiner Carbon-Gabel
+	- weniger Rieb auf den Bowdenzughuellen
+	- Platz auf dem gesamten Lenker fuer die Haende
+	- werkzeuglos an- und abbaubar in paar Sekunden
+	- mehr Mglk. zum improvisieren
+	- weniger Gefrickel als mit einer Lenkerrolle
+
+
+### Basisausrüstung
+
+TODO muss ich komplett ueberarbeiten bzw. mein tats. Planungs-Spreadsheet verlinken
+
+- Lebensmittel
+	- siehe [Reiseküche](#reisekueche)
+- Kochset: 
+	- siehe [Reiseküche](#reisekueche)
+- Wasser-Alternativen: 
+	- Adventure Hydration 3-Liter-Cranktank = 4x 750ml-Flaschen; perfekter Schwerpunkt mitte unten im Rad
+		- da SPoF, habe ich noch ein Katadyn-Hydrapak-Wasserfilter-Set (2 Liter), das sich klein packen lässt
+	- Trinkblase in Vollrahmentasche und evtl. Extra-Flasche(n) in den Stem-Bags/Food-Pouches
+	- Cargo-Cages statt Flaschenhalter und dann 2x 1,5l-Flaschen (z.B. aus Edelstahl oder Supermarkt-Plastikflasche)
+	- 2 normale Flaschenhalter mit 1L-Plastik-Flaschen, ausreichend für viele Touren mit Resupply-Punkten
+- Schlafsystem Fruehling-Sommer-Herbst:
+	- Hauptprobleme: 
+		- Hitze/Kaelte,
+		- wasserdicht/atmungsaktiv
+		- Insekten, Kleintiere (Nagetiere), große Tiere (Wildschwein, Rehe, ...)
+		- Lage (Wildcamping/Campingplatz/Fewo/Hotel)
+	- Isomatte: 
+		- Thermarest Neoair Xlite, bequem und Packmaß noch ok (XL ist schon größerer Klotz als die S-Version in der Werbung)
+	- Schlafsack:
+		- Sommer: Carinthia G90 (hab meinen Carinthia Tropen verkauft: würde auch nichts militärisches mehr kaufen; zivil ist oft sinniger, wenn man nicht mit Waffe einsteigt), 
+			Sommer hat hier morgens schonmal 10-11 Grad
+		- duenner Schlafsack wird gepimpt mit Daunenjacke und Thermohose, die ich auch ausserhalb tragen kann = modularer, platzsparender
+	- Shelter:
+		- untested: Robens Mountain Biwak (mit kleinem Insektennetz-Fenster aber ohne Hoop-Stangen, was sehr nervt; 
+			Kaputze aber aufhängbar, ideal separate Schnur quer zw. 2 Bäumen spannen und dann Kaputzenschnur dort mittig einhängen;
+			für Sommer vermutl. eher ungeeignet
+		- Wechsel Pathfinder TL Zelt: etwas bulky und ~2 kg, aber noch ok, kein (bequemes) aufrechtes Sitzen, sonst sehr gut/robust, hohe Wassersäule;
+			man kann aber aufrecht sitzen, wenn man dabei aus dem Fenster ragt z.B. beim Kochen; oder aufrechter mit einem Packsack im Rücken
+	- Liner, damit weniger Waesche = mehr Haltbarkeit; alternativ Base-Layer tragen (Multi-use)
+	- Unterlage, damit nichts durchsticht und die Bodenfeuchtigkeit nicht durchdringt (auch im Sommer)
+		- Bundeswehr Elefantenhaut (bulky, schwer, stabil, guenstig)
+		- Wechsel Pathfinder Footprint (bulky, passgenau, teuer)
+		- Six Moon Designs Footprint Large Polycro (klein, ultraleicht, guenstiger) 
+		- genau unter Zelt legen, damit nichts auf den Ueberstand regnet und unters Zelt laeuft
+- Nacht:
+	- Stirnlampe (abends/nachts Shelter-Suche und -Aufbau (Rotlicht empfohlen), Backup-Rad-Frontlampe)
+		- sinnvoll, wenn man im Zelt eine Aufhängung hätte
+	- Reifenreflektoren: Habe Katzenaugen gegen schwarzen Reflektorklebestreifen ersetzt
+	- Akku-Rücklicht: Ersatz in Tasche (Redundanz)
+	- Akku-Frontlicht
+- Müll-Management:
+	- ?
+- Hygiene-System:
+	- "Ein Radrennfahrer muss seinen Hintern besser pflegen als sein Gesicht." (Radrennprofi Rudi Altig)
+	- large Body-Wipes, einzelverpackt
+	- guter Schrupp-Waschlappen und Wasser aus der Trinkflasche
+	- Unterleib muss gar nicht mit Seife gewaschen werden, wird sogar abgeraten (zerstöre hauteigene Abwehr-Fettschicht); Teebaumöl desinfiziert
+	- RIAS-Tuchtabletten + 100ml-Flasche mit Fluessigkeitsmix aus Wasser/Teebaumoel/Glycerin/Campseife/Vitamin-E-Oel = spart Wasser und viel Platz
+- Wechselkleidung / Warm-Kit:
+- Kommunikation & Informationstechnik:
+	- Smartphone
+	- kleine Klapptastatur fürs Smartphone (Admin/Programmierung SSH, Mails, Recherche schneller)
+- Wartung:
+- Sonstiges:
+	- Schutzfolie gegen Abrieb durch Taschenriemen
+
+
+
+
+Gutes Setup auf YT:
+- TODO
+- TODO
+
+
+
+## Tourplanung
+
+- Planung leichter am PC statt Smartphone:
+	- Komoot
+	- ungetestet: Ride with GPS (RwGPS)
+- Info-Basics Wetterdaten:
+	- Vergleich mit Vorjahren bei Anreise erst in paar Wochen: https://de.weatherspark.com/
+	- aktuelles Wetter:        https://www.meteoblue.com/
+	- von wo kommt der Wind (üblicherweise)  = Richtung der Route so fahren, dass man Wind im Rücken statt Gegenwind hat, vor allem am Ende, wenn Kraft und Psyche nachlassen
+	- wann geht die Sonne auf                = gute Aufbruchszeit während der Reisetage, bei Wildcamping evtl. späteste Abfahrzeit
+	- wann geht die Sonne unter              = spätester Zeitpunkt für Schlafplatzsuche
+	- wie kalt wird es in der Nacht          = Schlafsetup-Limits
+	- wie kalt wird es am Tag                = Kleidungsmenge/Packvolumen
+	- Regenwahrscheinlichkeit/-intensität    = Regen-Set (s. Abschnitt Kleidung); Trocknungsmglk. Fewo/Zeltplatz
+- Mehrtagestour:
+	- in mehrere Tages-Touren aufteilen (Ziel=Schlafplatz?)
+	- 3+ Schlafplätze pro Tag planen: gute/normale/schlechte Tagesfitness
+	- an Bahnhoefen entlang planen für schnelle Rückfahrt im Zug (Infekt etc)
+	- an Trinkwasser/Resupply-Stellen entlang planen: Friedhoefe, Imbiss, Tankstellen, Supermaerkte, Trinkbrunnen, ...
+	- Fewos/Hotels spontan erst am vorabend oder selben Tag buchen (wenn die Strecke und Fitness klar ist) = weniger Stress; 
+			scheinbar finde sich immer etwas, zur Not wildcampen;
+			als Soloradler mit 1P-Zelt finden Zeltplaetze nicht selten noch Luecken (ggf. vorher anfragen, wie spontan man kommen kann)
+	- einfacher mit fester Zeitvorgabe zu planen (timeboxing: was schafft man in 3 Tagen bei je 8h zu sehen/was weglassen) 
+		anstelle einer Planung der benoetigten Zeit fuer welche Ziele (analysis paralysis)
+	- ersten Tag evtl. ruhiger angehen
+	- den letzten Tag möglichst nah am Abreise-Bahnhof/Faehre o.a. planen/beginnen = weniger Stress; weniger, das schief gehen kann; Zeit zum Orientieren
+	- rueckwaerts planen: Routen-Ende (Schlafplatz/Bahnhof) zu Anfang und die Zwischen-Etappen dem Zeitrahmen anpassen
+	- beliebte Orte an unmoeglichen Tageszeiten durchfahren, sehr frueh oder spaet; in der Woche statt Wochenende
+	- Google MyMaps (My!) mit POI-Suche
+- Navigation: Wahoo Elemnt Bolt V2
+	- separat zum Handy: bessere/separate Akkuzeit, wasserdicht, kleiner etc
+	- POI-Funktionalitaet schlecht v.a. mit Hinblick auf Resupply- und Schlafplaetze-Planung (siehe Abschnitt "Wahoo Hackerei")
+- Navigation-Backup: Smartphone
+	- Komoot
+	- OsmAndMaps (Offline-Karte mit vielen POIs)
+		- Komoot-GPX-Track in OsmAndMaps laden
+	- Google Maps
+	- ungetestet: Orux Maps, MagicEarth, PocketEarth
+- Navigation-Backup (Radcomputer und Smartphone tot oder absent): Physische Karten
+	- Kleiner Kompass schadet nicht, um Karte zu norden (z.B. mind. SUUNTO Clip-Dingsda), also wo man hinguckt und weitergeht (Kompasse auf Nord- oder Sued-Hemisphaere kalibriert)
+	- phys. Karte an der Wand als Vorbereitung auf ein unbekanntes Gebiet: 
+		nicht wirkl. nötig bei PC-Planung aber hilft beim Verinnerlichen, Distanzverhältnisse, ..., beschriften (wasserfeste Folienmarker + IPA als "Radierer"), Sticker aufkleben
+	- alles unnötige (Legende, fernere Gebiete, ...) mit Schere wegschneiden = kleineres Packmaß
+- Wildcamping-Platzsuche TODO
+	- Stealth-Camping
+	- Wild-Shelter-Apps
+
+
+
+### Wahoo-Hackerei:
+
+see [my Github Wahoo-repository](https://github.com/andre-st/wahoo)
+
+
+
+
+
+## Reiseküche
+
+
+### Lebensmittel
+
+| Bedarfsart     | Zweck             | Wann        | Priorität | Kommentar
+|----------------|-------------------|-------------|-----------|--------
+| Wasser         | Kreislauf/Kühlung | immer       | primär    | wird ausgeschwitzt
+| Kohlenhydrate  | Energie           | Fahrzeit    | primär    | beim Strampen verbrannt
+| Elektrolyte    | Krampfprävention  | Fahrzeit    | primär    | wird ausgeschwitzt; für Nervensignale an Muskeln
+| Proteine       | Regeneration      | Ruhephasen  | sekundär  | während Leistung kaum Nutzen/evtl. Magenproblem; Muskeln reparieren
+
+
+Ziel: o.g. Lebensmittel auf kleinstem Stauraum bei geringem Gewicht
+
+
+Stauraum- und Gewichtsreduktion:
+- häufiger Nachkauf
+- verdichtet, z.B. Pulverform im Wasser gelöst oder Öl
+- ... 
+
+
+Kalte Kueche &gt; warme Kueche:
+- Kochgelegenheiten/Feuerverbote egal, kleineres Packmaß/größere Mengen, kuerze Dauer, kaum Trinkwasserverbrauch, ...
+- Rossmann Fruechte-Muesli mit Milchpulver oder Haferdrinkpulver, Mandeldrinkpulver leider zu mehlig, 
+	loest sich nicht gut; in 1,2l-Ziploc-Tueten, direkt aus Tuete essbar
+- paar kleine flache Dosen mit Thunfisch-Couscous (363 kcal); sonst nur Zucker eklig
+- Proteinriegel eher salzig als suess
+- Powergels (Zucker)
+- warmes Essen oft unterwegs abgreifbar
+
+
+Warme Kueche:
+- Pesto
+- chin. Nudeln, die unter 5 Minuten kochen
+- ...
+
+
+Zucker gibt zwar Energie, aber schädlich (kleine Kristalle schneiden überall herum) und hängt irgendwann zum Hals raus.
+Abwechslung/Alternativen wichtig.
+
+
+
+### Kleine Materialkunde Essgeschirr:
+
+| Material                     | Gesundheit | Waermeleitf. | Gewicht  | Preis    | Kommentar
+|------------------------------|------------|--------------|----------|----------|---------------------
+| Aluminium                    | \*         | \*\*\*       | \*\*     | \*\*\*   | Ablösung bei Abrieb und Säuren (Tomaten etc), Ablagerung im Koerper, komme durch Bluthirnschranke
+| eloxiertes/anodisiertes Alu  | \*         | \*\*\*       | \*\*     | \*\*\*   | festere Schicht gegen Abrieb und Säuren
+| hart-eloxiertes/anod. Alu    | \*\*       | \*\*\*       | \*\*     | \*\*     | noch festere Schicht
+| Edelstahl                    | \*\*\*     | \*           | \*       | \*\*\*   | evtl. minderwertiger Alu-Topf schwerer als hochwert. duenner Edelstahl
+| Duossal                      | \*\*\*     | \*\*         | \*\*     | \*\*     | Duo-StainlessSteel-ALuminium: SS innen, Alu aussen
+| Titan                        | \*\*       | \*           | \*\*\*   | \*       | 
+| Keramik                      |            |              |          |          | 
+| Nylon                        |            |              |          |          | 
+| Silikon lebensmittelecht     |            |              |          |          | 
+
+
+### Mein groesseres Kochset:
+
+- 1,5L-Duossal-Topf Trangia (236g) mit: 
+	- 550ml-Titanbecher Toaks (73g)
+	- 100g-Gaskartusche Optimus
+	- Griffzange Trangia (48g), 
+	- Zündstahl, Feuerzeug BIC 
+	- Stove Edelrid Kiro St (80g)
+	- Kartuschenfuß MSR Universal (33g); Kartuschengrößen sind nicht wirkl. standardisiert, der MSR-Fuß ist flexibel; hatte vorher einen von Edelrid mit 2 oder 3 festen Fassungen, auf dem die Colman-Kartusche nicht passte (wenige mm Abweichung)
+	- Lappen, Scheuervlies-Topfschwamm (3g)
+	- Topfschaber-Plektrum
+	- stabiler Dosenöffner Nogent 3 Etoiles 04020H Mini-Kim
+	- alles im Netzbeutel
+- Schneidbrett/Nudelsieb Trangia Multidisc 18 cm
+- 25-cm-Nylon-Löffel mit Topf-schonender Silikonlippe GSI Essential Spoon (26g)
+	- lange Titan-Goeffel/Sporks gut fuer Trekking-Tueten, verkratzen aber Toepfe
+	  und muessen bei Gabel/Messer extra verpackt werden, 
+	  um nicht durch Drybag o.a. durchzustossen
+- Wasserfilter-Set Katadyn Hydrapak 2l
+- Kaffee-Los 125-ml-Schraubbehälter
+- 1,2l Ziploc-Tueten IKEA Istad mit Lebensmitteln, Dehydriertes zusammengekippt, ...
+
+
+### Mein kleineres Kochset:
+
+Falls man nicht zivilisationsfern unterwegs ist,
+dann ist nur spontaner Kaffee relevant.
+Alles andere lässt sich unterwegs lösen.
+
+- schmaler Titan-Topf:  Boundless Voyage 900 ml _oder_ Toaks 550 ml
+- 100g-Gaskartusche Optimus
+- Zündstahl, Feuerzeug BIC 
+- Stove Edelrid Kiro St (80g)
+- Kaffee-Los 125-ml-Schraubbehälter
+- Kartuschenfuß MSR Universal (33g)
+- stabiler Dosenöffner Nogent 3 Etoiles 04020H Mini-Kim
+- Titan-Goeffel
+- 1,2l Ziploc-Tueten IKEA Istad mit Nudeln, ...
+
+
+### Mein Kalte-Kueche-Kochset:
+
+Ohne Kochset hat man mehr Platz für Lebensmittel = öder aber autarker
+
+- Klappbarer Goeffel für Supermarkteinkäufe
+
+
+### Gaskartuschen
+
+- Entsorgung: 
+	- Wertstoffhof, falls nicht entleert, da "toxisch"
+	- entleert: gelbe Tonne
+	- es bleibt immer etwas ueber, 
+	  daher manuelle Entleerung mit Durchstecher (Jetboil CrunchIt),
+	  oder irgendwie Loch bohren
+	- alternativ mit Adapter nachfuellen
+- Lagerung:
+	- rechtl. maximal 2 Kartuschen pro Raum, egal wie gross
+	- nicht in Schlafraeumen
+	- nicht unter "Erdgleiche" (unter Erde wie Keller, da Blasenbildung)
+	- in gut durchluefteten Raeumen
+
+
+### Feuer:
+
+- Gaskocher gilt rechtl. als "offenes Feuer" und ist im Wald idR. verboten 
+	(Kerzen sind schon "offenes Feuer")
+
+
+### Rezepte:
+
+- TODO
+
+
+### Inspiration aus Survival/Bushcraft/Prepping
+
+- TODO
+
+
+
+
+
+## Shops
 
 | Alle_Bestellungen_top                                  | Teile                     | Versand | Kommentar
 |--------------------------------------------------------|---------------------------|---------|--------------------
@@ -1927,7 +1951,9 @@ Mag sich ändern, falls ich mal in Richtung 200-300 km am Tag oder Ultracycling 
 
 
 
-# Wirtschaft
+
+
+## Wirtschaft
 
 Oekonomische Zusammenhaenge, Rationales, ... 
 
