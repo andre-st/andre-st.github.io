@@ -2,17 +2,9 @@
 
 _"Driving a car is like watching a movie, but riding a bike is like acting in one."_
 
-
 _ACHTUNG: Alles work-in-progress hier, mag sich alles ändern_
 
-
-1. Dieses Dokument versammelt meine Fahrrad-Erfahrungen und -Recherchen seit 2023 – als Wieder-Anfänger nach mehr als 15 Jahren ohne Fahrrad.
-Davor bin ich als Kind und Jugendlicher viel Fahrrad gefahren, jedoch weniger passioniert als heute:
-Heute verarbeite ich täglich Youtube-Radcontent und Rad-Web-Foren/Blogs/Bücher, schraube alles am Esel, 
-erkunde stundenlang die Gegend und unternehme mehrtägige Radreisen.
-Trotz regelm. Überarbeitung sind Inhalte hier unterschiedlicher Qualität und zeigen manchmal noch Spuren der Anfänge.
-
-2. Stern-Bewertungen sind immmer von max. 5 Sternen (1 Stern = schlecht; 5 beste; 3 ok)
+Stern-Bewertungen sind immmer von max. 5 Sternen (1 Stern = schlecht; 5 beste; 3 ok)
 
 
 ## Übersicht
@@ -27,13 +19,14 @@ Trotz regelm. Überarbeitung sind Inhalte hier unterschiedlicher Qualität und z
 - [Wartung](#wartung)
 	- Werkzeuge
 	- Kleine Schmierstoffkunde
-	- Verschleissteile bevorraten
-	- Radwaesche
+	- Verschleißteile bevorraten
+	- Radwäsche
 	- Bremsen einstellen
 	- Kettenschaltung einstellen
 	- Kette schmieren
 	- Kette wechseln
 	- Pedale wechseln
+	- Pedale schmieren
 	- Felge zentrieren / Truing
 	- Bowdenzuege ersetzen
 	- Steuersatz (Headset), Gabel
@@ -54,13 +47,24 @@ Trotz regelm. Überarbeitung sind Inhalte hier unterschiedlicher Qualität und z
 ## Begriffe
 
 - Ritzel: Zahnräder hinten
-- Kurbel
 - Kettenblatt: Zahnräder vorne
-- Kassette: Bündel an Zahnrädern hinten
-- Kassette modular:
+- Kurbel
 - Kettenradgarnitur: Bündel an Zahnrädern vorne?
-- Rahmen: Rohrgestänge insgesamt
-- [Rohre](https://cdn.prod.www.spiegel.de/images/5fdc5420-0001-0004-0000-000001203310_w860_r1.7551020408163265_fpx33.03_fpy50.jpg):
+- Kettenschaltung:
+	- Kassette: Bündel an Zahnrädern hinten
+	- Kassette modular
+	- Umwerfer vorne/hinten
+	- Schaltkäfig
+	- Schaltwerk-Röllchen (Pullies)
+	- Schaltauge: 
+		daran ist das hintere Schaltwerk angebracht/eingeschraubt; wenige Grad Abweichung schon ändern ganze Schaltgeometrie; fängt Seitenschläge auf;
+		austauschen, wenn verbogen; gerade biegen kann dazu führen, dass es bricht und ganze Schaltkäfig in die Speichen kommt und viel kaputt macht;
+		Ersatzschaltauge besorgen (kann dann z.B. auf Reisen Werkstatt einbauen); s. Abschnitt Schaltung
+- Schaltgruppe: Gesamtheit von Schalthebeln, Schaltzügen, Schaltwerk/Umwerfern
+- Schalthebel
+- STI (Shimano Brems-Schalthebel-Kombination, Prinzip gängig bei modernen Rennrädern)
+- Gang
+- Rahmen: [Rohrgestänge insgesamt](https://cdn.prod.www.spiegel.de/images/5fdc5420-0001-0004-0000-000001203310_w860_r1.7551020408163265_fpx33.03_fpy50.jpg)
 	- Oberrohr
 	- Unterrohr
 	- Sitzrohr / Sattelrohr
@@ -70,8 +74,7 @@ Trotz regelm. Überarbeitung sind Inhalte hier unterschiedlicher Qualität und z
 	- Sitzstrebe / Druckstrebe / Hinterbau
 	- Kettenstrebe             / Hinterbau
 	- Tretlagergehäuse
-- Umwerfer vorne/hinten
-- Gang
+	- Rahmengeometrie
 - Lenker
 	- Unterlenker / Drops
 	- Oberlenker / Tops
@@ -81,20 +84,29 @@ Trotz regelm. Überarbeitung sind Inhalte hier unterschiedlicher Qualität und z
 	- Compact Dropbar
 	- Backsweep
 	- Reach
-- Bowdenzug (hatte früher immer "Bautenzug" verstanden)
-- Schaltauge: 
-	daran ist das hintere Schaltwerk angebracht/eingeschraubt; wenige Grad Abweichung schon ändern ganze Schaltgeometrie; fängt Seitenschläge auf;
-	austauschen, wenn verbogen; gerade biegen kann dazu führen, dass es bricht und ganze Schaltkäfig in die Speichen kommt und viel kaputt macht;
-	Ersatzschaltauge besorgen (kann dann z.B. auf Reisen Werkstatt einbauen); s. Abschnitt Schaltung
+- Bowdenzug (verkehrt "Bautenzug")
 - Sattel
 	- Sattelschienen
-	- Sattelklemmung: Verbindet Sattelstuetze und Sattel durch Klemmung an den Sattelschienen
 	- Sattelstütze
+	- Sattelklemmung: Verbindet Sattelstuetze und Sattel durch Klemmung an den Sattelschienen
 - Fahrradtypen:
-	Race-Roadbike/Rennrad, Endurance-Rennrad, Time-Trail-Fahrrad (TT Bike), 
-	Gravelbike, Enduro-Mountain-Bike (MTB), Hardtail-MTB (Federung nur vorne), Fully (Full Suspension MTB), 
-	Adventure-Bike, Cyclocrosser (CX), Trekking-Bike, Bahnrad, Fixie, Singlespeed, 
-	BMX-Fahrrad, Kunstrad/Saalmaschine (Starrlauf zum Rückwärtsfahren, 12 bar Reifendruck), ...
+	- Time-Trail-Fahrrad (TT Bike) / Zeitfahrrad 
+	- Race-Roadbike / Rennrad  
+	- Endurance-Rennrad / Allroad-Bike / Randonneur 
+	- Cyclocrosser (CX)       
+	- Gravelbike / Schotterrad
+	- Enduro-Mountain-Bike (MTB)
+	- Hardtail-MTB (Federung nur vorne)
+	- Fully (Full Suspension MTB)
+	- All-Terrain-Bike (ATB)
+	- Adventure-Bike
+	- Trekking-Bike
+	- Bahnrad
+	- Fixie
+	- Singlespeed 
+	- BMX-Fahrrad
+	- Kunstrad/Saalmaschine (Starrlauf zum Rückwärtsfahren, 12 bar Reifendruck)
+	- ...
 - Kadenz: Trittfrequenz gemessen in Umdrehungen pro Minute U/min bzw. rpm
 - Fred: 
 	man kann auf dem Rad durch Kleidungswahl und Modifikationen/Anbauten am Rad 
@@ -125,17 +137,81 @@ Trotz regelm. Überarbeitung sind Inhalte hier unterschiedlicher Qualität und z
 
 
 
-## Modell
+## Modell 
 
-GIANT Revolt 2 (2022) XL Black-Diamond Gravelbike (Ladenkauf 2023):
-- 150 kg max. Systemgewicht (Fahrrad ~11 kg + Fahrer + Gepäck ~15 kg)
-- Scheibenbremsen (mechanisch, nicht hydraulisch wie Revolt 1)
-- Schaltung 2x9 (18 Gänge, 16 nur sinnvoll fahrbar wg. Kettenlinie)
-- Bremshebel, Schalthebel, Umwerfer, Schaltwerk: Shimano Sora
-- Kassette: Shimano CS-HG400, 11-34T
-- Kette: KMC X9
+Kaufdatum 9.6.23
 
-TODO: meine selbstermittelte Spec-Tabelle hier hinsetzen und fortführen
+GIANT REVOLT XL 2   2022/23?
+
+Die offizielle, frei zugängliche Spezifikation ist recht dünn; 
+im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
+
+
+| Fahrradteil                 | Original verbaut (Stock)
+|-----------------------------|----------------------------
+| Farbe                       | Black Diamond
+| Rahmenset (Frame)           | ALUXX-Aluminium, 12 x 142 mm Steckachse, Scheibe, Flip-Chip-Ausfallende
+| Rahmennummer (Serial No.)   | unterm Tretlager zweigeteilt; bei Giant-Werkstattanfragen immer nennen
+| Reifenfreiheit (Clearance)  | 53 mm falls Long-Flipchip-Position, 42 mm bei Short-flipchip-Position  [doku]
+| Hinterer Stoßdämpfer        | N/A
+| Pedale                      | N/A
+| Gabel                       | GIANT Revolt Advanced Vollcarbon-Gabel (rly?)
+| Gabelschaft                 | OverDrive-Gabelschaft (OD Version 1) aus Carbon-Verbundwerkstoff; tapered
+| Gabelkonus (Race crown)     | Konus ist nicht separat, sondern im Carbonschaft integriert
+| Steuersatz (Headset)        | voll-integriert (IS): statt Einpress- oder Ausschlagwerkzeug alles mit Hand in Rahmen-Ausbuchtungen legbar
+| Steuersatzlager oben        | MH-P08F – 30.5 x 41.8 x 8 – 45/45	[gemessen]: OD=41,81 ID=30,47 mm
+| Steuersatzlager unten       | MH-P22  – 34.1 x 46.9 x 7 – 45/45	[gemessen]: OD=46,76 ID=34,0  mm
+| Lenker                      | Giant Contact Drop Handlebar 460 mm (510 mm im Unterlenker/Flair), Drops-Stil compact bend, 31,8 mm, clip-on compatible, Reach: 10 cm
+| Lenkerband                  | GIANT Cork mit Gel?  Korkband
+| Vorbau (Stem)               | 90mm, 7 Grad, "Giant Sport"?
+| Bremsen                     | Tektro MD-C550 mechanisch, Giant MPH Rotoren [V]160mm, [H]160mm
+| Bremsscheiben               | Torx 25 zu lösen [erprobt]
+| Umwerfer  (Front Derailleur)| Shimano Sora ST-R3000
+| Schaltwerk (Rear Derailleur)| Shimano Sora ST-R3000, langer Käfig
+| Schalthebel                 | Shimano Sora ST-R3000, 2x9
+| Kassette (Cogset)           | Shimano HG400, 11x34
+| Kette                       | KMC X9 mit Missing Link, 114 Glieder
+| Kurbelsatz (Crank)          | FSA Vero Pro
+| Kurbellaenge                | 175 mm	
+| Kettenblatt (Chain ring)    | 48/32T FSA Omega/Vero Pro, 4-ARM, 120/90 mm BCD Lochkreis [abgelesen] ab Modell 2017
+| Kettenlinie                 | 44,5mm-45mm
+| Tretlager (Bottom bracket)  | 68mm BSA threaded bottom bracket (cartridge BB)  oder  FSA MegaExo Pressfit oder  BB-7420 ST Square Taper Bottom Bracket (JIS)???
+| Tretlager Achslänge         | ???
+| Laufräder                   | GIANT SX2 Disc-Radsatz, Legierung, tubeless-ready, Laufradsatz ca 2030g
+| Felgen-Innenweite           | 25 mm   (innere Felgenbreite/Maulweite/Innenweite) [622x25 steht auf der Felge]
+| Felgen-Außenweite           | 30 mm
+| Felgen-Profil               | 23 mm tief
+| Laufradnaben (Hub)          | Mischmasch mit Konus vorne, Cartridge hinten: vorne nur radiale Kräfte, hinten axiale/torsionale durch den Antrieb; konus rollt besser, cartridge stabiler
+| Laufradnabe Vorderrad       | Konuslager (Cup&Cone) mit 22 freien 1/8" großen Kugeln (1 Lücke) (ideal zw. G5-G20 rundpoliert und HRC>=60 hart)  [erprobt]; 2x 19mm-Konusschlüssel benoetigt  [erprobt]
+| Laufradnabe Hinterrad       | angeblich mit industrielager sealed bearings (vielleicht: 6902 15×28×7 mm)
+| Reifen (Tyre)               | Giant CrossCut AT 2, 700x38c, schlauchlos, Drahtreifen (Wire bead), 60 TPI, silica based compound, Gewicht: 673g (700x38c)
+| Reifenpannenschutz          | "Defect 2 lite" puncture protection (Pannenschutzgürtel aus leichtem Nylon unter der Lauffläche des Reifens)
+| Sattel                      | Giant Approach
+| Sattelstütze                | Giant D-Fuse, Legierung, 14 mm Versatz
+| Kabel Bremszug              | 5mm ??
+| Kabel Schaltzug             | 4mm Jagwire LEX 1,1 mm, linear steels strands, non-lubed liner, low-cost; angeblich bis 1,2 mm kompatibel, verbauter Drahtzug scheint 1,2 mm [gemessen]
+| Kabel Schaltzuglängen       | Hülle STI rechts bis Steuerrohr = 51 cm; Hülle Sattel-/Unterrohr bis Schaltkäfig = 62 cm
+
+
+Komponenten abweichend vom Original getauscht/hinzugefügt:
+
+| Fahrradteil                 | Neu verbaut
+|-----------------------------|----------------------------
+| Lenker                      | s. Abschnitt Lenker
+| Reifen                      | s. Abschnitt Reifen
+| Sattel                      | s. Abschnitt Sattel
+| Kabel Schaltzug             | Umwerfer hinten: Shimano OT-SP41 Optislick
+| Flaschenhalter              | SKS Germany DUAL SC RH und LH (seitliche Entnahme rechtshändig)
+| Pedale                      | Shimano PD-M8100 clipless, SM-SH56 SPD Cleats
+
+
+
+Flipchip:
+	- short = quicker handling and acceleration
+	- long = improved stability at speed
+
+
+
 
 
 
@@ -153,7 +229,7 @@ TODO: meine selbstermittelte Spec-Tabelle hier hinsetzen und fortführen
 
 
 
-### Schalt-Vorgehen (Kettenschaltung)
+### Korrektes Schalten (Kettenschaltung)
 
 - Gangwechsel erfolgt nur beim Pedalieren
 - im Leerlauf schalten, nicht währenddessen treten, leichtes Antreten
@@ -162,8 +238,8 @@ TODO: meine selbstermittelte Spec-Tabelle hier hinsetzen und fortführen
 - vorausschauend schalten (Ampel, Huegel, stockender Verkehr, ...)
 	- vorm Anhalten in leichteren Gang schalten, damit Antreten leichter und weniger belastend fürs Material
 - sonst Gang im Stehen korrigieren: 
-	Vorderbremse ziehen, Rad nach vorn schieben, dass das Hinterrad in der Luft haengt und dann mit dem eingeklickten Fuß die Kurbel drehen;
-	alternativ im Stand mit der Hand zw. Ober- und Sattelrohr das Hinterteil heben und mit eingeklicktem Fuß Kurbel drehen
+	Vorderbremse ziehen, Rad nach vorne schieben, so dass das Hinterrad in der Luft haengt und dann mit dem eingeklickten Fuß die Kurbel drehen.
+	Alternativ im Stand mit der Hand zw. Ober- und Sattelrohr das Hinterteil heben und mit eingeklicktem Fuß Kurbel drehen
 - höhere Trittfrequenz = weniger Belastung für Knie und Gelenke
 - Radler trainieren für Ausdauer nicht Kraft, Kraftreten (hohe Übersetzung) eher sinnlos
 - nicht über Kreuz schalten:
@@ -172,22 +248,18 @@ TODO: meine selbstermittelte Spec-Tabelle hier hinsetzen und fortführen
 	- gut: klein-mitte hinten und großes vorne
 	- gut: mitte       hinten und groß oder klein vorne
 	- gut: mitte-groß  hinten und klein vorne
-- beim Wiegetritt vorher bisschen schwerer schalten
+- beim Wiegetritt vorher auf etwas schwereren Gang schalten
 
 
 
+### Brems-Schalthebel-Kombination
 
-### Schalthebel
-
-Rennrad-Schalthebel / Dropbars / STI
-
-Kettenschaltung: Shimano Sora ST-R3000:
+Bei Shimano Sora ST-R3000:
 
 | L1 (Bremse)           | L2                 | R1 (Bremse)                  | R2
 |-----------------------|--------------------|------------------------------|--------------------
-| schaltet vorne        | vorne              | schaltet hinten              | hinten
-| größeres Zahnrad      | kleineres Zahnrad  | größeres Zahnrad (leichter)  | kleineres (schneller)
-| dient Kettenflucht?   | "                  | dient Geschwindigkeit        | "
+| schaltet vorne        | schaltet vorne     | schaltet hinten              | schaltet hinten
+| auf größeres Zahnrad  | kleineres Zahnrad  | größeres Zahnrad (leichter)  | kleineres (schneller)
 
 
 s.a. Wartung-Schaltung-einstellen
@@ -210,52 +282,56 @@ dann gegen Faltschloss getauscht,
 da sich paar Sekunden Sicherheitsgewinn nicht lohnen:
 
 
-| Bügelschloss Trelock U6 16mm Dicke                                               | Faltschloss ABUS Bordo 6000K BIG  (120cm)                  | Kettenschloss
-|----------------------------------------------------------------------------------|---------------------------------------------------|--------|--------------------------------
-| Installation: in Rahmen hässlich und sperrig, behindert Trinkflasche etc         | relativ schmal im Rahmen, wird nur breiter zu den Beinen mit mehr Länge, besser als Bügel, aber schön es auch nicht und nimmt Platz für weitere Trinkflasche weg; die Klappe des billigen Plastikhalters bricht schnell und das Schloss kann rausfallen, muss man dann mit einem Klettband ersetzen   | 
-| Abschließen: Passte bei mir nicht um Rahmen und Hinterrad                        | passt um alles                                             | passt um alles
-| Abschließen: Kaum Länge oder Durchmesser für Geländer, Bäume, Laternen           | passt um fast alles                                        | passt um fast alles
-| Sicherheit: 150-€-Akkuflex ~60s, örtl. Unflexibilität kompromittiert Sichtweite  | Flex ~20s(?), wahrscheinlicher in Sichtweite platzierbar   | bei 3 mm: Flex 3s, grosser Bolzenschneider 3s; haelt aber Gelegenheitsdiebe ab und ist dabei widerstandsfaehiger als die Minischloesser
-| Gewicht: merkbar hoch mit 1-2 kg                                                 | halb so schwer, aber leicht auch nicht                     | bei 3 mm: 300g
-| Preis: 75 €                                                                      | 130 € überteuert (im Fahrradladen)                         | 40 €
+| Aspekt        | Bügelschloss Trelock U6 16mm Dicke                                   | Faltschloss ABUS Bordo 6000K BIG  (120cm)                  | Kettenschloss
+|---------------|----------------------------------------------------------------------|------------------------------------------------------------|--------------------------------
+| Installation  | in Rahmen hässlich und sperrig, behindert Trinkflasche etc           | relativ schmal im Rahmen, wird nur breiter zu den Beinen mit mehr Länge, besser als Bügel, aber schön es auch nicht und nimmt Platz für weitere Trinkflasche weg; die Klappe des billigen Plastikhalters bricht schnell und das Schloss kann rausfallen, muss man dann mit einem Klettband ersetzen   | 
+| Abschließen   | Passte bei mir nicht um Rahmen und Hinterrad                         | passt um alles                                             | passt um alles
+| Abschließen   | Kaum Länge oder Durchmesser für Geländer, Bäume, Laternen            | passt um fast alles                                        | passt um fast alles
+| Sicherheit    | 150-€-Akkuflex ~60s, örtl. Unflexibilität kompromittiert Sichtweite  | Flex ~20s(?), wahrscheinlicher in Sichtweite platzierbar   | bei 3 mm: Flex 3s, grosser Bolzenschneider 3s; haelt aber Gelegenheitsdiebe ab und ist dabei widerstandsfaehiger als die Minischloesser
+| Gewicht       | merkbar hoch mit 1-2 kg                                              | halb so schwer, aber leicht auch nicht                     | bei 3 mm: 300g
+| Preis         | 75 €                                                                 | 130 € überteuert (im Fahrradladen)                         | 40 €
 
 
-- wer dicke Faltschlösser knacken kann, hat Werkzeug auch für Bügelschlösser
-- es heißt: Schloss sollte 10% vom Fahrradpreis kosten
-- dünnere Kabelschlösser gelten als "Geschenkbänder"
-- Zahlencode scheint bei einigen beliebter als Schlüssel, gerade wenn man nur kurz weg ist; bei manchen lässt der richtige Code aber ertasten
 
-
-Spontane Wegfahrsperre ohne richtiges Schloss:
+Wegfahrsperre ohne Schloss gegen Gelegenheitsdiebe bei Sichtweite:
 - Kette vom vorderen Zahnrad nehmen 
 - sehr hohen oder sehr niedrigen Gang einlegen
 - Radhelm um Reifen/Rahmen klicken
-- Hiplock
+- Hiplock Z-Lok
 - Klettbänder
 - Steckachsen heraus- und mitnehmen
 - kann man irgendwie Bremsen schnell de- und reaktivieren? wenn Dieb schnell losradelt, dann knallt es vllt
 
-
+Komponentenklau:
 - "schmier ich aushärtende Dichtmasse in die Inbusaufnahme, Hoffnung:da muss man ne zeitlang puhlen....",
 	"So ähnlich mach ich das auch. Ich nehme aber 2-Komponenten Kleber, schmiere damit den Sechskant zu"
-- "Laubwäldchen, haben das Rad flachgelegt und mit abgerissenen Zweigen getarnt"
 
-- zeitlang fuhr ich nur mit dem Hiplock herum, keine Lust/Sinn 2-kg-Schloss herumzufahren; 
+Verstecken:
+- "Laubwäldchen, haben das Rad flachgelegt und mit abgerissenen Zweigen getarnt"
+- mit Cover verhängen? Für Dieb umständlicher an Einzelteile zu kommen und unklar für Dieb, ob sich Aktion lohnt
+	- Rad macht Anschein, dass Besitzer weit entfernt ist und Dieb viel Zeit damit haben könnte 
+		(kann aber dazu führen, dass der zu lange wartet)
+	- Cover möglichst ranzig aussehen lassen; irgendwie Hinweis "gleich wieder da!"?
+
+Sonstiges:
+- wer dicke Faltschlösser knacken kann, hat Werkzeug auch für Bügelschlösser
+- es heißt: Schloss sollte 10% vom Fahrradpreis kosten
+- dünnere Kabelschlösser gelten als "Geschenkbänder"
+- Zahlencode scheint bei einigen beliebter als Schlüssel, gerade wenn man nur kurz weg ist; bei manchen lässt der richtige Code aber ertasten
+- zeitlang fuhr ich nur mit dem Hiplock Z-Lok herum, 
+	keine Lust/Sinn 2-kg-Schloss herumzufahren; 
 	hatte das Rad bisher auch immer Auge/Armweite (Cafeterasse);
 	sah mal ein Video, wo einer im Laufen mit Kraft und Schwung einfach ein Fahrrad mit sich riss und das Schloss dabei abbrach.
 	Das Schloss hatte sicherlich nicht weniger Masse als so ein dünnes Hiplock.
 	Dieses spontane Wegrollen-Szenario sollte mit solchen Minimalschlössern eigentlich verhindert werden, die sonst nichts anderes verhindern.
 	Der Öffnungscode meines Hiplock hatte sich außerdem um 1 verstellt, ohne dass es großartig eingesetzt wurde
-
+- das (kaum genutzte) Hiplock Z-Lok hat irgendwann selbständig den Code um eine Ziffernposition verändert
 - verwende aktuell ein 129 cm langes, 300 Gramm schweres, 3mm dickes Stahlketten-Zahlenschloss (Kohlburg Reykjavík),
 	mit dem man auch die Laufräder dazuketten kann und das nicht so leicht abreißbar sein sollte;
 	die Kette kann man während der Fahrt außerdem gut um Sattelstütze/Sitzrohr gewickelt tragen
 	ohne dass es dumm aussieht oder beim Pedalieren stört; sicherer als Kabelschlösser soll es auch sein
 
-- mit Cover verhängen? Für Dieb umständlicher an Einzelteile zu kommen und unklar für Dieb, ob sich Aktion lohnt
-	- Rad macht Anschein, dass Besitzer weit entfernt ist und Dieb viel Zeit damit haben könnte 
-		(kann aber dazu führen, dass der zu lange wartet)
-	- Cover möglichst ranzig aussehen lassen; irgendwie Hinweis "gleich wieder da!"?
+
 
 
 
@@ -276,8 +352,8 @@ Spontane Wegfahrsperre ohne richtiges Schloss:
 - 20 Euro Bußgeld; höher falls Gefährdung oder Sachbeschädigung
 
 
-Mit Reflektoren verliert man beim Sport-Rad natürlich Street-Credibility ("Fred").
-StVoZ-ungültige, aber funktionale Alternativen:
+Mit "Rentner-Reflektoren" verliert man beim Sport-Rad Street-Credibility.
+StVoZ-ungültige, aber funktionale, ästhetischere Alternativen:
 
 - schwarze Reflektorstreifen auf schwarzer Felge (nicht übertreiben)
 
@@ -291,16 +367,16 @@ Kleine Materialkunde:
 |------------------------|-----------|--------|----------|-------------------|-------------|---------|----------------
 | Baumwolle              | \*        | \*\*\* | \*\*\*   | \*                | \*\*        | \*\*\*  | 
 | Merino-Wolle           | \*\*      | \*\*\* | \*\*\*   | \*\*\*            | \*\*\*      | \*      | 
-| ...                    |           |        |          |                   |             |         | 
+| todo...                |           |        |          |                   |             |         | 
 
 
 
 Helm:
-- sollte einfarbig weiss oder schwarz sein, damit man ihn mit allen Kleidern kombinieren kann; sonst beißen sich evtl. Farben
+- einfarbig weiss oder schwarz mit allen Kleiderfarben kombinierbar
 - Größe gut, wenn man noch Spiel beim Einstellrädchen hat:
 	- lockern bei Druckschmerzen nach längerer Zeit (Kopf schwillt auch an)
 	- Platz für Unterhelmmütze
-- Polster entfern- und reinigbar; Ersatzpolster kaufbar (musste meine aum Ausland bestellen)
+- Polster entfern- und reinigbar? Ersatzpolster kaufbar? (musste meine aum Ausland bestellen)
 - Unterscheidungen:
 
 
@@ -362,9 +438,9 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 	- Langfinger: Gripgrab Herbst (schwarz), Gripgrab Deep Winter (schwarz), Castelli Perfetto Light Glove (sehr duenn, 0 Polsterung, winddicht)
 - Trikot: 
 	- weites Hemd mit engen Bibs = Fred-Vibes: locker-locker oder eng-eng
-	- Gravel-Style: fahre Frueh-Sommer bis Frueh-Herbst mittlerweile ein dünnes, etwas lockerer liegendes Langarm-Merino-Hemd mit Halb-Reißverschluss: 
+	- Gravel-Style: fahre Frueh-Sommer bis Frueh-Herbst meistens ein dünnes, etwas lockerer liegendes Langarm-Merino-Hemd mit Halb-Reißverschluss: 
 		UV-Blocker und gutes Klima drunter gehabt; steckt in einer duennen, enger geschnittenen Ueber-Hose; 
-		nicht presswurst-eng figurbetont wie Roadies und nicht zu baggy wie MTB-Fahrer; Aermel kann man bei Bedarf hoch/runterziehen 
+		nicht presswurst-eng figurbetont wie Roadies und nicht zu baggy wie MTB-Fahrer; Aermel kann man bei Bedarf hoch/runterziehen
 - Radhose:
 	- Polster: mMn. schwimmende besser als statische; 3d-geformte Polster vermutl. sinnvoller wenn man ungepolsterte Plastikschalen-Rennradsattel hat,
 		sonst addieren sich die Polsteroptimierungen u.U. unguenstig und die Polsterhuegel wandern unterm Hintern;
@@ -384,7 +460,7 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 - Schuhe:
 	- für Klickpedale (clipless)
 	- mit SM-SH56-Cleats (erlaubt schräge Panikausstiege, taugt trotzdem sehr gut zum Pedalziehen)
-	- Boa-Verschlussmechanismus evtl. besser als Schnürren?
+	- Boa-Verschlussmechanismus vs Schnürsenkel vs Klettstreifen
 	- Radschuhe mit Schnuerren haben oft eine flexible Lasche auf der Zunge, 
 		unter die man die Schnüren fixieren kann, damit sie sich nicht aufs Kettenblatt oder Pedalgewinde wickeln
 - Herbst/Winter:
@@ -393,16 +469,19 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 	- Thermojacke
 - Regen:
 	- im Spaetsommer mal einfache Regenjacke angehabt 
-		und darunter dann durch Schweiss so nass gewesen 
+		und darunter dann durch Schweiß so nass gewesen 
 		als haette ich mich gleich vollregnen lassen koennen;
-		probiere es seither mit Fahrrad-optimierten Poncho, der breiter belueftet wird
-	- Merino schwierig: trocknet langsamer als technische Plastikkleidung (aber schneller als Baumwolle)
-	- Trocknen nasser Schuhe (innen) dauert lange
+		probiere es seither mit Fahrrad-optimierten Poncho, 
+		der breiter belueftet wird
+	- Merino schwierig: 
+		trocknet langsamer als technische Plastikkleidung 
+		(aber schneller als Baumwolle)
+	- das Trocknen nasser Schuhe (innen) dauert lange
 	- Haut nasser Füße reibt sich über die Zeit auf und führt zu Entzündungen; Füße sind wichtiger Kontaktpunkt beim Radfahren: 
 		Velotoze nerviger anzuziehen, haben aber ein gutes Packmaß und halten dicht (es gibt Gesonderte für MTB/SPD und Rennrad/SPD-SL)
 - HighVis (v.a. Herbst-Winter, nachts):
-	- man sieht aus wie ein Idiot, statt Neongelb lieber nicht ganz so grelle Signalfarben wie orange, rot, matteres gelb
-	- Autofahrer finden es gut, als Radfahrer sieht man solche auch in Entfernung gut
+	- nicht kleidsam: statt Neongelb lieber weniger grelle Signalfarben wie orange, rot, matteres gelb
+	- Autofahrer finden es gut; als Radfahrer sieht man grelle Radler auch in Entfernung gut
 	- Problem imho weniger, dass Radler nicht wie Tannenbaum leuchtet, sondern Autofahrer nicht hingucken (Handy, Fahrerfensterseite) oder Radfahrer verdeckt wird
 	- Farbe nachts egal, Reflektoren wichtiger
 	- Debatte (inkl Reflektoren) macht Radsicherheit zum Privatproblem des Individuums und 
@@ -428,7 +507,7 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 Allgemein:
 
 - Minitool
-	- besser man kauft die Teile einzeln, da Minitool sperrig und Inbus oft zu kurz
+	- besser man kauft die Teile einzeln, da dickes Minitool sperrig zw. Speichen etc und Inbus dort oft zu kurz
 - Schrauberbitset (BOSCH Professional 32tlg.)
 - Drehmomentschlüssel, vermeidet "nach fest kommt ab"
 	- "handfest" keine Einheitsvorstellung (bei mir leicht in den Widerstand reinfahren, also spannen, bei Anderen mimikverzerrt solange Kraft drauf bis sich nichts mehr regt, also "anknallen"; taugt beides nichts)
@@ -455,8 +534,8 @@ Antrieb:
 - Kettenschlosszange (Shimano TL-CN10)
 - Kettennieter (Topeak All Speeds Chain)
 - Kasettenabzieher (UNIOR Kassettenschluessel mit Fuehrungsstift + GEDORE 29cm-Quergriff)
-- Kettenpeitsche oder besser: Kettenzange
-- Kurbelabzieher (z.B. Kettenblattwechsel)
+- Kettenpeitsche oder besser: Kettenzange  (weniger Risiko mit der Hand in den Zahnkranz abzurutschen)
+- Kurbelabzieher für Kettenblattwechsel (UNIOR)
 - Mess- und Richtwerkzeug fürs Schaltauge (Wolftooth Pack Hanger Alignment Tool oder klassisch/günstiger von ZTTO)
 - ...
 
@@ -464,20 +543,20 @@ Antrieb:
 Laufrad:
 
 - Luftpumpe:
-	- unterwegs: kleine Teleskop-Pumpe für mehr Power - ideal mit Schlauch, um Ventil zu schonen
-			(habe ganz gute SKS Supershort + nicht so guten SKS Zipflinger Schlauch; gibt es aber auch in Einheit)
+	- unterwegs kleine Teleskop-Pumpe für mehr Power (SKS Supershort)
+	- gibt auch kleine Pumpen mit ventilschonendem Schlauch
 	- Keller: Standpumpe mit Manometer (SKS Rennradkompressor)
-	- Tubeless-Kompressor-Pumpe/Druckbehaelter/Booster (Airshot)
+	- Tubeless-Kompressor-Pumpe/Druckbehaelter/Booster (Airshot) um unwillige Reifen zu setzen
 - Ausrichthilfe für Bremsscheiben
 - Ventileinsatzschlüssel (Parktool VC-1)
-- Reifenheber (die blauen von Schwalbe sollen stabil genug und felgenschonend sein)
+- Reifenheber (UNIOR, blaue von Schwalbe)
 - Speichenspanner
 - Speichennippelwerkzeug (Speichennippeldreher von Innenseite der Felge)
 - Zentrierstaender (UNIOR 1688)
 	- Achsenadapter (die kleinen Magnetischen von UNIOR sind fuer das Modell ineffizient/unbrauchbar; besser mit Stange, da man Rad oefter umschlagen muss mit 1 Sensor)
 	- Sensor Bremsscheibe
 - Dichtstoffspritze (STANS Notubes Injector) oder direkt aus kleiner 59ml-Dichtmilch-Flasche
-- Konusschlüssel falls Konuslager
+- Konusschlüssel falls Konuslager (UNIOR)
 - Ein- und Auspresswerkzeuge falls Cartridge-Lager
 - ...
 
@@ -492,6 +571,7 @@ Reinigung:
 
 
 Taeglich am Fahrrad:
+
 - Werkzeugtasche (SKS Explorer Straps 800 ml):
 	- Inbus 3,4,5  (3er bei mir fuer Bremsbelagnachstellung)
 	- Bits PH1, PH2 mit kleinem Daumenschrauber (Shimano-Schaltgruppe)
@@ -505,39 +585,40 @@ Taeglich am Fahrrad:
 	- Speichennippel-Spanner
 	- Nitril-Handschuhe
 	- RIAS Trockentuecher in Tablettenform (Schmutz am Rad oder Oel-Haende abwischen, Frischmachen im Schwitz-Sommer, Notfall-Klopapier)
-	- Mülltüte für Reperaturreste (z.B. Tücher voll mit Dichtmilch)
+	- Mülltüte für Reparaturreste (z.B. Tücher voll mit Dichtmilch)
 	- ...
-- Minipumpe (SKS Supershort) am Sitzrohr mit paar Metern Panzertape aufgewickelt
+- Minipumpe (SKS Supershort) am Sitzrohr 
+	- darauf paar Meter Panzertape gewickelt
 
 
 
 ### Kleine Schmierstoffkunde
 
-| Eigenschaft      | Öl                               | Fett
-|------------------|----------------------------------|------------------------
-| Konsistenz       | flüssig bei Raumtemperatur       | halbfest bis fest
-| Zusammensetzung  | reine Grundöle + Additive        | Mischung aus Öl und Verdicker wie Lithiumseife oder PTFE
-| Anwendung        | schnell-bewegl. Teile            | stark belastete, langsam bewegl. oder dauerhaft geschuetzte Teile, Lager, Tretlager, Gewinde, Steuersatz
-| Haftung          | dringt in enge Zwischenräume, bildet dünnen Schutzfilm | haftet länger an 
-| Haltbarkeit      | wäscht sich schnell aus          | besserer Schutz gegen Wasser
+| Eigenschaft      | Öl                               | Fett                           | Antiseize
+|------------------|----------------------------------|--------------------------------|-------------------------------------
+| Konsistenz       | flüssig bei Raumtemperatur       | halbfest bis fest              | 
+| Zusammensetzung  | reine Grundöle + Additive        | Mischung aus Öl und Verdicker wie Lithiumseife oder PTFE |
+| Anwendung        | schnell-bewegl. Teile            | stark belastete, langsam bewegl. oder dauerhaft geschuetzte Teile, Lager, Tretlager, Gewinde, Steuersatz |
+| Haftung          | dringt in enge Zwischenräume, bildet dünnen Schutzfilm | haftet länger an  |
+| Haltbarkeit      | wäscht sich schnell aus          | besserer Schutz gegen Wasser   |
 
 
-- Teile vor dem Auftragen von Fett gruendlich saubern, sonst erzeugt man eine Schleifpaste.
+- Bauteile vor dem Auftragen von Fett gruendlich säubern, sonst erzeugt man eine Schleifpaste.
 - meisten Fette sind lithiumverseift und nicht so wasserfest wie calciumbasierte Fette wie Motorex 2000
-- Allgemein:
-	- Auf alles was klemmen soll, kommt Carbon-Montagepaste mit Schleifpartikeln
-	- Auf alles, was sich im Betrieb drehen/bewegen soll, kommt Fett
-	- Auf alles, was im Betrieb fest sein soll, aber rein/raus geschraubt werden muss, kommt Montagepaste.
-		Wenn man keine Montagepaste hat, kann man auch einfach Fett nehmen.
-		Fett zu nehmen ist besser, als das Gewinde trocken zu schrauben.
-- Motorex 2000: "Steckachse und im Steuersatz nicht optimal finde. 
-	Durch die Rotationsbewegungen scheint es sich mit der Zeit etwas zu verklumpen."
 - Silikonfett wird als synthetisches Fett betrachtet, 
 		weil es auf synthetischen Silikonölen basiert, 
 		anstatt auf natürlichen Ölen oder Fetten;
 		greift Kunsstoffe (Carbon) nicht an
 - auf Grund der elektrochemischen Spannungsreihe erzeugt Kupferpaste bei Alu und Stahl unter Feuchtigkeit Korrosion
 - Calcium-verseiftes Fett nennt sich auch Staufferfett
+
+
+Allgemein:
+- Auf alles was klemmen soll, kommt (Carbon-)Montagepaste mit Schleifpartikeln
+- Auf alles, was sich im Betrieb drehen/bewegen soll, kommt Fett
+- Auf alles, was im Betrieb fest sein soll, aber rein/raus geschraubt werden muss, kommt Montagepaste.
+	Wenn man keine Montagepaste hat, kann man auch einfach Fett nehmen.
+	Fett zu nehmen ist besser, als das Gewinde trocken zu schrauben.
 
 
 #### Produktliste:
@@ -547,6 +628,7 @@ Folgende Liste mit Produkten, die mir mal untergekommen sind:
 | Produkt                           | Typ                | Hauptzweck         | Do                           | Don't               | Kommentar
 |-----------------------------------|--------------------|--------------------|------------------------------|---------------------|-----------------------
 | Shimano Anti-Seize<br>Motorex Anti-Seize | Montagepaste| Trennmittel        | Gewinde zw. Kurbel und Pedal, <br>Bolzen Sattelklemmung, <br>Sattelstuetze-Sitzrohr-Klemmung, <br>Gewinde Kurbelarme, <br> Vorbauschrauben | alles mit Carbon (macht Oberflaeche zu glatt), <br>Sattelstreben-Klemmflaeche | Montagepaste mit niedrigem Reibungswert; verhindert Korrosion und Kaltverschweissung von Alu und Stahl; trennt Kontaktflaechen/Festbacken von Metallen = leichtere Enfernbarkeit; nur geringe Schmierung fuer bewegl. Teile (anders als Fett), Partikel koennten sogar Lager/Gewinde beschaedigen; zuvorderst Trennmittel; daempfende Schicht reduziert Knarzgeraeusche von Mikrobewegungen zw Stuetze und Rahmen / Fugen zwischen den Bauteilen aufgefüllt und ein flächiger Kontakt hergestellt also die Haftung verbessert- keine Bewegungen und kein Knacken mehr
+| Motorex 2000                      |                    |                    |                              |                     | "Steckachse und im Steuersatz nicht optimal finde. Durch die Rotationsbewegungen scheint es sich mit der Zeit etwas zu verklumpen."
 | ??? Alu-Montagepaste              | Montagepaste, Reibungspaste | Reibung erhoehen   | Klemmflaeche Alu-Alu (z.B. TT-Aerobars/Auflieger)  || Montagepaste mit hohem Reibungswert; erlaubt Anzug mit weniger Drehmoment/Schraubenvorspannkraft = materialschonender;  alternativ Silikonpaste mit hohem Reibungswert 
 | Muc-off Carbon Gripper<br>Muc-Off Carbon Assembly Paste<br>Finish Line Carbon Fiber Paste<br>Park Tool CSG-2            | Montagepaste, Reibungspaste | Reibung erhoehen   | Klemmflaeche Carbon-\* | Klemmfläche Alu-Alu (knarzt)  | Montagepaste mit hohem Reibungswert; erlaubt Anzug mit weniger Drehmoment/Schraubenvorspannkraft = materialschonender; MucOff Gripper fuer hoeher belastete Sachen wie Vorbau/Lenker/Sattelstuetze
 | Muc-off Bio Degreaser             | Entfetter          | Entfetten          |                              |                     | weniger aggressive zu Gummi-/Kunststoffteilen (Dichtungen) als Bremsenreiniger
@@ -594,7 +676,7 @@ Folgende Liste mit Produkten, die mir mal untergekommen sind:
 | Kettenblatt                        | ?                      | ?
 | Kassette                           | ?                      | ?
 | Radwaesche allgemein               | Wasser                 | Mucoff Bike Cleaner; (Kassette besser separiert und mit Bremsenreiniger bearbeiten)
-| Reifen-Dichtmilch                  | ?                      | Orange Seal Endurance bei alles Nicht-Giant-Reifen; sonst Giant Tire Sealant
+| Reifen-Dichtmilch                  | ?                      | Orange Seal Endurance bei allen Nicht-GIANT-Reifen; sonst GIANT Tire Sealant
 | Bremsscheibe                       | IPA oder Wuerth Bremsenreiniger | ?
 | Radlager Vorderrad Konuslager      | Bio Degreaser, IPA, WD40 Rostentferner | Finishline Premium-Grease
 
@@ -603,18 +685,12 @@ Folgende Liste mit Produkten, die mir mal untergekommen sind:
 ### Verschleissteile bevorraten
 
 Auf Verschleissteile gibt es idR. keine Gewaehrleistung vom Fahrrad-Haendler.
-Immer in bestimmter Menge vorhalten, weil nicht immer in der gesuchten Ausfuehrung in Shops verfuegbar (Corona), 
-manchmal auch laenger nicht oder gar nicht mehr. Mit Vorrat hat man Zeit fuer Suche/Nachschub.
 
+Immer in bestimmter Menge vorhalten, 
+weil nicht immer in der gesuchten Ausfuehrung in Shops verfuegbar (Corona), 
+manchmal auch laenger nicht oder gar nicht mehr. 
 
-Nach 200 km sollte man bei Neurädern den Erst-Service machen:
-	- neue Bowden-Züge längen sich 
-	- Speichen müssen nachgespannt werden
-	- tats. hatte ich nach 500 km Klimpergeräusche im Hinterrad, der Klang, 
-		wenn man Speichen an den Speichenkreuzpunkten zusammendrückt.;
-		Werkstatt meines Händlers hat 2x nachgespannt und 
-		danach war wieder alles ok. War auch erst nach 500 km dort
-
+Mit Vorrat hat man Zeit fuer Suche/Nachschub.
 
 - Antrieb:
 	- 3x Kette (laengt sich mit der Zeit, Schaltung wird ungenauer, Ritzel nutzen sich staerker ab)
@@ -649,6 +725,7 @@ Nach 200 km sollte man bei Neurädern den Erst-Service machen:
 	- Endhuelsen fuer Schaltzug/Bremszug
 	- Endkappen in versch. Ausfuehrungen fuer Schaltzug/Bremszug
 	- Schrauben Flaschenhalter
+	- Schrauben Lenkervorbau
 	- Ventilkappen
 	- ...
 - Pflegeprodukte:
@@ -675,6 +752,16 @@ Alu rostet nicht aber oxidiert weißlich - diese Patina sieht nicht gut aus, wae
 Carbon? Titan?
 
 
+Nach 200 km sollte man bei Neurädern den Erst-Service machen:
+- neue Bowden-Züge längen sich 
+- Speichen müssen nachgespannt werden
+- tats. hatte ich nach 500 km Klimpergeräusche im Hinterrad, der Klang, 
+	wenn man Speichen an den Speichenkreuzpunkten zusammendrückt.;
+	Werkstatt meines Händlers hat 2x nachgespannt und 
+	danach war wieder alles ok. War auch erst nach 500 km dort
+
+
+
 
 ### Radwaesche
 
@@ -695,18 +782,17 @@ Zur Info bin Zweirad Mechaniker und im Amateur Bereich ein erfolgreicher Fahrer 
 
 
 Manche Mechaniker empfehlen weniger als haeufiger zu reinigen.
-Wasser spuelt viel aus, Wasser bleibt irgendwo stehen und laesst korrodieren.
+Wasser spuelt viel aus, 
+Wasser bleibt irgendwo stehen und laesst korrodieren.
 
 
-Motorrad-Reiniger mehr und billiger (hab ich damals vom Fahrradladen bekommen, die würden das auch so machen)
+Motorrad-Reiniger mehr und billiger 
+(hab ich damals vom Fahrradladen bekommen, die würden das auch so machen)
 
 - Sprühflasche 1000 ml, z.B.
 	- JMC Gel-Motorradreiniger
-	- NIGRIN Bike-Care Fahrrad-Reiniger
 
 - Bürsten, 2x Schwämme (Antrieb und Rahmen, sonst schmiert mal Kettenöl auf Rahmen),
-	2x Wassereimer (Dreck und sauber zum Endabspuelen)
-	- mag die Holzbuersten von Peaty's (nicht zu verwechseln mit Pedro's, sehen aber auch ok aus)
 
 - besser: Kärcher Niedrigdruckreiniger (großes Volumen 7L reicht fuer 1 Waesche, nicht kleiner kaufen):
 	Hochdruckreiniger (Tankstelle) vermeiden (bzw. mit viel Abstand nutzen), schießen Schmierung aus den Lagern 
@@ -818,6 +904,13 @@ Motorrad-Reiniger mehr und billiger (hab ich damals vom Fahrradladen bekommen, d
 - TODO
 
 
+### Pedale schmieren
+
+- außen
+- innen
+- TODO
+
+
 
 
 ### Felge zentrieren / Truing
@@ -833,6 +926,7 @@ Fuer Andere reicht ein Kabelbinder an der Sitzstrebe.
 
 - s. Parktool YouTube
 
+TODO
 
 
 
@@ -1091,6 +1185,31 @@ Oeffnen:
 Schliessen:
 
 
+HEADSET:
+	ChatGPT:
+		Die Lagerdimensionen eines Steuersatzes sind genormt, 
+		sodass du Ersatzlager auch von anderen Herstellern verwenden kannst, 
+		solange sie die richtigen Spezifikationen haben.
+		Das bedeutet, du kannst Ersatzlager von anderen Herstellern wie 
+		Cane Creek, FSA, Acros oder Ritchey verwenden, 
+		solange sie dieselben Maße haben.
+		Manche Hersteller spezifizieren den Winkel der Lagersitze (z. B. 36°/45° oder 45°/45°).
+		Stelle sicher, dass dein Ersatzlager den richtigen Winkel hat, um ein optimales Sitzverhalten zu gewährleisten.
+	
+	
+	OVERDRIVE STEERER (Version 1):
+		Giant's original oversized fork steerer-tube technology. 
+		Designed to provide solid front-end steering performance, 
+		the system's oversized headset bearings and tapered steerer tube provide optimal steering stiffness. 
+		Road models feature 1 1/8-inch top and 1 1/4-inch bottom bearings, 
+		while the mountain version features 1 1/8-inch top and 1 1/2-inch bottom bearings.
+		OverDrive provides up to 15 percent more torsional steering stiffness than straight steerer-tube designs. 
+		This translates into much more accurate steering input from a rider's hands, 
+		through the handlebar and stem, 
+		and down to the front wheel. 
+		Whether hammering uphill or carving through a corner, 
+		OverDrive transmits input directly to the front wheel for more precise handling.
+
 
 
 
@@ -1123,6 +1242,14 @@ Unterscheidung:
 Bei meinem Modell waere vorne Konuslager und hinten Cartridge/gedichtetes Industrielager:
 - vorne wirke nur Kraft von oben und hinten (radial); Konus rolle besser als Cartridge (keine Frage von billig oder teuer; auch immer noch in teuren Raedern verbaut)
 - hinten wirken noch seitliche Kraefte durch den Antrieb (axial/torsional), wo Cartridge-Lager stabiler sind
+
+
+
+					Giant-Naben merkst du es oft erst sehr spät, wenn sie rau laufen 
+						und dann sind die Laufflächen innen schon angefressen = irreparabel. 
+						Darum lieber präventiv fetten, nicht erst auf Geräusche warten:
+						Schoenwetterrad: alle 1-2 Jahre
+						Regen/Wetter/Pendler: alle 6 Monate
 
 
 #### Vorbereitungen:
@@ -1455,7 +1582,7 @@ TODO
 | Gore Wear Tights Windstopper           | Schaum         | max 3h   (Winter) | F       | \*\*      | \*\*\*     | Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (" " "); Rest der Hose ist genial, fuhr damit problemlos bei Minustemperaturen
 | Gonso Essential Softshell              | ohne           | &infin;  (Winter) | E       | ?         | \*\*\*     | Winterhose, die ich ueber Sommer-Bibs mit gutem Polster ziehe; muss weniger Winterhosen kaufen
 | Überhose Sportful Supergiara 002 ('24) | ohne           | &infin;  (Sommer) | F       | ?         | \*\*\*     | viele kluge Taschen, duemmste Bundsystem ever: haelt beladene Hose nicht und ist mir irgendwann beim Nachspannen gerissen
-| Überhose Maloja StagiasM Gravel        | ohne           | &infin;  (Sommer) | E       | \*\*\*\   | \*\*\*\*   | richtige Länge, leicht, laser-perforiert, aber nur 1 Tasche (Smartphone)
+| Überhose Maloja StagiasM Gravel        | ohne           | &infin;  (Sommer) | E       | \*\*\*    | \*\*\*\*   | richtige Länge, leicht, laser-perforiert, aber nur 1 Tasche (Smartphone)
 
 
 
@@ -1470,7 +1597,7 @@ TODO
 |---------------------------------------------|-------|--------------|------------|-------------|---------|------------------|------------|--------------------
 | Giant Contact XR Ergo-Control (Stock)       |     8 | 460 / 510 mm | kompakt    | Alu         |    337g | ?                |            | recht leicht für diese Größe
 | Profile Design Sonic Ergo T5+ Lenkeraufsatz |    13 | 348 Länge    | -          | Alu 6061-T6 |         | &gt;100 € (2023) | \*\*\*\*\* | s. Abschnitt "Aerolenker"
-| Moquai Aero Rennradlenker                   |     0 | 420 / 420 mm | kompakt    | Alu 6061    |   "285g"| 27 € (2025)      | \*\*\*\*   | schwerer als mein Giant-460mm-Lenker, hab den Messwert aber nicht mehr in Erinnerung, offiz. Gewicht kann nicht stimmen; sieht aber gut aus; sehr subtil mit Logos/Markierungen, alles schwarz auf schwarz; gute Rampe zu den STIs; flat-tops sehen nicht so ausladend aus
+| Moquai Aero Rennradlenker                   |     0 | 420 / 420 mm | kompakt    | Alu 6061    |   "285g"| 27 € (2025)      | \*\*\*\*   | schwerer als mein Giant-460mm-Lenker, hab den Messwert aber nicht mehr in Erinnerung, offiz. Gewicht kann nicht stimmen; sieht aber gut aus; sehr subtil mit Logos/Markierungen, alles schwarz auf schwarz; gute Rampe zu den STIs; flat-tops nicht zu breit/ausladend; flext spürbar in den drops
 | FSA AGX Adventure Compact                   |    12 | 440 / 500 mm | kompakt    | Alu 6061    |   "325g"| 18 € (2025 Sale) | Todo       |
 
 
@@ -1654,11 +1781,7 @@ TODO muss ich komplett ueberarbeiten bzw. mein tats. Planungs-Spreadsheet verlin
 - Kochset: 
 	- siehe [Reiseküche](#reisekueche)
 - Wasser-Alternativen: 
-	- Adventure Hydration 3-Liter-Cranktank = 4x 750ml-Flaschen; perfekter Schwerpunkt mitte unten im Rad
-		- da SPoF, habe ich noch ein Katadyn-Hydrapak-Wasserfilter-Set (2 Liter), das sich klein packen lässt
-	- Trinkblase in Vollrahmentasche und evtl. Extra-Flasche(n) in den Stem-Bags/Food-Pouches
-	- Cargo-Cages statt Flaschenhalter und dann 2x 1,5l-Flaschen (z.B. aus Edelstahl oder Supermarkt-Plastikflasche)
-	- 2 normale Flaschenhalter mit 1L-Plastik-Flaschen, ausreichend für viele Touren mit Resupply-Punkten
+	- siehe [Reiseküche](#reisekueche)
 - Schlafsystem Fruehling-Sommer-Herbst:
 	- Hauptprobleme: 
 		- Hitze/Kaelte,
@@ -1776,15 +1899,15 @@ see [my Github Wahoo-repository](https://github.com/andre-st/wahoo)
 
 ### Lebensmittel
 
-| Bedarfsart     | Zweck             | Wann        | Priorität | Kommentar
-|----------------|-------------------|-------------|-----------|--------
-| Wasser         | Kreislauf/Kühlung | immer       | primär    | wird ausgeschwitzt
-| Kohlenhydrate  | Energie           | Fahrzeit    | primär    | beim Strampen verbrannt
-| Elektrolyte    | Krampfprävention  | Fahrzeit    | primär    | wird ausgeschwitzt; für Nervensignale an Muskeln
-| Proteine       | Regeneration      | Ruhephasen  | sekundär  | während Leistung kaum Nutzen/evtl. Magenproblem; Muskeln reparieren
+| Prio | Bedarfsart    | Zweck             | Wann            | Bezugsquelle                               | Beispiele                                                          | Kommentar
+|------|---------------|-------------------|-----------------|--------------------------------------------|--------------------------------------------------------------------|-----------|------------------
+|    1 | Wasser        | Kreislauf/Kühlung | immer           | Markt, Tanke, Imbiss &gt; Trinkbrunnen &gt; Friedhof &gt; Anwohner, öff. WC                                           || wird ausgeschwitzt; Naturquellen eher vermeiden/filtern (Landwirt.-/Stadtchemie, Kadaver, ...)
+|    2 | Kohlenhydrate | Energie           | Fahrzeit/Start  | Markt, Tanke, Imbiss, Gaststätte, Drogerie | Brötchen, Banane, _gekochte_ Kartoffeln, Brezel, Laugenstange, Reiswaffel, belegte Brötchen ohne Mayo, Dönerwrap, Rossmann Energy-Gel (Ausnahme) | beim Pedalieren verbrannt; Fettiges vermeiden (Pommes); "bonking" plötz. Müdigkeit; Carboloading
+|    3 | Elektrolyte   | Krampfprävention  | Fahrzeit        | Drogerie                                   | Rossmann Hydraid Trinkpulver-Sticks; Salz in Mineralwasser rühren  | wird ausgeschwitzt; für Nervensignale an Muskeln;  besser vorkaufen und in kleinem Gefäß mitnehmen
+|    4 | Proteine      | Regeneration      | Ruhephasen/Camp | Drogerie, Markt                            | Rossmann Proteinriegel, Thunfischbüchse                            | während Leistung kaum Nutzen/evtl. Magenproblem; Muskeln reparieren
 
 
-Ziel: o.g. Lebensmittel auf kleinstem Stauraum bei geringem Gewicht
+Ziel: halbwegs gesunde Lebensmittel mit guter Nährstoffdichte auf kleinstem Stauraum bei geringem Gewicht
 
 
 Stauraum- und Gewichtsreduktion:
@@ -1809,27 +1932,50 @@ Warme Kueche:
 - ...
 
 
-Zucker gibt zwar Energie, aber schädlich (kleine Kristalle schneiden überall herum) und hängt irgendwann zum Hals raus.
+Zucker gibt zwar kurzfristig Energie, aber schädlich (kleine Kristalle schneiden überall herum) und hängt irgendwann zum Hals raus.
 Abwechslung/Alternativen wichtig.
+"Echtes" Essen auf Dauer bekömmlicher als Spezialfood.
 
 
 
-### Kleine Materialkunde Essgeschirr:
 
-| Material                     | Gesundheit | Waermeleitf. | Gewicht  | Preis    | Kommentar
-|------------------------------|------------|--------------|----------|----------|---------------------
-| Aluminium                    | \*         | \*\*\*       | \*\*     | \*\*\*   | Ablösung bei Abrieb und Säuren (Tomaten etc), Ablagerung im Koerper, komme durch Bluthirnschranke
-| eloxiertes/anodisiertes Alu  | \*         | \*\*\*       | \*\*     | \*\*\*   | festere Schicht gegen Abrieb und Säuren
-| hart-eloxiertes/anod. Alu    | \*\*       | \*\*\*       | \*\*     | \*\*     | noch festere Schicht
-| Edelstahl                    | \*\*\*     | \*           | \*       | \*\*\*   | evtl. minderwertiger Alu-Topf schwerer als hochwert. duenner Edelstahl
-| Duossal                      | \*\*\*     | \*\*         | \*\*     | \*\*     | Duo-StainlessSteel-ALuminium: SS innen, Alu aussen
-| Titan                        | \*\*       | \*           | \*\*\*   | \*       | 
-| Keramik                      |            |              |          |          | 
-| Nylon                        |            |              |          |          | 
-| Silikon lebensmittelecht     |            |              |          |          | 
+### Kleine Materialkunde zum Koch-/Essgeschirr:
+
+| Material                         | Gesundheit&sup1; | Waermeleitf. | Gewicht  | Preis    | Kommentar
+|----------------------------------|------------------|--------------|----------|----------|---------------------
+| Aluminium                        | \*               | \*\*\*       | \*\*     | \*\*\*   | Ablösung bei Abrieb und Säuren (Tomaten etc), Ablagerung im Koerper, komme durch Bluthirnschranke
+| eloxiertes/anodisiertes Alu      | \*               | \*\*\*       | \*\*     | \*\*\*   | festere Schicht gegen Abrieb und Säuren
+| hart-eloxiertes/anod. Alu        | \*\*             | \*\*\*       | \*\*     | \*\*     | noch festere Schicht
+| Edelstahl                        | \*\*\*           | \*           | \*       | \*\*\*   | evtl. minderwertiger Alu-Topf schwerer als hochwert. duenner Edelstahl
+| Duossal                          | \*\*\*           | \*\*         | \*\*     | \*\*     | Duo-StainlessSteel-ALuminium: SS innen, Alu aussen
+| Titan                            | \*\*             | \*           | \*\*\*   | \*       | 
+| Keramik                          |                  |              |          |          | 
+| Porzelan                         | \*\*\*           |              | \*       | \*       | 
+| Silikon lebensmittelecht         | \*               |              |          |          | 
+| Nylon                            | \*               | \-           | \*\*\*   |          | 
+| Polypropylen PP                  | \*               | \-           | \*\*\*   | \*\*\*   | Trinkflaschen hitze-/chemiebeständiger als PET; aus Erdöl
+| Polyethylenterephthalat PET/rPET | \*               | \-           | \*\*\*   | \*\*\*   | Trinkflaschen; 'r' steht für recycled
+| Polylactid PLA/rPLA (Bioplastik) | \*               | \-           | \*\*\*   | \*\*\*   | Trinkflaschen aus Maisstärke oder Zuckerrohr, kompostierbar; aka Polymilchsäure
+| Glas                             | \*\*\*           | \*           | \*       | \*\*     | 
+| Melamin                          | \*               |              | \*       |          | 2023 von Europäischer Chemikalienagentur als besonders besorgniserregender Stoff (SVHC) eingestuft
+| Emaille                          | \*\*             |              | \*       |          | Verzchmelzung (frz. émailler) von Glasstaub mit Eisen o.a.
+| Holz                             |                  |              |          |          | Bakterienfänger durch offene Struktur
+
+&sup1;) Disclaimer: Meinung/Präferenz des Autors, der weder Mediziner noch Chemiker ist
 
 
-### Mein groesseres Kochset:
+
+### Wasser:
+
+- Adventure Hydration 3-Liter-Cranktank = 4x 750ml-Flaschen; perfekter Schwerpunkt mitte unten im Rad
+	- da SPoF, habe ich noch ein Katadyn-Hydrapak-Wasserfilter-Set (2 Liter), das sich klein packen lässt
+- Trinkblase in Vollrahmentasche und evtl. Extra-Flasche(n) in den Stem-Bags/Food-Pouches
+- Cargo-Cages statt Flaschenhalter und dann 2x 1,5l-Flaschen (z.B. aus Edelstahl oder Supermarkt-Plastikflasche)
+- 2 normale Flaschenhalter mit 1L-Plastik-Flaschen, ausreichend für viele Touren mit Resupply-Punkten
+
+
+
+### Mein größeres Kochset:
 
 - 1,5L-Duossal-Topf Trangia (236g) mit: 
 	- 550ml-Titanbecher Toaks (73g)
@@ -1844,8 +1990,8 @@ Abwechslung/Alternativen wichtig.
 	- alles im Netzbeutel
 - Schneidbrett/Nudelsieb Trangia Multidisc 18 cm
 - 25-cm-Nylon-Löffel mit Topf-schonender Silikonlippe GSI Essential Spoon (26g)
-	- lange Titan-Goeffel/Sporks gut fuer Trekking-Tueten, verkratzen aber Toepfe
-	  und muessen bei Gabel/Messer extra verpackt werden, 
+	- anstelle langer Titan-Goeffel/Sporks, die gut fuer Trekking-Tueten sind, aber Toepfe verkratzen;
+	  muessen zudem bei Gabel/Messer extra verpackt werden, 
 	  um nicht durch Drybag o.a. durchzustossen
 - Wasserfilter-Set Katadyn Hydrapak 2l
 - Kaffee-Los 125-ml-Schraubbehälter
@@ -1869,14 +2015,12 @@ Alles andere lässt sich unterwegs lösen.
 - 1,2l Ziploc-Tueten IKEA Istad mit Nudeln, ...
 
 
-### Mein Kalte-Kueche-Kochset:
-
-Ohne Kochset hat man mehr Platz für Lebensmittel = öder aber autarker
+### Mein Kalte-Küche-Kochset:
 
 - Klappbarer Goeffel für Supermarkteinkäufe
 
 
-### Gaskartuschen
+### Gaskartuschen:
 
 - Entsorgung: 
 	- Wertstoffhof, falls nicht entleert, da "toxisch"
@@ -1898,12 +2042,15 @@ Ohne Kochset hat man mehr Platz für Lebensmittel = öder aber autarker
 	(Kerzen sind schon "offenes Feuer")
 
 
+
+
+
 ### Rezepte:
 
 - TODO
 
 
-### Inspiration aus Survival/Bushcraft/Prepping
+### Inspiration aus Survival/Bushcraft/Prepping:
 
 - TODO
 
