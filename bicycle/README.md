@@ -644,10 +644,10 @@ Folgende Liste mit Produkten, die mir mal untergekommen sind:
 | WD40 klassisch                    |                    |                    | für nichts am Rad einsetzen  |                     | immer falsch
 | Finishline Premium-Grease         | Fett               |                    |                              |                     | alte PTFE-Version mit "Trilinium" (Eigenbezeichnung) ersetzt
 | Shimano Premium-Fett              | Fett               |                    |                              |                     |
-| Inbus Schraubensicherung<br>Loctite | Klebstoff        | Loslösen hindern   | Bremsscheiben-Bolzen, Cleats-Schrauben (Schuh), Bremsgriff-Schrauben, Lenker-Schrauben  |  | sicherheitsrelevante Teile; gg. Lockerung durch Vibration; bietet auch Korrossionsschutz; Loctite blau ist niedrigfest bis mittelfest, rot ist hochfest
+| Inbus Schraubensicherung<br>Loctite | Klebstoff        | Loslösen hindern   | Bremsscheiben-Bolzen, Cleats-Schrauben (Schuh), Bremsgriff-Schrauben, Lenker-Schrauben  |  | sicherheitsrelevante Teile; gg. Lockerung durch Vibration; bietet auch Korrossionsschutz (Antiseize extra unnötig; vermischt kann sogar Wirkung aufheben); Loctite blau ist niedrigfest bis mittelfest, rot ist hochfest
 | Liquimoly LM47 Langzeitfett       | Fett (Lagerfett)   | Reibung reduzieren |                              | von Carbon fernhalten (Fett blaeht Carbon-bindendes Epoxidharz)  | 
 | Liquimoly Silikonfett             | Fett (synthetisch) |                    | Carbon                       |                     | 
-| Liquimoly Dry oder Wet Lube       | Öl                 | Reibung reduzieren | Kette im Sommer/Herbstwinter | nicht auf Kassetten-Ritzel (verschmutzt ohne Nutzen), Bremsscheibe | punktuell auf Kettenglieder, nur dort muss Öl hin, sonst sauber; ich verwende einen kleinen, festen flachen Pinsel, Tropfen Öl drauf und streich dann eine Bahn, wdh. insg. 3 Tropfen pro Bahn: sauberste Arbeit und Ergebnis
+| Liquimoly Dry oder Wet Lube       | Öl                 | Reibung reduzieren | Kette im Sommer/Herbstwinter | nicht auf Kassetten-Ritzel (verschmutzt ohne Nutzen), Bremsscheibe | punktuell auf Kettenglieder, nur dort muss Öl hin, sonst sauber
 | Liquimoly Multi-Spray Plus 7      |                    |                    |                              |                     |
 | Nigrin Bike-Care Fahrradreiniger  |                    |                    |                              |                     |
 | Nigrin Bike-Care Feinöl           | Öl (Kriechöl)      |                    | ?                            | nicht auf Bremsscheibe | 
@@ -675,9 +675,9 @@ Folgende Liste mit Produkten, die mir mal untergekommen sind:
 | Pedal-Kurbel-Gewinde               | IPA                    | Shimano Anti-Seize
 | Cleat-Schrauben im Schuh           | ?                      | Shimano Anti-Seize über 90% der Laenge und 10% Schraubensicherung am Ende
 | Sattelstuetze-Sitzrohr             | IPA                    | Shimano Anti-Seize, auch alle Teile des Schraubmechanismus = verhindert Knarzgeraeusche
-| Steuersatz                         | IPA, Muc-off Bio Degreaser + Pinsel zum Saeubern ausgebauter Lager, weniger aggressiv gegen Gummidichtung als Bremsenreiniger | Finishline Premium-Fett auf den Lager-Sitzen, _duenner_ Film um Cartridge Bearings und Gabelkonus, und dick unter der oberen Abdeckkappe (Gummiring) für Wasserdichtigkeit; unten wenig Fett (Dreck), oben mehr (kein Wassereintrag)
-| Griffgummis                        | ?                      | Hand-Sanitizer falls neu aufzuziehen
-| Kette                              | ?                      | Liquimoly Dry bzw. Wet Lube
+| Steuersatz                         | IPA, Muc-off Bio Degreaser + Pinsel zum Saeubern ausgebauter Lager, weniger aggressiv gegen Gummidichtung als Bremsenreiniger | Finishline Premium-Fett auf den Lager-Sitzen, _duenner_ Film um Cartridge Bearings und Gabelkonus, und dick unter der oberen Abdeckkappe (Gummiring) für Wasserdichtigkeit; untere Aufnahme wenig Fett (Dreck), oben mehr (kein Wassereintrag)
+| Griffgummis                        | ?                      | Hand-Sanitizer innen lässt besser rutschen falls neu aufzuziehen, verflüchtigt
+| Kette                              | ?                      | Liquimoly Dry bzw. Wet Lube; ich verwende einen kleinen, festen flachen Pinsel: Tropfen Öl drauf und streich dann eine Bahn, wdh. insg. 3 Tropfen pro Bahn: sauberste Arbeit und Ergebnis
 | Kettenblatt                        | ?                      | ?
 | Kassette                           | ?                      | ?
 | Radwaesche allgemein               | Wasser                 | Mucoff Bike Cleaner; (Kassette besser separiert und mit Bremsenreiniger bearbeiten)
