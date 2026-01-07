@@ -75,6 +75,10 @@ Stern-Bewertungen sind immmer von max. 5 Sternen (1 Stern = schlecht; 5 beste; 3
 	- Kettenstrebe             / Hinterbau
 	- Tretlagergehäuse
 	- Rahmengeometrie
+- Bremsanlage
+	- Bremssattel
+	- Bremsscheibe / Rotor
+	- Bremsbelag
 - Lenker
 	- Unterlenker / Drops
 	- Oberlenker / Tops
@@ -109,19 +113,22 @@ Stern-Bewertungen sind immmer von max. 5 Sternen (1 Stern = schlecht; 5 beste; 3
 	- ...
 - Kadenz: Trittfrequenz gemessen in Umdrehungen pro Minute U/min bzw. rpm
 - Fred: 
-	man kann auf dem Rad durch Kleidungswahl und Modifikationen/Anbauten am Rad 
-	schnell wie ein Clown aussehen ohne es zu merken, verwandt mit MAMIL; 
-	v.a. im Rennrad-Bereich ist Minimalismus/cleane Optik angesehen
+	spöttische Bezeichnung von "ernsthafteren" Rennradfahrern entweder für Radfahrer, die 
+	durch Kleidungswahl und Modifikationen/Anbauten am Rad amateurhaft auf sie wirken.
+	Oder Radfahrer die besonders Pro wirken möchten durch sündhaft teure Profi-Räder und Trikots, 
+	tats. aber normale Sonntags-Radler mit bescheidener Leistung sind.
+	verwandt mit MAMIL; 
+	im Rennrad-Bereich ist Minimalismus/"cleane"/"smarte" Optik angesehen
 - MAMIL: 
-	Middle-aged Men in Lycra; Presswurst-Optik dank Bierbauch im Skinsuit, 
+	"Middle-Aged Men In Lycra"; Presswurst-Optik dank Bierbauch im Skinsuit, 
 	auf dem irgendwelche Logos gedruckt wurden, 
 	was vermeintlich Pro aussehen würde; verwandt mit Fred
+- Zahnarzt:
 - Laufrad: Gesamtheit von
 	- Steckachse
 	- Schnellspanner
 	- Felge
-	- Mantel
-	- Reifen: s. Mantel
+	- Mantel / Reifen
 	- Ventil
 	- Karkasse
 	- Nabe/Hub
@@ -164,8 +171,8 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Lenker                      | Giant Contact Drop Handlebar 460 mm (510 mm im Unterlenker/Flair), Drops-Stil compact bend, 31,8 mm, clip-on compatible, Reach: 10 cm
 | Lenkerband                  | GIANT Cork mit Gel?  Korkband
 | Vorbau (Stem)               | 90mm, 7 Grad, "Giant Sport"?
-| Bremsen                     | Tektro MD-C550 mechanisch, Giant MPH Rotoren [V]160mm, [H]160mm
-| Bremsscheiben               | Torx 25 zu lösen [erprobt]
+| Bremsen                     | Tektro MD-C550 mechanisch; 2-Kolben-Bremssattel/Double piston; 3er Inbus für Bremsbelagnachstellung
+| Bremsscheiben               | Giant MPH Rotoren [V]160mm, [H]160mm; Torx 25 zu lösen [erprobt]
 | Umwerfer  (Front Derailleur)| Shimano Sora ST-R3000
 | Schaltwerk (Rear Derailleur)| Shimano Sora ST-R3000, langer Käfig
 | Schalthebel                 | Shimano Sora ST-R3000, 2x9
@@ -200,7 +207,7 @@ Komponenten abweichend vom Original getauscht/hinzugefügt:
 | Lenker                      | s. Abschnitt Lenker
 | Reifen                      | s. Abschnitt Reifen
 | Sattel                      | s. Abschnitt Sattel
-| Kabel Schaltzug             | Umwerfer hinten: Shimano OT-SP41 Optislick
+| Kabel Schaltzug             | Shimano OT-SP41 Optislick
 | Flaschenhalter              | SKS Germany DUAL SC RH und LH (seitliche Entnahme rechtshändig)
 | Pedale                      | Shimano PD-M8100 clipless, SM-SH56 SPD Cleats
 
@@ -232,23 +239,21 @@ Flipchip:
 ### Korrektes Schalten (Kettenschaltung)
 
 - Gangwechsel erfolgt nur beim Pedalieren
-- im Leerlauf schalten, nicht währenddessen treten, leichtes Antreten
+- im Leerlauf schalten oder zumindest bei leichterem Treten
 - nicht mit Kraft bergauf in neuen Gang treten, sonst kann Bowdenzug reißen o.a.
 - Pedale beim Schalten nicht rückwärts treten
-- vorausschauend schalten (Ampel, Huegel, stockender Verkehr, ...)
+- vorausschauend schalten: Ampel, Huegel, stockender Verkehr, Kinder, ...
 	- vorm Anhalten in leichteren Gang schalten, damit Antreten leichter und weniger belastend fürs Material
 - sonst Gang im Stehen korrigieren: 
-	Vorderbremse ziehen, Rad nach vorne schieben, so dass das Hinterrad in der Luft haengt und dann mit dem eingeklickten Fuß die Kurbel drehen.
-	Alternativ im Stand mit der Hand zw. Ober- und Sattelrohr das Hinterteil heben und mit eingeklicktem Fuß Kurbel drehen
+	- Vorderbremse ziehen, Rad nach vorne schieben, so dass das Hinterrad in der Luft haengt und dann mit dem eingeklickten Fuß die Kurbel drehen.
+	- alternativ im Stand mit der Hand zw. Ober- und Sattelrohr das Hinterteil heben und mit eingeklicktem Fuß Kurbel drehen
 - höhere Trittfrequenz = weniger Belastung für Knie und Gelenke
 - Radler trainieren für Ausdauer nicht Kraft, Kraftreten (hohe Übersetzung) eher sinnlos
 - nicht über Kreuz schalten:
 	- schlecht: kleines Zahnrad hinten (Ritzel) und kleines Zahnrad vorne (Kettenblatt) = klein-klein vermeiden (Kreuz)
 	- schlecht: großes Zahnrad vorne und großes Zahnrad hinten   = groß-groß vermeiden (Kreuz)
-	- gut: klein-mitte hinten und großes vorne
-	- gut: mitte       hinten und groß oder klein vorne
-	- gut: mitte-groß  hinten und klein vorne
-- beim Wiegetritt vorher auf etwas schwereren Gang schalten
+	- alles andere ok
+- beim Wiegetritt vorher auf etwas schwereren Gang schalten; Körpergewicht gibt mehr Power, beim leichten Gang fällt man durch
 
 
 
@@ -284,16 +289,16 @@ da sich paar Sekunden Sicherheitsgewinn nicht lohnen:
 
 | Aspekt        | Bügelschloss Trelock U6 16mm Dicke                                   | Faltschloss ABUS Bordo 6000K BIG  (120cm)                  | Kettenschloss
 |---------------|----------------------------------------------------------------------|------------------------------------------------------------|--------------------------------
-| Installation  | in Rahmen hässlich und sperrig, behindert Trinkflasche etc           | relativ schmal im Rahmen, wird nur breiter zu den Beinen mit mehr Länge, besser als Bügel, aber schön es auch nicht und nimmt Platz für weitere Trinkflasche weg; die Klappe des billigen Plastikhalters bricht schnell und das Schloss kann rausfallen, muss man dann mit einem Klettband ersetzen   | 
+| Installation  | in Rahmen hässlich und sperrig, behindert Trinkflasche etc           | relativ schmal im Rahmen, wird nur breiter zu den Beinen mit mehr Länge, besser als Bügel, aber schön es auch nicht und nimmt Platz für weitere Trinkflasche weg; die Klappe des billigen Plastikhalters bricht schnell und das Schloss kann rausfallen, muss man dann mit einem Klettband ersetzen   |  um Rohre oder Sattelstütze wickelbar; oder Radtasche
 | Abschließen   | Passte bei mir nicht um Rahmen und Hinterrad                         | passt um alles                                             | passt um alles
 | Abschließen   | Kaum Länge oder Durchmesser für Geländer, Bäume, Laternen            | passt um fast alles                                        | passt um fast alles
-| Sicherheit    | 150-€-Akkuflex ~60s, örtl. Unflexibilität kompromittiert Sichtweite  | Flex ~20s(?), wahrscheinlicher in Sichtweite platzierbar   | bei 3 mm: Flex 3s, grosser Bolzenschneider 3s; haelt aber Gelegenheitsdiebe ab und ist dabei widerstandsfaehiger als die Minischloesser
+| Sicherheit    | 150-€-Akkuflex ~60s, örtl. Unflexibilität kompromittiert Sichtweite  | Flex in 20s(?) durch; Rad eher in Sichtweite platzierbar   | bei 3 mm: Flex 3s, grosser Bolzenschneider 3s; haelt aber Gelegenheitsdiebe ab und ist dabei widerstandsfaehiger als die Minischloesser
 | Gewicht       | merkbar hoch mit 1-2 kg                                              | halb so schwer, aber leicht auch nicht                     | bei 3 mm: 300g
 | Preis         | 75 €                                                                 | 130 € überteuert (im Fahrradladen)                         | 40 €
 
 
 
-Wegfahrsperre ohne Schloss gegen Gelegenheitsdiebe bei Sichtweite:
+#### Wegfahrsperre ohne Schloss gegen Gelegenheitsdiebe bei Sichtweite:
 - Kette vom vorderen Zahnrad nehmen 
 - sehr hohen oder sehr niedrigen Gang einlegen
 - Radhelm um Reifen/Rahmen klicken
@@ -302,18 +307,19 @@ Wegfahrsperre ohne Schloss gegen Gelegenheitsdiebe bei Sichtweite:
 - Steckachsen heraus- und mitnehmen
 - kann man irgendwie Bremsen schnell de- und reaktivieren? wenn Dieb schnell losradelt, dann knallt es vllt
 
-Komponentenklau:
+#### Komponentenklau:
 - "schmier ich aushärtende Dichtmasse in die Inbusaufnahme, Hoffnung:da muss man ne zeitlang puhlen....",
 	"So ähnlich mach ich das auch. Ich nehme aber 2-Komponenten Kleber, schmiere damit den Sechskant zu"
 
-Verstecken:
+#### Verstecken:
 - "Laubwäldchen, haben das Rad flachgelegt und mit abgerissenen Zweigen getarnt"
 - mit Cover verhängen? Für Dieb umständlicher an Einzelteile zu kommen und unklar für Dieb, ob sich Aktion lohnt
 	- Rad macht Anschein, dass Besitzer weit entfernt ist und Dieb viel Zeit damit haben könnte 
 		(kann aber dazu führen, dass der zu lange wartet)
 	- Cover möglichst ranzig aussehen lassen; irgendwie Hinweis "gleich wieder da!"?
+- Rad absichtlich hässlich, unverkäuflicher, identifizierbarer machen: Aufkleber, Beschmierungen, Kratzer, ... (eher für Beater-Bike/"Stadthure")
 
-Sonstiges:
+#### Sonstiges:
 - wer dicke Faltschlösser knacken kann, hat Werkzeug auch für Bügelschlösser
 - es heißt: Schloss sollte 10% vom Fahrradpreis kosten
 - dünnere Kabelschlösser gelten als "Geschenkbänder"
@@ -614,7 +620,7 @@ Taeglich am Fahrrad:
 
 
 Allgemein:
-- Auf alles was klemmen soll, kommt (Carbon-)Montagepaste mit Schleifpartikeln
+- Auf alles was klemmen soll, kommt (Carbon/Alu-)Montagepaste mit Schleifpartikeln
 - Auf alles, was sich im Betrieb drehen/bewegen soll, kommt Fett
 - Auf alles, was im Betrieb fest sein soll, aber rein/raus geschraubt werden muss, kommt Montagepaste.
 	Wenn man keine Montagepaste hat, kann man auch einfach Fett nehmen.
@@ -627,7 +633,7 @@ Folgende Liste mit Produkten, die mir mal untergekommen sind:
 
 | Produkt                           | Typ                | Hauptzweck         | Do                           | Don't               | Kommentar
 |-----------------------------------|--------------------|--------------------|------------------------------|---------------------|-----------------------
-| Shimano Anti-Seize<br>Motorex Anti-Seize | Montagepaste| Trennmittel        | Gewinde zw. Kurbel und Pedal, <br>Bolzen Sattelklemmung, <br>Sattelstuetze-Sitzrohr-Klemmung, <br>Gewinde Kurbelarme, <br> Vorbauschrauben | alles mit Carbon (macht Oberflaeche zu glatt), <br>Sattelstreben-Klemmflaeche | Montagepaste mit niedrigem Reibungswert; verhindert Korrosion und Kaltverschweissung von Alu und Stahl; trennt Kontaktflaechen/Festbacken von Metallen = leichtere Enfernbarkeit; nur geringe Schmierung fuer bewegl. Teile (anders als Fett), Partikel koennten sogar Lager/Gewinde beschaedigen; zuvorderst Trennmittel; daempfende Schicht reduziert Knarzgeraeusche von Mikrobewegungen zw Stuetze und Rahmen / Fugen zwischen den Bauteilen aufgefüllt und ein flächiger Kontakt hergestellt also die Haftung verbessert- keine Bewegungen und kein Knacken mehr
+| Shimano Anti-Seize<br>Motorex Anti-Seize | Montagepaste| Trennmittel        | Gewinde zw. Kurbel und Pedal, <br>Bolzen Sattelklemmung, <br>Sattelstuetze-Sitzrohr-Klemmung, <br>Gewinde Kurbelarme, <br> Vorbauschrauben | nicht auf Carbon (macht Oberflaeche zu glatt), <br>Sattelstreben-Klemmflaeche | Montagepaste mit niedrigem Reibungswert; verhindert Korrosion und Kaltverschweissung von Alu und Stahl; trennt Kontaktflaechen/Festbacken von Metallen = leichtere Enfernbarkeit; nur geringe Schmierung fuer bewegl. Teile (anders als Fett), Partikel koennten sogar Lager/Gewinde beschaedigen; zuvorderst Trennmittel; reduziert Knarzgeraeusche von Mikrobewegungen zw Stuetze und Rahmen / Fugen zwischen den Bauteilen aufgefüllt und ein flächiger Kontakt hergestellt also die Haftung verbessert- keine Bewegungen und kein Knacken mehr
 | Motorex 2000                      |                    |                    |                              |                     | "Steckachse und im Steuersatz nicht optimal finde. Durch die Rotationsbewegungen scheint es sich mit der Zeit etwas zu verklumpen."
 | ??? Alu-Montagepaste              | Montagepaste, Reibungspaste | Reibung erhoehen   | Klemmflaeche Alu-Alu (z.B. TT-Aerobars/Auflieger)  || Montagepaste mit hohem Reibungswert; erlaubt Anzug mit weniger Drehmoment/Schraubenvorspannkraft = materialschonender;  alternativ Silikonpaste mit hohem Reibungswert 
 | Muc-off Carbon Gripper<br>Muc-Off Carbon Assembly Paste<br>Finish Line Carbon Fiber Paste<br>Park Tool CSG-2            | Montagepaste, Reibungspaste | Reibung erhoehen   | Klemmflaeche Carbon-\* | Klemmfläche Alu-Alu (knarzt)  | Montagepaste mit hohem Reibungswert; erlaubt Anzug mit weniger Drehmoment/Schraubenvorspannkraft = materialschonender; MucOff Gripper fuer hoeher belastete Sachen wie Vorbau/Lenker/Sattelstuetze
@@ -636,17 +642,17 @@ Folgende Liste mit Produkten, die mir mal untergekommen sind:
 | WD40 Silikonspray                 |                    |                    |                              |                     |
 | WD40 Rostentferner                |                    |                    |                              |                     | 
 | WD40 Kontaktspray                 |                    |                    |                              |                     |
-| WD40 klassisch                    |                    |                    |                              | alles               |
+| WD40 klassisch                    |                    |                    | für nichts am Rad einsetzen  |                     | immer falsch
 | Finishline Premium-Grease         | Fett               |                    |                              |                     | alte PTFE-Version mit "Trilinium" (Eigenbezeichnung) ersetzt
 | Shimano Premium-Fett              | Fett               |                    |                              |                     |
 | Inbus Schraubensicherung<br>Loctite | Klebstoff        | Loslösen hindern   | Bremsscheiben-Bolzen, Cleats-Schrauben (Schuh), Bremsgriff-Schrauben, Lenker-Schrauben  |  | sicherheitsrelevante Teile; gg. Lockerung durch Vibration; bietet auch Korrossionsschutz; Loctite blau ist niedrigfest bis mittelfest, rot ist hochfest
-| Liquimoly LM47 Langzeitfett       | Fett (Lagerfett)   | Reibung reduzieren |                              | Carbon (Fett blaeht Carbon-bindendes Epoxidharz )  | 
+| Liquimoly LM47 Langzeitfett       | Fett (Lagerfett)   | Reibung reduzieren |                              | von Carbon fernhalten (Fett blaeht Carbon-bindendes Epoxidharz)  | 
 | Liquimoly Silikonfett             | Fett (synthetisch) |                    | Carbon                       |                     | 
-| Liquimoly Dry oder Wet Lube       | Öl                 | Reibung reduzieren | Kette im Sommer/Herbstwinter | Kassetten-Ritzel (verschmutzt ohne Nutzen), Bremsscheibe | punktuell auf Kettenglieder, nur dort muss Öl hin, sonst sauber; ich verwende einen kleinen, festen flachen Pinsel, Tropfen Öl drauf und streich dann eine Bahn, wdh. insg. 3 Tropfen pro Bahn: sauberste Arbeit und Ergebnis
+| Liquimoly Dry oder Wet Lube       | Öl                 | Reibung reduzieren | Kette im Sommer/Herbstwinter | nicht auf Kassetten-Ritzel (verschmutzt ohne Nutzen), Bremsscheibe | punktuell auf Kettenglieder, nur dort muss Öl hin, sonst sauber; ich verwende einen kleinen, festen flachen Pinsel, Tropfen Öl drauf und streich dann eine Bahn, wdh. insg. 3 Tropfen pro Bahn: sauberste Arbeit und Ergebnis
 | Liquimoly Multi-Spray Plus 7      |                    |                    |                              |                     |
 | Nigrin Bike-Care Fahrradreiniger  |                    |                    |                              |                     |
-| Nigrin Bike-Care Feinöl           | Öl (Kriechöl)      |                    | ?                            | Bremsscheibe        | 
-| Brunox Turbo-Spray                | Öl (Kriechöl)      | Reinigen           | ?                            | Bremsscheibe        | lockert festgefressene Teile, Schmierun, Wasser fernhalten, Korrossionschutz; wohl ueberall dort falsch, wo WD40 falsch waere
+| Nigrin Bike-Care Feinöl           | Öl (Kriechöl)      |                    | ?                            | nicht auf Bremsscheibe | 
+| Brunox Turbo-Spray                | Öl (Kriechöl)      | Reinigen           | ?                            | nicht auf Bremsscheibe | lockert festgefressene Teile, Schmierun, Wasser fernhalten, Korrossionschutz; wohl ueberall dort falsch, wo WD40 falsch waere
 | Balistol PTFE-Trockenschmierung   | PTFE+Lsgmittel     | Reibung reduzieren | Schrauben, Gewinde, Schaltwerk-Federn/-Gelenke   | | nicht fettig oder klebrig bleibt, sondern eine trockene, schmierende Schicht hinterlässt, die weniger Schmutz und Staub anzieht
 | Würth Bremsenreiniger             | Entfetter          | Entfetten          | Bremsscheibe                 |                     | Bremsenreiniger oft auf Alkoholbasis (alt. reinen Alkohol nehmen)
 | Würth Industrie Clean             | Spezialreiniger    | Etiketten lösen    | Etiketten, Kleberueckstaende |                     | erstaunlich gut z.B. bei Etiketten auf Folientüten (draufsprühen, warten, Etikett fällt komplett spurenlos ab)
@@ -679,6 +685,7 @@ Folgende Liste mit Produkten, die mir mal untergekommen sind:
 | Reifen-Dichtmilch                  | ?                      | Orange Seal Endurance bei allen Nicht-GIANT-Reifen; sonst GIANT Tire Sealant
 | Bremsscheibe                       | IPA oder Wuerth Bremsenreiniger | ?
 | Radlager Vorderrad Konuslager      | Bio Degreaser, IPA, WD40 Rostentferner | Finishline Premium-Grease
+
 
 
 
@@ -737,7 +744,7 @@ Mit Vorrat hat man Zeit fuer Suche/Nachschub.
 
 Verschleiß feststellen:
 - Ersatz-Kettenblatt gegen montiertes Blatt halten und Zaehne vergleichen: Grate, spitzrunde Haifischzaehne, ...
-- Kettenlehre
+- Kettenlehre (Werkzeug)
 - Durchrutschen neuer Ketten
 
 
