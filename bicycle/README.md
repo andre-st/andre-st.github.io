@@ -207,9 +207,9 @@ Komponenten abweichend vom Original getauscht/hinzugefügt:
 | Lenker                      | s. Abschnitt Lenker
 | Reifen                      | s. Abschnitt Reifen
 | Sattel                      | s. Abschnitt Sattel
-| Kabel Schaltzug             | Shimano OT-SP41 Optislick
-| Flaschenhalter              | SKS Germany DUAL SC RH und LH (seitliche Entnahme rechtshändig)
 | Pedale                      | Shimano PD-M8100 clipless, SM-SH56 SPD Cleats
+| Flaschenhalter              | SKS Germany DUAL SC RH und LH (seitliche Entnahme rechtshändig)
+| Kabel Schaltzug             | Shimano OT-SP41 Optislick
 
 
 
@@ -330,14 +330,13 @@ da sich paar Sekunden Sicherheitsgewinn nicht lohnen:
 	sah mal ein Video, wo einer im Laufen mit Kraft und Schwung einfach ein Fahrrad mit sich riss und das Schloss dabei abbrach.
 	Das Schloss hatte sicherlich nicht weniger Masse als so ein dünnes Hiplock.
 	Dieses spontane Wegrollen-Szenario sollte mit solchen Minimalschlössern eigentlich verhindert werden, die sonst nichts anderes verhindern.
-	Der Öffnungscode meines Hiplock hatte sich außerdem um 1 verstellt, ohne dass es großartig eingesetzt wurde
-- das (kaum genutzte) Hiplock Z-Lok hat irgendwann selbständig den Code um eine Ziffernposition verändert
-- verwende aktuell ein 129 cm langes, 300 Gramm schweres, 3mm dickes Stahlketten-Zahlenschloss (Kohlburg Reykjavík),
-	mit dem man auch die Laufräder dazuketten kann und das nicht so leicht abreißbar sein sollte;
-	die Kette kann man während der Fahrt außerdem gut um Sattelstütze/Sitzrohr gewickelt tragen
-	ohne dass es dumm aussieht oder beim Pedalieren stört; sicherer als Kabelschlösser soll es auch sein
-
-
+- das (kaum genutzte) Hiplock Z-Lok hat irgendwann selbständig den Öffnungs-Code um eine Ziffernposition verändert
+- ich hatte das 129 cm lange, 300 Gramm schwere, 3mm dickes Stahlketten-Zahlenschloss _Kohlburg Reykjavík_ verwendet,
+	das auch durch die Laufräder reicht und nicht so leicht abreißbar sein sollte;
+	die Kette kann man während der Fahrt gut um Sattelstütze/Sitzrohr gewickelt tragen.
+	Leider [taugt das Schloss wenig](https://www.amazon.de/gp/customer-reviews/R1WWS0RF0RA7SX?ref=pf_ov_at_pdctrvw_srp), 
+	mit der Kette + alternativem Schloss kann man aber arbeiten
+	![Schloss](lock-kohlburg.jpg)
 
 
 
