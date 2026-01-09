@@ -3,23 +3,22 @@
 
 ## Fehler 1: Endpreis falsch berechnen
 
-| Endpreis (privat\_ohne\_MwSt)                  | Details
+| Endpreis\_(privat\_ohne\_MwSt)                 | Details
 |------------------------------------------------|------------------------------
-| Nettozielbetrag                                | Warenpreis/Gewinn vgl. Mitbietende auf dieser und anderen Plattformen
+| Nettozielbetrag                                | Gewinn; Warenpreis vgl. Mitbietende auf dieser und anderen Plattformen
 | &divide; (1 &minus; Provision&times;(1+MwSt))  | z.B. Booklooker.de  0,069 (6,9%) zzgl Mwst. 0,19 (19%) im Jahr 2025
 | + Porto                                        | DHL/Deutsche Post (zuverlässigste), ... - mind. mit Basis-Sendungsverfolgung
 | + Verpackungsmaterial                          | Luftpolsterumschlag Großbriefe, Maxibriefe, kleine/große Paketkartons, Druckpapier (Quittung, evtl. Versandetikett), Klebestift, Paketband, Hohlraum-Füllmaterial
-| + Verpackungsaufwand                           | passende Verpackung finden, Brief-/Paketmarke online kaufen, ggf. Versandetikett erstellen und drucken (sonst Packstationsdrucker), ...
+| + Verpackungsaufwand                           | passende Verpackung auftreiben, Brief-/Paketmarke online kaufen, ggf. Versandetikett erstellen/drucken/aufkleben (sonst Packstationsdrucker), ...
 | + Übergabeaufwand                              | Weg zur Filiale/Packstation, Zeit in der Warteschlange
 
 
-## Fehler 2: Reale Versandkosten auspreisen
+## Fehler 2: Tatsächliche Versandkosten auspreisen, obwohl sie unattraktiv sind
 
 Ein Käufer empfindet hohe Versandkosten als Verlust, nicht als Gegenwert:
-- Versandkosten wirken wie ein Strafaufschlag an der Kasse, egal ob sie realistisch kalkuliert sind.
-- Über 3 Euro wird als Abzocke wahrgenommen, v.a. wenn der Warenwert auch noch hoch ist 
+- Versandkosten wirken wie ein Strafaufschlag an der Kasse, egal ob sie realistisch kalkuliert sind
 - glaubwürdig niedrige "Deal"-Versandkosten: Anstelle _"27,99 Euro + 5,59 Euro"_ lieber _"27,99 Euro + 2,49 Euro"_.  
-- weniger mentale Reibung beim Kaufabschluss.
+- weniger mentale Reibung beim Kaufabschluss
 - Differenzbetrag auf den Warenpreis schlagen, auch wenn mehr Provision fällig wird
 - "kostenloser Versand" bei Amazon bevorzugt, also abhängig von der Plattformkultur
 - "kostenloser Versand" nachteilig, wenn die Käufer alle Angebote nach Warenpreis (statt Endpreis) sortieren/eyeballen 
@@ -28,12 +27,12 @@ Ein Käufer empfindet hohe Versandkosten als Verlust, nicht als Gegenwert:
 
 ## Fehler 3: Plattformen-Steuertransparenzgesetz (PStTG) vergessen
 
-Stand 2023:
-
-Plattformen müssen Privatverkäufer dem Finanzamt wg. möglicher Besteuerung/Gewerbetätigkeit melden und verlangen z.B. Geburtsdatum und Steuer-ID:
-
 > Gemeldet werden muss, wenn mehr als 30 Verkäufe im Jahr zustande gekommen sind  
 > oder wenn mehr als 2000 Euro Umsatz erwirtschaftet wurden.
+
+Stand 2023 müssen Plattformen erfolgreichere Privatverkäufer dem Finanzamt 
+wg. möglicher Besteuerung/Gewerbetätigkeit melden 
+und verlangen dann z.B. Geburtsdatum und Steuer-ID.
 
 Booklooker.de: https://www.booklooker.de/faq/steuer-privatverkauf/197
 
@@ -43,32 +42,33 @@ Booklooker.de: https://www.booklooker.de/faq/steuer-privatverkauf/197
 > Privatverkauf: keine Garantie, Gewährleistung, Rücknahme oder Haftung für Unfälle oder Schäden. Ein Widerrufsrecht besteht nicht.  
 > Das Produkt ist in gutem Zustand.
 
-- Unangenehmes für Käufer auf etwas Positives enden lassen.
-- "Unfälle" weglassen, wenn man z.B. kein Sportgerät oder Teile dafür verkauft.
-- Alternativ kann man sicherheitskritische Produkte auch als defekt
+- Unangenehmes für Käufer mit etwas Positivem enden lassen.
+- "Unfälle" weglassen, wenn man z.B. kein Sportgerät oder Teile dafür verkauft
+- Alternativ sicherheitskritische Produkte als defekt
 	oder nur dekorativ als Bestandteil von Showroom-Geräten jenseits der Straße oä. verkaufen, 
 	mit Hinweis das jedwede andere Nutzung durch den Käufer zu verantworten ist, 
-	gleichwohl man sehr sorgsam mit dem Produkt umgegangen ist (Drehmomentschlüssel etc). 
+	gleichwohl man sehr sorgsam mit dem Produkt umgegangen ist (Drehmomentschlüssel etc) 
 - vermuten lassen, dass es eine übertriebene/juristische Distanzierung ist, das Produkt aber in Ordnung.
+- überlicherweise am Ende des Inserats; in der Mitte würde es evtl. schneller ignoriert (Sandwich-Methode)
 
 Das ist keine Rechtsberatung, bin kein Anwalt.
 
 
 ## Fehler 5: Versandkosten und Versandmaterial nicht geprüft
 
-Besser wenn Versandkosten schon vorher im Inserats stünden:
+Besser wenn Versandkosten schon vorher im Inserat stünden:
 - Kostenübersicht: [https://www.dhl.de/de/privatkunden/pakete-versenden/portoberater.html](https://www.dhl.de/de/privatkunden/pakete-versenden/portoberater.html)
 - DHL hat Pauschalpreise für Versand innerhalb von Deutschland, Entfernung spielt keine Rolle, Größe und Gewicht aber (Stand 2025)
 - Karton oder Maxibrief-Umschlag in passender Größe vorhanden? wo auftreiben?
-- angebotener Gesamtpreis noch attraktiv, wenn z.B. 7 Euro dazukommen?
-- Warenversand ist auch in günstigeren Groß- und Maxibriefen möglich
+- Angebot noch attraktiv, wenn zum Warenpreis noch 7 Euro dazukommen?
+- Warenversand ist auch in günstigeren Groß- und Maxibriefen möglich (Stand 2025: max. 5 cm Höhe, unter 1 kg)
 - Verpackungsmaterial in der Filiale ist recht teuer; besser paar Kartons aufheben, wenn man eigene Pakete empfängt
 
 
 ## Fehler 6: Käufer nicht prüfen
 
 Zu wissen, dass das Gegenüber gut bewertet ist, beruhigt auch bei Vorkasse.
-Der ist daran interessiert, diese Bewertung beizubehalten und wird weniger nerven.
+Der Käufer ist daran interessiert, diese Bewertung beizubehalten und wird weniger nerven.
 
 
 ## Fehler 7: Als Erster seine Daten nennen
@@ -81,16 +81,19 @@ Besser Käufer zuerst fragen, wohin das Paket gehen soll _bevor_ man Kontodaten,
 
 - klärt, ob Lieferadresse überhaupt in Deutschland ist
 - man offenbart Bots nicht gleich seine persönlichen Daten
-- man committed den Käufer: er de-anonymisiert sich und macht den Verkaufsfortschritt verbindlicher – wird nicht einfach ghosten
+- man committed den Käufer: er de-anonymisiert sich, macht den Verkaufsfortschritt verbindlicher und verlängert den Chatverlauf: 
+	Rücktritt wird nach so viel "Vorleistung" unangenehmer, falls mal etwas komplizierter wird
 - besserer Gesprächsfluss: kein gieriger "Überfall" mit sofortiger Geldforderung, sondern man zeigt erstmal Gebe-Bereitschaft
 
 
-## Fehler 8: Riskanter Käuferschutz statt Vorkasse
+## Fehler 8: Käuferschutz statt Vorkasse
 
 Besser immer Vorkasse per Banküberweisung, nie Käuferschutz nutzen:
-- Käuferschutz verlagert komplettes Risiko auf den Verkäufer: Muss Ware versenden und Käufer kann Zahlung verweigern/zurückbuchen ("nie erhalten")
+- Käuferschutz verlagert komplettes Risiko auf den Verkäufer: 
+	Muss Ware versenden und Käufer kann Zahlung verweigern/zurückbuchen ("nie erhalten")
 - Käuferschutz ist oft mit einer Gebühr verbunden = höherer Endpreis
-- Kleinanzeigen.de-User sind Paypal oder Banküberweisung gewohnt – nichts Ungewöhnliches oder Verdächtiges, v.a. wenn man als Verkäufer schon gut bewertet wurde
+- Kleinanzeigen.de-User sind Paypal oder Banküberweisung gewohnt – nichts Ungewöhnliches oder Verdächtiges, 
+	v.a. wenn man als Verkäufer schon gut bewertet wurde
 - Käuferschutz läuft bei Kleinanzeigen.de über einen fragw. Zahlungsdienstleister im Ausland (Online Payment Platform OPP)
 - "PayPal Freunde" ist zwar gebührenfrei und ohne Käuferschutz, 
 	allerdings AGB-widrig für Geschäftstransaktionen und man macht sich angreifbar durch Käufer
@@ -113,54 +116,53 @@ Kleinanzeigen wird meckern, dass man keine privaten Daten senden soll (sondern K
 > und mich dann mit der Sendungsnummer (DHL) melden.
 >
 > Gruß André
+
 _(Kleinanzeigen.de-Chat)_
 
 
 ## Fehler 9: Ware unzureichend verpackt
 
-Besser Ware in eine wasserabweisende Plastiktüte (Mülltüte, ...) packen 
-und Hohlräume füllen, damit die Ware beim Transport im Paket nicht hin- und herrollt und Schaden nimmt.
-Mehrere lose Gegenstände gegeneinander polstern, sonst reiben sie beim Transport aneinander und nutzen ab.
+Ärger mit Käufer und Post wegen Transportschäden vermeiden:
 
-Bei Paketen bevorzuge ich den Klebe-Etiketten-Drucker direkt an der Packstation (die scannt meine Online-Paketmarke vom Handy-Bildschirm).
-Hier prüfe ich aber trotzdem immer die Druckqualität: 
-Manchmal wird z.B. die Hausnummer unleserlich/uneindeutig gedruckt (Stift mitnehmen).
+- Ware in wasserabweisende Plastiktüte (Mülltüte, ...) packen 
+- Hohlräume füllen, damit die Ware beim Transport im Paket nicht hin- und herrollt
+- mehrere lose Gegenstände gegeneinander polstern, sonst reiben sie beim Transport aneinander
 
-Bei Briefsendungen (meist Bücher) drucke ich die Etiketten zuhause – bei meiner aktuellen Menge noch auf einfachem Papier.
-Selbstgedruckte Etiketten gut aufkleben und die Ecken des Etiketts nochmal mit Paketband o.ä. überkleben, 
-falls der Klebestift während des Transports nicht halten sollte. Briefe kann man nicht an Packstationen aufgeben.
+Korrekte Empfängerdaten:
 
-Die Paket- und Briefmarken kaufe ich online als Bild- bzw. PDF-Datei über:
-https://www.dhl.de/de/privatkunden/pakete-versenden/portoberater.html
-
-Ich bastel die Briefmarke dann direkt auf mein Etikett (Gimp).
-Kann man aber auch separat drucken.
-
-Kann sinnvoll sein, eine Quittung beizulegen nochmal mit vollständigen Absender- und Empfängeradressen.
-Falls das äußere Versandetikett beschädigt und das Paket unzustellbar wird, schaut die Post meines Wissens ins Paket.
+- bei Paketen bevorzuge ich den Klebe-Etiketten-Drucker direkt an der Packstation (die scannt meine Online-Paketmarke vom Handy-Bildschirm).
+	Hier prüfe ich aber trotzdem immer die Druckqualität: 
+	Manchmal wird z.B. die Hausnummer unleserlich/uneindeutig gedruckt (Stift mitnehmen)
+- bei Briefsendungen (meist Bücher) drucke ich die Etiketten zuhause – bei meiner aktuellen Menge noch auf einfachem Papier.
+	Selbstgedruckte Etiketten gut aufkleben und die Ecken des Etiketts nochmal mit Paketband o.ä. überkleben, 
+	falls der Klebestift während des Transports nicht halten sollte. Briefe kann man nicht an Packstationen aufgeben.;
+- Briefe klassische Aufteilung: _"Absender:"_ klein links oben, Briefmarke rechts oben, Empfängeradresse groß rechts unten
+- die Paket- und Briefmarken kaufe ich online als Bild- bzw. PDF-Datei über:  
+	https://www.dhl.de/de/privatkunden/pakete-versenden/portoberater.html  
+	Ich bastel die Briefmarke dann direkt auf mein Etikett (Gimp).
+	Kann man aber auch separat drucken.
+- kann sinnvoll sein, eine Quittung beizulegen nochmal mit vollständigen Absender- und Empfängeradressen.
+	Falls das äußere Versandetikett beschädigt und das Paket unzustellbar wird, schaut die Post meines Wissens ins Paket.
 
 
 ## Fehler 10: Undokumentierter Versand
 
-Besser mit mindestens Basis-Sendungsverfolgung (DHL/Deutsche Post) verschicken.
-Falls man nur Brief (ohne Einschreiben) versendet, dann mit Smartphone ein Foto vom Brief vor dem DHL-Logo der Filiale machen.
-Das Versandetikett sollte auf dem Foto gut lesbar sein. 
+Besser Versand dokumentieren und verfolgbar machen:
 
-An der Packstation mache ich manchmal ein Foto oder Video 
-für evtl. Streitigkeiten mit der Post (z.B. vermeintlich Versanddaten oder -material ungeeignet).
-
-Wenn man es leicht übertreiben möchte, dann kann man sich auch beim Packvorgang filmen oder Zeuge ranholen und den filmen 
-oder etwas unterschreiben lassen (erinnert sich nach paar Wochen sonst nicht mehr).
-
-Ist zwar alles nicht beweisfest, hilft aber Sachen plausibler zu machen - man hat mehr in der Hand als der Andere.
-So ein Foto entschärft außerdem die Ungeduld des Käufers, siehe Fehler 9.
-
-Ich scanne mit der DHL-App die Marke bei Briefen ab (Icon oben rechts beim Suchschlitz in der App),
-damit die Sendung bequem in der Paketverfolgung auftaucht. 
-Dort bearbeite ich auch den Sendungsnamen: "Großbrief KUNDE\_XY WARE\_Z" statt nur "Briefsendung, Briefsendung, Briefsendung".
+- für ungeduldige Käufer: macht Versandbehauptung glaubwürdiger (siehe Fehler 12) – schon erlebt
+- für betrügerische Käufer: "nie erhalten", "war nichts im Paket", "kaputt im Paket", ... – bisher nie erlebt
+- für DHL/Deutsche Post: Falschbehauptung ungeeigneter Versanddaten oder Verpackung, obwohl dokumentiert Etikett vom Packstationsdrucker – davon gelesen
+- für einen selbst: sonst paar Wochen Unklarheit bis sich einer beschwert oder nicht
+- nichts beweisfest, könnte aber eigene Sache plausibler machen - man hat mehr in der Hand als der Andere
+- Brief: schnelles Smartphone-Foto in der DHL-Filiale mit gut lesbarem Versandetikett
+	![Schaltauge](letterproof.jpg)
+- Brief: Briefmarke mit der DHL-App scannen (Icon neben Suchschlitz oben) und Titel bearbeiten:
+	"Großbrief KUNDE\_XY WARE\_Z" statt nur "Briefsendung, Briefsendung, Briefsendung".
+- Packstation: manchmal Foto/Video vom Einlegen (z.B. vermeintlich Versanddaten oder -material ungeeignet)
+- teure Ware oder fragw. Käufer: selten mal Smartphone-Video vom Zustand und Packvorgang, ggf. mit Zeuge (Unterschrift sonst Erinnerungslücke)
 
 
-## Fehler 11: Versand noch vor wirklicher Konto-Gutschrift
+## Fehler 11: Voreiliger Versand
 
 Besser erst handeln, wenn das Geld dem Konto wirklich gutgeschrieben wurde:
 - sofern es keine Echtzeitüberweisungen sind, kann ein Käufer das Geld innerhalb einer bestimmten Zeit wieder zurückbuchen lassen
@@ -185,6 +187,7 @@ es ist wahrscheinlicher dass das Foto stimmt als dass es nicht stimmt.
 > 
 > Wünsche viel Erfolg bei den Projekten / Ich hoffe WARE gefällt und ist von Nutzen / Gute Fahrt
 > Gruß André
+
 _(beim Link hinten die Nummer ersetzen)_
 
 
@@ -196,6 +199,7 @@ damit das mehr oder wenig protokolliert ist.
 Einige Käufer schreiben von sich aus, dass sie das Paket erhalten hätten und alles gut sei.
 
 > prima &#128077;  /  Vielen Dank für die Info &#128077;  /   Danke, werde positiv bewerten &#128077; 
+
 _(Kleinanzeigen.de-Chat)_
 
 
