@@ -9,7 +9,7 @@
 
 ### Hardware on a Budget:
 
-![AeroPress](COOKING-coffee.jpg)
+![AeroPress](coffee.jpg)
 
 | Purpose              | Product                        | Notes
 |----------------------|--------------------------------|---------------------------------

@@ -83,6 +83,7 @@ Stern-Bewertungen sind immmer von max. 5 Sternen (1 Stern = schlecht; 5 beste; 3
 - Lenker
 	- Unterlenker / Drops
 	- Oberlenker / Tops
+	- Hoods
 	- Flair
 	- Dropbar
 	- Flatbar
@@ -172,7 +173,7 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Steuersatzlager unten       | MH-P22  – 34.1 x 46.9 x 7 – 45/45 [erprobt],  OD=46,76 ID=34,0  mm [gemessen]
 | Lenker                      | GIANT Contact XR Ergo-Control(?) Drop 460/510 mm (8&deg; Flair), kompakt, 31,8 mm, Alu, 337g, clip-on compatible, Reach 10 cm
 | Lenkerband                  | GIANT Gel(?) Cork, mittel
-| Vorbau (Stem)               | GIANT Sport(?), 90mm, 7&deg;
+| Vorbau (Stem)               | GIANT Sport(?), 90 mm, 7&deg;
 | Bremsen                     | Tektro MD-C550 mechanisch; 2-Kolben-Bremssattel (Double piston); 3er Inbus für Bremsbelagnachstellung
 | Bremsscheiben               | GIANT MPH Rotoren [V]160mm, [H]160mm, 6 Loch, Torx 25 [erprobt]
 | Umwerfer  (Front Derailleur)| Shimano Sora ST-R3000
@@ -189,7 +190,7 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Laufräder                   | GIANT SX2 Disc-Radsatz, Legierung, tubeless-ready, Laufradsatz 2030g, ??? Speichen, für 150-kg-Fahrrad
 | Felgen-Innenweite           | 25 mm   (innere Felgenbreite/Maulweite/Innenweite) [622x25 steht auf der Felge]
 | Felgen-Außenweite           | 30 mm
-| Felgen-Profil               | 23 mm tief
+| Felgen-Profil               | 23 mm tief, hookless
 | Felgenband                  | GIANT Tubeless Rim Tape 28 mm(?)
 | Laufradnabe Vorderrad       | Konuslager mit 22 freien 1/8"-Kugeln (1 Lücke) (G5–G20 rund / HRC&ge;60 hart) [erprobt]; 2x 19mm-Konusschlüssel [erprobt]
 | Laufradnabe Hinterrad       | angebl. Wälzlager (6902 15×28×7 mm???), stabiler als Konus (Kraftangriff axial/torsional durch Antrieb statt nur radial wie bei besser rollendem Konus)
@@ -203,7 +204,7 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Kabel Schaltzuglängen       | Hülle STI rechts bis Steuerrohr = 51 cm; Hülle Sattel-/Unterrohr bis Schaltkäfig = 62 cm
 
 
-### Komponenten abweichend vom Original getauscht/hinzugefügt:
+#### Komponenten abweichend vom Original getauscht/hinzugefügt:
 
 | Fahrradteil      | Jahr   | Preis     | Wertung     | Neu verbaut                       | Details
 |------------------|--------|-----------|-------------|-----------------------------------|--------------------------------------------
