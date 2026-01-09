@@ -46,6 +46,7 @@ Stern-Bewertungen sind immmer von max. 5 Sternen (1 Stern = schlecht; 5 beste; 3
 
 ## Begriffe
 
+- Klettern: einen Anstieg hochfahren
 - Ritzel: Zahnräder hinten
 - Kettenblatt: Zahnräder vorne
 - Kurbel
@@ -128,11 +129,11 @@ Stern-Bewertungen sind immmer von max. 5 Sternen (1 Stern = schlecht; 5 beste; 3
 	- Steckachse
 	- Schnellspanner
 	- Felge
-	- Mantel / Reifen
+	- Mantel / Drahtreifen (Wire bead) / Faltreifen
 	- Ventil
 	- Karkasse
-	- Nabe/Hub
-	- Lager
+	- Nabe (Hub)
+	- Konuslager/Lagerschale & Konus (Cup & Cone), gedichtetes Lager (Patronenlager/Cartridge Bearing/Wälzlagereinheit/Rillenkugellager)
 	- Speichen
 	- Speichennippel
 	- Speichenmuster
@@ -146,9 +147,9 @@ Stern-Bewertungen sind immmer von max. 5 Sternen (1 Stern = schlecht; 5 beste; 3
 
 ## Modell 
 
-Kaufdatum 9.6.23
+### GIANT REVOLT XL 2   2022/23?
 
-GIANT REVOLT XL 2   2022/23?
+Kaufdatum 9.6.23
 
 Die offizielle, frei zugängliche Spezifikation ist recht dünn; 
 im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
@@ -157,59 +158,72 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Fahrradteil                 | Original verbaut (Stock)
 |-----------------------------|----------------------------
 | Farbe                       | Black Diamond
-| Rahmenset (Frame)           | ALUXX-Aluminium, 12 x 142 mm Steckachse, Scheibe, Flip-Chip-Ausfallende
-| Rahmennummer (Serial No.)   | unterm Tretlager zweigeteilt; bei Giant-Werkstattanfragen immer nennen
+| Systemgewicht               | max. 150 kg; unbedenklich &le;120 kg (20% Reserve); Fahrrad wiegt ca 11 kg
+| Rahmenset (Frame)           | GIANT ALUXX-Aluminium, 12 x 142 mm Steckachse, Scheibe, Flip-Chip-Ausfallende
+| Rahmennummer (Serial No.)   | unterm Tretlager zweigeteilt; bei GIANT-Werkstattanfragen immer nennen
 | Reifenfreiheit (Clearance)  | 53 mm falls Long-Flipchip-Position, 42 mm bei Short-flipchip-Position  [doku]
 | Hinterer Stoßdämpfer        | N/A
 | Pedale                      | N/A
 | Gabel                       | GIANT Revolt Advanced Vollcarbon-Gabel (rly?)
-| Gabelschaft                 | OverDrive-Gabelschaft (OD Version 1) aus Carbon-Verbundwerkstoff; tapered
+| Gabelschaft                 | GIANT OverDrive-Gabelschaft (OD Version 1) aus Carbon-Verbundwerkstoff; tapered/konisch
 | Gabelkonus (Race crown)     | Konus ist nicht separat, sondern im Carbonschaft integriert
 | Steuersatz (Headset)        | voll-integriert (IS): statt Einpress- oder Ausschlagwerkzeug alles mit Hand in Rahmen-Ausbuchtungen legbar
-| Steuersatzlager oben        | MH-P08F – 30.5 x 41.8 x 8 – 45/45	[gemessen]: OD=41,81 ID=30,47 mm
-| Steuersatzlager unten       | MH-P22  – 34.1 x 46.9 x 7 – 45/45	[gemessen]: OD=46,76 ID=34,0  mm
-| Lenker                      | Giant Contact Drop Handlebar 460 mm (510 mm im Unterlenker/Flair), Drops-Stil compact bend, 31,8 mm, clip-on compatible, Reach: 10 cm
-| Lenkerband                  | GIANT Cork mit Gel?  Korkband
-| Vorbau (Stem)               | 90mm, 7 Grad, "Giant Sport"?
-| Bremsen                     | Tektro MD-C550 mechanisch; 2-Kolben-Bremssattel/Double piston; 3er Inbus für Bremsbelagnachstellung
-| Bremsscheiben               | Giant MPH Rotoren [V]160mm, [H]160mm; Torx 25 zu lösen [erprobt]
+| Steuersatzlager oben        | MH-P08F – 30.5 x 41.8 x 8 – 45/45 [erprobt],  OD=41,81 ID=30,47 mm [gemessen]
+| Steuersatzlager unten       | MH-P22  – 34.1 x 46.9 x 7 – 45/45 [erprobt],  OD=46,76 ID=34,0  mm [gemessen]
+| Lenker                      | GIANT Contact XR Ergo-Control(?) Drop 460/510 mm (8&deg; Flair), kompakt, 31,8 mm, Alu, 337g, clip-on compatible, Reach 10 cm
+| Lenkerband                  | GIANT Gel(?) Cork, mittel
+| Vorbau (Stem)               | GIANT Sport(?), 90mm, 7&deg;
+| Bremsen                     | Tektro MD-C550 mechanisch; 2-Kolben-Bremssattel (Double piston); 3er Inbus für Bremsbelagnachstellung
+| Bremsscheiben               | GIANT MPH Rotoren [V]160mm, [H]160mm, 6 Loch, Torx 25 [erprobt]
 | Umwerfer  (Front Derailleur)| Shimano Sora ST-R3000
 | Schaltwerk (Rear Derailleur)| Shimano Sora ST-R3000, langer Käfig
 | Schalthebel                 | Shimano Sora ST-R3000, 2x9
 | Kassette (Cogset)           | Shimano HG400, 11x34
-| Kette                       | KMC X9 mit Missing Link, 114 Glieder
+| Kette                       | KMC X9 EPT mit Missing Link, 114 Glieder
 | Kurbelsatz (Crank)          | FSA Vero Pro
 | Kurbellaenge                | 175 mm	
-| Kettenblatt (Chain ring)    | 48/32T FSA Omega/Vero Pro, 4-ARM, 120/90 mm BCD Lochkreis [abgelesen] ab Modell 2017
-| Kettenlinie                 | 44,5mm-45mm
-| Tretlager (Bottom bracket)  | 68mm BSA threaded bottom bracket (cartridge BB)  oder  FSA MegaExo Pressfit oder  BB-7420 ST Square Taper Bottom Bracket (JIS)???
+| Kettenblatt (Chain ring)    | FSA Omega/Vero Pro 48/32T, 4-ARM, 120/90 mm BCD Lochkreis [abgelesen] ab Modell 2017
+| Kettenlinie                 | 44,5–45 mm
+| Tretlager (Bottom bracket)  | 68mm BSA threaded bottom bracket (cartridge BB)? FSA MegaExo Pressfit?? BB-7420 ST Square Taper (JIS)???
 | Tretlager Achslänge         | ???
-| Laufräder                   | GIANT SX2 Disc-Radsatz, Legierung, tubeless-ready, Laufradsatz ca 2030g
+| Laufräder                   | GIANT SX2 Disc-Radsatz, Legierung, tubeless-ready, Laufradsatz 2030g, ??? Speichen, für 150-kg-Fahrrad
 | Felgen-Innenweite           | 25 mm   (innere Felgenbreite/Maulweite/Innenweite) [622x25 steht auf der Felge]
 | Felgen-Außenweite           | 30 mm
 | Felgen-Profil               | 23 mm tief
-| Laufradnaben (Hub)          | Mischmasch mit Konus vorne, Cartridge hinten: vorne nur radiale Kräfte, hinten axiale/torsionale durch den Antrieb; konus rollt besser, cartridge stabiler
-| Laufradnabe Vorderrad       | Konuslager (Cup&Cone) mit 22 freien 1/8" großen Kugeln (1 Lücke) (ideal zw. G5-G20 rundpoliert und HRC>=60 hart)  [erprobt]; 2x 19mm-Konusschlüssel benoetigt  [erprobt]
-| Laufradnabe Hinterrad       | angeblich mit industrielager sealed bearings (vielleicht: 6902 15×28×7 mm)
-| Reifen (Tyre)               | Giant CrossCut AT 2, 700x38c, schlauchlos, Drahtreifen (Wire bead), 60 TPI, silica based compound, Gewicht: 673g (700x38c)
-| Reifenpannenschutz          | "Defect 2 lite" puncture protection (Pannenschutzgürtel aus leichtem Nylon unter der Lauffläche des Reifens)
-| Sattel                      | Giant Approach
-| Sattelstütze                | Giant D-Fuse, Legierung, 14 mm Versatz
+| Felgenband                  | GIANT Tubeless Rim Tape 28 mm(?)
+| Laufradnabe Vorderrad       | Konuslager mit 22 freien 1/8"-Kugeln (1 Lücke) (G5–G20 rund / HRC&ge;60 hart) [erprobt]; 2x 19mm-Konusschlüssel [erprobt]
+| Laufradnabe Hinterrad       | angebl. Wälzlager (6902 15×28×7 mm???), stabiler als Konus (Kraftangriff axial/torsional durch Antrieb statt nur radial wie bei besser rollendem Konus)
+| Reifen (Tyre)               | GIANT CrossCut AT 2, 700x38C [misst 40 mm], robuster 673g/35€ Semi-Slick-Drahtreifen, tubeless, 60 TPI, Silica-Mischung
+| Reifenpannenschutz          | GIANT "Defect 2 lite" puncture protection Pannenschutzgürtel aus leichtem Nylon unter der Lauffläche des Reifens
+| Reifen-Dichtmilch           | GIANT Tubeless Sealant (angebl. Stans-Dichtmilch; GIANT nennt Stans auch als einzige Alternative)
+| Sattel                      | GIANT Approach, 145 mm
+| Sattelstütze                | GIANT D-Fuse, Legierung, 14 mm Versatz
 | Kabel Bremszug              | 5mm ??
-| Kabel Schaltzug             | 4mm Jagwire LEX 1,1 mm, linear steels strands, non-lubed liner, low-cost; angeblich bis 1,2 mm kompatibel, verbauter Drahtzug scheint 1,2 mm [gemessen]
+| Kabel Schaltzug             | 4mm Jagwire LEX 1,1 mm, linear steels strands, non-lubed liner; angebl. 1,2 mm kompatibel, tats. Draht [misst] wohl 1,2 mm
 | Kabel Schaltzuglängen       | Hülle STI rechts bis Steuerrohr = 51 cm; Hülle Sattel-/Unterrohr bis Schaltkäfig = 62 cm
 
 
-Komponenten abweichend vom Original getauscht/hinzugefügt:
+### Komponenten abweichend vom Original getauscht/hinzugefügt:
 
-| Fahrradteil                 | Neu verbaut
-|-----------------------------|----------------------------
-| Lenker                      | s. Abschnitt Lenker
-| Reifen                      | s. Abschnitt Reifen
-| Sattel                      | s. Abschnitt Sattel
-| Pedale                      | Shimano PD-M8100 clipless, SM-SH56 SPD Cleats
-| Flaschenhalter              | SKS Germany DUAL SC RH und LH (seitliche Entnahme rechtshändig)
-| Kabel Schaltzug             | Shimano OT-SP41 Optislick
+| Fahrradteil      | Jahr   | Preis     | Wertung     | Neu verbaut                       | Details
+|------------------|--------|-----------|-------------|-----------------------------------|--------------------------------------------
+| Lenkeraufsatz    | 2023   | &gt;100 € | \*\*\*\*\*  | Profile Design Sonic Ergo T5+     | 348 mm Länge (13&deg;), Alu 6061-T6
+| Lenker           | 2025   | 27 €      | \*\*\*\*\*  | Moquai Aero Rennradlenker         | 420/420 mm  (0&deg; Flair), kompakt, Alu 6061 "285g"; 4 cm schmaler/sportl. als Erstlenker; Logos subtil; ovalisierte, nicht zu breite Tops; flext in den Drops
+| Lenker           | 2025   | 18 € Sale | Todo        | FSA AGX Adventure Compact         | 440/500 mm (12&deg; Flair), kompakt, Alu 6061 "325g", 2 cm schmaler als Erstlenker, für Bikepacking, Logos übertrieben
+| Lenkerband       | 2023   | 25 €      | \*\*\*\*\*  | Profile Design Aerobar Wrap       | dünn,    gummiartig,  Klebestreifen,        für Lenkeraufsatz; duenner als Dropbar gegen Wurst-Optik; nur Grip, kaum Dämpf.; Bandkante drueckt sich als "Fortsetzungslinie" durch = gleichmäßiges Wickeln
+| Lenkerband       | 2025   | 13 €      | \*\*\*\*    | FSA Ultra-Gel Kork                | mittel,  Kork,        Klebestreifen,        dämpft ohne zu dick aufzutragen, stufig/Grip ok, ging schnell drauf, mit ital. 8 genug Länge; hässl. Finishtape/Barends; Rückstände beim Abwickeln
+| Lenkerband       | 2025   | 13 €      | \*\*\*      | Selle Italia SmooTape Gran Fondo  | 2,5 mm,  Schaumstoff (langweiliger als Kork), Silikonstreifen/Zug,  ½ oder ⅓ wickeln? aus Entfernung stufenfrei; ledrigerer Look ok; weiße Logos = Vogelstange; hässl. Finishtape
+| Lenkerband       | 2025   | 12 €      | Todo        | Selle Italia Smart Tape Greentech | 2,5 mm,  gummiartig,  hält allein auf Zug
+| Lenkerband       | 2025   | 22 €      | Todo        | Cinelli Gel Gork                  | mittel,  Kork,        Klebestreifen,        wie FSA Ultra-Gel Kork (white label produkt?)
+| Lenkerband       | 2025   | 10 €      | Todo        | SRAM SuperCork Bar Tape           | mittel,  Kork,        Klebestreifen,        wie FSA Ultra-Gel Kork (white label produkt?); guenstiges Notfall-Korkband (fahre Shimano)
+| Reifen           | 2025   | 2x 40 €   | Todo        | Tufo Thundero HD                  | 700x40C (41 mm),          je 439g, schneller Gravel-Semi-Slick-Faltreifen,      TPI 130/255, BRR 5/5 (19,2 W), 59ml Orange Endur.; 2,7 bar (105 kg), Stans/Tufo-Sealant wuerden nicht dichten, Orange aber
+| Reifen           | 2025   | 2x 50 €   | Todo        | Michelin Pro 5 TLR                | 700x35C [35 mm gemessen], je 390g, leichter/schneller Allroad-Slick-Faltreifen, TPI 120,     BRR 5/5 (13,8 W), 35ml Orange Endur.; 3,3 bar/offiz. 3,99 bar (105 kg); [Handmontage+Standpumpe]; 32mm bei 105 kg zu hart = Energieverlust (springt/reibt gg realen Asphalt statt verformend zu gleiten) = langsamer/kurveninstabiler/unkomfortabler als 35er
+| Sattel           | 2024   | 100 €     | \*\*\*\*    | Fizik Terra Argo X5               | 160 mm, straff, gut, Hinternposition recht festgelegt; 100 km ohne nennenswerte Probleme
+| Sattel           | 2025   | 93 €      | \*\*\*\*\*  | Ergon SR Allroad Core Comp Men    | M-L, komfortabler, trotzdem noch flach, geht zeitw. ohne Polster, mehr Hinternpositionen; 0 Probleme
+| Pedale           | 2023   | 85 €      | \*\*\*      | Shimano XT PD-T8000               | Plattform-SPD-Kombipedal, mein Übergangspedal fürs Clipless-Lernen; später nie Situation für Plattform gehabt
+| Pedale           | 2024   |           | \*\*\*\*\*  | Shimano XT PD-M8100               | SPD-Klickpedal, SM-SH56 SPD Cleats für Unfall-Präventions-Reflexe
+| Flaschenhalter   | 2023   | 2x 15 €   | \*\*\*\*\*  | SKS Germany DUAL SC RH und LH     | seitliche Entnahme rechtshändig; zerkratzt Flaschen, ansonsten top
+| Kabel Schaltzug  | 2024   | 14 €      | \*\*\*\*\*  | Shimano OT-SP41 Optislick         | Zugseil gleitet gut (STI-Widerstand), gut zu cutten
 
 
 
@@ -226,13 +240,13 @@ Flipchip:
 
 ### Schaltnummerierung / Wording
 
-| Krafttreten, Geschwindigkeit        | Leichttreten für Anstiege (dafür mehr treten)
-|-------------------------------------|--------------------------------------------------
-| hoher Gang                          | niedriger Gang
-| hinten kleinstes Ritzel             | hinten größtes Ritzel
-| letzter Gang                        | erster Gang
-| hohe Übersetzung                    | niedrige Übersetzung
-| Kette weiter vom Fahrrad            | Kette näher am Fahrrad
+| Krafttreten für Speed in Ebene/Abfahrt  | Leichttreten für Anstiege (dafür mehr treten)
+|-----------------------------------------|--------------------------------------------------
+| hoher Gang                              | niedriger Gang
+| hinten kleinstes Ritzel                 | hinten größtes Ritzel
+| letzter Gang                            | erster Gang
+| hohe Übersetzung                        | niedrige Übersetzung
+| Kette weiter vom Fahrrad                | Kette näher am Fahrrad
 
 
 
@@ -248,7 +262,7 @@ Flipchip:
 	- Vorderbremse ziehen, Rad nach vorne schieben, so dass das Hinterrad in der Luft haengt und dann mit dem eingeklickten Fuß die Kurbel drehen.
 	- alternativ im Stand mit der Hand zw. Ober- und Sattelrohr das Hinterteil heben und mit eingeklicktem Fuß Kurbel drehen
 - höhere Trittfrequenz = weniger Belastung für Knie und Gelenke
-- Radler trainieren für Ausdauer nicht Kraft, Kraftreten (hohe Übersetzung) eher sinnlos
+- Radler trainieren für Ausdauer nicht Kraft, Krafttreten (hohe Übersetzung) eher sinnlos
 - nicht über Kreuz schalten:
 	- schlecht: kleines Zahnrad hinten (Ritzel) und kleines Zahnrad vorne (Kettenblatt) = klein-klein vermeiden (Kreuz)
 	- schlecht: großes Zahnrad vorne und großes Zahnrad hinten   = groß-groß vermeiden (Kreuz)
@@ -626,6 +640,29 @@ Allgemein:
 	Fett zu nehmen ist besser, als das Gewinde trocken zu schrauben.
 
 
+
+#### Aktueller Schmierplan:
+
+| Bauteil                            | Vor-Reinigung          | Nachbehandlung 
+|------------------------------------|------------------------|-------------------------
+| Schaltwerk-Roellchen (Pullies)     | nur mechanisch         | ?
+| Schaltwerk-Federn/-Gelenke         | ?                      | Balistol PTFE-Trockenschmierung (Spray); Öl wuerde mehr Dreck anziehen und kann verharzen = schwergaengiger; Alternative Brunox nur bei viel Regen
+| Pedal-Cleat-Federn                 | ?                      | Balistol PTFE-Trockenschmierung (Spray); Alternative Brunox nur bei viel Regen
+| Pedal-Kurbel-Gewinde               | IPA                    | Shimano Anti-Seize
+| Cleat-Schrauben im Schuh           | ?                      | Shimano Anti-Seize über 90% der Laenge und 10% Schraubensicherung am Ende  (nur Schraubensicherung über Länge würde auch reichen, da es ebenfalls trennt und zudem nichts vermischt?)
+| Sattelstuetze-Sitzrohr             | IPA                    | Shimano Anti-Seize, auch alle Teile des Schraubmechanismus = verhindert Knarzgeraeusche (Carbon-Paste mit Partikel erzeugt bei Alu-Alu wie Dreck mehr statt weniger Knarzen)
+| Steuersatz                         | IPA, Muc-off Bio Degreaser + Pinsel zum Saeubern ausgebauter Lager, weniger aggressiv gegen Gummidichtung als Bremsenreiniger | Finishline Premium-Fett auf den Lager-Sitzen, _duenner_ Film um Cartridge Bearings und Gabelkonus, und dick unter der oberen Abdeckkappe (Gummiring) für Wasserdichtigkeit; untere Aufnahme wenig Fett (Dreck), oben mehr (kein Wassereintrag)
+| Griffgummis                        | ?                      | Hand-Sanitizer innen lässt besser rutschen falls neu aufzuziehen, verflüchtigt
+| Kette                              | ?                      | Liquimoly Dry bzw. Wet Lube; ich verwende einen kleinen, festen flachen Pinsel: Tropfen Öl drauf und streich dann eine Bahn, wdh. insg. 3 Tropfen pro Bahn: sauberste Arbeit und Ergebnis
+| Kettenblatt                        | ?                      | ?
+| Kassette                           | ?                      | ?
+| Radwaesche allgemein               | Wasser                 | Mucoff Bike Cleaner; (Kassette besser separiert und mit Bremsenreiniger bearbeiten)
+| Reifen-Dichtmilch                  | ?                      | Orange Seal Endurance bei allen Nicht-GIANT-Reifen; sonst GIANT Tire Sealant
+| Bremsscheibe                       | IPA oder Wuerth Bremsenreiniger        | ?
+| Radlager Vorderrad Konuslager      | Bio Degreaser, IPA, WD40 Rostentferner | Finishline Premium-Grease
+
+
+
 #### Produktliste:
 
 Folgende Liste mit Produkten, die mir mal untergekommen sind:
@@ -665,25 +702,7 @@ Folgende Liste mit Produkten, die mir mal untergekommen sind:
 
 
 
-#### Aktueller Schmierplan:
 
-| Bauteil                            | Vor-Reinigung          | Nachbehandlung 
-|------------------------------------|------------------------|-------------------------
-| Schaltwerk-Roellchen (Pullies)     | nur mechanisch         | ?
-| Schaltwerk-Federn/-Gelenke         | ?                      | Balistol PTFE-Trockenschmierung (Spray); Öl wuerde mehr Dreck anziehen und kann verharzen = schwergaengiger; Alternative Brunox nur bei viel Regen
-| Pedal-Cleat-Federn                 | ?                      | Balistol PTFE-Trockenschmierung (Spray); Alternative Brunox nur bei viel Regen
-| Pedal-Kurbel-Gewinde               | IPA                    | Shimano Anti-Seize
-| Cleat-Schrauben im Schuh           | ?                      | Shimano Anti-Seize über 90% der Laenge und 10% Schraubensicherung am Ende
-| Sattelstuetze-Sitzrohr             | IPA                    | Shimano Anti-Seize, auch alle Teile des Schraubmechanismus = verhindert Knarzgeraeusche
-| Steuersatz                         | IPA, Muc-off Bio Degreaser + Pinsel zum Saeubern ausgebauter Lager, weniger aggressiv gegen Gummidichtung als Bremsenreiniger | Finishline Premium-Fett auf den Lager-Sitzen, _duenner_ Film um Cartridge Bearings und Gabelkonus, und dick unter der oberen Abdeckkappe (Gummiring) für Wasserdichtigkeit; untere Aufnahme wenig Fett (Dreck), oben mehr (kein Wassereintrag)
-| Griffgummis                        | ?                      | Hand-Sanitizer innen lässt besser rutschen falls neu aufzuziehen, verflüchtigt
-| Kette                              | ?                      | Liquimoly Dry bzw. Wet Lube; ich verwende einen kleinen, festen flachen Pinsel: Tropfen Öl drauf und streich dann eine Bahn, wdh. insg. 3 Tropfen pro Bahn: sauberste Arbeit und Ergebnis
-| Kettenblatt                        | ?                      | ?
-| Kassette                           | ?                      | ?
-| Radwaesche allgemein               | Wasser                 | Mucoff Bike Cleaner; (Kassette besser separiert und mit Bremsenreiniger bearbeiten)
-| Reifen-Dichtmilch                  | ?                      | Orange Seal Endurance bei allen Nicht-GIANT-Reifen; sonst GIANT Tire Sealant
-| Bremsscheibe                       | IPA oder Wuerth Bremsenreiniger | ?
-| Radlager Vorderrad Konuslager      | Bio Degreaser, IPA, WD40 Rostentferner | Finishline Premium-Grease
 
 
 
@@ -700,7 +719,7 @@ Mit Vorrat hat man Zeit fuer Suche/Nachschub.
 
 - Antrieb:
 	- 3x Kette (laengt sich mit der Zeit, Schaltung wird ungenauer, Ritzel nutzen sich staerker ab)
-	- 2x Kassette (Ritzel) wird abgeschliffen/verformt und beeintraechtigt Schaltung, Kette rutscht durch bei Kraft)
+	- 2x Kassette (Ritzel) wird abgeschliffen/verformt und beeintraechtigt Schaltung, Kette rutscht durch bei Kraft
 	- 1x Kettenblatt (wird abgeschliffen/verformt, Kette rutscht durch bei Kraft; weniger Verschl. als Ritzel da groesser/mehr Auflage und weniger Kraft); evtl. 2x falls erwartbare Beschaffungsprobleme fuer verwendete Kurbel
 	- 1x Schaltungsrädchen oben (Leitroellchen / Guide Pulley)
 	- 1x Schaltungsrädchen unten (Spannroellchen / Tension Pulley)
@@ -714,11 +733,11 @@ Mit Vorrat hat man Zeit fuer Suche/Nachschub.
 		Messung nicht ueber die Raender (bleiben dick) sondern quer auf die Bremsflaeche) + ggf je 6 Schrauben
 - Lenker:
 	- 2x Lenkerband (loest sich auf, sitzt nicht mehr, reisst)
-	- 4x Haubenabdeckungen/Griffgummi (Bracket Covers bei den Bremsschalthebeln werden ungleichmaessig abgerieben, nicht huebsch; oder Knicke durch Wartungsarbeiten)
+	- 4x Haubenabdeckungen/Griffgummi (Bracket Covers bei den Bremsschalthebeln werden ungleichmaessig abgerieben, nicht huebsch; oder Knicke/Risse durch Wartungsarbeiten am Lenkerband oder der Hebelposition)
 	- 2x Steuersatzlager exakt mit Aussen- und v.a. Innendurchmesser und z.B. 45-Grad-Kanten
 - Laufrad:
 	- ?x Reifenmantel (Profil) wird abgerieben 
-	- 2x seltener Felgenband kann reissen, z.B. bei Wartung
+	- 2x seltener Felgenband kann reissen, z.B. bei Wartung oder durch Reamer/Plug-Gabel bei Tubeless-Panne
 	- ?x Schlauch reisst ein oder Tubeless-Dichtmilch trocknet ein
 	- 6x Ventileinsätze verstopfen durch Dichtmilch, verbiegen beim Aufpumpen oder brechen sogar ab, werden undicht
 	- 4x Speichen brechen (ideal selten), Speichennippel mit Speichenresten nach Bruch, Korrossion
@@ -1226,7 +1245,7 @@ HEADSET:
 
 
 Unterscheidung:
-- [ ] Cartrdige-Lager abgedichtete Industrielager
+- [ ] Cartrdige-Lager abgedichtete Lager
 	- Ein- und Auspresswerkzeug mit korrekten Adaptern/Drifts
 	- Fett
 - [x] Konuslager mit Kugeln
@@ -1245,7 +1264,7 @@ Unterscheidung:
 	- Pinzette zum Einsetzen der Kugeln
 		(evtl. Trick mit eingesetzter Achse einfach die Kugeln reinfallen zu lassen); habe eine von Knipex, funktioniert ganz gut
 
-Bei meinem Modell waere vorne Konuslager und hinten Cartridge/gedichtetes Industrielager:
+Bei meinem Modell waere vorne Konuslager und hinten Cartridge/gedichtetes Lager:
 - vorne wirke nur Kraft von oben und hinten (radial); Konus rolle besser als Cartridge (keine Frage von billig oder teuer; auch immer noch in teuren Raedern verbaut)
 - hinten wirken noch seitliche Kraefte durch den Antrieb (axial/torsional), wo Cartridge-Lager stabiler sind
 
@@ -1440,7 +1459,7 @@ Rotierende Masse, die man beschleunigen oder hochtragen muss: Reifengewicht \* x
 ### Montage
 
 - Laufrichtung des Reifens beachten
-- Reifen-Logo mittig am Ventil positionieren
+- Reifen-Logo mittig am Ventil positionieren: sieht gut/einheitlich aus (Mechanikerstandard) und erleichtert Lochsuche bei Panne, falls Schlauch (gleiche Position vom Ventil/Logo aus)
 - gegenueber des Ventils anfangen entlang beider Seiten nach unten ins Felgenbett zu druecken 
 	(Ventilteil in der Felge hebt sonst Reifen wieder aus der tiefern Felgenmitte) = paar mm mehr Spiel
 - alles in die tiefere Felgenmitte legen = paar mm mehr Spiel; erste Reifenseite evtl möglichst nah am Außenrand
@@ -1491,22 +1510,6 @@ Rotierende Masse, die man beschleunigen oder hochtragen muss: Reifengewicht \* x
 | Reifenbreite   | schmaler                 | breiter                  | max. 3mm Unterschied, sonst wabbeliges Fahrverhalten
 | Rollwiderstand | *entscheidend*           | -                        | für Gesamtgeschw. auf gerader Strecke; lahmer VR weniger Einfluss auf HR als umgekehrt
 | Reifengewicht  | -                        | -                        | Rollwiderstand unabh. vom Reifengewicht sondern von Abroll-Verformung (Material, Aufbau, Breite, Luftdruck) \* Normalkraft auf Reifen (Gewicht Fahrer + Rad, Reifengewicht +300g Bruchteil); aber: leichte Reifen beschleunigen/bremsen schneller und sind agiler in Kurven (Inertia/rotierende Masse), halten Speed aber nicht so lange (Momentum)
-
-
-### Meine Felgen/Naben
-
-Giant SX2		25mm		Giant Tubeless Felgenband 28mm x 4.7m
-
-
-### Meine Reifen
-
-Angaben (Preis, Gewicht etc) beziehen sich immer auf 1 Reifen statt beide.
-
-| Modell                      | Groesse (Real) | Felge innen    | Gewicht | Profil     | Preis (Jahr) | TPI     | BRR          | Tubeless Sealant       | Einsatz         | Druck (Systemgew.) | Montage                          | Reifenbauart | Sonstiges
-|-----------------------------|----------------|----------------|---------|------------|--------------|---------|--------------|------------------------|-----------------|--------------------|----------------------------------|--------------|-------------
-| Giant Crosscut AT 2 (Stock) | 700x38C (40)   | Giant SX2 25mm | 673g    | Semi-Slick | 35 € (2025)  | 60      | ??? (20,0 W) | 59ml Giant (=Stans?)   | Allroad, Gravel | 2,9 bar (105 kg)   |                                  | Drahtreifen  | schwer, unzerstoerbar (seit ~3 Jahren plattenfrei), nicht langsam
-| Tufo Thundero HD            | 700x40C (41)   | Giant SX2 25mm | 439g    | Semi-Slick | 40 € (2025)  | 130/255 | 5/5 (19,2 W) | 59ml Orange Endurance  | Allroad, Gravel | 2,7 bar (105 kg)   |                                  | Faltreifen   | Stans und Tufo-Sealant wuerden nicht dichten, Orange aber ganz gut
-| Michelin Pro 5 TLR          | 700x35C (35)   | Giant SX2 25mm | 390g    | Slick      | 50 € (2025)  | 120     | 5/5 (13,8 W) | 35ml Orange Endurance  | Allroad         | 3,3 bar (105 kg)   | trotz TL: nur Hände + Standpumpe | Faltreifen   | 32mm bei meinem Systemgewicht zu hart = Energieverlust (springt und reibt mehr gegen realen Asphalt statt verformend darüber zu gleiten) = langsamer/kurveninstabiler/unkomfortabler als 35er
 
 
 
@@ -1566,26 +1569,16 @@ TODO
 - Brooks-C17-Oberfläche soll Hosen fressen
 
 
-
-### Meine Sättel
-
-| Modell                                 | Groesse | Einsatz                     | Preis (Jahr) | Bewertung  | Kommentar
-|----------------------------------------|---------|-----------------------------|--------------|------------|------------------------
-| Giant Approach (Stock)                 | 145 mm  | All-Road, Gravel            | ?            | ?          | bin 1 Jahr damit herumgefahren, obwohl "eigentlich" zu schmal
-| Fizik Terra Argo X5                    | 160 mm  | All-Road, Gravel, sportlich | 100 € (2024) | \*\*\*\*   | straff, gut, Polsterhose zwingend
-| Ergon SR Allroad Core Comp Men         | M-L     | All-Road, Langstrecke       |              | \*\*\*\*\* | komfortabler, trotzdem noch vglw. flach, geht sogar eine Weile ohne Polster
-
-
 ### Meine Radhosen
 
 | Modell                                 | Polster        | Einsatz (Saison)  | Sattel  | trocknet  | Bewertung  | Kommentar
 |----------------------------------------|----------------|-------------------|---------|-----------|------------|--------------------------------
 | Gore Wear Bibs                         | Schaum         | max 3h   (Sommer) | G, F, E | \*\*      | \*\*\*     | Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (Oberstoff loest sich und bildet Rubbel-Falten); gute Standard-Hose
-| Gonso SQLab GO M Bibs (2x)             | Gel/Elast. 6mm | max 6h   (Sommer) | F, E    | \*\*\*\*  | \*\*\*\*   | Polsterkomfort konstant gut genug, kein Durchsitzen; Träger beim alten Modell zu kurz; gut fuer Radreisen
-| Castelli Unlimited Ultimate Bib-Liner  | Schaum         | max 2-3h (Sommer) | E       | \*        | \*\*\*\*\* | Progetto X2 Polster genial, guter Sitz der Hose; mein Fav fuer Standardrunden; fuer Radreisen eher ungeeignet; hat Rueckentaschen
-| Gore Wear Tights                       | Schaum         | max 3h   (Herbst) | F       | \*\*      | \*\*\*     | Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (" " "); gute Hose sonst
+| Gonso SQLab GO M Bibs (2x)             | Gel/Elast. 6mm | max 6h   (Sommer) | F, E    | \*\*\*\*  | \*\*\*\*   | Polsterkomfort konstant gut genug, kein Durchsitzen; Träger beim alten Modell zu kurz; *gut fuer Radreisen*
+| Castelli Unlimited Ultimate Bib-Liner  | Schaum         | max 2-3h (Sommer) | E       | \*        | \*\*\*\*\* | Progetto X2 Polster genial, guter Sitz der Hose; mein *Fav fuer Standardrunden*; fuer Radreisen eher ungeeignet; hat Rueckentaschen
+| Gore Wear Tights                       | Schaum         | max 3h   (Herbst) | F       | \*\*      | \*\*\*     | Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores; gute Hose sonst
 | GripGrab AquaRepel Bibs                | Schaum         | max ?    (Herbst) | E       | \*\*      | \*\*\*\*   | Kurze Hose fuer Herbsteinsatz mit Beinlingen bis 8 Grad
-| Gore Wear Tights Windstopper           | Schaum         | max 3h   (Winter) | F       | \*\*      | \*\*\*     | Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (" " "); Rest der Hose ist genial, fuhr damit problemlos bei Minustemperaturen
+| Gore Wear Tights Windstopper           | Schaum         | max 3h   (Winter) | F       | \*\*      | \*\*\*     | Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores; Rest der Hose ist genial, fuhr damit problemlos bei Minustemperaturen
 | Gonso Essential Softshell              | ohne           | &infin;  (Winter) | E       | ?         | \*\*\*     | Winterhose, die ich ueber Sommer-Bibs mit gutem Polster ziehe; muss weniger Winterhosen kaufen
 | Überhose Sportful Supergiara 002 ('24) | ohne           | &infin;  (Sommer) | F       | ?         | \*\*\*     | viele kluge Taschen, duemmste Bundsystem ever: haelt beladene Hose nicht und ist mir irgendwann beim Nachspannen gerissen
 | Überhose Maloja StagiasM Gravel        | ohne           | &infin;  (Sommer) | E       | \*\*\*    | \*\*\*\*   | richtige Länge, leicht, laser-perforiert, aber nur 1 Tasche (Smartphone)
@@ -1596,50 +1589,30 @@ TODO
 ## Lenker
 
 
-### Meine Lenker und Lenkerbänder
+### Lenker und Lenkerbänder
 
-
-| Lenker                                      | Flare | Breite OL/UL | Drop-Shape | Material    | Gewicht | Preis            | Bewertung  | Kommentar
-|---------------------------------------------|-------|--------------|------------|-------------|---------|------------------|------------|--------------------
-| Giant Contact XR Ergo-Control (Stock)       |     8 | 460 / 510 mm | kompakt    | Alu         |    337g | ?                |            | recht leicht für diese Größe
-| Profile Design Sonic Ergo T5+ Lenkeraufsatz |    13 | 348 Länge    | -          | Alu 6061-T6 |         | &gt;100 € (2023) | \*\*\*\*\* | s. Abschnitt "Aerolenker"
-| Moquai Aero Rennradlenker                   |     0 | 420 / 420 mm | kompakt    | Alu 6061    |   "285g"| 27 € (2025)      | \*\*\*\*   | schwerer als mein Giant-460mm-Lenker, hab den Messwert aber nicht mehr in Erinnerung, offiz. Gewicht kann nicht stimmen; sieht aber gut aus; sehr subtil mit Logos/Markierungen, alles schwarz auf schwarz; gute Rampe zu den STIs; flat-tops nicht zu breit/ausladend; flext spürbar in den drops
-| FSA AGX Adventure Compact                   |    12 | 440 / 500 mm | kompakt    | Alu 6061    |   "325g"| 18 € (2025 Sale) | Todo       |
-
-
-1. Flattop-Lenker sind schwerer zu fitten:
+- Flattop-Lenker sind schwerer zu fitten:
 	will man die Drops ebenerdig machen, dann stimmt evtl. das Flattop nicht mehr;
 	evtl. will man flache/ovalisierte Tops nicht ebenerdig sondern 1-n Grad geneigt, 
 	so dass sich der Fahrer bisschen abdrücken kann und nicht flach rüberrutscht;
-2. Compact Dropbar: 
+- Compact Dropbar: 
 	den Bügel von den Tops zu den Hoods ebenerdig ausrichten (nicht die tops); 
 	die Hoods dann uebergangslos ansetzen und den Händen "anbieten" 
 	(sollten gefuehlt autom. in die Hand fallen statt dass die Hand danach suchen muss)
-
-
-
-| Lenkerband                        | Dicke  | Einsatz         | Preis (Jahr) | Feeling     | Anhaftung   | Bewertung  |  Kommentar
-|-----------------------------------|--------|-----------------|--------------|-------------|-------------|------------|---------
-| Giant Cork? (Stock)               | mittel | Allroad, Gravel | ?            | Kork        | ?           | \*\*\*\*\* | war ganz angenehm; scheint stufenfrei/ueberlappungsfrei; 4 Tage Backpacking mit Regen hat ihm den Rest gegeben
-| Profile Design Aerobar Wrap       | dünn   | Road            | 25 € (2023)  | Gummi       | Kleber?     | \*\*\*\*\* | fuer Lenkeraufsatz; duenner als Dropbar, damit keine Wurst-Optik; ausreichend Grip; Bandkante drueckt sich als "Fortsetzungslinie" durch und macht das gleichmäßige wickeln einfach
-| FSA Ultra-Gel Kork                | mittel | Allroad, Gravel | 13 € (2025)  | Kork        | Kleber      | \*\*\*\*   | Band traegt nicht so dick auf, daempft dennoch, Grip ok, sieht gut aus, ging schnell drauf, mit ital. 8 ausreichende Länge; hässl. Abschlussstreifen/Barends; hinterlässt nervige Rückstände auf dem Lenker beim Abwickeln
-| Selle Italia SmooTape Gran Fondo  | 2,5 mm | Allroad         | 13 € (2025)  | Schaumstoff | Silikon/Zug | \*\*\*     | unklar ob auf mitte zu wickeln oder dünnere stufe auf stufe (wie soll das in Biegungen stufenfrei gehen?); Feeling langweiliger als Kork; erscheint aus etwas Entfernung tats. stufenfrei, an den Händen weniger; ledrigerer Look; ist ok, haut mich aber nicht wirklich um; bleib dann auch lieber bei komplett schwarzem Band (weiße Logos = Vogelshit); hässl. Abschlussstreifen
-| Selle Italia Smart Tape Greentech | 2,5 mm | Allroad, Gravel | 12 € (2025)  | Gummi       | nichts/Zug  | Todo       | hält allein auf Zug
-| Cinelli Gel Gork                  | mittel | Allroad, Gravel | 22 € (2025)  | Kork        | Kleber      | Todo       | wie FSA Ultra-Gel Kork (vermutl. white label produkt)
-| SRAM SuperCork Bar Tape           | mittel | Allroad, Gravel | 10 € (2025)  | Kork        | Kleber      | Todo       | wie FSA Ultra-Gel Kork (vermutl. white label produkt); guenstiges Notfall-Korkband (fahre Shimano)
-
-
-1. Lenker mit Aero-Flattops: Reverse-Wrapping ist huebscher, also von oben nach unten in die Drops. 
+- Lenker mit Aero-Flattops: Reverse-Wrapping ist huebscher, also von oben nach unten in die Drops. 
 	Band am Oberlenker dort anfangen/enden lassen, wo das Lenkerrohr noch gleichmäßig dick ist, nicht in die Verjüngung reinkommen, nicht mal bisschen.
 	Nachteil von Reverse: Kante zur Reibrichtung mit der Hand more or less.
 	Falls normale Wicklung, auch dort versuchen, Zipfel zu schneiden, so dass man nur max 2 cm Isoband braucht.
 	Sicherung mit 4 cm Isoband sieht billig aus.
-2. Lenkerband mit Logos: an den Drops angefangen Logos zum Hinterrad ausrichten, also so dass man von Fahrerseite normal ablesen könnte.
+- Lenkerband mit Logos: an den Drops angefangen Logos zum Hinterrad ausrichten, also so dass man von Fahrerseite normal ablesen könnte.
 	Weiße Logos auf schwarzen Lenkerband ergeben einerseits interessantes Muster - gut passend zu weißer Schrift auf dem Reifen;
 	sehen andererseits aber aus wie Hühnerstange bzw. Bestuhlung durch Vogelschar.
 	Erwarte Sprüche.
-3. Abschlussstreifen: Silikon-Reparaturband als besseres finishing tape; dicker als Isotape und etwas gummiartigere Anmutung, wirkt weniger billig;
+- Abschlussstreifen: Silikon-Reparaturband als besseres finishing tape; dicker als Isotape und etwas gummiartigere Anmutung, wirkt weniger billig;
 	zum Tape mitgelieferte Abschlussstreifen waren bei mir bisher immer hässlich
+
+
+TODO Lenker gerade ausrichten
 
 
 
@@ -1797,7 +1770,7 @@ TODO muss ich komplett ueberarbeiten bzw. mein tats. Planungs-Spreadsheet verlin
 	- Isomatte: 
 		- Thermarest Neoair Xlite, bequem und Packmaß noch ok (XL ist schon größerer Klotz als die S-Version in der Werbung)
 	- Schlafsack:
-		- Sommer: Carinthia G90 (hab meinen Carinthia Tropen verkauft: würde auch nichts militärisches mehr kaufen; zivil ist oft sinniger, wenn man nicht mit Waffe einsteigt), 
+		- Sommer: Carinthia G90 (hab meinen Carinthia Tropen verkauft: würde auch nichts militärisches mehr kaufen, da schwerer und Körper mehr Stauraum erwärmen muss; zivil ist oft effektiver/effizienter), 
 			Sommer hat hier morgens schonmal 10-11 Grad
 		- duenner Schlafsack wird gepimpt mit Daunenjacke und Thermohose, die ich auch ausserhalb tragen kann = modularer, platzsparender
 	- Shelter:
@@ -1805,7 +1778,7 @@ TODO muss ich komplett ueberarbeiten bzw. mein tats. Planungs-Spreadsheet verlin
 			Kaputze aber aufhängbar, ideal separate Schnur quer zw. 2 Bäumen spannen und dann Kaputzenschnur dort mittig einhängen;
 			für Sommer vermutl. eher ungeeignet
 		- Wechsel Pathfinder TL Zelt: etwas bulky und ~2 kg, aber noch ok, kein (bequemes) aufrechtes Sitzen, sonst sehr gut/robust, hohe Wassersäule;
-			man kann aber aufrecht sitzen, wenn man dabei aus dem Fenster ragt z.B. beim Kochen; oder aufrechter mit einem Packsack im Rücken
+			man kann aber aufrecht sitzen, wenn man dabei aus dem Fenster ragt z.B. beim Kochen; oder aufrechter mit einem Packsack im Rücken (wie Couch zuhause)
 	- Liner, damit weniger Waesche = mehr Haltbarkeit; alternativ Base-Layer tragen (Multi-use)
 	- Unterlage, damit nichts durchsticht und die Bodenfeuchtigkeit nicht durchdringt (auch im Sommer)
 		- Bundeswehr Elefantenhaut (bulky, schwer, stabil, guenstig)
@@ -1907,7 +1880,7 @@ see [my Github Wahoo-repository](https://github.com/andre-st/wahoo)
 
 | Prio | Bedarfsart    | Zweck             | Wann            | Bezugsquelle                               | Beispiele                                                          | Kommentar
 |------|---------------|-------------------|-----------------|--------------------------------------------|--------------------------------------------------------------------|-----------|------------------
-|    1 | Wasser        | Kreislauf/Kühlung | immer           | Markt, Tanke, Imbiss &gt; Trinkbrunnen &gt; Friedhof &gt; Anwohner, öff. WC                                           || wird ausgeschwitzt; Naturquellen eher vermeiden/filtern (Landwirt.-/Stadtchemie, Kadaver, ...)
+|    1 | Wasser        | Kreislauf/Kühlung | immer           | Markt, Tanke, Imbiss &gt; Trinkbrunnen &gt; Friedhof &gt; Anwohner, Waschbecken öff. WC                        || wird ausgeschwitzt; Naturquellen eher vermeiden oder filtern (Landwirt.-/Stadtchemie, Kadaver, ...)
 |    2 | Kohlenhydrate | Energie           | Fahrzeit/Start  | Markt, Tanke, Imbiss, Gaststätte, Drogerie | Brötchen, Banane, _gekochte_ Kartoffeln, Brezel, Laugenstange, Reiswaffel, belegte Brötchen ohne Mayo, Dönerwrap, Rossmann Energy-Gel (Ausnahme) | beim Pedalieren verbrannt; Fettiges vermeiden (Pommes); "bonking" plötz. Müdigkeit; Carboloading
 |    3 | Elektrolyte   | Krampfprävention  | Fahrzeit        | Drogerie                                   | Rossmann Hydraid Trinkpulver-Sticks; Salz in Mineralwasser rühren  | wird ausgeschwitzt; für Nervensignale an Muskeln;  besser vorkaufen und in kleinem Gefäß mitnehmen
 |    4 | Proteine      | Regeneration      | Ruhephasen/Camp | Drogerie, Markt                            | Rossmann Proteinriegel, Thunfischbüchse                            | während Leistung kaum Nutzen/evtl. Magenproblem; Muskeln reparieren
@@ -1917,13 +1890,13 @@ Ziel: halbwegs gesunde Lebensmittel mit guter Nährstoffdichte auf kleinstem Sta
 
 
 Stauraum- und Gewichtsreduktion:
-- häufiger Nachkauf
+- häufiger Nachkauf entlang der Reisestrecke
 - verdichtet, z.B. Pulverform im Wasser gelöst oder Öl
 - ... 
 
 
 Kalte Kueche &gt; warme Kueche:
-- Kochgelegenheiten/Feuerverbote egal, kleineres Packmaß/größere Mengen, kuerze Dauer, kaum Trinkwasserverbrauch, ...
+- unabhängig von Kochgelegenheiten/Feuerverboten, kleineres Packmaß/größere Mengen, kuerze Dauer, kaum Trinkwasserverbrauch, ...
 - Rossmann Fruechte-Muesli mit Milchpulver oder Haferdrinkpulver, Mandeldrinkpulver leider zu mehlig, 
 	loest sich nicht gut; in 1,2l-Ziploc-Tueten, direkt aus Tuete essbar
 - paar kleine flache Dosen mit Thunfisch-Couscous (363 kcal); sonst nur Zucker eklig
@@ -2013,7 +1986,7 @@ Alles andere lässt sich unterwegs lösen.
 - schmaler Titan-Topf:  Boundless Voyage 900 ml _oder_ Toaks 550 ml
 - 100g-Gaskartusche Optimus
 - Zündstahl, Feuerzeug BIC 
-- Stove Edelrid Kiro St (80g)
+- ~~Stove Edelrid Kiro St (80g)~~ kleinster Gaskocher BRS-3000T (26g)
 - Kaffee-Los 125-ml-Schraubbehälter
 - Kartuschenfuß MSR Universal (33g)
 - stabiler Dosenöffner Nogent 3 Etoiles 04020H Mini-Kim
@@ -2070,7 +2043,7 @@ Alles andere lässt sich unterwegs lösen.
 |--------------------------------------------------------|---------------------------|---------|--------------------
 | [bike24.de](https://bike24.de)                         | alles                     | DHL     | Ruecksende-Etikett direkt im Paket, schneller Versand
 | [bike-discount.de](https://bike-discount.de)           | alles                     | DHL     | oft gute Preise; Ruecksendungen unproblematisch
-| [kugellager-shop.net](https://www.kugellager-shop.net) | Industrielager, Lagerkugeln G10 auf Anfrage  | ? | Edelstahlversionen kaufen
+| [kugellager-shop.net](https://www.kugellager-shop.net) | Wälzlager, Lagerkugeln G10 auf Anfrage  | ? | Edelstahlversionen kaufen
 | [decathlon.de](https://decathlon.de)                   | Kleidung, Bikepacking     | ?       | bisher immer alles bekommen, Ruecksendung unproblematisch; guenstige "Szenetipps" wie brauchbare Forclaz MT100 Daunenjacke oder gut verpackbare Forclaz MT500 Sandalen
 | [agu.com](https://agu.com)                             | Kleidung                  | DHL     | Niederlande, Ruecksendung unproblematisch, manchmal 50% Preisnachlass im Shop
 | [globetrotter.de](https://globetrotter.de)             | Bikepacking               | DHL     | 
