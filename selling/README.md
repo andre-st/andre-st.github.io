@@ -3,32 +3,27 @@
 
 ## Fehler 1: Endpreis falsch berechnen
 
-| Endpreis (privat ohne MwSt)                           | Details
-|-------------------------------------------------------|------------------------------
-| Nettozielbetrag                                       | Warenpreis/Gewinn vgl. Mitbietende auf dieser und anderen Plattformen
-| &divide; (1 &minus; Provision&times;(1 &plus; MwSt))  | z.B. Booklooker.de  0,069 (6,9%) zzgl Mwst. 0,19 (19%) im Jahr 2025
-| + Porto                                               | DHL/Deutsche Post (zuverlässigste), ... - mind. mit Basis-Sendungsverfolgung
-| + Verpackungsmaterial                                 | Luftpolsterumschlag Großbriefe, Maxibriefe, kleine/große Paketkartons, Druckpapier (Quittung, evtl. Versandetikett), Klebestift, Paketband, Hohlraum-Füllmaterial
-| + Verpackungsaufwand                                  | passende Verpackung finden, Brief-/Paketmarke online kaufen, ggf. Versandetikett erstellen und drucken (sonst Packstationsdrucker), ...
-| + Übergabeaufwand                                     | Weg zur Filiale/Packstation, Zeit in der Warteschlange
+| Endpreis (privat\_ohne\_MwSt)                  | Details
+|------------------------------------------------|------------------------------
+| Nettozielbetrag                                | Warenpreis/Gewinn vgl. Mitbietende auf dieser und anderen Plattformen
+| &divide; (1 &minus; Provision&times;(1+MwSt))  | z.B. Booklooker.de  0,069 (6,9%) zzgl Mwst. 0,19 (19%) im Jahr 2025
+| + Porto                                        | DHL/Deutsche Post (zuverlässigste), ... - mind. mit Basis-Sendungsverfolgung
+| + Verpackungsmaterial                          | Luftpolsterumschlag Großbriefe, Maxibriefe, kleine/große Paketkartons, Druckpapier (Quittung, evtl. Versandetikett), Klebestift, Paketband, Hohlraum-Füllmaterial
+| + Verpackungsaufwand                           | passende Verpackung finden, Brief-/Paketmarke online kaufen, ggf. Versandetikett erstellen und drucken (sonst Packstationsdrucker), ...
+| + Übergabeaufwand                              | Weg zur Filiale/Packstation, Zeit in der Warteschlange
 
 
-## Fehler 2: Unattraktiv-reale Versandkosten auspreisen
+## Fehler 2: Reale Versandkosten auspreisen
 
-Verkaufspsychologisch werden hohe Versandkosten beim Käufer als Verlust empfunden, nicht als Gegenwert.
-Versandkosten wirken wie ein Strafaufschlag an der Kasse.
-
-Über 3 Euro wird als Abzocke wahrgenommen, v.a. wenn der Warenwert auch noch hoch ist ("27,99 Euro + 5,59 Euro").
-
-Glaubwürdig niedrige "Deal"-Versandkosten ("27,99 Euro + 2,49 Euro").
-Weniger mentale Reibung beim Kaufabschluss.
-
-Den Differenzbetrag auf den Warenpreis schlagen, auch wenn mehr Provision fällig wird.
-
-"Kostenloser Versand" kann Warenpreis verdächtig machen und nachteilig sein, 
-wenn Käufer nach Preis sortieren und der Versand dort _komplett_ im Warenpreis eingerechnet ist.
-
-Abhängig von der Plattformkultur, bei Amazon wird kostenlos bevorzugt.
+Ein Käufer empfindet hohe Versandkosten als Verlust, nicht als Gegenwert:
+- Versandkosten wirken wie ein Strafaufschlag an der Kasse, egal ob sie realistisch kalkuliert sind.
+- Über 3 Euro wird als Abzocke wahrgenommen, v.a. wenn der Warenwert auch noch hoch ist 
+- glaubwürdig niedrige "Deal"-Versandkosten: Anstelle _"27,99 Euro + 5,59 Euro"_ lieber _"27,99 Euro + 2,49 Euro"_.  
+- weniger mentale Reibung beim Kaufabschluss.
+- Differenzbetrag auf den Warenpreis schlagen, auch wenn mehr Provision fällig wird
+- "kostenloser Versand" bei Amazon bevorzugt, also abhängig von der Plattformkultur
+- "kostenloser Versand" nachteilig, wenn die Käufer alle Angebote nach Warenpreis (statt Endpreis) sortieren/eyeballen 
+	und Versand _komplett_ im Warenpreis eingerechnet ist.
 
 
 ## Fehler 3: Plattformen-Steuertransparenzgesetz (PStTG) vergessen
@@ -36,25 +31,25 @@ Abhängig von der Plattformkultur, bei Amazon wird kostenlos bevorzugt.
 Stand 2023:
 
 Plattformen müssen Privatverkäufer dem Finanzamt wg. möglicher Besteuerung/Gewerbetätigkeit melden und verlangen z.B. Geburtsdatum und Steuer-ID:
-```
-Gemeldet werden muss, wenn mehr als 30 Verkäufe im Jahr zustande gekommen sind oder wenn mehr als 2000 Euro Umsatz erwirtschaftet wurden.
-```
+
+> Gemeldet werden muss, wenn mehr als 30 Verkäufe im Jahr zustande gekommen sind  
+> oder wenn mehr als 2000 Euro Umsatz erwirtschaftet wurden.
+
+Booklooker.de: https://www.booklooker.de/faq/steuer-privatverkauf/197
 
 
 ## Fehler 4: Haftungsausschluss im Inserat vergessen
 
-```
-Privatverkauf: keine Garantie, Gewährleistung, Rücknahme oder Haftung für Unfälle oder Schäden. Ein Widerrufsrecht besteht nicht.
-Das Produkt ist in gutem Zustand.
-```
+> Privatverkauf: keine Garantie, Gewährleistung, Rücknahme oder Haftung für Unfälle oder Schäden. Ein Widerrufsrecht besteht nicht.  
+> Das Produkt ist in gutem Zustand.
 
-Unangenehmes für Käufer auf etwas Positives enden lassen.
-
-"Unfälle" kann man weglassen, wenn man z.B. kein Sportgerät oder Teile dafür verkauft.
-Alternativ kann man sicherheitskritische Produkte auch als defekt oder nur dekorativ als Bestandteil von Showroom-Geräten jenseits der Straße oä. verkaufen, 
-mit Hinweis das jedwede andere Nutzung durch den Käufer zu verantworten ist, 
-gleichwohl man sehr sorgsam mit dem Produkt umgegangen ist (Drehmomentschlüssel etc). 
-Vermuten lassen, dass es eine übertriebene/juristische Distanzierung ist, das Produkt aber in Ordnung.
+- Unangenehmes für Käufer auf etwas Positives enden lassen.
+- "Unfälle" weglassen, wenn man z.B. kein Sportgerät oder Teile dafür verkauft.
+- Alternativ kann man sicherheitskritische Produkte auch als defekt
+	oder nur dekorativ als Bestandteil von Showroom-Geräten jenseits der Straße oä. verkaufen, 
+	mit Hinweis das jedwede andere Nutzung durch den Käufer zu verantworten ist, 
+	gleichwohl man sehr sorgsam mit dem Produkt umgegangen ist (Drehmomentschlüssel etc). 
+- vermuten lassen, dass es eine übertriebene/juristische Distanzierung ist, das Produkt aber in Ordnung.
 
 Das ist keine Rechtsberatung, bin kein Anwalt.
 
@@ -62,7 +57,7 @@ Das ist keine Rechtsberatung, bin kein Anwalt.
 ## Fehler 5: Versandkosten und Versandmaterial nicht geprüft
 
 Besser wenn Versandkosten schon vorher im Inserats stünden:
-- Kostenübersicht: https://www.dhl.de/de/privatkunden/pakete-versenden/portoberater.html  
+- Kostenübersicht: [https://www.dhl.de/de/privatkunden/pakete-versenden/portoberater.html](https://www.dhl.de/de/privatkunden/pakete-versenden/portoberater.html)
 - DHL hat Pauschalpreise für Versand innerhalb von Deutschland, Entfernung spielt keine Rolle, Größe und Gewicht aber (Stand 2025)
 - Karton oder Maxibrief-Umschlag in passender Größe vorhanden? wo auftreiben?
 - angebotener Gesamtpreis noch attraktiv, wenn z.B. 7 Euro dazukommen?
@@ -81,15 +76,13 @@ Der ist daran interessiert, diese Bewertung beizubehalten und wird weniger nerve
 Bei offenen Anfragen wie z.B. Kleinanzeigen.de:
 
 Besser Käufer zuerst fragen, wohin das Paket gehen soll _bevor_ man Kontodaten, Versandkosten etc. nennt.
-- klärt, ob Lieferadresse überhaupt in Deutschland ist
-- man offenbart Bots nicht gleich seine persönlichen Infos
-- man committed den Käufer: er de-anonymisiert sich und macht den Verkauffortschritt verbindlicher – wird nicht einfach ghosten
-- besserer Gesprächsfluss: kein gieriger "Überfall" mit sofortiger Geldforderung, sondern man zeigt erstmal Gebe-Bereitschaft
 
-```
-"Hallo XY, können wir so machen, wohin soll das Paket gesendet werden?"
-```
-(Kleinanzeigen.de-Chat)
+> Hallo XY, können wir so machen, wohin soll das Paket gesendet werden?
+
+- klärt, ob Lieferadresse überhaupt in Deutschland ist
+- man offenbart Bots nicht gleich seine persönlichen Daten
+- man committed den Käufer: er de-anonymisiert sich und macht den Verkaufsfortschritt verbindlicher – wird nicht einfach ghosten
+- besserer Gesprächsfluss: kein gieriger "Überfall" mit sofortiger Geldforderung, sondern man zeigt erstmal Gebe-Bereitschaft
 
 
 ## Fehler 8: Riskanter Käuferschutz statt Vorkasse
@@ -107,21 +100,20 @@ Besser immer Vorkasse per Banküberweisung, nie Käuferschutz nutzen:
 Seit paar Monaten muss der Kontohinhaber bei Banküberweisungen exakt benannt sein. Name steht auf der Bankkarte.
 Kleinanzeigen wird meckern, dass man keine privaten Daten senden soll (sondern Kleinanzeigen-Bezahldienst nutzen), ignorierbar
 
-```
-Alles klar, ich habe hier immer Banküberweisung gemacht:
-
-Empfänger: Andre XXXXXXXX
-IBAN: DEXX XXXX XXXX XXXX XXXX XX
-BIC: XXXXXXXXXXX
-Bank: SPK XXXXXXXXXX
-Zweck: Kleinanz WAREXYZ
-Betrag: 55 Euro
-
-Ich würde davon die Paketmarke kaufen und mich dann mit der Sendungsnummer (DHL) melden. 
-
-Gruß André
-```
-(Kleinanzeigen.de-Chat)
+> Alles klar, ich habe hier immer Banküberweisung gemacht:
+> 
+> Empfänger: Andre XXXXXXXX  
+> IBAN: DEXX XXXX XXXX XXXX XXXX XX  
+> BIC: XXXXXXXXXXX  
+> Bank: SPK XXXXXXXXXX  
+> Zweck: Kleinanz WAREXYZ  
+> Betrag: 55 Euro  
+> 
+> Ich würde davon die Paketmarke kaufen  
+> und mich dann mit der Sendungsnummer (DHL) melden.
+>
+> Gruß André
+_(Kleinanzeigen.de-Chat)_
 
 
 ## Fehler 9: Ware unzureichend verpackt
@@ -170,9 +162,9 @@ Dort bearbeite ich auch den Sendungsnamen: "Großbrief KUNDE\_XY WARE\_Z" statt 
 
 ## Fehler 11: Versand noch vor wirklicher Konto-Gutschrift
 
-Besser sich nicht im Chat von Zahlungsbestätigungen und Fotos von Online-Überweisungen beeindrucken lassen.
-Sofern es keine Echtzeitüberweisungen sind, kann ein Käufer das Geld innerhalb einer bestimmten Zeit wieder zurückbuchen lassen.
-Erst handeln, wenn das Geld dem Konto wirklich gutgeschrieben wurde.
+Besser erst handeln, wenn das Geld dem Konto wirklich gutgeschrieben wurde:
+- sofern es keine Echtzeitüberweisungen sind, kann ein Käufer das Geld innerhalb einer bestimmten Zeit wieder zurückbuchen lassen
+- sich nicht im Chat von Zahlungsbestätigungen und Fotos von Online-Überweisungen beeindrucken lassen
 
 
 ## Fehler 12: Käufer unzureichend über Versand informieren
@@ -183,19 +175,17 @@ Weniger Trara, falls Sendung dauert: Käufer weiß ja, dass es wirklich unterweg
 So ein Foto kann natürlich gefälscht werden, aber so viel kriminielle Energie wird erstmal nicht unterstellt: 
 es ist wahrscheinlicher dass das Foto stimmt als dass es nicht stimmt.
 
-```
-Hallo XY, Paket ist unterwegs:
-
-DHL-Sendungsnummer ist: 123457890
-
-DHL-Link zur Sendungverfolgung: https://www.dhl.de/de/privatkunden/pakete-empfangen/verfolgen.html?piececode=SENDUNGSNUMMER_OHNE_LEERZEICHEN_ETC   
-
-Wichtig: Die Originalverpackung enthält _innerhalb_ der weißen Pappe die Schrauben etc. 
-
-Wünsche viel Erfolg bei den Projekten / Ich hoffe WARE\_Z gefällt und ist von Nutzen / Gute Fahrt
-Gruß André
-```
-(beim Link hinten die Nummer ersetzen)
+> Hallo XY, Paket ist unterwegs:
+>
+> DHL-Sendungsnummer ist: 123457890
+>
+> DHL-Link zur Sendungverfolgung: https://www.dhl.de/de/privatkunden/pakete-empfangen/verfolgen.html?piececode=NUMMER
+>
+> Wichtig: Die Originalverpackung enthält _innerhalb_ der weißen Pappe die Schrauben etc. 
+> 
+> Wünsche viel Erfolg bei den Projekten / Ich hoffe WARE gefällt und ist von Nutzen / Gute Fahrt
+> Gruß André
+_(beim Link hinten die Nummer ersetzen)_
 
 
 ## Fehler 13: Pakete nicht selbst verfolgen
@@ -205,10 +195,8 @@ Je nach Plattform hole ich mir 1-2 Tage nach Zustellung vom Käufer manchmal noc
 damit das mehr oder wenig protokolliert ist. 
 Einige Käufer schreiben von sich aus, dass sie das Paket erhalten hätten und alles gut sei.
 
-```
-prima &#128077;  /  Vielen Dank für die Info &#128077;  /   Danke, werde positiv bewerten &#128077; 
-```
-(Kleinanzeigen.de-Chat)
+> prima &#128077;  /  Vielen Dank für die Info &#128077;  /   Danke, werde positiv bewerten &#128077; 
+_(Kleinanzeigen.de-Chat)_
 
 
 ## Sonstiges
