@@ -1,11 +1,11 @@
 # Internet-Privatverkauf
 
 
-## Fehler 1: Endpreis falsch berechnen
+## Endpreis richtig berechnen
 
 | Endpreis\_(privat\_ohne\_MwSt)                 | Details
 |------------------------------------------------|------------------------------
-| Nettozielbetrag                                | Gewinn; Warenpreis vgl. Mitbietende auf dieser und anderen Plattformen
+| Nettozielbetrag                                | Geldbetrag, den man am Ende tats. auf der Hand haben will; Warenpreis vgl. Mitbietende auf dieser und anderen Plattformen
 | &divide; (1 &minus; Provision&times;(1+MwSt))  | z.B. Booklooker.de  0,069 (6,9%) zzgl Mwst. 0,19 (19%) im Jahr 2025
 | + Porto                                        | DHL/Deutsche Post (zuverlässigste), ... - mind. mit Basis-Sendungsverfolgung
 | + Verpackungsmaterial                          | Luftpolsterumschlag Großbriefe, Maxibriefe, kleine/große Paketkartons, Druckpapier (Quittung, evtl. Versandetikett), Klebestift, Paketband, Hohlraum-Füllmaterial
@@ -13,7 +13,7 @@
 | + Übergabeaufwand                              | Weg zur Filiale/Packstation, Zeit in der Warteschlange
 
 
-## Fehler 2: Tatsächliche Versandkosten auspreisen, obwohl sie unattraktiv sind
+## Reale Versandkosten verschweigen
 
 Ein Käufer empfindet hohe Versandkosten als Verlust, nicht als Gegenwert:
 - Versandkosten wirken wie ein Strafaufschlag an der Kasse, egal ob sie realistisch kalkuliert sind
@@ -25,7 +25,7 @@ Ein Käufer empfindet hohe Versandkosten als Verlust, nicht als Gegenwert:
 	und Versand _komplett_ im Warenpreis eingerechnet ist.
 
 
-## Fehler 3: Plattformen-Steuertransparenzgesetz (PStTG) vergessen
+## Plattformen-Steuertransparenzgesetz (PStTG) 
 
 > Gemeldet werden muss, wenn mehr als 30 Verkäufe im Jahr zustande gekommen sind  
 > oder wenn mehr als 2000 Euro Umsatz erwirtschaftet wurden.
@@ -37,7 +37,7 @@ und verlangen dann z.B. Geburtsdatum und Steuer-ID.
 Booklooker.de: https://www.booklooker.de/faq/steuer-privatverkauf/197
 
 
-## Fehler 4: Haftungsausschluss im Inserat vergessen
+## Haftungsausschluss im Inserat
 
 > Privatverkauf: keine Garantie, Gewährleistung, Rücknahme oder Haftung für Unfälle oder Schäden. Ein Widerrufsrecht besteht nicht.  
 > Das Produkt ist in gutem Zustand.
@@ -54,7 +54,7 @@ Booklooker.de: https://www.booklooker.de/faq/steuer-privatverkauf/197
 Das ist keine Rechtsberatung, bin kein Anwalt.
 
 
-## Fehler 5: Versandkosten und Versandmaterial nicht geprüft
+## Vorher prüfen: Versandkosten und Versandmaterial
 
 Besser wenn Versandkosten schon vorher im Inserat stünden:
 - Kostenübersicht: [https://www.dhl.de/de/privatkunden/pakete-versenden/portoberater.html](https://www.dhl.de/de/privatkunden/pakete-versenden/portoberater.html)
@@ -65,13 +65,13 @@ Besser wenn Versandkosten schon vorher im Inserat stünden:
 - Verpackungsmaterial in der Filiale ist recht teuer; besser paar Kartons aufheben, wenn man eigene Pakete empfängt
 
 
-## Fehler 6: Käufer nicht prüfen
+## Vorher prüfen: den Käufer
 
 Zu wissen, dass das Gegenüber gut bewertet ist, beruhigt auch bei Vorkasse.
 Der Käufer ist daran interessiert, diese Bewertung beizubehalten und wird weniger nerven.
 
 
-## Fehler 7: Als Erster seine Daten nennen
+## Niemals als Erster seine Daten nennen
 
 Bei offenen Anfragen wie z.B. Kleinanzeigen.de:
 
@@ -86,7 +86,7 @@ Besser Käufer zuerst fragen, wohin das Paket gehen soll _bevor_ man Kontodaten,
 - besserer Gesprächsfluss: kein gieriger "Überfall" mit sofortiger Geldforderung, sondern man zeigt erstmal Gebe-Bereitschaft
 
 
-## Fehler 8: Käuferschutz statt Vorkasse
+## Vorkasse statt Käuferschutz
 
 Besser immer Vorkasse per Banküberweisung, nie Käuferschutz nutzen:
 - Käuferschutz verlagert komplettes Risiko auf den Verkäufer: 
@@ -120,7 +120,7 @@ Kleinanzeigen wird meckern, dass man keine privaten Daten senden soll (sondern K
 _(Kleinanzeigen.de-Chat)_
 
 
-## Fehler 9: Ware unzureichend verpackt
+## Ware richtig verpacken
 
 Ärger mit Käufer und Post wegen Transportschäden vermeiden:
 
@@ -145,7 +145,7 @@ Korrekte Empfängerdaten:
 	Falls das äußere Versandetikett beschädigt und das Paket unzustellbar wird, schaut die Post meines Wissens ins Paket.
 
 
-## Fehler 10: Undokumentierter Versand
+## Versand dokumentieren
 
 Besser Versand dokumentieren und verfolgbar machen:
 
@@ -162,17 +162,17 @@ Besser Versand dokumentieren und verfolgbar machen:
 - teure Ware oder fragw. Käufer: selten mal Smartphone-Video vom Zustand und Packvorgang, ggf. mit Zeuge (Unterschrift sonst Erinnerungslücke)
 
 
-## Fehler 11: Voreiliger Versand
+## Niemals voreilig versenden
 
 Besser erst handeln, wenn das Geld dem Konto wirklich gutgeschrieben wurde:
 - sofern es keine Echtzeitüberweisungen sind, kann ein Käufer das Geld innerhalb einer bestimmten Zeit wieder zurückbuchen lassen
 - sich nicht im Chat von Zahlungsbestätigungen und Fotos von Online-Überweisungen beeindrucken lassen
 
 
-## Fehler 12: Käufer unzureichend über Versand informieren
+## Käufer richtig über Versand informieren
 
 Besser Käufer die DHL-Sendungsnummer und einen Link zur Sendungverfolgung nennen. 
-Falls man nur einen Brief hat, dann sendet man ein Foto (siehe Fehler 8) statt der Nummer – das beruhigt den Käufer (anstelle rein verbaler Versandbehauptungen).
+Falls man nur einen Brief hat, dann sendet man ein Foto (siehe Fehler 10) statt der Nummer – das beruhigt den Käufer (anstelle rein verbaler Versandbehauptungen).
 Weniger Trara, falls Sendung dauert: Käufer weiß ja, dass es wirklich unterweg ist. 
 So ein Foto kann natürlich gefälscht werden, aber so viel kriminielle Energie wird erstmal nicht unterstellt: 
 es ist wahrscheinlicher dass das Foto stimmt als dass es nicht stimmt.
@@ -191,7 +191,8 @@ es ist wahrscheinlicher dass das Foto stimmt als dass es nicht stimmt.
 _(beim Link hinten die Nummer ersetzen)_
 
 
-## Fehler 13: Pakete nicht selbst verfolgen
+
+## Pakete selbst verfolgen / After-Sales
 
 Besser selbst ab und zu in der DHL-App/Website kontrollieren.
 Je nach Plattform hole ich mir 1-2 Tage nach Zustellung vom Käufer manchmal noch ein "alles in Ordnung" ab, 
@@ -203,7 +204,8 @@ Einige Käufer schreiben von sich aus, dass sie das Paket erhalten hätten und a
 _(Kleinanzeigen.de-Chat)_
 
 
-## Sonstiges
+
+## Stornierung
 
 Du kannst eine ungenutzte Internet-Paketmarke übrigens auch wieder stornieren, dann bekommst das Geld von der DHL wieder zurücküberwiesen.
 
