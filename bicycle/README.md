@@ -1,6 +1,6 @@
 # Fahrrad
 
-_"Driving a car is like watching a movie, but riding a bike is like acting in one."_
+> Driving a car is like watching a movie, but riding a bike is like acting in one.
 
 _ACHTUNG: Alles work-in-progress hier, mag sich alles ändern_
 
@@ -30,12 +30,14 @@ Stern-Bewertungen sind immmer von max. 5 Sternen (1 Stern = schlecht; 5 beste; 3
 	- Felge zentrieren / Truing
 	- Bowdenzuege ersetzen
 	- Steuersatz (Headset), Gabel
+	- Lenker zentrieren
 	- Radlager
 	- Dichtmilch erneuern
 - [Herbst/Winter](#herbst-winter)
 - [Reifen](#reifen)
 - [Sattel](#sattel)
 - [Lenker](#lenker)
+- [Hygiene](#hygiene)
 - [Bikepacking](#bikepacking)
 - [Tourplanung](#tourplanung)
 - [Reisekueche](#reisekueche)
@@ -190,11 +192,11 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Laufräder                   | GIANT SX2 Disc-Radsatz, Legierung, tubeless-ready, Laufradsatz 2030g, ??? Speichen, für 150-kg-Fahrrad
 | Felgen-Innenweite           | 25 mm   (innere Felgenbreite/Maulweite/Innenweite) [622x25 steht auf der Felge]
 | Felgen-Außenweite           | 30 mm
-| Felgen-Profil               | 23 mm tief, hookless
+| Felgen-Profil               | 23 mm tief, Tubeless (Rim bead lock+seat) mit Hooks (tats. nicht hookless)
 | Felgenband                  | GIANT Tubeless Rim Tape 28 mm(?)
 | Laufradnabe Vorderrad       | Konuslager mit 22 freien 1/8"-Kugeln (1 Lücke) (G5–G20 rund / HRC&ge;60 hart) [erprobt]; 2x 19mm-Konusschlüssel [erprobt]
 | Laufradnabe Hinterrad       | angebl. Wälzlager (6902 15×28×7 mm???), stabiler als Konus (Kraftangriff axial/torsional durch Antrieb statt nur radial wie bei besser rollendem Konus)
-| Reifen (Tyre)               | GIANT CrossCut AT 2, 700x38C [misst 40 mm], robuster 673g/35€ Semi-Slick-Drahtreifen, tubeless, 60 TPI, Silica-Mischung
+| Reifen (Tyre)               | GIANT CrossCut AT 2, 700x38C [misst 40 mm], robuster 680g [gewogen] / 35€ Semi-Slick-Drahtreifen, tubeless, 60 TPI, Silica-Mischung
 | Reifenpannenschutz          | GIANT "Defect 2 lite" puncture protection Pannenschutzgürtel aus leichtem Nylon unter der Lauffläche des Reifens
 | Reifen-Dichtmilch           | GIANT Tubeless Sealant (angebl. Stans-Dichtmilch; GIANT nennt Stans auch als einzige Alternative)
 | Sattel                      | GIANT Approach, 145 mm
@@ -212,9 +214,9 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Lenker           | 2025   | 27 €      | \*\*\*\*\*  | Moquai Aero Rennradlenker         | 420/420 mm  (0&deg; Flair), kompakt, Alu 6061 "285g"; 4 cm schmaler/sportl. als Erstlenker; Logos subtil; ovalisierte, nicht zu breite Tops; flext in den Drops
 | Lenker           | 2025   | 18 € Sale | Todo        | FSA AGX Adventure Compact         | 440/500 mm (12&deg; Flair), kompakt, Alu 6061 "325g", 2 cm schmaler als Erstlenker, für Bikepacking, Logos übertrieben
 | Lenkerband       | 2023   | 25 €      | \*\*\*\*\*  | Profile Design Aerobar Wrap       | dünn,    gummiartig,  Klebestreifen,        für Lenkeraufsatz; duenner als Dropbar gegen Wurst-Optik; nur Grip, kaum Dämpf.; Bandkante drueckt sich als "Fortsetzungslinie" durch = gleichmäßiges Wickeln
-| Lenkerband       | 2025   | 13 €      | \*\*\*\*    | FSA Ultra-Gel Kork                | mittel,  Kork,        Klebestreifen,        dämpft ohne zu dick aufzutragen, stufig/Grip ok, ging schnell drauf, mit ital. 8 genug Länge; hässl. Finishtape/Barends; Rückstände beim Abwickeln
-| Lenkerband       | 2025   | 13 €      | \*\*\*      | Selle Italia SmooTape Gran Fondo  | 2,5 mm,  Schaumstoff (langweiliger als Kork), Silikonstreifen/Zug,  ½ oder ⅓ wickeln? aus Entfernung stufenfrei; ledrigerer Look ok; weiße Logos = Vogelstange; hässl. Finishtape
-| Lenkerband       | 2025   | 12 €      | Todo        | Selle Italia Smart Tape Greentech | 2,5 mm,  gummiartig,  hält allein auf Zug
+| Lenkerband       | 2025   | 13 €      | \*\*\*\*    | FSA Ultra-Gel Kork                | mittel,  Kork,        Klebestreifen (Rückstände),  dämpft ohne zu dick aufzutragen, stufig/Grip ok, ging schnell drauf, mit ital. 8 genug Länge; hässl. Finishtape/Barends
+| Lenkerband       | 2025   | 13 €      | \*\*\*      | Selle Italia SmooTape Gran Fondo  | 2,5 mm,  Schaumstoff (langweiliger als Kork), Silikonstreifen/Zug,  ½ oder ⅓ wickeln? aus Entfernung stufenfrei (auch nicht besser als andere); ledrigerer Look ok; weiße Logos = Vogelstange; hässl. Finishtape
+| Lenkerband       | 2025   | 12 €      | \*\*\*      | Selle Italia Smart Tape Greentech | 2,5 mm,  gummiartig wie die Hoods (kein Handschmeichler wie Kork), hält allein auf Zug (gut), wenig Daempfung trotz Dicke (nur Handfüller), integrierte "Endkappe" laesst sich verdrehen und loest Band (ist nur auf Zug) und verlangt kürzere 2. Wicklung kuerzer (unheitlich) oder haessliche Beule; Laenge passt mit ⅓-Wicklung und ital. Acht gerade so auf 42cm-Flattop-Dropbar inkl. Flattop-Bereich (stufenfrei!); klebriger gummi hält dreck fest, aber gut zu reinigen und wiederzuverwenden; unempfindlicher gegen Regen
 | Lenkerband       | 2025   | 22 €      | Todo        | Cinelli Gel Gork                  | mittel,  Kork,        Klebestreifen,        wie FSA Ultra-Gel Kork (white label produkt?)
 | Lenkerband       | 2025   | 10 €      | Todo        | SRAM SuperCork Bar Tape           | mittel,  Kork,        Klebestreifen,        wie FSA Ultra-Gel Kork (white label produkt?); guenstiges Notfall-Korkband (fahre Shimano)
 | Reifen           | 2025   | 2x 40 €   | Todo        | Tufo Thundero HD                  | 700x40C (41 mm),          je 439g, schneller Gravel-Semi-Slick-Faltreifen,      TPI 130/255, BRR 5/5 (19,2 W), 59ml Orange Endur.; 2,7 bar (105 kg), Stans/Tufo-Sealant wuerden nicht dichten, Orange aber
@@ -225,6 +227,24 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Pedale           | 2024   |           | \*\*\*\*\*  | Shimano XT PD-M8100               | SPD-Klickpedal, SM-SH56 SPD Cleats für Unfall-Präventions-Reflexe
 | Flaschenhalter   | 2023   | 2x 15 €   | \*\*\*\*\*  | SKS Germany DUAL SC RH und LH     | seitliche Entnahme rechtshändig; zerkratzt Flaschen, ansonsten top
 | Kabel Schaltzug  | 2024   | 14 €      | \*\*\*\*\*  | Shimano OT-SP41 Optislick         | Zugseil gleitet gut (STI-Widerstand), gut zu cutten
+
+
+#### Drehmomente
+
+| Verbindung                       | Nm ich    | Nm offiz. (max) | Schmierung
+|----------------------------------|-----------|-----------------|---------------------------------
+| Vorbau         ./. Lenker Moquai | 4,5       | 6    ./.  5     | Schraubensicherung
+| Vorbau         ./. Carbon-Gabel  | 4,0       | 6    ./.        | trocken
+| Sattel         ./. Stütze        | 6,0       | 8-9  ./.        | Antiseize Schrauben
+| Sattelklemme   ./. Stütze        | 5,0       | 7    ./.        | Antiseize alles
+| Schaltwerk     ./. Auge          | handfest  |      ./.        | 
+| Pedale         ./. Kurbel        | ?         |      ./.        | Antiseize Gewinde
+| Steckachse H   ./.               | handfest  |      ./.        | Fett Gewinde und min. Schaft
+| Steckachse V   ./. Gabel         | handfest  |      ./.        | Fett Gewinde und min. Schaft
+| Flaschenhalter ./. Rohr          | handfest  |      ./.        | Antiseize Schrauben
+| STI            ./. Lenker        | handfest  |      ./.        | trocken
+| Bremsscheibe   ./. Nabe          | 5,0       | 6    ./.        | Schraubensicherung
+| Kassette       ./. Nabe          | ?         |      ./.        | Antiseize zw. Feilauf und Kas.
 
 
 
@@ -1422,69 +1442,11 @@ Saeubern:
 
 ## Reifen
 
-- Karkasse
-	- TPI = Threads per inch, Fäden pro Zoll, Dichte des Gewebes (auch: EPI, ends per inch);
-		Je höher der Wert, desto besser soll der Reifen walken können
-- Laufleistung
-- Rollwiderstand
-- Schwingungswiderstand
-- Geräuschentwicklung
-- Nasshaftung
-- Pannenschutz
-- Gummimischung
-	- Shore­Härte (z.B. 60a), je höher, desto weicher das Gummi
-- Wulst, Drahtwulst vs. Faltwulst
-- Maßhaltung
-- wann wechseln?
-
-![Laufrad](wheel.jpg)
-
-Ich hatte mir bei Kleinanzeigen.de ein Hinter-Laufrad (mit Kassette und Bremsscheibe) fuer wenige Euro besorgt,
-an dem ich lernen und ueben konnte (anstelle meiner teureren Räder): 
-Mantel/Schlauch (de)montieren, 
-Zentrieren der Felge und der Bremsscheibe, 
-Einspeichen, CO2-Kartusche mal in Action erleben, 
-Gefuehl fuer Lage- und Groessenverhaeltnisse entwickeln, 
-die Kassette abziehen usw.
-
-Die Felge entsprach der Groesse meiner Raedern, war allerdings breiter.
-
-Vor Kauf vor Ort habe ich auf Felgenrisse bei den Nippeln gesucht, Freilaufgaengigkeit, Speichenspannung mit den Fingern geprueft.
-Nach der Saueberung sah es fast wie neu aus, fahren wuerde ich damit aber nicht.
-
-siehe Abschnitt zum "Zentrieren"
-
-Rotierende Masse, die man beschleunigen oder hochtragen muss: Reifengewicht \* x?
-
-
-### Montage
-
-- Laufrichtung des Reifens beachten
-- Reifen-Logo mittig am Ventil positionieren: sieht gut/einheitlich aus (Mechanikerstandard) und erleichtert Lochsuche bei Panne, falls Schlauch (gleiche Position vom Ventil/Logo aus)
-- gegenueber des Ventils anfangen entlang beider Seiten nach unten ins Felgenbett zu druecken 
-	(Ventilteil in der Felge hebt sonst Reifen wieder aus der tiefern Felgenmitte) = paar mm mehr Spiel
-- alles in die tiefere Felgenmitte legen = paar mm mehr Spiel; erste Reifenseite evtl möglichst nah am Außenrand
-- von oben mit Kraft nach unten Richtung ventil massieren/ziehen, damit sich Reifen dehnt = paar mm mehr Spiel
-- Wulst der noch nicht eingelegten Seite innen/außen/unten  evtl. mit Montagefluessigkeit benetzen, damit besser flutscht
-- pruefen, ob gleichmaessig aufgezogen: alles schön in die Mitte massieren
-- aufpumpen / kompressor (airshot) mit 4 bar (max 5 idR bei Tubeless/Gravel)
-- Linie vom Reifen sollte direkt an der Felge drumherumlaufen
-- auf 3 runter und dann über Nacht stehen lassen und schauen, ob der Reifen Luft hält
-- Luft ablassen, Ventilkern rausschrauben und Dichtmilch einfüllen; wieder aufpumpen
-
-
-
-### Demontage
-
-- ...
-
-
 ### Reifenwahl
 
 ![Reifen](tires.jpg)
 
-
-"Hinten Speed, vorne Grip":
+*Merksatz: "Hinten Speed, vorne Grip"*
 
 - fehlender Grip vorne wirft dich uebel vom Rad, fehlender Grip hinten rutscht eher durch und laesst sich wieder einfangen
 - unwichtig, dass beide Reifen gleichen Typs und gleichen Gewichts sein muessen
@@ -1494,7 +1456,7 @@ Rotierende Masse, die man beschleunigen oder hochtragen muss: Reifengewicht \* x
 	- Traditionsautomatismus, Marketing
 	- ähnliches Feedback vom Boden
 	- gleiches Nassgrip-Verhalten beider Reifen
-	- Reifentausch HR/VR mgl.
+	- Reifentausch HR/VR mgl.; allerdings schlechterer Reifen vorne = erhöhtes Sturzrisiko
 	- symmetrisch ästhetischer
 	- einfacher/gut genug; asymetrisch mehr Knobelei
 - Nasshaftung (Wet grip) _auf Asphalt_ bei profillosen Slick-Reifen besser (mehr Kontaktfläche) als bei profilierten Noppen-/Stollenreifen,
@@ -1511,6 +1473,86 @@ Rotierende Masse, die man beschleunigen oder hochtragen muss: Reifengewicht \* x
 | Reifenbreite   | schmaler                 | breiter                  | max. 3mm Unterschied, sonst wabbeliges Fahrverhalten
 | Rollwiderstand | *entscheidend*           | -                        | für Gesamtgeschw. auf gerader Strecke; lahmer VR weniger Einfluss auf HR als umgekehrt
 | Reifengewicht  | -                        | -                        | Rollwiderstand unabh. vom Reifengewicht sondern von Abroll-Verformung (Material, Aufbau, Breite, Luftdruck) \* Normalkraft auf Reifen (Gewicht Fahrer + Rad, Reifengewicht +300g Bruchteil); aber: leichte Reifen beschleunigen/bremsen schneller und sind agiler in Kurven (Inertia/rotierende Masse), halten Speed aber nicht so lange (Momentum)
+
+
+
+- Karkasse
+	- TPI = Threads per inch, Fäden pro Zoll, Dichte des Gewebes (auch: EPI, ends per inch);
+		Je höher der Wert, desto besser soll der Reifen walken können
+- Laufleistung
+- Rollwiderstand
+- rotierende Masse, die man beschleunigen oder hochtragen muss: Reifengewicht \* x?
+- Schwingungswiderstand
+- Geräuschentwicklung
+- Nasshaftung
+- Pannenschutz
+- Gummimischung
+	- Shore­Härte (z.B. 60a), je höher, desto weicher das Gummi
+- Wulst, Drahtwulst vs. Faltwulst
+- Maßhaltung 
+	- Angabe der Reifenbreite vs. reale/gemessene Breite auf der verwendeten Felge
+- wann wechseln?
+
+
+
+Ich hatte mir bei Kleinanzeigen.de ein Hinter-Laufrad (mit Kassette und Bremsscheibe) fuer wenige Euro besorgt,
+an dem ich lernen und ueben konnte (anstelle meiner teureren Räder): 
+Mantel/Schlauch (de)montieren, 
+Zentrieren der Felge und der Bremsscheibe, 
+Einspeichen, CO2-Kartusche mal in Action erleben, 
+Gefuehl fuer Lage- und Groessenverhaeltnisse entwickeln, 
+die Kassette abziehen usw.
+Die Felge entsprach der Groesse meiner Raedern, war allerdings breiter.
+Vor Kauf vor Ort habe ich auf Felgenrisse bei den Nippeln gesucht, Freilaufgaengigkeit, Speichenspannung mit den Fingern geprueft.
+Nach der Saueberung sah es fast wie neu aus, fahren wuerde ich damit aber nicht.
+Siehe auch Abschnitt zum "Zentrieren"
+
+
+
+### Reifen-Demontage (Tubeless oder Schlauch)
+
+- Luft vollständig ablassen (nicht einfach Ventilkern rausdrehen, der schießt sonst durch die Gegend)
+- Mantel vorsichtig überall in die tiefere Felgenmitte (Felgenbett) drücken (Unseating) 
+  und dabei die Verklebung zw. Reifenwulst (Tire Bead) und Felgenhorn/-flanke brechen;
+	- flüssige Dichtmilchreste sammeln sich am Boden des Reifens, 
+	  an der Felgenflanke ist idR alles schon fest; 
+	  trotzdem vorsichtig bleiben, damit man nicht kleckert
+- _am bzw. direkt neben Ventil anfangen_: 
+	mit Reifenheber den Mantel greifen und über die Felge drücken, 
+	die andere Seite des Reifenheber dabei in eine Speiche einhänge (schlechte Reifenheber haben keine)
+- zweiten Reifenheber daneben ansetzen und Mantel über Felge ziehen und bei Erfolg den Reifenheber nach rechts ziehen, 
+	so dass sich der Mantel "von alleine" Stück für Stück rausdrückt
+- Mantelseite, die noch auf der Felge sitzt, lässt sich leicht von Hand von der Felge abheben
+- Dichtmilchreste mit Papiertüchern auswischen oder mit Spritze einsammeln
+
+
+### Reifen-Montage (Tubeless)
+
+- Laufrichtung des Reifens beachten
+	- nach einem Pfeilsymbol auf dem Mantel suchen: rechtsherum = Antriebsseite rechts
+	- Profilmuster mit Fotos im Web vergleichen
+- Reifen-Logo mittig am Ventil positionieren: 
+	- erleichtert Lochsuche bei Schlauchpanne (gleiche Position vom Ventil/Logo aus)
+	- sieht gut/einheitlich aus (Mechanikerstandard)
+- _gegenueber des Ventils anfangen_
+	- Ventilteil in der Felge hebt sonst Reifen wieder aus der tiefern Felgenmitte = fehlen paar mm Spiel
+- erste Mantelseite mit linker und rechter Hand von oben nach unten ins Felgenbett druecken 
+- alles in die tiefere Felgenmitte legen = paar mm mehr Spiel; erste Reifenseite evtl möglichst nah am Außenrand
+- von oben mit Kraft nach unten Richtung ventil massieren/ziehen, damit sich Reifen dehnt = paar mm mehr Spiel
+- Wulst der noch nicht eingelegten Seite innen/außen/unten  evtl. mit Montagefluessigkeit benetzen, damit besser flutscht
+- pruefen, ob gleichmaessig aufgezogen: alles schön in die Mitte massieren
+- aufpumpen / kompressor (airshot) mit 4 bar (max 5 idR bei Tubeless/Gravel)
+- Linie vom Reifen sollte direkt an der Felge drumherumlaufen
+- auf 3 runter und dann über Nacht stehen lassen und schauen, ob der Reifen Luft hält
+- Luft ablassen, Ventilkern rausschrauben und Dichtmilch einfüllen; wieder aufpumpen
+
+
+### Reifen-Montage (Schlauch)
+
+- Schlauch vorm Einlegen minimal aufpumpen, damit er die Form hält und nicht so leicht bei der Mantelmontage eingeklemmt wird
+- falls Tubeless-Setup:
+	- Tubeless-Ventil entfernen TODO
+
 
 
 
@@ -1656,6 +1698,28 @@ Mag sich ändern, falls ich mal in Richtung 200-300 km am Tag oder Ultracycling 
 
 
 
+# Hygiene
+
+> Ein Radrennfahrer muss seinen Hintern besser pflegen als sein Gesicht. (Radrennprofi Rudi Altig)
+
+Jede Tour:
+- Chamois-Creme: versuche ich möglichst selten zu verwenden, kann Poren verstopfen und Probleme erst erzeugen
+- After-Ride-Creme fast nach jeder Tour: Assos Skin Repair ist mein Zaubermittel, hatte seither keine Probleme mehr 
+	(bei Mehrtagestouren in kleineres Gefäß abgefüllt, ist recht ergiebig)
+- Unterleib müsse nicht mit Seife gewaschen werden, wird sogar abgeraten (zerstöre hauteigene Abwehr-Fettschicht);
+	verwende trotzdem eine sanfte Intimseife für Frauen
+
+Längere Touren:
+- large Body-Wipes, einzelverpackt
+
+Mehrtagestour: 
+- RIAS-Tuchtabletten + flache 50- oder 100ml-Flasche mit Fluessigkeitsmix aus Wasser/Teebaumoel/Glycerin/Campseife/Vitamin-E-Oel = spart Wasser und viel Platz
+- guter Schrupp-Waschlappen und Wasser aus der Trinkflasche
+
+
+
+
+
 ## Bikepacking
 
 ![Bikepacking](bikepack-place.jpg)
@@ -1752,7 +1816,11 @@ Andererseits ist ein Faltstuhl vor dem eigenen Zelt schon eine tolle Sache, um l
 	- weniger Gefrickel als mit einer Lenkerrolle
 
 
+
 ### Basisausrüstung
+
+![Bikepacking-Zelt](bikepack-tent.jpg)
+
 
 TODO muss ich komplett ueberarbeiten bzw. mein tats. Planungs-Spreadsheet verlinken
 
@@ -1794,12 +1862,7 @@ TODO muss ich komplett ueberarbeiten bzw. mein tats. Planungs-Spreadsheet verlin
 	- Akku-Frontlicht
 - Müll-Management:
 	- ?
-- Hygiene-System:
-	- "Ein Radrennfahrer muss seinen Hintern besser pflegen als sein Gesicht." (Radrennprofi Rudi Altig)
-	- large Body-Wipes, einzelverpackt
-	- guter Schrupp-Waschlappen und Wasser aus der Trinkflasche
-	- Unterleib muss gar nicht mit Seife gewaschen werden, wird sogar abgeraten (zerstöre hauteigene Abwehr-Fettschicht); Teebaumöl desinfiziert
-	- RIAS-Tuchtabletten + 100ml-Flasche mit Fluessigkeitsmix aus Wasser/Teebaumoel/Glycerin/Campseife/Vitamin-E-Oel = spart Wasser und viel Platz
+- Hygiene-System: siehe Abschnitt Hygiene
 - Wechselkleidung / Warm-Kit:
 - Kommunikation & Informationstechnik:
 	- Smartphone
