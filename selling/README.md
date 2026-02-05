@@ -6,14 +6,14 @@
 | Endpreis\_(privat\_ohne\_MwSt)                 | Details
 |------------------------------------------------|------------------------------
 | Nettozielbetrag                                | Geldbetrag, den man am Ende tats. auf der Hand haben will; Warenpreis vgl. Mitbietende auf dieser und anderen Plattformen
-| &divide; (1 &minus; Provision&times;(1+MwSt))  | z.B. Booklooker.de  0,069 (6,9%) zzgl Mwst. 0,19 (19%) im Jahr 2025
+| &divide; (1 &minus; Provision&times;(1+MwSt))  | z.B. Booklooker.de  0,069 (6,9%) zzgl Booklooker-Mwst. 0,19 (19%) im Jahr 2025
 | + Porto                                        | DHL/Deutsche Post (zuverlässigste), ... - mind. mit Basis-Sendungsverfolgung
 | + Verpackungsmaterial                          | Luftpolsterumschlag Großbriefe, Maxibriefe, kleine/große Paketkartons, Druckpapier (Quittung, evtl. Versandetikett), Klebestift, Paketband, Hohlraum-Füllmaterial
 | + Verpackungsaufwand                           | passende Verpackung auftreiben, Brief-/Paketmarke online kaufen, ggf. Versandetikett erstellen/drucken/aufkleben (sonst Packstationsdrucker), ...
 | + Übergabeaufwand                              | Weg zur Filiale/Packstation, Zeit in der Warteschlange
 
 
-## Reale Versandkosten verschweigen
+## Reale vs. kommunizierte Versandkosten
 
 Ein Käufer empfindet hohe Versandkosten als Verlust, nicht als Gegenwert:
 - Versandkosten wirken wie ein Strafaufschlag an der Kasse, egal ob sie realistisch kalkuliert sind
@@ -112,8 +112,8 @@ Kleinanzeigen wird meckern, dass man keine privaten Daten senden soll (sondern K
 > Zweck: Kleinanz WAREXYZ  
 > Betrag: 55 Euro  
 > 
-> Ich würde davon die Paketmarke kaufen  
-> und mich dann mit der Sendungsnummer (DHL) melden.
+> Ich kaufe davon die Paketmarke
+> und würde mich dann mit der Sendungsnummer (DHL) melden.
 >
 > Gruß André
 
@@ -128,21 +128,24 @@ _(Kleinanzeigen.de-Chat)_
 - Hohlräume füllen, damit die Ware beim Transport im Paket nicht hin- und herrollt
 - mehrere lose Gegenstände gegeneinander polstern, sonst reiben sie beim Transport aneinander
 
-Korrekte Empfängerdaten:
+Empfängerdaten korrekt ausweisen:
 
-- bei Paketen bevorzuge ich den Klebe-Etiketten-Drucker direkt an der Packstation (die scannt meine Online-Paketmarke vom Handy-Bildschirm).
-	Hier prüfe ich aber trotzdem immer die Druckqualität: 
-	Manchmal wird z.B. die Hausnummer unleserlich/uneindeutig gedruckt (Stift mitnehmen)
-- bei Briefsendungen (meist Bücher) drucke ich die Etiketten zuhause – bei meiner aktuellen Menge noch auf einfachem Papier.
-	Selbstgedruckte Etiketten gut aufkleben und die Ecken des Etiketts nochmal mit Paketband o.ä. überkleben, 
-	falls der Klebestift während des Transports nicht halten sollte. Briefe kann man nicht an Packstationen aufgeben.;
-- Briefe klassische Aufteilung: _"Absender:"_ klein links oben, Briefmarke rechts oben, Empfängeradresse groß rechts unten
+- bei Paketen bevorzuge ich den Klebe-Etiketten-Drucker direkt an der Packstation (scannt Online-Paketmarken vom Handy-Bildschirm)
+	- nanchmal wird z.B. die Hausnummer unleserlich/uneindeutig gedruckt – Stift mitnehmen!
+- bei Briefsendungen (meist Bücher) drucke ich die Etiketten zuhause – bei meiner aktuellen Menge noch auf einfachem Papier
+	- selbstgedruckte Etiketten gut aufkleben 
+	- Ecken des Etiketts nochmal mit Paketband o.ä. überkleben, falls der Klebestift während des Transports nicht halten sollte
+	- Briefe kann man nicht an Packstationen aufgeben
+- Briefe klassische Aufteilung: 
+	- _"Absender: ..."_ klein links oben
+	- Briefmarke rechts oben
+	- Empfängeradresse groß rechts unten
 - die Paket- und Briefmarken kaufe ich online als Bild- bzw. PDF-Datei über:  
-	https://www.dhl.de/de/privatkunden/pakete-versenden/portoberater.html  
-	Ich bastel die Briefmarke dann direkt auf mein Etikett (Gimp).
-	Kann man aber auch separat drucken.
+	- https://www.dhl.de/de/privatkunden/pakete-versenden/portoberater.html  
+	- Ich bastel die Briefmarke dann direkt auf mein Etikett (Gimp).
+	  Kann man aber auch separat drucken.
 - kann sinnvoll sein, eine Quittung beizulegen nochmal mit vollständigen Absender- und Empfängeradressen.
-	Falls das äußere Versandetikett beschädigt und das Paket unzustellbar wird, schaut die Post meines Wissens ins Paket.
+	- falls das äußere Versandetikett beschädigt und das Paket unzustellbar wird, schaut die Post meines Wissens ins Paket
 
 
 ## Versand dokumentieren
@@ -162,7 +165,7 @@ Besser Versand dokumentieren und verfolgbar machen:
 - teure Ware oder fragw. Käufer: selten mal Smartphone-Video vom Zustand und Packvorgang, ggf. mit Zeuge (Unterschrift sonst Erinnerungslücke)
 
 
-## Niemals voreilig versenden
+## Nicht voreilig versenden
 
 Besser erst handeln, wenn das Geld dem Konto wirklich gutgeschrieben wurde:
 - sofern es keine Echtzeitüberweisungen sind, kann ein Käufer das Geld innerhalb einer bestimmten Zeit wieder zurückbuchen lassen

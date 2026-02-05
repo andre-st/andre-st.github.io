@@ -229,8 +229,8 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Pedale             | 2024   | 83 €      | \*\*\*\*\*  | Shimano XT PD-M8100               | SPD-Klickpedal, SM-SH56 SPD Cleats für Unfall-Präventions-Reflexe
 | Flaschenhalter     | 2023   | 2x 15 €   | \*\*\*\*\*  | SKS Germany DUAL SC RH und LH     | seitliche Entnahme rechtshändig; zerkratzt Flaschen, ansonsten top
 | Kabel Schaltzug    | 2024   | 14 €      | \*\*\*\*\*  | Shimano OT-SP41 Optislick         | Zugseil gleitet gut (STI-Widerstand), gut zu cutten
-| Computer           | 2023   | 260 €     | \*\*\*\*\*  | Wahoo Bolt 2                      | 
-| Computer-Halterung | 2025   | 63 €      | \*\*\*\*    | Framesandgear Aero 27 mm W/Sm.    | teuer, stabil, sieht gut aus; einzig Schmale, der mit meinem Jack-Frontrack funktioniert
+| Computer           | 2023   | 260 €     | \*\*\*\*\*  | Wahoo Bolt 2                      | mit Gummi-Schutzhülle
+| Computer-Halterung | 2025   | 63 €      | \*\*\*\*    | Framesandgear Aero 27 mm Wah/Sm.  | Stem-Mount; teuer, stabil, sieht gut aus/geht nicht über Lenker; einzig Schmale, der mit meinem Jack-Frontrack funktioniert; schlechter Transferwert durch feste Breite
 
 
 #### Drehmomente
@@ -2117,15 +2117,15 @@ Alles andere lässt sich unterwegs lösen.
 
 ## Shops
 
-| Alle_Bestellungen_top                                  | Teile                     | Versand | Kommentar
-|--------------------------------------------------------|---------------------------|---------|--------------------
-| [bike24.de](https://bike24.de)                         | alles                     | DHL     | Ruecksende-Etikett direkt im Paket, schneller Versand
-| [bike-discount.de](https://bike-discount.de)           | alles                     | DHL     | oft gute Preise; Ruecksendungen unproblematisch
+| Alle_Bestellungen_top                                  | Teile                     | Versand     | Kommentar
+|--------------------------------------------------------|---------------------------|-------------|--------------------
+| [bike24.de](https://bike24.de)                         | alles                     | DHL         | Ruecksende-Etikett direkt im Paket, schneller Versand
+| [bike-discount.de](https://bike-discount.de)           | alles                     | DHL         | oft gute Preise; Ruecksendungen unproblematisch
 | [kugellager-shop.net](https://www.kugellager-shop.net) | Wälzlager, Lagerkugeln G10 auf Anfrage  | ? | Edelstahlversionen kaufen
-| [decathlon.de](https://decathlon.de)                   | Kleidung, Bikepacking     | ?       | bisher immer alles bekommen, Ruecksendung unproblematisch; guenstige "Szenetipps" wie brauchbare Forclaz MT100 Daunenjacke oder gut verpackbare Forclaz MT500 Sandalen
-| [agu.com](https://agu.com)                             | Kleidung                  | DHL     | Niederlande, Ruecksendung unproblematisch, manchmal 50% Preisnachlass im Shop
-| [globetrotter.de](https://globetrotter.de)             | Bikepacking               | DHL     | 
-| [r2-bike.com](https://r2-bike.com)                     | alles                     | DHL     | Dresden
+| [decathlon.de](https://decathlon.de)                   | Kleidung, Bikepacking     | ?           | bisher immer alles bekommen, Ruecksendung unproblematisch; guenstige "Szenetipps" wie brauchbare Forclaz MT100 Daunenjacke oder gut verpackbare Forclaz MT500 Sandalen
+| [agu.com](https://agu.com)                             | Kleidung                  | DHL/Hermes  | Niederlande, Ruecksendung unproblematisch, manchmal 50% Preisnachlass im Shop
+| [globetrotter.de](https://globetrotter.de)             | Bikepacking               | DHL         | 
+| [r2-bike.com](https://r2-bike.com)                     | alles                     | DHL         | Dresden
 
 
 | Bisher_erste_Bestellung_top                            | Teile                     | Versand | Kommentar
