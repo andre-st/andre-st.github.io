@@ -58,7 +58,7 @@ Stern-Bewertungen sind immmer von max. 5 Sternen (1 Stern = schlecht; 5 beste; 3
 	- Kassette modular
 	- Umwerfer vorne/hinten
 	- Schaltkäfig
-	- Schaltwerk-Röllchen (Pullies)
+	- Schaltwerkröllchen 
 	- Schaltauge: 
 		daran ist das hintere Schaltwerk angebracht/eingeschraubt; wenige Grad Abweichung schon ändern ganze Schaltgeometrie; fängt Seitenschläge auf;
 		austauschen, wenn verbogen; gerade biegen kann dazu führen, dass es bricht und ganze Schaltkäfig in die Speichen kommt und viel kaputt macht;
@@ -148,67 +148,72 @@ Stern-Bewertungen sind immmer von max. 5 Sternen (1 Stern = schlecht; 5 beste; 3
 
 
 
-## Modell 
-
-### GIANT REVOLT XL 2   2022/23?
+## Modell: GIANT REVOLT XL 2 GRAVEL BIKE 2022/23
 
 ![Giant Revolt XL 2 Gravel Bike im Allroad-Setup 2026](giantrevolt2-allroad.jpg)
+_(Abb.: 2026 im Allroad-Setup)_
+
 
 Kaufdatum 9.6.23
+
+
+### Komponentenliste
 
 Die offizielle, frei zugängliche Spezifikation ist recht dünn; 
 im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 
 
-| Fahrradteil                 | Original verbaut (Stock)
-|-----------------------------|----------------------------
-| Farbe                       | Black Diamond
-| Systemgewicht               | max. 150 kg; unbedenklich &le;120 kg (20% Reserve); Fahrrad wiegt ca 11 kg
-| Rahmenset (Frame)           | GIANT ALUXX-Aluminium, 12 x 142 mm Steckachse, Scheibe, Flip-Chip-Ausfallende
-| Rahmennummer (Serial No.)   | unterm Tretlager zweigeteilt; bei GIANT-Werkstattanfragen immer nennen
-| Reifenfreiheit (Clearance)  | 53 mm falls Long-Flipchip-Position, 42 mm bei Short-flipchip-Position  [doku]
-| Hinterer Stoßdämpfer        | N/A
-| Pedale                      | N/A
-| Gabel                       | GIANT Revolt Advanced Vollcarbon-Gabel (rly?)
-| Gabelschaft                 | GIANT OverDrive-Gabelschaft (OD Version 1) aus Carbon-Verbundwerkstoff; tapered/konisch
-| Gabelkonus (Race crown)     | Konus ist nicht separat, sondern im Carbonschaft integriert
-| Steuersatz (Headset)        | voll-integriert (IS): statt Einpress- oder Ausschlagwerkzeug alles mit Hand in Rahmen-Ausbuchtungen legbar
-| Steuersatzlager oben        | MH-P08F – 30.5 x 41.8 x 8 – 45/45 [erprobt],  OD=41,81 ID=30,47 mm [gemessen]
-| Steuersatzlager unten       | MH-P22  – 34.1 x 46.9 x 7 – 45/45 [erprobt],  OD=46,76 ID=34,0  mm [gemessen]
-| Lenker                      | GIANT Contact XR Ergo-Control(?) Drop 460/510 mm (8&deg; Flair), kompakt, 31,8 mm, Alu, 337g, clip-on compatible, Reach 10 cm
-| Lenkerband                  | GIANT Gel(?) Cork, mittel
-| Vorbau (Stem)               | GIANT Sport(?), 90 mm, 7&deg;
-| Bremsen                     | Tektro MD-C550 mechanisch; 2-Kolben-Bremssattel (Double piston); 3er Inbus für Bremsbelagnachstellung
-| Bremsscheiben               | GIANT MPH Rotoren [V]160mm, [H]160mm, 6 Loch, Torx 25 [erprobt]
-| Umwerfer  (Front Derailleur)| Shimano Sora ST-R3000
-| Schaltwerk (Rear Derailleur)| Shimano Sora ST-R3000, langer Käfig
-| Schalthebel                 | Shimano Sora ST-R3000, 2x9
-| Kassette (Cogset)           | Shimano HG400, 11x34
-| Kette                       | KMC X9 EPT mit Missing Link, 114 Glieder
-| Kurbelsatz (Crank)          | FSA Vero Pro
-| Kurbellaenge                | 175 mm	
-| Kettenblatt (Chain ring)    | FSA Omega/Vero Pro 48/32T, 4-ARM, 120/90 mm BCD Lochkreis [abgelesen] ab Modell 2017
-| Kettenlinie                 | 44,5–45 mm
-| Tretlager (Bottom bracket)  | 68mm BSA threaded bottom bracket (cartridge BB)? FSA MegaExo Pressfit?? BB-7420 ST Square Taper (JIS)???
-| Tretlager Achslänge         | ???
-| Laufräder                   | GIANT SX2 Disc-Radsatz, Legierung, tubeless-ready, Laufradsatz 2030g, ??? Speichen, für 150-kg-Fahrrad
-| Felgen-Innenweite           | 25 mm   (innere Felgenbreite/Maulweite/Innenweite) [622x25 steht auf der Felge]
-| Felgen-Außenweite           | 30 mm
-| Felgen-Profil               | 23 mm tief, Tubeless (Rim bead lock+seat) mit Hooks (tats. nicht hookless)
-| Felgenband                  | GIANT Tubeless Rim Tape 28 mm(?)
-| Laufradnabe Vorderrad       | Konuslager mit 22 freien 1/8"-Kugeln (1 Lücke) (G5–G20 rund / HRC&ge;60 hart) [erprobt]; 2x 19mm-Konusschlüssel [erprobt]
-| Laufradnabe Hinterrad       | angebl. Wälzlager (6902 15×28×7 mm???), stabiler als Konus (Kraftangriff axial/torsional durch Antrieb statt nur radial wie bei besser rollendem Konus)
-| Reifen (Tyre)               | GIANT CrossCut AT 2, 700x38C [misst 40 mm], robuster 680g [gewogen] / 35€ Semi-Slick-Drahtreifen, tubeless, 60 TPI, Silica-Mischung
-| Reifenpannenschutz          | GIANT "Defect 2 lite" puncture protection Pannenschutzgürtel aus leichtem Nylon unter der Lauffläche des Reifens
-| Reifen-Dichtmilch           | GIANT Tubeless Sealant (angebl. Stans-Dichtmilch; GIANT nennt Stans auch als einzige Alternative)
-| Sattel                      | GIANT Approach, 145 mm
-| Sattelstütze                | GIANT D-Fuse, Legierung, 14 mm Versatz
-| Kabel Bremszug              | 5mm ??
-| Kabel Schaltzug             | 4mm Jagwire LEX 1,1 mm, linear steels strands, non-lubed liner; angebl. 1,2 mm kompatibel, tats. Draht [misst] wohl 1,2 mm
-| Kabel Schaltzuglängen       | Hülle STI rechts bis Steuerrohr = 51 cm; Hülle Sattel-/Unterrohr bis Schaltkäfig = 62 cm
+| Fahrradteil (engl.)               | Original verbaut (Stock)
+|-----------------------------------|----------------------------
+| Farbe                             | Black Diamond
+| Systemgewicht                     | max. 150 kg; 110 kg Fahrer/Gepäck unbedenklich zuladbar = &le;120 kg (20% Reserve) - 11–11 kg XL-Fahrrad-Eigengewicht
+| Rahmen         (frame)            | GIANT ALUXX-Aluminium, 12 x 142 mm Steckachse, Bremsscheiben, Flip-Chip-Ausfallende
+| Rahmennummer   (serial No.)       | unterm Tretlager zweigeteilt; bei GIANT-Werkstattanfragen immer nennen
+| Reifenfreiheit (tire clearance)   | 53 mm falls Long-Flipchip-Position, 42 mm bei Short-flipchip-Position  [doku]
+| Stoßdämpfer                       | N/A
+| Pedale                            | N/A
+| Gabel          (fork)             | GIANT Revolt Advanced Vollcarbon-Gabel (rly?)
+| Gabelschaft    (steerer tube)     | GIANT OverDrive-Gabelschaft (OD Version 1) aus Carbon-Verbundwerkstoff; tapered/konisch
+| Gabelkonus     (crown race)       | Konus ist nicht separat, sondern im Carbonschaft integriert, also Teil der Gabelkrone
+| Steuersatz     (headset)          | voll-integriert (IS): statt Einpress- oder Ausschlagwerkzeug alles mit Hand in Rahmen-Ausbuchtungen legbar [erprobt]
+| Steuersatzlager oben              | MH-P08F – 30.5 x 41.8 x 8 – 45/45 [erprobt],  OD=41,81 ID=30,47 mm [gemessen]
+| Steuersatzlager unten             | MH-P22  – 34.1 x 46.9 x 7 – 45/45 [erprobt],  OD=46,76 ID=34,0  mm [gemessen]
+| Spacer                            | AD=??? mm, ID=??? mm, Kunststoff?
+| Vorbau         (stem)             | GIANT Sport(?), 90 mm, 7&deg;, 27 mm horz. zw. Schraubenmitten [erprobt mit Stem-Mount]
+| Lenker         (handle bar)       | GIANT Contact XR Ergo-Control(?) Drop 460/510 mm (8&deg; Flair), kompakt, 31,8 mm, Alu, 337g, clip-on compatible, Reach 10 cm
+| Lenkerband     (bar tape)         | GIANT Gel(?) Cork, mittel
+| Bremsen        (brakes)           | Tektro MD-C550 mechanisch; 2-Kolben-Bremssattel (Double piston); 3er Inbus für Bremsbelagnachstellung
+| Bremsscheiben  (brake disc/rotor) | GIANT MPH Rotoren [V]160mm, [H]160mm, 6 Loch, Torx 25 [erprobt]
+| Umwerfer       (front derailleur) | Shimano Sora ST-R3000
+| Schaltwerk     (rear  derailleur) | Shimano Sora ST-R3000, langer Käfig
+| Schalthebel    (shifter/lever)    | Shimano Sora ST-R3000, 2x9
+| Schaltröllchen (jockey wheels)    | Shimano Leitröllchen (guide pulley) oben = ?; Spannröllchen (tension pulley) unten = Gleitlager oder gedichtes Kugellager? Kunststoff oder Alu? Anzahl Zähne?; angeblich kompatibel mit 9-Speed Shimano RD6700 Ultegra XT Saint
+| Kassette       (cogset)           | Shimano HG400, 11x34
+| Kette          (chain)            | KMC X9 EPT mit Missing Link, 114 Glieder
+| Kurbelsatz     (crank)            | FSA Vero Pro
+| Kurbellaenge   (crank length)     | 175 mm	
+| Kettenblatt    (chain ring)       | FSA Omega/Vero Pro 48/32T, 4-ARM, 120/90 mm BCD Lochkreis [abgelesen] ab Modell 2017
+| Kettenlinie    (chainline)        | 44,5–45 mm
+| Tretlager      (bottom bracket)   | 68mm BSA threaded bottom bracket (cartridge BB)? FSA MegaExo Pressfit?? BB-7420 ST Square Taper (JIS)???
+| Tretlager Achslänge               | ???
+| Laufräder             (wheels)    | GIANT SX2 Disc-Radsatz, 28 Zoll, Legierung, tubeless-ready, Laufradsatz 2030g, ??? Speichen, für 150-kg-Fahrrad
+| Felgeninnenweite      (rim width) | 25 mm   (innere Felgenbreite/Maulweite/Innenweite) [622x25 steht auf der Felge]
+| Felgenaußenweite                  | 30 mm
+| Felgenprofil                      | 23 mm tief, Tubeless (Rim bead lock+seat) mit Hooks (tats. nicht hookless)
+| Felgenband            (rim tape)  | GIANT Tubeless Rim Tape 28 mm(?)
+| Laufradnabe Vorderrad (front hub) | Konuslager mit 22 freien 1/8"-Kugeln (1 Lücke) (G5–G20 rund / HRC&ge;60 hart) [erprobt]; 2x 19mm-Konusschlüssel [erprobt]
+| Laufradnabe Hinterrad (rear  hub) | angebl. Wälzlager (6902 15×28×7 mm???), stabiler als Konus (Kraftangriff axial/torsional durch Antrieb statt nur radial wie bei besser rollendem Konus vorne)
+| Reifen                (tyre)      | GIANT CrossCut AT 2, 700x38C [misst 40 mm], robuster 680g [gewogen] / 35€ Semi-Slick-Drahtreifen, tubeless, 60 TPI, Silica-Mischung
+| Reifenpannenschutz                | GIANT "Defect 2 lite" puncture protection Pannenschutzgürtel aus leichtem Nylon unter der Lauffläche des Reifens
+| Reifen-Dichtmilch     (sealant)   | GIANT Tubeless Sealant (angebl. Stans-Dichtmilch; GIANT nennt Stans auch als einzige Alternative)
+| Sattel                (saddle)    | GIANT Approach, 145 mm
+| Sattelstütze          (seat post) | GIANT D-Fuse, Legierung, 14 mm Versatz
+| Kabel Bremszug      (brake cable) | 5mm ??
+| Kabel Schaltzug     (shift cable) | 4mm Jagwire LEX 1,1 mm, linear steels strands, non-lubed liner; angebl. 1,2 mm kompatibel, tats. Draht [misst] wohl 1,2 mm
+| Kabel Schaltzuglängen             | Hülle STI rechts bis Steuerrohr = 51 cm; Hülle Sattel-/Unterrohr bis Schaltkäfig = 62 cm
 
 
-#### Komponenten abweichend vom Original getauscht/hinzugefügt:
+### Komponenten abweichend vom Original getauscht/hinzugefügt:
 
 | Fahrradteil        | Jahr   | Preis     | Wertung     | Neu verbaut                       | Details
 |--------------------|--------|-----------|-------------|-----------------------------------|--------------------------------------------
@@ -218,11 +223,12 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Lenkerband         | 2023   | 25 €      | \*\*\*\*\*  | Profile Design Aerobar Wrap       | dünn,    gummiartig,  Klebestreifen,        für Lenkeraufsatz; duenner als Dropbar gegen Wurst-Optik; nur Grip, kaum Dämpf.; Bandkante drueckt sich als "Fortsetzungslinie" durch = gleichmäßiges Wickeln
 | Lenkerband         | 2025   | 13 €      | \*\*\*\*    | FSA Ultra-Gel Kork                | mittel,  Kork,        Klebestreifen (Rückstände),  dämpft ohne zu dick aufzutragen, stufig/Grip ok, ging schnell drauf, mit ital. 8 genug Länge; hässl. Finishtape/Barends
 | Lenkerband         | 2025   | 13 €      | \*\*\*      | Selle Italia SmooTape Gran Fondo  | 2,5 mm,  Schaumstoff (langweiliger als Kork), Silikonstreifen/Zug,  ½ oder ⅓ wickeln? aus Entfernung stufenfrei (auch nicht besser als andere); ledrigerer Look ok; weiße Logos = Vogelstange; hässl. Finishtape
-| Lenkerband         | 2025   | 12 €      | \*\*\*      | Selle Italia Smart Tape Greentech | 2,5 mm,  gummiartig wie die Hoods (kein Handschmeichler wie Kork), hält allein auf Zug (gut), wenig Daempfung trotz Dicke (nur Handfüller), integrierte "Endkappe" laesst sich verdrehen und loest Band (ist nur auf Zug) und verlangt kürzere 2. Wicklung (unheitlich) oder haessliche Beule; Laenge passt mit ⅓-Wicklung und ital. Acht gerade so auf 42cm-Flattop-Dropbar inkl. Flattop-Bereich (stufenfrei!); klebriger gummi hält dreck fest, aber gut zu reinigen und wiederzuverwenden; unempfindlicher gegen Regen
+| Lenkerband         | 2025   | 12 €      | \*\*\*      | Selle Italia Smart Tape Greentech | 2,5 mm,  gummiartig wie die Hoods (kein Handschmeichler wie Kork), hält allein auf Zug (gut), wenig Daempfung trotz Dicke (nur Handfüller), integrierte "Endkappe" laesst sich verdrehen und loest Band (ist nur auf Zug) und verlangt kürzere 2. Wicklung (uneinheitlich) oder haessliche Beule; Laenge passt mit ⅓-Wicklung und ital. Acht gerade so auf 42cm-Flattop-Dropbar inkl. Flattop-Bereich (stufenfrei!); klebriger gummi hält dreck fest, aber gut zu reinigen und wiederzuverwenden; unempfindlicher gegen Regen
 | Lenkerband         | 2025   | 22 €      | Todo        | Cinelli Gel Gork                  | mittel,  Kork,        Klebestreifen,        wie FSA Ultra-Gel Kork (white label produkt?)
 | Lenkerband         | 2025   | 10 €      | Todo        | SRAM SuperCork Bar Tape           | mittel,  Kork,        Klebestreifen,        wie FSA Ultra-Gel Kork (white label produkt?); guenstiges Notfall-Korkband (fahre Shimano)
-| Reifen             | 2025   | 2x 40 €   | Todo        | Tufo Thundero HD                  | 700x40C (41 mm),          je 439g, schneller Gravel-Semi-Slick-Faltreifen,      TPI 130/255, BRR 5/5 (19,2 W), 59ml Orange Endur.; 2,7 bar (105 kg), Stans/Tufo-Sealant wuerden nicht dichten, Orange aber
-| Reifen             | 2025   | 2x 50 €   | Todo        | Michelin Pro 5 TLR                | 700x35C [35 mm gemessen], je 390g, leichter/schneller Allroad-Slick-Faltreifen, TPI 120,     BRR 5/5 (13,8 W), 35ml Orange Endur.; 3,3–3,5 bar/offiz. (105 kg); [Handmontage+Standpumpe]; 32mm bei 105 kg zu hart = Energieverlust (springt/reibt gg realen Asphalt statt verformend zu gleiten) = langsamer/kurveninstabiler/unkomfortabler als 35er
+| Reifen             | 2025   | 2x 40 €   | Todo        | Tufo Thundero HD                  | 700x40C (41 mm),          je 439g, schneller Gravel-Semi-Slick-Faltreifen,      TPI 130/255, BRR 5/5 (19,2 W); 2,7 bar            (105 kg); 59ml Dichtmilch, Stans/Tufo-Sealant wuerden nicht dichten, Orange aber
+| Reifen             | 2025   | 2x 50 €   | Todo        | Michelin Pro 5 TLR                | 700x35C [35 mm gemessen], je 390g, leichter/schneller Allroad-Slick-Faltreifen, TPI 120,     BRR 5/5 (13,8 W); 3,3–3,5 bar/offiz. (105 kg); 35ml Dichtmilch; [Handmontage+Standpumpe]; 32mm bei 105 kg zu hart = Energieverlust (springt/reibt gg realen Asphalt statt verformend zu gleiten) = langsamer/kurveninstabiler/unkomfortabler als 35er
+| Reifen-Dichtmilch  | 2025   | ?         | Todo        | Orange Seal Endurance             | bleibe länger flüssig, dichte aber nicht so schnell/gut wie die normale Orange-Version
 | Sattel             | 2024   | 100 €     | \*\*\*\*    | Fizik Terra Argo X5               | 160 mm, straff, gut, Hinternposition recht festgelegt; 100 km ohne nennenswerte Probleme
 | Sattel             | 2025   | 93 €      | \*\*\*\*\*  | Ergon SR Allroad Core Comp Men    | M-L, komfortabler, trotzdem noch flach, geht zeitw. ohne Polster, mehr Hinternpositionen; 0 Probleme
 | Pedale             | 2023   | 85 €      | \*\*\*      | Shimano XT PD-T8000               | Plattform-SPD-Kombipedal, mein Übergangspedal fürs Clipless-Lernen; später nie Situation für Plattform gehabt
@@ -230,25 +236,25 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Flaschenhalter     | 2023   | 2x 15 €   | \*\*\*\*\*  | SKS Germany DUAL SC RH und LH     | seitliche Entnahme rechtshändig; zerkratzt Flaschen, ansonsten top
 | Kabel Schaltzug    | 2024   | 14 €      | \*\*\*\*\*  | Shimano OT-SP41 Optislick         | Zugseil gleitet gut (STI-Widerstand), gut zu cutten
 | Computer           | 2023   | 260 €     | \*\*\*\*\*  | Wahoo Bolt 2                      | mit Gummi-Schutzhülle
-| Computer-Halterung | 2025   | 63 €      | \*\*\*\*    | Framesandgear Aero 27 mm Wah/Sm.  | Stem-Mount; teuer, stabil, sieht gut aus/geht nicht über Lenker; einzig Schmale, der mit meinem Jack-Frontrack funktioniert; schlechter Transferwert durch feste Breite
+| Computer-Halterung | 2025   | 63 €      | \*\*\*\*    | Framesandgear Aero 27 mm Wah/Sm.  | Stem-Mount; teuer, stabil, sieht gut aus/ragt nicht über Lenker; einzig Schmale, der mit meinem Jack-Frontrack funktioniert; schlechter Transferwert durch feste Breite
 
 
-#### Drehmomente
+### Drehmomente
 
 | Verbindung                       | Nm ich    | Nm offiz. (max) | Schmierung
 |----------------------------------|-----------|-----------------|---------------------------------
-| Vorbau         ./. Lenker Moquai | 4,5       | 6    ./.  5     | Schraubensicherung
-| Vorbau         ./. Carbon-Gabel  | 4,0       | 6    ./.        | trocken
-| Sattel         ./. Stütze        | 6,0       |      ./.  8-9   | Antiseize Schrauben
-| Sattelklemme   ./. Stütze        | 5,0       | 7    ./.        | Antiseize alles
-| Schaltwerk     ./. Auge          | handfest  |      ./.        | 
-| Pedale         ./. Kurbel        | ?         |      ./.        | Antiseize Gewinde
-| Steckachse H   ./.               | handfest  |      ./.        | Fett Gewinde und min. Schaft
-| Steckachse V   ./. Gabel         | handfest  |      ./.        | Fett Gewinde und min. Schaft
-| Flaschenhalter ./. Rohr          | handfest  |      ./.        | Antiseize Schrauben
-| STI            ./. Lenker        | handfest  |      ./.        | trocken
-| Bremsscheibe   ./. Nabe          | 5,0       | 6    ./.        | Schraubensicherung
-| Kassette       ./. Nabe          | ?         |      ./.        | Antiseize zw. Feilauf und Kas.
+| Vorbau         ./. Lenker Moquai | 4,5       | 6   ./.   5     | Schraubensicherung; sonst _alles_ trocken
+| Vorbau         ./. Carbon-Gabel  | 4,0       | 6   ./.   ?     | trocken
+| Sattel         ./. Stütze        | 6,0       | ?   ./.   8-9   | Antiseize Schrauben
+| Sattelklemme   ./. Stütze        | 5,0       | 7   ./.   ?     | Antiseize alles
+| Schaltwerk     ./. Auge          | handfest  | ?   ./.   ?     | 
+| Pedale         ./. Kurbel        | ?         | ?   ./.   ?     | Antiseize Gewinde
+| Steckachse H   ./. ?             | handfest  | ?   ./.   ?     | Fett Gewinde und min. Schaft
+| Steckachse V   ./. Gabel         | handfest  | ?   ./.   ?     | Fett Gewinde und min. Schaft
+| Flaschenhalter ./. Rohr          | handfest  | ?   ./.   ?     | Antiseize Schrauben
+| STI            ./. Lenker        | handfest  | ?   ./.   ?     | trocken
+| Bremsscheibe   ./. Nabe          | 5,0       | 6   ./.   ?     | Schraubensicherung
+| Kassette       ./. Nabe          | ?         | ?   ./.   ?     | Antiseize zw. Feilauf und Kas.
 
 
 
@@ -680,7 +686,7 @@ Allgemein:
 
 | Bauteil                            | Vor-Reinigung          | Nachbehandlung 
 |------------------------------------|------------------------|-------------------------
-| Schaltwerk-Roellchen (Pullies)     | mechanisch (Plastik)   | ?
+| Schaltwerk-Roellchen (Pulleys)     | mechanisch (Plastik)   | ?
 | Schaltwerk-Federn/-Gelenke         | ?                      | Balistol PTFE-Trockenschmierung (Spray); Öl wuerde mehr Dreck anziehen und kann verharzen = schwergaengiger; Alternative Brunox nur bei viel Regen
 | Pedal-Cleat-Federn                 | ?                      | Balistol PTFE-Trockenschmierung (Spray); Alternative Brunox nur bei viel Regen
 | Pedal-Kurbel-Gewinde               | IPA                    | Shimano Anti-Seize
@@ -688,7 +694,7 @@ Allgemein:
 | Sattelstuetze-Sitzrohr             | IPA                    | Shimano Anti-Seize über Stütze, D-Fuse-Adapter, und alle Teile des Schraubmechanismus = verhindert Knarzgeraeusche (Carbon-Paste mit Partikel erzeugt bei Alu-Alu wie Dreck mehr statt weniger Knarzen)
 | Steuersatz                         | IPA, Muc-off Bio Degreaser + Pinsel zum Saeubern ausgebauter Lager, weniger aggressiv gegen Gummidichtung als Bremsenreiniger | Finishline Premium-Fett auf den Lager-Sitzen, _duenner_ Film um Cartridge Bearings und Gabelkonus, und dick unter der oberen Abdeckkappe (Gummiring) für Wasserdichtigkeit; untere Aufnahme wenig Fett (Dreck), oben mehr (kein Wassereintrag)
 | Griffgummis                        | ?                      | Hand-Sanitizer innen lässt besser rutschen falls neu aufzuziehen, verflüchtigt
-| Kette                              | ?                      | Liquimoly Dry bzw. Wet Lube; kleiner fester Flach-Pinsel: Tropfen Öl drauf und streich dann eine Bahn von Pully bis Kettenblatt, wdh. insg. 3 Tropfen pro Bahn, kurbel weiter: zügig-saubere Arbeit und Ergebnis
+| Kette                              | ?                      | Liquimoly Dry bzw. Wet Lube; kleiner fester Flach-Pinsel: Tropfen Öl drauf und streich dann eine Bahn von Pulley bis Kettenblatt, wdh. insg. 3 Tropfen pro Bahn, kurbel weiter: zügig-saubere Arbeit und Ergebnis
 | Kettenblatt                        | ?                      | ?
 | Kassette                           | ?                      | ?
 | Radwaesche allgemein               | Wasser                 | Mucoff Bike Cleaner; (Kassette besser separiert und mit Bremsenreiniger bearbeiten)
@@ -1355,7 +1361,7 @@ _(Abb.: Pitting in der Lagerschale)_
 	sollte tats. perfekt glattrund sein für minimalsten Punktkontakt zw. Kugel und Flächen; 
 	das Rad hier laeuft nach Instandsetzung wesentlich besser als vorher (mit der Hand gedrehte Achse klemmte stellenweise) und auch nur leicht sandig (trotz Pitting), 
 	aber nie wieder butterweich und mehr Verschleiß ist zu erwarten
-- Kugeln idealerweise entsorgen und neue nehmen, kosten nicht die Welt
+- Kugeln idealerweise entsorgen und neue nehmen, kosten nicht die Welt (siehe Abschnitt [Shops](#shops))
 - manche Lagerschalen sind nur eingepresst und koennten theoretisch getauscht werden, 
 	scheitert aber an Ersatzteilen, bzw. Notwendigkeit, gleich eine ganze Ersatznabe kaufen zu muessen;
 	ansonsten ist die Nabe am Ende bzw. das komplette Laufrad, wenn man keine Lust aufs Einspeichen einer neuen Nabe hat
@@ -2013,7 +2019,7 @@ Abwechslung/Alternativen wichtig.
 | Polypropylen PP                  | \*               | \-           | \*\*\*   | \*\*\*   | Trinkflaschen hitze-/chemiebeständiger als PET; aus Erdöl
 | Polyethylenterephthalat PET/rPET | \*               | \-           | \*\*\*   | \*\*\*   | Trinkflaschen; 'r' steht für recycled
 | Polylactid PLA/rPLA (Bioplastik) | \*               | \-           | \*\*\*   | \*\*\*   | Trinkflaschen aus Maisstärke oder Zuckerrohr, kompostierbar; aka Polymilchsäure
-| Glas                             | \*\*\*           | \*           | \*       | \*\*     | 
+| Glas                             | \*\*\*           | \*           | \*       | \*\*     | hohes Bruchrisiko für Bikepacking ungeeignet
 | Melamin                          | \*               |              | \*       |          | 2023 von Europäischer Chemikalienagentur als besonders besorgniserregender Stoff (SVHC) eingestuft
 | Emaille                          | \*\*             |              | \*       |          | Verzchmelzung (frz. émailler) von Glasstaub mit Eisen o.a.
 | Holz                             |                  |              |          |          | Bakterienfänger durch offene Struktur
@@ -2150,7 +2156,7 @@ Alles andere lässt sich unterwegs lösen.
 | TradeInn / BikeInn                                     | alles                     | Sitz Spanien; bei Ärger wäre unverhältns. Aufwand
 | Santafixie.de                                          | alles                     | Sitz Spanien
 | Hardloop.de                                            | alles                     | Sitz Frankreich
-| Alltricks.de                                           | alles                     | Sitz Frankreich; hatte aber schon geliefert
+| Alltricks.de                                           | alles                     | Sitz Frankreich; hatte aber schon korrekt geliefert
 
 
 

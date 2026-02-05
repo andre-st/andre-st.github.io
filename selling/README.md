@@ -17,12 +17,14 @@
 
 Ein Käufer empfindet hohe Versandkosten als Verlust, nicht als Gegenwert:
 - Versandkosten wirken wie ein Strafaufschlag an der Kasse, egal ob sie realistisch kalkuliert sind
-- glaubwürdig niedrige "Deal"-Versandkosten: Anstelle _"27,99 Euro + 5,59 Euro"_ lieber _"27,99 Euro + 2,49 Euro"_.  
-- weniger mentale Reibung beim Kaufabschluss
-- Differenzbetrag auf den Warenpreis schlagen, auch wenn mehr Provision fällig wird
+- mentale Reibung beim Kaufabschluss reduzieren
+- Versandkosten teils auf den Warenpreis schlagen, auch wenn mehr Provision fällig wird
 - "kostenloser Versand" bei Amazon bevorzugt, also abhängig von der Plattformkultur
 - "kostenloser Versand" nachteilig, wenn die Käufer alle Angebote nach Warenpreis (statt Endpreis) sortieren/eyeballen 
 	und Versand _komplett_ im Warenpreis eingerechnet ist.
+- glaubwürdig niedrige "Deal"-Versandkosten, sonst Eindruck "schlampiger Versand"
+- Andererseits: Manche verdrängen Versandkosten und merken sich nur den "extrem günstigen" Warenpreis (Ankereffekt) – evtl. A/B-testen
+- Paketversand bis 4 Euro wird noch akzeptiert, 7 Euro erzeugen schon Widerstand ("3 Euro weniger mgl.?")
 
 
 ## Plattformen-Steuertransparenzgesetz (PStTG) 
@@ -34,7 +36,7 @@ Stand 2023 müssen Plattformen erfolgreichere Privatverkäufer dem Finanzamt
 wg. möglicher Besteuerung/Gewerbetätigkeit melden 
 und verlangen dann z.B. Geburtsdatum und Steuer-ID.
 
-Booklooker.de: https://www.booklooker.de/faq/steuer-privatverkauf/197
+Booklooker.de: [https://www.booklooker.de/faq/steuer-privatverkauf/197](https://www.booklooker.de/faq/steuer-privatverkauf/197)
 
 
 ## Haftungsausschluss im Inserat
@@ -79,16 +81,15 @@ Besser Käufer zuerst fragen, wohin das Paket gehen soll _bevor_ man Kontodaten,
 
 > Hallo XY, können wir so machen, wohin soll das Paket gesendet werden?
 
-- klärt, ob Lieferadresse überhaupt in Deutschland ist
+- klärt, ob Lieferadresse überhaupt in Deutschland ist (andere Versandkosten)
 - man offenbart Bots nicht gleich seine persönlichen Daten
 - man committed den Käufer: er de-anonymisiert sich, macht den Verkaufsfortschritt verbindlicher und verlängert den Chatverlauf: 
 	Rücktritt wird nach so viel "Vorleistung" unangenehmer, falls mal etwas komplizierter wird
 - besserer Gesprächsfluss: kein gieriger "Überfall" mit sofortiger Geldforderung, sondern man zeigt erstmal Gebe-Bereitschaft
 
 
-## Vorkasse statt Käuferschutz
+## Vorkasse per Banküberweisung statt Käuferschutz
 
-Besser immer Vorkasse per Banküberweisung, nie Käuferschutz nutzen:
 - Käuferschutz verlagert komplettes Risiko auf den Verkäufer: 
 	Muss Ware versenden und Käufer kann Zahlung verweigern/zurückbuchen ("nie erhalten")
 - Käuferschutz ist oft mit einer Gebühr verbunden = höherer Endpreis
@@ -120,7 +121,7 @@ Kleinanzeigen wird meckern, dass man keine privaten Daten senden soll (sondern K
 _(Kleinanzeigen.de-Chat)_
 
 
-## Ware richtig verpacken
+## Ware richtig verpacken und adressieren
 
 Ärger mit Käufer und Post wegen Transportschäden vermeiden:
 
@@ -137,7 +138,7 @@ Empfängerdaten korrekt ausweisen:
 	- Ecken des Etiketts nochmal mit Paketband o.ä. überkleben, falls der Klebestift während des Transports nicht halten sollte
 	- Briefe kann man nicht an Packstationen aufgeben
 - Briefe klassische Aufteilung: 
-	- _"Absender: ..."_ klein links oben
+	- _"Absender: ..."_ klein links oben (Rücksende-Adresse falls unzustellbar oder für Porto-Nachforderung)
 	- Briefmarke rechts oben
 	- Empfängeradresse groß rechts unten
 - die Paket- und Briefmarken kaufe ich online als Bild- bzw. PDF-Datei über:  
@@ -163,9 +164,10 @@ Empfängerdaten korrekt ausweisen:
 - teure Ware oder fragw. Käufer: selten mal Smartphone-Video vom Zustand und Packvorgang, ggf. mit Zeuge und Unterschrift (sonst Erinnerungslücke)
 
 
-## Erst versenden bei _gesichertem_ Zahlungseingang
+## Erst versenden bei _tatsächlichem_ Zahlungseingang
 
-- sofern es keine Echtzeitüberweisungen sind, kann ein Käufer das Geld innerhalb einer bestimmten Zeit wieder zurückbuchen lassen
+- sofern es keine Echtzeitüberweisungen sind, kann ein Käufer das Geld innerhalb einer bestimmten Zeit wieder zurückbuchen lassen;
+	muss im Online-Banking / Auszugsdruck tats. sichtbar sein
 - sich nicht im Chat von Zahlungsbestätigungen und Fotos von Online-Überweisungen beeindrucken lassen
 
 
