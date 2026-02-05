@@ -131,7 +131,7 @@ _(Kleinanzeigen.de-Chat)_
 Empfängerdaten korrekt ausweisen:
 
 - bei Paketen bevorzuge ich den Klebe-Etiketten-Drucker direkt an der Packstation (scannt Online-Paketmarken vom Handy-Bildschirm)
-	- nanchmal wird z.B. die Hausnummer unleserlich/uneindeutig gedruckt – Stift mitnehmen!
+	- manchmal wird z.B. die Hausnummer unleserlich/uneindeutig gedruckt – Stift mitnehmen!
 - bei Briefsendungen (meist Bücher) drucke ich die Etiketten zuhause – bei meiner aktuellen Menge noch auf einfachem Papier
 	- selbstgedruckte Etiketten gut aufkleben 
 	- Ecken des Etiketts nochmal mit Paketband o.ä. überkleben, falls der Klebestift während des Transports nicht halten sollte
@@ -148,26 +148,23 @@ Empfängerdaten korrekt ausweisen:
 	- falls das äußere Versandetikett beschädigt und das Paket unzustellbar wird, schaut die Post meines Wissens ins Paket
 
 
-## Versand dokumentieren
+## Versand dokumentieren und verfolgbar machen
 
-Besser Versand dokumentieren und verfolgbar machen:
-
-- für ungeduldige Käufer: macht Versandbehauptung glaubwürdiger (siehe Fehler 12) – schon erlebt
+- für ungeduldige Käufer: macht Versandbehauptung glaubwürdiger – schon erlebt
 - für betrügerische Käufer: "nie erhalten", "war nichts im Paket", "kaputt im Paket", ... – bisher nie erlebt
-- für DHL/Deutsche Post: Falschbehauptung ungeeigneter Versanddaten oder Verpackung, obwohl dokumentiert Etikett vom Packstationsdrucker – davon gelesen
+- für DHL/Deutsche Post: Falschbehauptung ungeeigneter Versanddaten oder Verpackung, obwohl fotografiertes Etikett vom Packstationsdrucker – davon gelesen
 - für einen selbst: sonst paar Wochen Unklarheit bis sich einer beschwert oder nicht
-- nichts beweisfest, könnte aber eigene Sache plausibler machen - man hat mehr in der Hand als der Andere
+- nichts beweisfest, könnte aber eigene Sache plausibler machen – man hat mehr in der Hand als der Andere
 - Brief: schnelles Smartphone-Foto in der DHL-Filiale mit gut lesbarem Versandetikett
 	![Schaltauge](letterproof.jpg)
 - Brief: Briefmarke mit der DHL-App scannen (Icon neben Suchschlitz oben) und Titel bearbeiten:
 	"Großbrief KUNDE\_XY WARE\_Z" statt nur "Briefsendung, Briefsendung, Briefsendung".
 - Packstation: manchmal Foto/Video vom Einlegen (z.B. vermeintlich Versanddaten oder -material ungeeignet)
-- teure Ware oder fragw. Käufer: selten mal Smartphone-Video vom Zustand und Packvorgang, ggf. mit Zeuge (Unterschrift sonst Erinnerungslücke)
+- teure Ware oder fragw. Käufer: selten mal Smartphone-Video vom Zustand und Packvorgang, ggf. mit Zeuge und Unterschrift (sonst Erinnerungslücke)
 
 
-## Nicht voreilig versenden
+## Erst versenden bei _gesichertem_ Zahlungseingang
 
-Besser erst handeln, wenn das Geld dem Konto wirklich gutgeschrieben wurde:
 - sofern es keine Echtzeitüberweisungen sind, kann ein Käufer das Geld innerhalb einer bestimmten Zeit wieder zurückbuchen lassen
 - sich nicht im Chat von Zahlungsbestätigungen und Fotos von Online-Überweisungen beeindrucken lassen
 
@@ -175,7 +172,7 @@ Besser erst handeln, wenn das Geld dem Konto wirklich gutgeschrieben wurde:
 ## Käufer richtig über Versand informieren
 
 Besser Käufer die DHL-Sendungsnummer und einen Link zur Sendungverfolgung nennen. 
-Falls man nur einen Brief hat, dann sendet man ein Foto (siehe Fehler 10) statt der Nummer – das beruhigt den Käufer (anstelle rein verbaler Versandbehauptungen).
+Falls man nur einen Brief hat, dann sendet man ein Foto statt der Nummer – das beruhigt den Käufer (anstelle rein verbaler Versandbehauptungen).
 Weniger Trara, falls Sendung dauert: Käufer weiß ja, dass es wirklich unterweg ist. 
 So ein Foto kann natürlich gefälscht werden, aber so viel kriminielle Energie wird erstmal nicht unterstellt: 
 es ist wahrscheinlicher dass das Foto stimmt als dass es nicht stimmt.
