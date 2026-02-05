@@ -1735,7 +1735,7 @@ Mehrtagestour:
 
 
 - je leichter das Rad, umso besser: Gewicht nervt bei Anstiegen und 
-   ermuedet ueber lange Strecken schneller und geht auch staerker auf die Substanz/Gelenke etc.
+   ermuedet ueber lange Strecken schneller und geht auch staerker auf die Substanz/Gelenke etc. 
 
 - die einzige Form des Reisens: zu Fuss ist man nach Stunden noch am selben Ort, im Auto fliegt alles vorbei, 
 	Flugzeug, Bus oder Zug ist kein Reisen sondern Transport (Reisender vs Passagier),
