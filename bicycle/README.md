@@ -152,6 +152,8 @@ Stern-Bewertungen sind immmer von max. 5 Sternen (1 Stern = schlecht; 5 beste; 3
 
 ### GIANT REVOLT XL 2   2022/23?
 
+![Giant Revolt XL 2 Gravel Bike im Allroad-Setup 2026](giantrevolt2-allroad.jpg)
+
 Kaufdatum 9.6.23
 
 Die offizielle, frei zugängliche Spezifikation ist recht dünn; 
@@ -208,25 +210,27 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 
 #### Komponenten abweichend vom Original getauscht/hinzugefügt:
 
-| Fahrradteil      | Jahr   | Preis     | Wertung     | Neu verbaut                       | Details
-|------------------|--------|-----------|-------------|-----------------------------------|--------------------------------------------
-| Lenkeraufsatz    | 2023   | &gt;100 € | \*\*\*\*\*  | Profile Design Sonic Ergo T5+     | 348 mm Länge (13&deg;), Alu 6061-T6
-| Lenker           | 2025   | 27 €      | \*\*\*\*\*  | Moquai Aero Rennradlenker         | 420/420 mm  (0&deg; Flair), kompakt, Alu 6061 "285g"; 4 cm schmaler/sportl. als Erstlenker; Logos subtil; ovalisierte, nicht zu breite Tops; flext in den Drops
-| Lenker           | 2025   | 18 € Sale | Todo        | FSA AGX Adventure Compact         | 440/500 mm (12&deg; Flair), kompakt, Alu 6061 "325g", 2 cm schmaler als Erstlenker, für Bikepacking, Logos übertrieben
-| Lenkerband       | 2023   | 25 €      | \*\*\*\*\*  | Profile Design Aerobar Wrap       | dünn,    gummiartig,  Klebestreifen,        für Lenkeraufsatz; duenner als Dropbar gegen Wurst-Optik; nur Grip, kaum Dämpf.; Bandkante drueckt sich als "Fortsetzungslinie" durch = gleichmäßiges Wickeln
-| Lenkerband       | 2025   | 13 €      | \*\*\*\*    | FSA Ultra-Gel Kork                | mittel,  Kork,        Klebestreifen (Rückstände),  dämpft ohne zu dick aufzutragen, stufig/Grip ok, ging schnell drauf, mit ital. 8 genug Länge; hässl. Finishtape/Barends
-| Lenkerband       | 2025   | 13 €      | \*\*\*      | Selle Italia SmooTape Gran Fondo  | 2,5 mm,  Schaumstoff (langweiliger als Kork), Silikonstreifen/Zug,  ½ oder ⅓ wickeln? aus Entfernung stufenfrei (auch nicht besser als andere); ledrigerer Look ok; weiße Logos = Vogelstange; hässl. Finishtape
-| Lenkerband       | 2025   | 12 €      | \*\*\*      | Selle Italia Smart Tape Greentech | 2,5 mm,  gummiartig wie die Hoods (kein Handschmeichler wie Kork), hält allein auf Zug (gut), wenig Daempfung trotz Dicke (nur Handfüller), integrierte "Endkappe" laesst sich verdrehen und loest Band (ist nur auf Zug) und verlangt kürzere 2. Wicklung kuerzer (unheitlich) oder haessliche Beule; Laenge passt mit ⅓-Wicklung und ital. Acht gerade so auf 42cm-Flattop-Dropbar inkl. Flattop-Bereich (stufenfrei!); klebriger gummi hält dreck fest, aber gut zu reinigen und wiederzuverwenden; unempfindlicher gegen Regen
-| Lenkerband       | 2025   | 22 €      | Todo        | Cinelli Gel Gork                  | mittel,  Kork,        Klebestreifen,        wie FSA Ultra-Gel Kork (white label produkt?)
-| Lenkerband       | 2025   | 10 €      | Todo        | SRAM SuperCork Bar Tape           | mittel,  Kork,        Klebestreifen,        wie FSA Ultra-Gel Kork (white label produkt?); guenstiges Notfall-Korkband (fahre Shimano)
-| Reifen           | 2025   | 2x 40 €   | Todo        | Tufo Thundero HD                  | 700x40C (41 mm),          je 439g, schneller Gravel-Semi-Slick-Faltreifen,      TPI 130/255, BRR 5/5 (19,2 W), 59ml Orange Endur.; 2,7 bar (105 kg), Stans/Tufo-Sealant wuerden nicht dichten, Orange aber
-| Reifen           | 2025   | 2x 50 €   | Todo        | Michelin Pro 5 TLR                | 700x35C [35 mm gemessen], je 390g, leichter/schneller Allroad-Slick-Faltreifen, TPI 120,     BRR 5/5 (13,8 W), 35ml Orange Endur.; 3,3 bar/offiz. 3,99 bar (105 kg); [Handmontage+Standpumpe]; 32mm bei 105 kg zu hart = Energieverlust (springt/reibt gg realen Asphalt statt verformend zu gleiten) = langsamer/kurveninstabiler/unkomfortabler als 35er
-| Sattel           | 2024   | 100 €     | \*\*\*\*    | Fizik Terra Argo X5               | 160 mm, straff, gut, Hinternposition recht festgelegt; 100 km ohne nennenswerte Probleme
-| Sattel           | 2025   | 93 €      | \*\*\*\*\*  | Ergon SR Allroad Core Comp Men    | M-L, komfortabler, trotzdem noch flach, geht zeitw. ohne Polster, mehr Hinternpositionen; 0 Probleme
-| Pedale           | 2023   | 85 €      | \*\*\*      | Shimano XT PD-T8000               | Plattform-SPD-Kombipedal, mein Übergangspedal fürs Clipless-Lernen; später nie Situation für Plattform gehabt
-| Pedale           | 2024   |           | \*\*\*\*\*  | Shimano XT PD-M8100               | SPD-Klickpedal, SM-SH56 SPD Cleats für Unfall-Präventions-Reflexe
-| Flaschenhalter   | 2023   | 2x 15 €   | \*\*\*\*\*  | SKS Germany DUAL SC RH und LH     | seitliche Entnahme rechtshändig; zerkratzt Flaschen, ansonsten top
-| Kabel Schaltzug  | 2024   | 14 €      | \*\*\*\*\*  | Shimano OT-SP41 Optislick         | Zugseil gleitet gut (STI-Widerstand), gut zu cutten
+| Fahrradteil        | Jahr   | Preis     | Wertung     | Neu verbaut                       | Details
+|--------------------|--------|-----------|-------------|-----------------------------------|--------------------------------------------
+| Lenkeraufsatz      | 2023   | &gt;100 € | \*\*\*\*\*  | Profile Design Sonic Ergo T5+     | 348 mm Länge (13&deg;), Alu 6061-T6
+| Lenker             | 2025   | 27 €      | \*\*\*\*\*  | Moquai Aero Rennradlenker         | 420/420 mm  (0&deg; Flair), kompakt, Alu 6061 "285g"; 4 cm schmaler/sportl. als Erstlenker; Logos subtil; ovalisierte, nicht zu breite Tops; flext in den Drops
+| Lenker             | 2025   | 18 € Sale | Todo        | FSA AGX Adventure Compact         | 440/500 mm (12&deg; Flair), kompakt, Alu 6061 "325g", 2 cm schmaler als Erstlenker, für Bikepacking, Logos übertrieben
+| Lenkerband         | 2023   | 25 €      | \*\*\*\*\*  | Profile Design Aerobar Wrap       | dünn,    gummiartig,  Klebestreifen,        für Lenkeraufsatz; duenner als Dropbar gegen Wurst-Optik; nur Grip, kaum Dämpf.; Bandkante drueckt sich als "Fortsetzungslinie" durch = gleichmäßiges Wickeln
+| Lenkerband         | 2025   | 13 €      | \*\*\*\*    | FSA Ultra-Gel Kork                | mittel,  Kork,        Klebestreifen (Rückstände),  dämpft ohne zu dick aufzutragen, stufig/Grip ok, ging schnell drauf, mit ital. 8 genug Länge; hässl. Finishtape/Barends
+| Lenkerband         | 2025   | 13 €      | \*\*\*      | Selle Italia SmooTape Gran Fondo  | 2,5 mm,  Schaumstoff (langweiliger als Kork), Silikonstreifen/Zug,  ½ oder ⅓ wickeln? aus Entfernung stufenfrei (auch nicht besser als andere); ledrigerer Look ok; weiße Logos = Vogelstange; hässl. Finishtape
+| Lenkerband         | 2025   | 12 €      | \*\*\*      | Selle Italia Smart Tape Greentech | 2,5 mm,  gummiartig wie die Hoods (kein Handschmeichler wie Kork), hält allein auf Zug (gut), wenig Daempfung trotz Dicke (nur Handfüller), integrierte "Endkappe" laesst sich verdrehen und loest Band (ist nur auf Zug) und verlangt kürzere 2. Wicklung (unheitlich) oder haessliche Beule; Laenge passt mit ⅓-Wicklung und ital. Acht gerade so auf 42cm-Flattop-Dropbar inkl. Flattop-Bereich (stufenfrei!); klebriger gummi hält dreck fest, aber gut zu reinigen und wiederzuverwenden; unempfindlicher gegen Regen
+| Lenkerband         | 2025   | 22 €      | Todo        | Cinelli Gel Gork                  | mittel,  Kork,        Klebestreifen,        wie FSA Ultra-Gel Kork (white label produkt?)
+| Lenkerband         | 2025   | 10 €      | Todo        | SRAM SuperCork Bar Tape           | mittel,  Kork,        Klebestreifen,        wie FSA Ultra-Gel Kork (white label produkt?); guenstiges Notfall-Korkband (fahre Shimano)
+| Reifen             | 2025   | 2x 40 €   | Todo        | Tufo Thundero HD                  | 700x40C (41 mm),          je 439g, schneller Gravel-Semi-Slick-Faltreifen,      TPI 130/255, BRR 5/5 (19,2 W), 59ml Orange Endur.; 2,7 bar (105 kg), Stans/Tufo-Sealant wuerden nicht dichten, Orange aber
+| Reifen             | 2025   | 2x 50 €   | Todo        | Michelin Pro 5 TLR                | 700x35C [35 mm gemessen], je 390g, leichter/schneller Allroad-Slick-Faltreifen, TPI 120,     BRR 5/5 (13,8 W), 35ml Orange Endur.; 3,3–3,5 bar/offiz. (105 kg); [Handmontage+Standpumpe]; 32mm bei 105 kg zu hart = Energieverlust (springt/reibt gg realen Asphalt statt verformend zu gleiten) = langsamer/kurveninstabiler/unkomfortabler als 35er
+| Sattel             | 2024   | 100 €     | \*\*\*\*    | Fizik Terra Argo X5               | 160 mm, straff, gut, Hinternposition recht festgelegt; 100 km ohne nennenswerte Probleme
+| Sattel             | 2025   | 93 €      | \*\*\*\*\*  | Ergon SR Allroad Core Comp Men    | M-L, komfortabler, trotzdem noch flach, geht zeitw. ohne Polster, mehr Hinternpositionen; 0 Probleme
+| Pedale             | 2023   | 85 €      | \*\*\*      | Shimano XT PD-T8000               | Plattform-SPD-Kombipedal, mein Übergangspedal fürs Clipless-Lernen; später nie Situation für Plattform gehabt
+| Pedale             | 2024   | 83 €      | \*\*\*\*\*  | Shimano XT PD-M8100               | SPD-Klickpedal, SM-SH56 SPD Cleats für Unfall-Präventions-Reflexe
+| Flaschenhalter     | 2023   | 2x 15 €   | \*\*\*\*\*  | SKS Germany DUAL SC RH und LH     | seitliche Entnahme rechtshändig; zerkratzt Flaschen, ansonsten top
+| Kabel Schaltzug    | 2024   | 14 €      | \*\*\*\*\*  | Shimano OT-SP41 Optislick         | Zugseil gleitet gut (STI-Widerstand), gut zu cutten
+| Computer           | 2023   | 260 €     | \*\*\*\*\*  | Wahoo Bolt 2                      | 
+| Computer-Halterung | 2025   | 63 €      | \*\*\*\*    | Framesandgear Aero 27 mm W/Sm.    | teuer, stabil, sieht gut aus; einzig Schmale, der mit meinem Jack-Frontrack funktioniert
 
 
 #### Drehmomente
@@ -235,7 +239,7 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 |----------------------------------|-----------|-----------------|---------------------------------
 | Vorbau         ./. Lenker Moquai | 4,5       | 6    ./.  5     | Schraubensicherung
 | Vorbau         ./. Carbon-Gabel  | 4,0       | 6    ./.        | trocken
-| Sattel         ./. Stütze        | 6,0       | 8-9  ./.        | Antiseize Schrauben
+| Sattel         ./. Stütze        | 6,0       |      ./.  8-9   | Antiseize Schrauben
 | Sattelklemme   ./. Stütze        | 5,0       | 7    ./.        | Antiseize alles
 | Schaltwerk     ./. Auge          | handfest  |      ./.        | 
 | Pedale         ./. Kurbel        | ?         |      ./.        | Antiseize Gewinde
@@ -345,6 +349,8 @@ da sich paar Sekunden Sicherheitsgewinn nicht lohnen:
 #### Komponentenklau:
 - "schmier ich aushärtende Dichtmasse in die Inbusaufnahme, Hoffnung:da muss man ne zeitlang puhlen....",
 	"So ähnlich mach ich das auch. Ich nehme aber 2-Komponenten Kleber, schmiere damit den Sechskant zu"
+	- verschlechtert Wartbarkeit
+- Inbus-Schrauben mit exotischem Format ersetzen: TODO
 
 #### Verstecken:
 - "Laubwäldchen, haben das Rad flachgelegt und mit abgerissenen Zweigen getarnt"
@@ -353,6 +359,14 @@ da sich paar Sekunden Sicherheitsgewinn nicht lohnen:
 		(kann aber dazu führen, dass der zu lange wartet)
 	- Cover möglichst ranzig aussehen lassen; irgendwie Hinweis "gleich wieder da!"?
 - Rad absichtlich hässlich, unverkäuflicher, identifizierbarer machen: Aufkleber, Beschmierungen, Kratzer, ... (eher für Beater-Bike/"Stadthure")
+
+#### Verfolgen:
+
+- todo
+
+#### Versichern:
+
+- todo
 
 #### Sonstiges:
 - wer dicke Faltschlösser knacken kann, hat Werkzeug auch für Bügelschlösser
@@ -666,20 +680,20 @@ Allgemein:
 
 | Bauteil                            | Vor-Reinigung          | Nachbehandlung 
 |------------------------------------|------------------------|-------------------------
-| Schaltwerk-Roellchen (Pullies)     | nur mechanisch         | ?
+| Schaltwerk-Roellchen (Pullies)     | mechanisch (Plastik)   | ?
 | Schaltwerk-Federn/-Gelenke         | ?                      | Balistol PTFE-Trockenschmierung (Spray); Öl wuerde mehr Dreck anziehen und kann verharzen = schwergaengiger; Alternative Brunox nur bei viel Regen
 | Pedal-Cleat-Federn                 | ?                      | Balistol PTFE-Trockenschmierung (Spray); Alternative Brunox nur bei viel Regen
 | Pedal-Kurbel-Gewinde               | IPA                    | Shimano Anti-Seize
 | Cleat-Schrauben im Schuh           | ?                      | Shimano Anti-Seize über 90% der Laenge und 10% Schraubensicherung am Ende  (nur Schraubensicherung über Länge würde auch reichen, da es ebenfalls trennt und zudem nichts vermischt?)
-| Sattelstuetze-Sitzrohr             | IPA                    | Shimano Anti-Seize, auch alle Teile des Schraubmechanismus = verhindert Knarzgeraeusche (Carbon-Paste mit Partikel erzeugt bei Alu-Alu wie Dreck mehr statt weniger Knarzen)
+| Sattelstuetze-Sitzrohr             | IPA                    | Shimano Anti-Seize über Stütze, D-Fuse-Adapter, und alle Teile des Schraubmechanismus = verhindert Knarzgeraeusche (Carbon-Paste mit Partikel erzeugt bei Alu-Alu wie Dreck mehr statt weniger Knarzen)
 | Steuersatz                         | IPA, Muc-off Bio Degreaser + Pinsel zum Saeubern ausgebauter Lager, weniger aggressiv gegen Gummidichtung als Bremsenreiniger | Finishline Premium-Fett auf den Lager-Sitzen, _duenner_ Film um Cartridge Bearings und Gabelkonus, und dick unter der oberen Abdeckkappe (Gummiring) für Wasserdichtigkeit; untere Aufnahme wenig Fett (Dreck), oben mehr (kein Wassereintrag)
 | Griffgummis                        | ?                      | Hand-Sanitizer innen lässt besser rutschen falls neu aufzuziehen, verflüchtigt
-| Kette                              | ?                      | Liquimoly Dry bzw. Wet Lube; ich verwende einen kleinen, festen flachen Pinsel: Tropfen Öl drauf und streich dann eine Bahn, wdh. insg. 3 Tropfen pro Bahn: sauberste Arbeit und Ergebnis
+| Kette                              | ?                      | Liquimoly Dry bzw. Wet Lube; kleiner fester Flach-Pinsel: Tropfen Öl drauf und streich dann eine Bahn von Pully bis Kettenblatt, wdh. insg. 3 Tropfen pro Bahn, kurbel weiter: zügig-saubere Arbeit und Ergebnis
 | Kettenblatt                        | ?                      | ?
 | Kassette                           | ?                      | ?
 | Radwaesche allgemein               | Wasser                 | Mucoff Bike Cleaner; (Kassette besser separiert und mit Bremsenreiniger bearbeiten)
 | Reifen-Dichtmilch                  | ?                      | Orange Seal Endurance bei allen Nicht-GIANT-Reifen; sonst GIANT Tire Sealant
-| Bremsscheibe                       | IPA oder Wuerth Bremsenreiniger        | ?
+| Bremsscheibe                       | IPA oder Wuerth Bremsenreiniger        | -
 | Radlager Vorderrad Konuslager      | Bio Degreaser, IPA, WD40 Rostentferner | Finishline Premium-Grease
 
 
