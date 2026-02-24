@@ -188,7 +188,10 @@ es ist wahrscheinlicher dass das Foto stimmt als dass es nicht stimmt.
 > Wichtig: Die Originalverpackung enthält _innerhalb_ der weißen Pappe die Schrauben etc. 
 > 
 > Wünsche viel Erfolg bei den Projekten / Ich hoffe WARE gefällt und ist von Nutzen / Gute Fahrt
+>
 > Gruß André
+>
+> PS: Über eine kurze Rückmeldung, wenn die Sendung angekommen ist, würde ich mich freuen - gerne auch einfach als Bewertung ;)
 
 _(beim Link hinten die Nummer ersetzen)_
 
