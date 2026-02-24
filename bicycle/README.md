@@ -1058,22 +1058,6 @@ Beide Seiten im Zentrierständer testen und schauen, welche Seite insgesamt mehr
 ![Screenshot](truing-start.svg?raw=true)
 
 
-#### Wie ziehen? 
-
-- Seitenschlag: Speiche links BZW. rechts spannen (s.u.) 
-- Höhenschlag: Speiche links UND rechts spannen 
-- kleinschrittig Viertel-Umdrehungen + überprüfen 
-- Kombinieren: 1 spannen, direkte Nachbarn ½ lockern 
-- Neurad eher spannen als lockern 
-- starkgespanntes Altrad eher lockern als spannen 
-- Gegenseite lockern falls Nippel max. angezogen 
-- Tropfen Öl auf schwergängige Nippel (nur diese, sonst Speichenbewegung beim Fahren) 
-- Abdrücken: ... TODO
-- Spannung: ... TODO
-
-![Screenshot](truing-how.svg?raw=true)
-
-
 #### Was korrigieren? 
 
 Anfänge & Mitte des Schlags finden, markieren und anteilig über mehrere Speichen arbeiten: 
@@ -1088,6 +1072,21 @@ Anfänge & Mitte des Schlags finden, markieren und anteilig über mehrere Speich
 
 ![Screenshot](truing-where.svg?raw=true)
 
+
+#### Wie ziehen? 
+
+- Seitenschlag: Speiche links BZW. rechts spannen (s.u.) 
+- Höhenschlag: Speiche links UND rechts spannen 
+- kleinschrittig Viertel-Umdrehungen + überprüfen 
+- Kombinieren: 1 spannen, direkte Nachbarn ½ lockern 
+- Neurad eher spannen als lockern 
+- starkgespanntes Altrad eher lockern als spannen 
+- Gegenseite lockern falls Nippel max. angezogen 
+- Tropfen Öl auf schwergängige Nippel (nur diese, sonst Speichenbewegung beim Fahren) 
+- Abdrücken: ... TODO
+- Spannung: ... TODO
+
+![Screenshot](truing-how.svg?raw=true)
 
 
 
@@ -1803,7 +1802,7 @@ Mag sich ändern, falls ich mal in Richtung 200-300 km am Tag oder Ultracycling 
 
 
 
-# Hygiene
+## Hygiene
 
 > Ein Radrennfahrer muss seinen Hintern besser pflegen als sein Gesicht. (Radrennprofi Rudi Altig)
 
