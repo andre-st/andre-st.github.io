@@ -4,7 +4,7 @@
 
 _ACHTUNG: Alles work-in-progress hier, mag sich alles ändern_
 
-Stern-Bewertungen sind immmer von max. 5 Sternen (1 Stern = schlecht; 5 beste; 3 ok)
+Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäßig; 1 = vermeiden)
 
 
 ## Übersicht
@@ -12,7 +12,7 @@ Stern-Bewertungen sind immmer von max. 5 Sternen (1 Stern = schlecht; 5 beste; 3
 - [Begriffe](#begriffe)
 - [Modell](#modell)
 - [Schalten](#schalten)
-- [Bremsen](#bremsen)
+- [Fahrtechniken](#fahrtechniken)
 - [Diebstahlschutz](#diebstahlschutz)
 - [Straßenzulassung StVoZ](#)
 - [Kleidung](#kleidung)
@@ -49,23 +49,22 @@ Stern-Bewertungen sind immmer von max. 5 Sternen (1 Stern = schlecht; 5 beste; 3
 ## Begriffe
 
 - Klettern: einen Anstieg hochfahren
-- Ritzel: Zahnräder hinten
-- Kettenblatt: Zahnräder vorne
-- Kurbel
-- Kettenradgarnitur: Bündel an Zahnrädern vorne?
+- Antrieb:
+	- Kette
+	- Ritzel: Zahnräder hinten
+	- Kettenblatt: Zahnräder vorne
+	- Kurbel, Kurbelarm
+	- Kettenradgarnitur: Bündel an Zahnrädern vorne?
 - Kettenschaltung:
 	- Kassette: Bündel an Zahnrädern hinten
 	- Kassette modular
 	- Umwerfer vorne/hinten
 	- Schaltkäfig
 	- Schaltwerkröllchen 
-	- Schaltauge: 
-		daran ist das hintere Schaltwerk angebracht/eingeschraubt; wenige Grad Abweichung schon ändern ganze Schaltgeometrie; fängt Seitenschläge auf;
-		austauschen, wenn verbogen; gerade biegen kann dazu führen, dass es bricht und ganze Schaltkäfig in die Speichen kommt und viel kaputt macht;
-		Ersatzschaltauge besorgen (kann dann z.B. auf Reisen Werkstatt einbauen); s. Abschnitt Schaltung
+	- Schaltauge
 - Schaltgruppe: Gesamtheit von Schalthebeln, Schaltzügen, Schaltwerk/Umwerfern
 - Schalthebel
-- STI (Shimano Brems-Schalthebel-Kombination, Prinzip gängig bei modernen Rennrädern)
+- STI Shimano Total Integration (Shimano Brems-Schalthebel-Kombination, Prinzip gängig bei modernen Rennrädern)
 - Gang
 - Rahmen: [Rohrgestänge insgesamt](https://cdn.prod.www.spiegel.de/images/5fdc5420-0001-0004-0000-000001203310_w860_r1.7551020408163265_fpx33.03_fpy50.jpg)
 	- Oberrohr
@@ -115,7 +114,7 @@ Stern-Bewertungen sind immmer von max. 5 Sternen (1 Stern = schlecht; 5 beste; 3
 	- BMX-Fahrrad
 	- Kunstrad/Saalmaschine (Starrlauf zum Rückwärtsfahren, 12 bar Reifendruck)
 	- ...
-- Kadenz: Trittfrequenz gemessen in Umdrehungen pro Minute U/min bzw. rpm
+- Kadenz (Trittfrequenz gemessen in Umdrehungen pro Minute U/min bzw. rpm)
 - Fred: 
 	spöttische Bezeichnung von "ernsthafteren" Rennradfahrern entweder für Radfahrer, die 
 	durch Kleidungswahl und Modifikationen/Anbauten am Rad amateurhaft auf sie wirken.
@@ -148,95 +147,96 @@ Stern-Bewertungen sind immmer von max. 5 Sternen (1 Stern = schlecht; 5 beste; 3
 
 
 
-## Modell: GIANT REVOLT XL 2 GRAVEL BIKE 2022/23
+## Modell: GIANT Revolt 2 XL Gravel Bike 2022/23
 
-![Giant Revolt XL 2 Gravel Bike im Allroad-Setup 2026](giantrevolt2-allroad.jpg)
+![Giant Revolt 2 XL Gravel Bike im Allroad-Setup 2026](giantrevolt2-allroad.jpg)
 _(Abb.: 2026 im Allroad-Setup)_
 
 
-Kaufdatum 9.6.23
+### Komponentenliste Kaufdatum 9.6.23
 
-
-### Komponentenliste
+ca. 1400 € (Einstiegsklasse bei _Sport_-Bio-Fahrrädern für tägl. Training bei höheren Geschw. und langen Strecken)
 
 Die offizielle, frei zugängliche Spezifikation ist recht dünn; 
 im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 
 
-| Fahrradteil (engl.)               | Original verbaut (Stock)
-|-----------------------------------|----------------------------
-| Farbe                             | Black Diamond
-| Systemgewicht                     | max. 150 kg; 110 kg Fahrer/Gepäck unbedenklich zuladbar = &le;120 kg (20% Reserve) - 11–11 kg XL-Fahrrad-Eigengewicht
-| Rahmen         (frame)            | GIANT ALUXX-Aluminium, 12 x 142 mm Steckachse, Bremsscheiben, Flip-Chip-Ausfallende
-| Rahmennummer   (serial No.)       | unterm Tretlager zweigeteilt; bei GIANT-Werkstattanfragen immer nennen
-| Reifenfreiheit (tire clearance)   | 53 mm falls Long-Flipchip-Position, 42 mm bei Short-flipchip-Position  [doku]
-| Stoßdämpfer                       | N/A
-| Pedale                            | N/A
-| Gabel          (fork)             | GIANT Revolt Advanced Vollcarbon-Gabel (rly?)
-| Gabelschaft    (steerer tube)     | GIANT OverDrive-Gabelschaft (OD Version 1) aus Carbon-Verbundwerkstoff; tapered/konisch
-| Gabelkonus     (crown race)       | Konus ist nicht separat, sondern im Carbonschaft integriert, also Teil der Gabelkrone
-| Steuersatz     (headset)          | voll-integriert (IS): statt Einpress- oder Ausschlagwerkzeug alles mit Hand in Rahmen-Ausbuchtungen legbar [erprobt]
-| Steuersatzlager oben              | MH-P08F – 30.5 x 41.8 x 8 – 45/45 [erprobt],  OD=41,81 ID=30,47 mm [gemessen]
-| Steuersatzlager unten             | MH-P22  – 34.1 x 46.9 x 7 – 45/45 [erprobt],  OD=46,76 ID=34,0  mm [gemessen]
-| Spacer                            | AD=??? mm, ID=??? mm, Kunststoff?
-| Vorbau         (stem)             | GIANT Sport(?), 90 mm, 7&deg;, 27 mm horz. zw. Schraubenmitten [erprobt mit Stem-Mount]
-| Lenker         (handle bar)       | GIANT Contact XR Ergo-Control(?) Drop 460/510 mm (8&deg; Flair), kompakt, 31,8 mm, Alu, 337g, clip-on compatible, Reach 10 cm
-| Lenkerband     (bar tape)         | GIANT Gel(?) Cork, mittel
-| Bremsen        (brakes)           | Tektro MD-C550 mechanisch; 2-Kolben-Bremssattel (Double piston); 3er Inbus für Bremsbelagnachstellung
-| Bremsscheiben  (brake disc/rotor) | GIANT MPH Rotoren [V]160mm, [H]160mm, 6 Loch, Torx 25 [erprobt]
-| Umwerfer       (front derailleur) | Shimano Sora ST-R3000
-| Schaltwerk     (rear  derailleur) | Shimano Sora ST-R3000, langer Käfig
-| Schalthebel    (shifter/lever)    | Shimano Sora ST-R3000, 2x9
-| Schaltröllchen (jockey wheels)    | Shimano Leitröllchen (guide pulley) oben = ?; Spannröllchen (tension pulley) unten = Gleitlager oder gedichtes Kugellager? Kunststoff oder Alu? Anzahl Zähne?; angeblich kompatibel mit 9-Speed Shimano RD6700 Ultegra XT Saint
-| Kassette       (cogset)           | Shimano HG400, 11x34
-| Kette          (chain)            | KMC X9 EPT mit Missing Link, 114 Glieder
-| Kurbelsatz     (crank)            | FSA Vero Pro
-| Kurbellaenge   (crank length)     | 175 mm	
-| Kettenblatt    (chain ring)       | FSA Omega/Vero Pro 48/32T, 4-ARM, 120/90 mm BCD Lochkreis [abgelesen] ab Modell 2017
-| Kettenlinie    (chainline)        | 44,5–45 mm
-| Tretlager      (bottom bracket)   | 68mm BSA threaded bottom bracket (cartridge BB)? FSA MegaExo Pressfit?? BB-7420 ST Square Taper (JIS)???
-| Tretlager Achslänge               | ???
-| Laufräder             (wheels)    | GIANT SX2 Disc-Radsatz, 28 Zoll, Legierung, tubeless-ready, Laufradsatz 2030g, ??? Speichen, für 150-kg-Fahrrad
-| Felgeninnenweite      (rim width) | 25 mm   (innere Felgenbreite/Maulweite/Innenweite) [622x25 steht auf der Felge]
-| Felgenaußenweite                  | 30 mm
-| Felgenprofil                      | 23 mm tief, Tubeless (Rim bead lock+seat) mit Hooks (tats. nicht hookless)
-| Felgenband            (rim tape)  | GIANT Tubeless Rim Tape 28 mm(?)
-| Laufradnabe Vorderrad (front hub) | Konuslager mit 22 freien 1/8"-Kugeln (1 Lücke) (G5–G20 rund / HRC&ge;60 hart) [erprobt]; 2x 19mm-Konusschlüssel [erprobt]
-| Laufradnabe Hinterrad (rear  hub) | angebl. Wälzlager (6902 15×28×7 mm???), stabiler als Konus (Kraftangriff axial/torsional durch Antrieb statt nur radial wie bei besser rollendem Konus vorne)
-| Reifen                (tyre)      | GIANT CrossCut AT 2, 700x38C [misst 40 mm], robuster 680g [gewogen] / 35€ Semi-Slick-Drahtreifen, tubeless, 60 TPI, Silica-Mischung
-| Reifenpannenschutz                | GIANT "Defect 2 lite" puncture protection Pannenschutzgürtel aus leichtem Nylon unter der Lauffläche des Reifens
-| Reifen-Dichtmilch     (sealant)   | GIANT Tubeless Sealant (angebl. Stans-Dichtmilch; GIANT nennt Stans auch als einzige Alternative)
-| Sattel                (saddle)    | GIANT Approach, 145 mm
-| Sattelstütze          (seat post) | GIANT D-Fuse, Legierung, 14 mm Versatz
-| Kabel Bremszug      (brake cable) | 5mm ??
-| Kabel Schaltzug     (shift cable) | 4mm Jagwire LEX 1,1 mm, linear steels strands, non-lubed liner; angebl. 1,2 mm kompatibel, tats. Draht [misst] wohl 1,2 mm
-| Kabel Schaltzuglängen             | Hülle STI rechts bis Steuerrohr = 51 cm; Hülle Sattel-/Unterrohr bis Schaltkäfig = 62 cm
+| Fahrradteil           | engl.            | Original verbaut (Stock)
+|-----------------------|------------------|----------------------------
+| Lackierung            | paint job        | Black Diamond
+| Systemgewicht         | tot. weight limit| max. 150 kg; 110 kg Fahrer/Gepäck unbedenklich zuladbar = &le;120 kg (20% Reserve) - 11–11 kg XL-Fahrrad-Eigengewicht; Laufräder/Speichen leiden zuerst
+| Rahmen                | frame            | GIANT ALUXX-Aluminium, 12 x 142 mm Steckachse, Bremsscheiben, Flip-Chip-Ausfallende
+| Rahmennummer          | serial no.       | unterm Tretlager zweigeteilt; bei GIANT-Werkstattanfragen immer nennen
+| Reifenfreiheit        | tire clearance   | 53 mm falls Long-Flipchip-Position, 42 mm bei Short-flipchip-Position  [doku]
+| Stoßdämpfer           | shock absorber   | N/A
+| Pedale                | pedals           | N/A
+| Gabel                 | fork             | GIANT Revolt Advanced Vollcarbon-Gabel (rly?)
+| Gabelschaft           | steerer tube     | GIANT OverDrive-Gabelschaft (OD Version 1) aus Carbon-Verbundwerkstoff; tapered/konisch
+| Gabelkonus            | crown race       | Konus ist nicht separat, sondern im Carbonschaft integriert, also Teil der Gabelkrone
+| Steuersatz            | headset          | voll-integriert (IS): statt Einpress- oder Ausschlagwerkzeug alles mit Hand in Rahmen-Ausbuchtungen legbar [erprobt]
+| Steuersatzlager oben  | top bearing      | MH-P08F – 30.5 x 41.8 x 8 – 45/45 [erprobt],  OD=41,81 ID=30,47 mm [gemessen]
+| Steuersatzlager unten | bottom bearing   | MH-P22  – 34.1 x 46.9 x 7 – 45/45 [erprobt],  OD=46,76 ID=34,0  mm [gemessen]
+| Vorbaudistanzringe    | spacer           | AD=??? mm, ID=??? mm, Kunststoff?
+| Vorbau                | stem             | GIANT Sport(?), 90 mm, 7&deg;, 27 mm horz. zw. Schraubenmitten [erprobt mit Stem-Mount]
+| Lenker                | handle bar       | GIANT Contact XR Ergo-Control(?) Drop 460/510 mm (8&deg; Flair), kompakt, 31,8 mm, Alu, 337g, clip-on compatible, Reach 10 cm
+| Lenkerband            | bar tape         | GIANT Gel(?) Cork, mittel
+| Bremsen               | brakes           | Tektro MD-C550 mechanisch; 2-Kolben-Bremssattel (Double piston); 3er Inbus für Bremsbelagnachstellung
+| Bremsscheiben         | brake disc/rotor | GIANT MPH Rotoren [V]160mm, [H]160mm, 6 Loch, Torx 25 [erprobt]
+| Umwerfer              | front derailleur | Shimano Sora ST-R3000
+| Schaltwerk            | rear  derailleur | Shimano Sora ST-R3000, langer Käfig
+| Schalthebel           | shifter/lever    | Shimano Sora ST-R3000, 2x9
+| Schaltröllchen        | jockey wheels    | Shimano Leitröllchen (guide pulley) oben = ?; Spannröllchen (tension pulley) unten = Gleitlager oder gedichtes Kugellager? Kunststoff oder Alu? Anzahl Zähne?; angeblich kompatibel mit 9-Speed Shimano RD6700 Ultegra XT Saint
+| Kassette              | cogset           | Shimano HG400, 11x34
+| Kette                 | chain            | KMC X9 EPT mit Missing Link, 114 Glieder
+| Kurbelsatz            | crank            | FSA Vero Pro
+| Kurbellaenge          | crank length     | 175 mm	
+| Kettenblatt           | chain ring       | FSA Omega/Vero Pro 48/32T, 4-ARM, 120/90 mm BCD Lochkreis [abgelesen] ab Modell 2017
+| Kettenlinie           | chainline        | 44,5–45 mm
+| Tretlager             | bottom bracket   | 68mm BSA threaded bottom bracket (cartridge BB)? FSA MegaExo Pressfit?? BB-7420 ST Square Taper (JIS)???
+| Tretlager Achslänge   | bb axle length   | ???
+| Laufräder             | wheels           | GIANT SX2 Disc-Radsatz, 28 Zoll, Legierung, tubeless-ready, Laufradsatz 2030g, ??? Speichen, für 150-kg-Fahrrad
+| Felgeninnenweite      | intrn. rim width | 25 mm   (innere Felgenbreite/Maulweite/Innenweite) [622x25 steht auf der Felge]
+| Felgenaußenweite      | extrn. rim width | 30 mm
+| Felgenprofil          |                  | 23 mm tief, Tubeless (Rim bead lock+seat) mit Hooks (tats. nicht hookless)
+| Felgenband            | rim tape         | GIANT Tubeless Rim Tape 28 mm(?)
+| Laufradnabe Vorderrad | front hub        | GIANT, Konuslager mit 22 freien 1/8"-Kugeln (1 Lücke) (G5–G20 rund / HRC&ge;60 hart) [erprobt]; 2x 19mm-Konusschlüssel [erprobt]
+| Laufradnabe Hinterrad | rear  hub        | GIANT, angebl. Wälzlager (6902 15×28×7 mm???), stabiler als Konus (Kraftangriff axial/torsional durch Antrieb statt nur radial wie bei besser rollendem Konus vorne)
+| Reifen                | tyre             | GIANT CrossCut AT 2, 700x38C [misst 40 mm], robuster 680g [gewogen] / 35€ Semi-Slick-Drahtreifen, tubeless, 60 TPI, Silica-Mischung
+| Reifenpannenschutz    | puncture protect.| GIANT "Defect 2 lite" puncture protection Pannenschutzgürtel aus leichtem Nylon unter der Lauffläche des Reifens
+| Reifen-Dichtmilch     | sealant          | GIANT Tubeless Sealant (angebl. Stans-Dichtmilch; GIANT nennt Stans auch als einzige Alternative)
+| Sattel                | saddle           | GIANT Approach, 145 mm
+| Sattelstütze          | seat post        | GIANT D-Fuse, Legierung, 14 mm Versatz
+| Kabel Bremszug        | brake cable      | 5mm ??
+| Kabel Schaltzug       | shift cable      | 4mm Jagwire LEX 1,1 mm, linear steels strands, non-lubed liner; angebl. 1,2 mm kompatibel, tats. Draht [misst] wohl 1,2 mm
+| Kabel Schaltzuglängen | cable lengths    | Hülle STI rechts bis Steuerrohr = 51 cm; Hülle Sattel-/Unterrohr bis Schaltkäfig = 62 cm
 
 
 ### Komponenten abweichend vom Original getauscht/hinzugefügt:
 
-| Fahrradteil        | Jahr   | Preis     | Wertung     | Neu verbaut                       | Details
-|--------------------|--------|-----------|-------------|-----------------------------------|--------------------------------------------
-| Lenkeraufsatz      | 2023   | &gt;100 € | \*\*\*\*\*  | Profile Design Sonic Ergo T5+     | 348 mm Länge (13&deg;), Alu 6061-T6
-| Lenker             | 2025   | 27 €      | \*\*\*\*\*  | Moquai Aero Rennradlenker         | 420/420 mm  (0&deg; Flair), kompakt, Alu 6061 "285g"; 4 cm schmaler/sportl. als Erstlenker; Logos subtil; ovalisierte, nicht zu breite Tops; flext in den Drops
-| Lenker             | 2025   | 18 € Sale | Todo        | FSA AGX Adventure Compact         | 440/500 mm (12&deg; Flair), kompakt, Alu 6061 "325g", 2 cm schmaler als Erstlenker, für Bikepacking, Logos übertrieben
-| Lenkerband         | 2023   | 25 €      | \*\*\*\*\*  | Profile Design Aerobar Wrap       | dünn,    gummiartig,  Klebestreifen,        für Lenkeraufsatz; duenner als Dropbar gegen Wurst-Optik; nur Grip, kaum Dämpf.; Bandkante drueckt sich als "Fortsetzungslinie" durch = gleichmäßiges Wickeln
-| Lenkerband         | 2025   | 13 €      | \*\*\*\*    | FSA Ultra-Gel Kork                | mittel,  Kork,        Klebestreifen (Rückstände),  dämpft ohne zu dick aufzutragen, stufig/Grip ok, ging schnell drauf, mit ital. 8 genug Länge; hässl. Finishtape/Barends
-| Lenkerband         | 2025   | 13 €      | \*\*\*      | Selle Italia SmooTape Gran Fondo  | 2,5 mm,  Schaumstoff (langweiliger als Kork), Silikonstreifen/Zug,  ½ oder ⅓ wickeln? aus Entfernung stufenfrei (auch nicht besser als andere); ledrigerer Look ok; weiße Logos = Vogelstange; hässl. Finishtape
-| Lenkerband         | 2025   | 12 €      | \*\*\*      | Selle Italia Smart Tape Greentech | 2,5 mm,  gummiartig wie die Hoods (kein Handschmeichler wie Kork), hält allein auf Zug (gut), wenig Daempfung trotz Dicke (nur Handfüller), integrierte "Endkappe" laesst sich verdrehen und loest Band (ist nur auf Zug) und verlangt kürzere 2. Wicklung (uneinheitlich) oder haessliche Beule; Laenge passt mit ⅓-Wicklung und ital. Acht gerade so auf 42cm-Flattop-Dropbar inkl. Flattop-Bereich (stufenfrei!); klebriger gummi hält dreck fest, aber gut zu reinigen und wiederzuverwenden; unempfindlicher gegen Regen
-| Lenkerband         | 2025   | 22 €      | Todo        | Cinelli Gel Gork                  | mittel,  Kork,        Klebestreifen,        wie FSA Ultra-Gel Kork (white label produkt?)
-| Lenkerband         | 2025   | 10 €      | Todo        | SRAM SuperCork Bar Tape           | mittel,  Kork,        Klebestreifen,        wie FSA Ultra-Gel Kork (white label produkt?); guenstiges Notfall-Korkband (fahre Shimano)
-| Reifen             | 2025   | 2x 40 €   | Todo        | Tufo Thundero HD                  | 700x40C (41 mm),          je 439g, schneller Gravel-Semi-Slick-Faltreifen,      TPI 130/255, BRR 5/5 (19,2 W); 2,7 bar            (105 kg); 59ml Dichtmilch, Stans/Tufo-Sealant wuerden nicht dichten, Orange aber
-| Reifen             | 2025   | 2x 50 €   | Todo        | Michelin Pro 5 TLR                | 700x35C [35 mm gemessen], je 390g, leichter/schneller Allroad-Slick-Faltreifen, TPI 120,     BRR 5/5 (13,8 W); 3,3–3,5 bar/offiz. (105 kg); 35ml Dichtmilch; [Handmontage+Standpumpe]; 32mm bei 105 kg zu hart = Energieverlust (springt/reibt gg realen Asphalt statt verformend zu gleiten) = langsamer/kurveninstabiler/unkomfortabler als 35er
-| Reifen-Dichtmilch  | 2025   | ?         | Todo        | Orange Seal Endurance             | bleibe länger flüssig, dichte aber nicht so schnell/gut wie die normale Orange-Version
-| Sattel             | 2024   | 100 €     | \*\*\*\*    | Fizik Terra Argo X5               | 160 mm, straff, gut, Hinternposition recht festgelegt; 100 km ohne nennenswerte Probleme
-| Sattel             | 2025   | 93 €      | \*\*\*\*\*  | Ergon SR Allroad Core Comp Men    | M-L, komfortabler, trotzdem noch flach, geht zeitw. ohne Polster, mehr Hinternpositionen; 0 Probleme
-| Pedale             | 2023   | 85 €      | \*\*\*      | Shimano XT PD-T8000               | Plattform-SPD-Kombipedal, mein Übergangspedal fürs Clipless-Lernen; später nie Situation für Plattform gehabt
-| Pedale             | 2024   | 83 €      | \*\*\*\*\*  | Shimano XT PD-M8100               | SPD-Klickpedal, SM-SH56 SPD Cleats für Unfall-Präventions-Reflexe
-| Flaschenhalter     | 2023   | 2x 15 €   | \*\*\*\*\*  | SKS Germany DUAL SC RH und LH     | seitliche Entnahme rechtshändig; zerkratzt Flaschen, ansonsten top
-| Kabel Schaltzug    | 2024   | 14 €      | \*\*\*\*\*  | Shimano OT-SP41 Optislick         | Zugseil gleitet gut (STI-Widerstand), gut zu cutten
-| Computer           | 2023   | 260 €     | \*\*\*\*\*  | Wahoo Bolt 2                      | mit Gummi-Schutzhülle
-| Computer-Halterung | 2025   | 63 €      | \*\*\*\*    | Framesandgear Aero 27 mm Wah/Sm.  | Stem-Mount; teuer, stabil, sieht gut aus/ragt nicht über Lenker; einzig Schmale, der mit meinem Jack-Frontrack funktioniert; schlechter Transferwert durch feste Breite
+| Fahrradteil        | Jahr   | Preis     | Wertung | Neu verbaut                       | Details
+|--------------------|--------|-----------|---------|-----------------------------------|--------------------------------------------
+| Lenkeraufsatz      | 2023   | &gt;100 € | \*\*\*  | Profile Design Sonic Ergo T5+     | 348 mm Länge (13&deg;), Alu 6061-T6, siehe Aerolenker-Abschnitt
+| Lenker             | 2025   | 27 €      | \*\*\*  | Moquai Aero Rennradlenker         | 420/420 mm  (0&deg; Flair), kompakt, Alu 6061 "285g"; 4 cm schmaler/sportl. als Erstlenker; Logos subtil; ovalisierte, nicht zu breite Tops; flext in den Drops
+| Lenker             | 2025   | 18 € Sale | Todo    | FSA AGX Adventure Compact         | 440/500 mm (12&deg; Flair), kompakt, Alu 6061 "325g", 2 cm schmaler als Erstlenker, für Bikepacking, Logos übertrieben
+| Lenkerband         | 2023   | 25 €      | \*\*\*  | Profile Design Aerobar Wrap       | dünn,    gummiartig,  Klebestreifen,        für Lenkeraufsatz; duenner als Dropbar gegen Wurst-Optik; nur Grip, kaum Dämpf.; Bandkante drueckt sich als "Fortsetzungslinie" durch = gleichmäßiges Wickeln
+| Lenkerband         | 2025   | 13 €      | \*\*    | FSA Ultra-Gel Kork                | mittel,  Kork,        Klebestreifen (Rückstände),  dämpft ohne zu dick aufzutragen, stufig/Grip ok, ging schnell drauf, mit ital. 8 genug Länge; hässl. Finishtape/Barends
+| Lenkerband         | 2025   | 13 €      | \*      | Selle Italia SmooTape Gran Fondo  | 2,5 mm,  Schaumstoff (langweiliger als Kork), Silikonstreifen/Zug,  ½ oder ⅓ wickeln? aus Entfernung stufenfrei (auch nicht besser als andere); ledrigerer Look ok; weiße Logos = Vogelstange; hässl. Finishtape
+| Lenkerband         | 2025   | 12 €      | \*      | Selle Italia Smart Tape Greentech | 2,5 mm,  gummiartig wie die Hoods (kein Handschmeichler wie Kork), hält allein auf Zug (gut), wenig Daempfung trotz Dicke (nur Handfüller), integrierte "Endkappe" laesst sich verdrehen und loest Band (ist nur auf Zug) und verlangt kürzere 2. Wicklung (uneinheitlich) oder haessliche Beule und verunmöglicht Klingel-Endkappe o.ä.; Laenge passt mit ⅓-Wicklung und ital. Acht gerade so auf 42cm-Flattop-Dropbar inkl. Flattop-Bereich (stufenfrei!); klebriger gummi hält dreck fest, aber gut zu reinigen und wiederzuverwenden; unempfindlicher gegen Regen
+| Lenkerband         | 2025   | 22 €      | Todo    | Cinelli Gel Gork                  | mittel,  Kork,        Klebestreifen,        wie FSA Ultra-Gel Kork (white label produkt?)
+| Lenkerband         | 2025   | 10 €      | Todo    | SRAM SuperCork Bar Tape           | mittel,  Kork,        Klebestreifen,        wie FSA Ultra-Gel Kork (white label produkt?); guenstiges Notfall-Korkband (fahre Shimano)
+| Steuersatzlager    | 2025   | 2x 20 €?  | ?       | CQ GmbH Edelstahl                 | Ersatz wg. rauem Lauf
+| Konuslagerkugeln   | 2025   |  5 €?     | ?       | Woembi G20 HRC&ge;60 1/8"         | Ersatz wg. Korrosion
+| Kabel Schaltzug    | 2024   | 14 €      | \*\*\*  | Shimano OT-SP41 Optislick         | ersetzt gerissenes Jagwire; Zugseil gleitet gut (STI-Widerstand), gut zu cutten
+| Reifen             | 2025   | 2x 40 €   | Todo    | Tufo Thundero HD                  | 700x40C (41 mm),          je 439g, schneller Gravel-Semi-Slick-Faltreifen,      TPI 130/255, BRR 5/5 (19,2 W); 2,7 bar            (105 kg); 59ml Dichtmilch, Stans/Tufo-Sealant wuerden nicht dichten, Orange aber
+| Reifen             | 2025   | 2x 50 €   | Todo    | Michelin Pro 5 TLR                | 700x35C [35 mm gemessen], je 390g, leichter/schneller Allroad-Slick-Faltreifen, TPI 120,     BRR 5/5 (13,8 W); 3,3–3,5 bar/offiz. (105 kg); 35ml Dichtmilch; [Handmontage+Standpumpe]; 32mm bei 105 kg zu hart = Energieverlust (springt/reibt gg realen Asphalt statt verformend zu gleiten) = langsamer/kurveninstabiler/unkomfortabler als 35er
+| Reifen-Dichtmilch  | 2025   | ?         | Todo    | Orange Seal Endurance             | bleibe länger flüssig, dichte aber nicht so schnell/gut wie die normale Orange-Version
+| Sattel             | 2024   | 100 €     | \*\*    | Fizik Terra Argo X5               | 160 mm, straff, gut, Hinternposition recht festgelegt; 100 km ohne nennenswerte Probleme
+| Sattel             | 2025   | 93 €      | \*\*\*  | Ergon SR Allroad Core Comp Men    | M-L, komfortabler, trotzdem noch flach, geht zeitw. ohne Polster, mehr Hinternpositionen; 0 Probleme
+| Pedale             | 2023   | 85 €      | \*\*\*  | Shimano XT PD-T8000               | Plattform-SPD-Kombipedal, mein Übergangspedal fürs Clipless-Lernen; später nie Situation für Plattform gehabt
+| Pedale             | 2024   | 83 €      | \*\*\*  | Shimano XT PD-M8100               | SPD-Klickpedal, SM-SH56 SPD Cleats für Unfall-Präventions-Reflexe
+| Flaschenhalter     | 2023   | 2x 15 €   | \*\*\*  | SKS Germany DUAL SC RH und LH     | seitliche Entnahme rechtshändig; zerkratzt Flaschen, ansonsten top, stabil
+| Computer           | 2023   | 260 €     | \*\*\*  | Wahoo Bolt 2                      | mit Gummi-Schutzhülle
+| Computer-Halterung | 2025   | 63 €      | \*\*    | Framesandgear Aero 27 mm Wah/Sm.  | Stem-Mount; stabil, sieht gut aus/ragt nicht über Lenker; ragt nicht seitl. über Vorbaulenkerklemme = einzig mit meinem Jack-Frontrack+Lenker funktionierender; teuer und schlechter Transferwert durch feste Breite
 
 
 ### Drehmomente
@@ -261,9 +261,6 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 Flipchip:
 	- short = quicker handling and acceleration
 	- long = improved stability at speed
-
-
-
 
 
 
@@ -317,11 +314,42 @@ s.a. Wartung-Schaltung-einstellen
 
 
 
-## Bremsen
+## Fahrtechniken
+
+
+### Bremsen:
 
 - immer mit beiden gleichzeitig, nie nur vorne
 - Vorderbremse hat immer mehr Bremswirkung
 - s.a. Wartung: Bremsen einstellen
+
+
+### Rollen: 
+
+1. Zeit gewinnt man auf der Ebene: 
+	23 km/h vs. 27 km/h auf der Ebene = enormer Zeitunterschied bei nur moderat mehr Leistung
+
+2. Energie verliert man am Berg: 
+	Geschwindigkeit ohnehin niedrig, mehr Kraft bringt nur wenig zusätzliche Geschwindigkeit, dafür Puls, Laktat und Ermüdung;
+	Steile Anstiege vglw. langsam in niedrigsten Gängen angehen;
+	Wiegetritt (vorher Gang etwas höher machen)
+
+3. Erholung passiert bergab: 
+	Luftwiderstand steigt extrem mit Geschwindigkeit. 
+	Oberhalb von ca. 35–45 km/h kostet Treten sehr viel Energie für wenig Zusatztempo
+
+Gleichmäßige Leistung, hohe Trittfrequenz (80–95 rpm), aerodynamische Haltung auf Geraden
+
+
+### Kurven:
+
+1. vorm Einbiegen Pedal zur Kurvenseite (rechts-rechts) nach oben drehen, damit kein Bodenkontakt entsteht
+
+Kurvenlinie
+
+@todo
+
+
 
 
 
@@ -459,22 +487,22 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 | Torso  | Thermo-Softshelljacke    | Thermo-Softshelljacke    | Thermo-Softshelljacke    | dünne 80%-Windjacke     | Kurzarmtrikot            | Kurzarmtrikot
 | "      | Langarm-Trikot-Midlayer  | dicker Thermo-Baselayer  | dünner Kurzarm-Basel.    | dicker Thermo-Baselayer | Windweste                | oder dünnes Merino-Langarmshirt
 | "      | Kurzarm-Baselayer        | -                        | -                        | -                       | Armlinge (dünn wirklos)  | - 
-| "      |                          | -                        | -                        | -                       | o. Windstopper-Unterhemd | Sonnencreme (oder UV-Armlinge)
+| "      | -                        | -                        | -                        | -                       | o. Windstopper-Unterhemd | Sonnencreme (oder UV-Armlinge)
 | "      | -                        | -                        | -                        | -                       | Langarmtrikot            | -
 | Hände  | Krebshandschuhe          | Langfingerhandschuhe     | Langfingerhandschuhe     | dünne Handschuhe        | Kurzfingerhandschuhe     | Kurzfingerhandschuhe
 | Beine  | windblock. Thermo-Tights | lange aufgerau. Bibs     | lange aufgerauhte Bibs   | lange Bibs              | Bibshorts                | Bibshorts
-| "      |                          | oder Winterbeinlinge     | oder Beinlinge           | oder Beinlinge          | -                        | -
-| "      |                          | kurze windd. Überhose    | mit winddichten Bibs     | mit winddichten Bibs    | -                        | -
-| "      |                          | oder Thermo-Tights       | -                        | -                       | -                        | -
-| "      |                          | oder Sommerbibs mit      | oder Sommerbibs mit      | -                       | -                        | -
-| "      |                          | langer Ueberhose         | langer Ueberhose         | -                       | -                        | -
+| "      | -                        | oder Winterbeinlinge     | oder Beinlinge           | oder Beinlinge          | -                        | -
+| "      | -                        | kurze windd. Überhose    | mit winddichten Bibs     | mit winddichten Bibs    | -                        | -
+| "      | -                        | oder Thermo-Tights       | -                        | -                       | -                        | -
+| "      | -                        | oder Sommerbibs mit      | oder Sommerbibs mit      | -                       | -                        | -
+| "      | -                        | langer Ueberhose         | langer Ueberhose         | -                       | -                        | -
 | Füße   | Sommer-Radschuhe SPD     | Sommer-Radschuhe SPD     | Sommer-Radschuhe SPD     | Sommer-Radschuhe SPD    | Sommer-Radschuhe SPD     | Sommer-Radschuhe SPD
 | "      | dicke Neopren-Überschuhe | Neopren-Überschuhe       | -                        | -                       | -                        | -
 | "      | normaldicke Socken       | normaldicke Socken       | normaldicke Socken       | normaldicke Socken      | normaldicke Socken       | dünnere Mesh-Socken
 | "      | (oder Winter-Radschuhe)  | oder winddichte Socken   | -                        | -                       | -                        | -
 | Regen  | Regenjacke im Gepäck     | Regenjacke im Gepäck     | Regenjacke im Gepäck     | Regenjacke im Gepäck    | ggf. Regenjacke Gepäck   | aushalten
 | "      | Regenponcho              | Regenponcho              | Regenponcho              | Regenponcho             | ggf. Regenponcho         | aushalten
-| "      |                          | Velotoze o. Überschuhe   | Velotoze bei Langfahrt   | Velotoze bei Langfahrt  | Velotoze bei Langfahrt   | aushalten
+| "      | -                        | Velotoze o. Überschuhe   | Velotoze bei Langfahrt   | Velotoze bei Langfahrt  | Velotoze bei Langfahrt   | aushalten
 
 
 - Sportbrille:
@@ -556,6 +584,21 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 		wenn man das Buff auch noch bis über den Hinterkopf gezogen hat (und daruber dann die dünne Mütze), 
 		dann wurde aus beidem quasi eine dickere Unterhelmmütze,
 		und die Wangen usw. wurdem auch noch geschuetzt
+
+
+### Meine Radhosen
+
+| Modell                                 | Polster        | Einsatz (Saison)  | Sattel  | trocknet | Bewertung | Kommentar
+|----------------------------------------|----------------|-------------------|---------|----------|-----------|--------------------------------
+| Gore Wear Bibs                         | Schaum         | max 3h   (Sommer) | G, F, E | \*\*     | \*\*      | Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (Oberstoff loest sich und bildet Rubbel-Falten); gute Standard-Hose
+| Gonso SQLab GO M Bibs (2x)             | Gel/Elast. 6mm | max 6h   (Sommer) | F, E    | \*\*\*   | \*\*\*    | Polsterkomfort konstant gut genug, kein Durchsitzen; Träger beim alten Modell zu kurz; *gut fuer Radreisen*
+| Castelli Unlimited Ultimate Bib-Liner  | Schaum         | max 2-3h (Sommer) | E       | \*       | \*\*\*    | Progetto X2 Polster genial, guter Sitz der Hose; mein *Fav fuer Standardrunden*; fuer Radreisen eher ungeeignet; hat Rueckentaschen
+| Gore Wear Tights                       | Schaum         | max 3h   (Herbst) | F       | \*\*     | \*\*      | Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores; gute Hose sonst
+| GripGrab AquaRepel Bibs                | Schaum         | max ?    (Herbst) | E       | \*\*     | \*\*\*    | Kurze Hose fuer Herbsteinsatz mit Beinlingen bis 8 Grad
+| Gore Wear Tights Windstopper           | Schaum         | max 3h   (Winter) | F       | \*\*     | \*\*      | Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores; Rest der Hose ist genial, fuhr damit problemlos bei Minustemperaturen
+| Gonso Essential Softshell              | ohne           | &infin;  (Winter) | E       | ?        | \*\*      | Winterhose, die ich ueber Sommer-Bibs mit gutem Polster ziehe; muss weniger Winterhosen kaufen
+| Überhose Sportful Supergiara 002 ('24) | ohne           | &infin;  (Sommer) | F       | ?        | \*\*      | viele kluge Taschen, duemmste Bundsystem ever: haelt beladene Hose nicht und ist mir irgendwann beim Nachspannen gerissen
+| Überhose Maloja StagiasM Gravel        | ohne           | &infin;  (Sommer) | E       | \*\*\*   | \*\*\*    | richtige Länge, leicht, laser-perforiert, aber nur 1 Tasche (Smartphone)
 
 
 
@@ -654,23 +697,22 @@ Taeglich am Fahrrad:
 
 ### Kleine Schmierstoffkunde
 
-| Eigenschaft      | Öl                               | Fett                           | Antiseize
-|------------------|----------------------------------|--------------------------------|-------------------------------------
-| Konsistenz       | flüssig bei Raumtemperatur       | halbfest bis fest              | 
-| Zusammensetzung  | reine Grundöle + Additive        | Mischung aus Öl und Verdicker wie Lithiumseife oder PTFE |
-| Anwendung        | schnell-bewegl. Teile            | stark belastete, langsam bewegl. oder dauerhaft geschuetzte Teile, Lager, Tretlager, Gewinde, Steuersatz |
-| Haftung          | dringt in enge Zwischenräume, bildet dünnen Schutzfilm | haftet länger an  |
-| Haltbarkeit      | wäscht sich schnell aus          | besserer Schutz gegen Wasser   |
-
+| Schmierung         | Konsistenz | Zusammensetzung | Anwendung | Haftung | Haltbarkeit | Gesundheit
+|--------------------|------------|-----------------|-----------|---------|-------------|---------------------
+| Öl                 | flüssig bei Raumtemperatur | reine Grundöle + Additive | schnell-bewegl. Teile | dringt in enge Zwischenräume, bildet dünnen Schutzfilm | wäscht sich schnell aus | ?
+| Fett               | halbfest bis fest          | Mischung aus Öl und Verdicker wie Lithiumseife oder PTFE | stark belastete, langsam bewegl. oder dauerhaft geschuetzte Teile, Lager, Tretlager, Gewinde, Steuersatz | haftet länger an | besserer Schutz gegen Wasser | ?
+| Antiseize          |            |                 |           |         |             |
+| Schraubensicherung |            |                 |           |         |             |
+| Dichtmilch         |            |                 |           |         |             |
 
 - Bauteile vor dem Auftragen von Fett gruendlich säubern, sonst erzeugt man eine Schleifpaste.
 - meisten Fette sind lithiumverseift und nicht so wasserfest wie calciumbasierte Fette wie Motorex 2000
+- Calcium-verseiftes Fett nennt sich auch Staufferfett
 - Silikonfett wird als synthetisches Fett betrachtet, 
 		weil es auf synthetischen Silikonölen basiert, 
 		anstatt auf natürlichen Ölen oder Fetten;
 		greift Kunsstoffe (Carbon) nicht an
 - auf Grund der elektrochemischen Spannungsreihe erzeugt Kupferpaste bei Alu und Stahl unter Feuchtigkeit Korrosion
-- Calcium-verseiftes Fett nennt sich auch Staufferfett
 
 
 Allgemein:
@@ -679,26 +721,28 @@ Allgemein:
 - Auf alles, was im Betrieb fest sein soll, aber rein/raus geschraubt werden muss, kommt Montagepaste.
 	Wenn man keine Montagepaste hat, kann man auch einfach Fett nehmen.
 	Fett zu nehmen ist besser, als das Gewinde trocken zu schrauben.
+- Nicht mischen, verändert Eigenschaften = unbrauchbarer
+	- Schraubensicherung und Antiseize
 
 
 
 #### Aktueller Schmierplan:
 
-| Bauteil                            | Vor-Reinigung          | Nachbehandlung 
-|------------------------------------|------------------------|-------------------------
-| Schaltwerk-Roellchen (Pulleys)     | mechanisch (Plastik)   | ?
-| Schaltwerk-Federn/-Gelenke         | ?                      | Balistol PTFE-Trockenschmierung (Spray); Öl wuerde mehr Dreck anziehen und kann verharzen = schwergaengiger; Alternative Brunox nur bei viel Regen
-| Pedal-Cleat-Federn                 | ?                      | Balistol PTFE-Trockenschmierung (Spray); Alternative Brunox nur bei viel Regen
-| Pedal-Kurbel-Gewinde               | IPA                    | Shimano Anti-Seize
-| Cleat-Schrauben im Schuh           | ?                      | Shimano Anti-Seize über 90% der Laenge und 10% Schraubensicherung am Ende  (nur Schraubensicherung über Länge würde auch reichen, da es ebenfalls trennt und zudem nichts vermischt?)
-| Sattelstuetze-Sitzrohr             | IPA                    | Shimano Anti-Seize über Stütze, D-Fuse-Adapter, und alle Teile des Schraubmechanismus = verhindert Knarzgeraeusche (Carbon-Paste mit Partikel erzeugt bei Alu-Alu wie Dreck mehr statt weniger Knarzen)
+| Bauteil                            | Vor-Reinigung               | Nachbehandlung 
+|------------------------------------|-----------------------------|-------------------------
+| Schaltwerk-Roellchen (Pulleys)     | mechanisch Plastikschaber   | ?
+| Schaltwerk-Federn/-Gelenke         | ?                           | Balistol PTFE-Trockenschmierung (Spray); Öl wuerde mehr Dreck anziehen und kann verharzen = schwergaengiger; alternativ Brunox falls viel Regen/Wasser
+| Pedal-Cleat-Federn                 | ?                           | Balistol PTFE-Trockenschmierung (Spray); alternativ Brunox falls viel Regen/Wasser
+| Pedal-Kurbel-Gewinde               | IPA                         | Shimano Anti-Seize
+| Cleat-Schrauben im Schuh           | ?                           | Schraubensicherung über Länge trennt we Anti-Seize und verhindert Lockern
+| Sattelstuetze-Sitzrohr             | IPA                         | Shimano Anti-Seize über Stütze, D-Fuse-Adapter, und alle Teile des Schraubmechanismus = verhindert Knarzgeraeusche (Carbon-Paste mit Partikel erzeugt bei Alu-Alu wie Dreck mehr statt weniger Knarzen)
 | Steuersatz                         | IPA, Muc-off Bio Degreaser + Pinsel zum Saeubern ausgebauter Lager, weniger aggressiv gegen Gummidichtung als Bremsenreiniger | Finishline Premium-Fett auf den Lager-Sitzen, _duenner_ Film um Cartridge Bearings und Gabelkonus, und dick unter der oberen Abdeckkappe (Gummiring) für Wasserdichtigkeit; untere Aufnahme wenig Fett (Dreck), oben mehr (kein Wassereintrag)
-| Griffgummis                        | ?                      | Hand-Sanitizer innen lässt besser rutschen falls neu aufzuziehen, verflüchtigt
-| Kette                              | ?                      | Liquimoly Dry bzw. Wet Lube; kleiner fester Flach-Pinsel: Tropfen Öl drauf und streich dann eine Bahn von Pulley bis Kettenblatt, wdh. insg. 3 Tropfen pro Bahn, kurbel weiter: zügig-saubere Arbeit und Ergebnis
-| Kettenblatt                        | ?                      | ?
-| Kassette                           | ?                      | ?
-| Radwaesche allgemein               | Wasser                 | Mucoff Bike Cleaner; (Kassette besser separiert und mit Bremsenreiniger bearbeiten)
-| Reifen-Dichtmilch                  | ?                      | Orange Seal Endurance bei allen Nicht-GIANT-Reifen; sonst GIANT Tire Sealant
+| Griffgummis                        | ?                           | Hand-Sanitizer innen lässt besser rutschen falls neu aufzuziehen, verflüchtigt
+| Kette                              | Wasser, Bürste, trocknen    | Liquimoly Dry bzw. Wet Lube; kleiner fester Flach-Pinsel: Tropfen Öl drauf und streich dann eine Bahn von Pulley bis Kettenblatt, wdh. insg. 3 Tropfen pro Bahn, kurbel weiter: zügig-saubere Arbeit und Ergebnis
+| Kettenblatt                        | ?                           | ?
+| Kassette                           | ?                           | Antiseize zw. Freilauf und Kassette
+| Radwaesche allgemein               | Wasser                      | Mucoff Bike Cleaner; (Kassette besser separiert und mit Bremsenreiniger bearbeiten)
+| Reifen-Dichtmilch                  | ?                           | Orange Seal Endurance bei allen Nicht-GIANT-Reifen; sonst GIANT Tire Sealant
 | Bremsscheibe                       | IPA oder Wuerth Bremsenreiniger        | -
 | Radlager Vorderrad Konuslager      | Bio Degreaser, IPA, WD40 Rostentferner | Finishline Premium-Grease
 
@@ -708,38 +752,38 @@ Allgemein:
 
 Folgende Liste mit Produkten, die mir mal untergekommen sind:
 
-| Produkt                           | Typ                | Hauptzweck         | Do                           | Don't               | Kommentar
-|-----------------------------------|--------------------|--------------------|------------------------------|---------------------|-----------------------
+| Produkt                             | Typ                | Hauptzweck         | Do                           | Don't               | Kommentar
+|-------------------------------------|--------------------|--------------------|------------------------------|---------------------|-----------------------
 | Shimano Anti-Seize<br>Motorex Anti-Seize | Montagepaste| Trennmittel        | Gewinde zw. Kurbel und Pedal, <br>Bolzen Sattelklemmung, <br>Sattelstuetze-Sitzrohr-Klemmung, <br>Gewinde Kurbelarme, <br> Vorbauschrauben | nicht auf Carbon (macht Oberflaeche zu glatt), <br>Sattelstreben-Klemmflaeche | Montagepaste mit niedrigem Reibungswert; verhindert Korrosion und Kaltverschweissung von Alu und Stahl; trennt Kontaktflaechen/Festbacken von Metallen = leichtere Enfernbarkeit; nur geringe Schmierung fuer bewegl. Teile (anders als Fett), Partikel koennten sogar Lager/Gewinde beschaedigen; zuvorderst Trennmittel; reduziert Knarzgeraeusche von Mikrobewegungen zw Stuetze und Rahmen / Fugen zwischen den Bauteilen aufgefüllt und ein flächiger Kontakt hergestellt also die Haftung verbessert- keine Bewegungen und kein Knacken mehr
-| Motorex 2000                      |                    |                    |                              |                     | "Steckachse und im Steuersatz nicht optimal finde. Durch die Rotationsbewegungen scheint es sich mit der Zeit etwas zu verklumpen."
-| ??? Alu-Montagepaste              | Montagepaste, Reibungspaste | Reibung erhoehen   | Klemmflaeche Alu-Alu (z.B. TT-Aerobars/Auflieger)  || Montagepaste mit hohem Reibungswert; erlaubt Anzug mit weniger Drehmoment/Schraubenvorspannkraft = materialschonender;  alternativ Silikonpaste mit hohem Reibungswert 
+| Motorex 2000                        |                    |                    |                              |                     | "Steckachse und im Steuersatz nicht optimal finde. Durch die Rotationsbewegungen scheint es sich mit der Zeit etwas zu verklumpen."
+| ??? Alu-Montagepaste                | Montagepaste, Reibungspaste | Reibung erhoehen   | Klemmflaeche Alu-Alu (z.B. TT-Aerobars/Auflieger)  || Montagepaste mit hohem Reibungswert; erlaubt Anzug mit weniger Drehmoment/Schraubenvorspannkraft = materialschonender;  alternativ Silikonpaste mit hohem Reibungswert 
 | Muc-off Carbon Gripper<br>Muc-Off Carbon Assembly Paste<br>Finish Line Carbon Fiber Paste<br>Park Tool CSG-2            | Montagepaste, Reibungspaste | Reibung erhoehen   | Klemmflaeche Carbon-\* | Klemmfläche Alu-Alu (knarzt)  | Montagepaste mit hohem Reibungswert; erlaubt Anzug mit weniger Drehmoment/Schraubenvorspannkraft = materialschonender; MucOff Gripper fuer hoeher belastete Sachen wie Vorbau/Lenker/Sattelstuetze
-| Muc-off Bio Degreaser             | Entfetter          | Entfetten          |                              |                     | weniger aggressive zu Gummi-/Kunststoffteilen (Dichtungen) als Bremsenreiniger
-| Muc-off Bike Cleaner              |                    |                    |                              |                     | 
-| WD40 Silikonspray                 |                    |                    |                              |                     |
-| WD40 Rostentferner                |                    |                    |                              |                     | 
-| WD40 Kontaktspray                 |                    |                    |                              |                     |
-| WD40 klassisch                    |                    |                    | für nichts am Rad einsetzen  |                     | immer falsch
-| Finishline Premium-Grease         | Fett               |                    |                              |                     | alte PTFE-Version mit "Trilinium" (Eigenbezeichnung) ersetzt
-| Shimano Premium-Fett              | Fett               |                    |                              |                     |
-| Inbus Schraubensicherung<br>Loctite | Klebstoff        | Loslösen hindern   | Bremsscheiben-Bolzen, Cleats-Schrauben (Schuh), Bremsgriff-Schrauben, Lenker-Schrauben  |  | sicherheitsrelevante Teile; gg. Lockerung durch Vibration; bietet auch Korrossionsschutz (Antiseize extra unnötig; vermischt kann sogar Wirkung aufheben); Loctite blau ist niedrigfest bis mittelfest, rot ist hochfest
-| Liquimoly LM47 Langzeitfett       | Fett (Lagerfett)   | Reibung reduzieren |                              | von Carbon fernhalten (Fett blaeht Carbon-bindendes Epoxidharz)  | 
-| Liquimoly Silikonfett             | Fett (synthetisch) |                    | Carbon                       |                     | 
-| Liquimoly Dry oder Wet Lube       | Öl                 | Reibung reduzieren | Kette im Sommer/Herbstwinter | nicht auf Kassetten-Ritzel (verschmutzt ohne Nutzen), Bremsscheibe | punktuell auf Kettenglieder, nur dort muss Öl hin, sonst sauber
-| Liquimoly Multi-Spray Plus 7      |                    |                    |                              |                     |
-| Nigrin Bike-Care Fahrradreiniger  |                    |                    |                              |                     |
-| Nigrin Bike-Care Feinöl           | Öl (Kriechöl)      |                    | ?                            | nicht auf Bremsscheibe | 
-| Brunox Turbo-Spray                | Öl (Kriechöl)      | Reinigen           | ?                            | nicht auf Bremsscheibe | lockert festgefressene Teile, Schmierun, Wasser fernhalten, Korrossionschutz; wohl ueberall dort falsch, wo WD40 falsch waere
-| Balistol PTFE-Trockenschmierung   | PTFE+Lsgmittel     | Reibung reduzieren | Schrauben, Gewinde, Schaltwerk-Federn/-Gelenke   | | nicht fettig oder klebrig bleibt, sondern eine trockene, schmierende Schicht hinterlässt, die weniger Schmutz und Staub anzieht
-| Würth Bremsenreiniger             | Entfetter          | Entfetten          | Bremsscheibe                 |                     | Bremsenreiniger oft auf Alkoholbasis (alt. reinen Alkohol nehmen)
-| Würth Industrie Clean             | Spezialreiniger    | Etiketten lösen    | Etiketten, Kleberueckstaende |                     | erstaunlich gut z.B. bei Etiketten auf Folientüten (draufsprühen, warten, Etikett fällt komplett spurenlos ab)
-| Giant Tire Sealant                | Dichtmilch         | Löcher schließen   | Tubeless-Reifen              |                     | angeblich umetikettierte Stans-Dichtmilch; offiziell bei Giant auch nur Empfehlung fuer Giant oder Stans bei Giant-Reifen/Felgenband/Rädern
-| Orange Seal Endurance             | Dichtmilch         | Löcher schließen   | Tubeless-Reifen              |                     | Endurance bleibt laenger fluessig als die normale Version bei etwas vermindeter Abdichtung; waere besser und vertraeglicher als Stans bei Nicht-Rennrad-Drücken unter 5-6 bar
-| Schwalbe Easy-Fit Montage Fluid   | Reifenmontierflüss.| Reibung reduzieren | Reifen                       |                     | vereinfacht Reifenmontage auf Felge
-| ??? Kettenwachs                   | Wachs              |                    |                              |                     | Alternative zum Kettenoel
-| ??? Steuersatzfett                | Fett               |                    |                              |                     | s.a. Kugellager-Abschmierfett (salzwasserbestaendig), s.a. Wälzlagerfett, Siliconpaste bei Carbon (Faser ist chemiebständig, aber deren Harz-Einbettung nicht)
-| Isopropyl-Alkohol, Hand-Sanitizer |                    |                    | Bremsscheiben, Hoods-Griffgummi-Inneres fuer Gleitfaehigkeit bei Montage | |
-| Talkumpulver                      |                    |                    | Reifenschlauch               |                     |
+| Muc-off Bio Degreaser               | Entfetter          | Entfetten          |                              |                     | weniger aggressive zu Gummi-/Kunststoffteilen (Dichtungen) als Bremsenreiniger
+| Muc-off Bike Cleaner                |                    |                    |                              |                     | 
+| WD40 Silikonspray                   |                    |                    |                              |                     |
+| WD40 Rostentferner                  |                    |                    |                              |                     | 
+| WD40 Kontaktspray                   |                    |                    |                              |                     |
+| WD40 klassisch                      |                    |                    | für nichts am Rad einsetzen  |                     | immer falsch
+| Finishline Premium-Grease           | Fett               |                    |                              |                     | alte PTFE-Version mit "Trilinium" (Eigenbezeichnung) ersetzt
+| Shimano Premium-Fett                | Fett               |                    |                              |                     |
+| Inbus Schraubensicherung<br>Loctite | Klebstoff          | Loslösen hindern   | Bremsscheiben-Bolzen, Cleats-Schrauben (Schuh), Bremsgriff-Schrauben, Lenker-Schrauben  |  | sicherheitsrelevante Teile; gg. Lockerung durch Vibration; bietet auch Korrossionsschutz (Antiseize extra unnötig; vermischt kann sogar Wirkung aufheben); Loctite blau ist niedrigfest bis mittelfest, rot ist hochfest
+| Liquimoly LM47 Langzeitfett         | Fett (Lagerfett)   | Reibung reduzieren |                              | von Carbon fernhalten (Fett blaeht Carbon-bindendes Epoxidharz)  | 
+| Liquimoly Silikonfett               | Fett (synthetisch) |                    | Carbon                       |                     | 
+| Liquimoly Dry oder Wet Lube         | Öl                 | Reibung reduzieren | Kette im Sommer/Herbstwinter | nicht auf Kassetten-Ritzel (verschmutzt ohne Nutzen), Bremsscheibe | punktuell auf Kettenglieder, nur dort muss Öl hin, sonst sauber
+| Liquimoly Multi-Spray Plus 7        |                    |                    |                              |                     |
+| Nigrin Bike-Care Fahrradreiniger    |                    |                    |                              |                     |
+| Nigrin Bike-Care Feinöl             | Öl (Kriechöl)      |                    | ?                            | nicht auf Bremsscheibe | 
+| Brunox Turbo-Spray                  | Öl (Kriechöl)      | Reinigen           | ?                            | nicht auf Bremsscheibe | lockert festgefressene Teile, Schmierun, Wasser fernhalten, Korrossionschutz; wohl ueberall dort falsch, wo WD40 falsch waere
+| Balistol PTFE-Trockenschmierung     | PTFE+Lsgmittel     | Reibung reduzieren | Schrauben, Gewinde, Schaltwerk-Federn/-Gelenke   | | nicht fettig oder klebrig bleibt, sondern eine trockene, schmierende Schicht hinterlässt, die weniger Schmutz und Staub anzieht
+| Würth Bremsenreiniger               | Entfetter          | Entfetten          | Bremsscheibe                 |                     | Bremsenreiniger oft auf Alkoholbasis (alt. reinen Alkohol nehmen)
+| Würth Industrie Clean               | Spezialreiniger    | Etiketten lösen    | Etiketten, Kleberueckstaende |                     | erstaunlich gut z.B. bei Etiketten auf Folientüten (draufsprühen, warten, Etikett fällt komplett spurenlos ab)
+| Giant Tire Sealant                  | Dichtmilch         | Löcher schließen   | Tubeless-Reifen              |                     | angeblich umetikettierte Stans-Dichtmilch; offiziell bei Giant auch nur Empfehlung fuer Giant oder Stans bei Giant-Reifen/Felgenband/Rädern
+| Orange Seal Endurance               | Dichtmilch         | Löcher schließen   | Tubeless-Reifen              |                     | Endurance bleibt laenger fluessig als die normale Version bei etwas vermindeter Abdichtung; waere besser und vertraeglicher als Stans bei Nicht-Rennrad-Drücken unter 5-6 bar
+| Schwalbe Easy-Fit Montage Fluid     | Reifenmontierflüss.| Reibung reduzieren | Reifen                       |                     | vereinfacht Reifenmontage auf Felge
+| ??? Kettenwachs                     | Wachs              |                    |                              |                     | Alternative zum Kettenoel
+| ??? Steuersatzfett                  | Fett               |                    |                              |                     | s.a. Kugellager-Abschmierfett (salzwasserbestaendig), s.a. Wälzlagerfett, Siliconpaste bei Carbon (Faser ist chemiebständig, aber deren Harz-Einbettung nicht)
+| Isopropyl-Alkohol, Hand-Sanitizer   |                    |                    | Bremsscheiben, Hoods-Griffgummi-Inneres fuer Gleitfaehigkeit bei Montage | |
+| Talkumpulver                        |                    |                    | Reifenschlauch               |                     |
 
 
 
@@ -775,7 +819,7 @@ Mit Vorrat hat man Zeit fuer Suche/Nachschub.
 - Lenker:
 	- 2x Lenkerband (loest sich auf, sitzt nicht mehr, reisst)
 	- 4x Haubenabdeckungen/Griffgummi (Bracket Covers bei den Bremsschalthebeln werden ungleichmaessig abgerieben, nicht huebsch; oder Knicke/Risse durch Wartungsarbeiten am Lenkerband oder der Hebelposition)
-	- 2x Steuersatzlager exakt mit Aussen- und v.a. Innendurchmesser und z.B. 45-Grad-Kanten
+	- 2x Steuersatzlager exakt mit Aussen- und v.a. Innendurchmesser und z.B. 45-Grad-Kanten, Edelstahl (nicht nur Werkzeugstahl oder brüniertes Metall)
 - Laufrad:
 	- ?x Reifenmantel (Profil) wird abgerieben 
 	- 2x seltener Felgenband kann reissen, z.B. bei Wartung oder durch Reamer/Plug-Gabel bei Tubeless-Panne
@@ -905,6 +949,11 @@ Motorrad-Reiniger mehr und billiger
 - meist proprietäre Form, Standardisierungsversuch mit UDH
 - Ersatzteil bei modernen Rädern, sonst Teil des Rahmens
 
+daran ist das hintere Schaltwerk angebracht/eingeschraubt; wenige Grad Abweichung schon ändern ganze Schaltgeometrie; fängt Seitenschläge auf;
+austauschen, wenn verbogen; gerade biegen kann dazu führen, dass es bricht und ganze Schaltkäfig in die Speichen kommt und viel kaputt macht;
+Ersatzschaltauge besorgen (kann dann z.B. auf Reisen Werkstatt einbauen); s. Abschnitt Schaltung
+
+
 | Mess-/Richtwerkzeuge                 | Messweise | Bemerkungen
 |--------------------------------------|-----------|----------
 | Park Tool DAG                        | radial    | im Auge verschraubt Messung rundum an der Felge (traditionell); enge Toleranzen/wenig Spiel/Steifigkeit nötig; Rad drehen und immer am Ventil messen = unabhängiger vom Felgenzustand; einfacher, wenn man Messstab drehen kann, um besser an den Ketten-/Sitzstreben vorbeizukommen; Stangenlänge verstärkt die sichtbare Ungenaunigkeit = genauere Arbeit; Günstigere Alternativen: ZTTO, Topeak
@@ -990,9 +1039,56 @@ Professionellere haben Messuhren mit beweglichen Fuehlern.
 Manche bauen sich selbst welche aus Systemprofilen. 
 Fuer Andere reicht ein Kabelbinder an der Sitzstrebe.
 
-- s. Parktool YouTube
 
-TODO
+
+- Speichen sind wie Seile: sie können nicht drücken, nur ziehen 
+- neue Speichen sind steifer 
+- weißes Papier zw. Ständer & Felge = Fühler-Lücke sichtbarer 
+- Nippelspanner: ... TODO
+- Ständer mit Zange muss wg. Mittlungsfehler kalibriert werden, 
+	einseitiger Ständer nicht (Umschlagsmethode) 
+- Speichenwinkel/-Spannung (Nicht-)Antriebsseite verschieden = verschiedene Tonhöhen; 
+	Antriebsseite wesentlich stärker gespannt
+
+
+#### Wo beginnen? 
+
+Beide Seiten im Zentrierständer testen und schauen, welche Seite insgesamt mehr am Fühler reibt – dort anfangen und Felge in andere Richtung ziehen
+
+![Screenshot](truing-start.svg?raw=true)
+
+
+#### Wie ziehen? 
+
+- Seitenschlag: Speiche links BZW. rechts spannen (s.u.) 
+- Höhenschlag: Speiche links UND rechts spannen 
+- kleinschrittig Viertel-Umdrehungen + überprüfen 
+- Kombinieren: 1 spannen, direkte Nachbarn ½ lockern 
+- Neurad eher spannen als lockern 
+- starkgespanntes Altrad eher lockern als spannen 
+- Gegenseite lockern falls Nippel max. angezogen 
+- Tropfen Öl auf schwergängige Nippel (nur diese, sonst Speichenbewegung beim Fahren) 
+- Abdrücken: ... TODO
+- Spannung: ... TODO
+
+![Screenshot](truing-how.svg?raw=true)
+
+
+#### Was korrigieren? 
+
+Anfänge & Mitte des Schlags finden, markieren und anteilig über mehrere Speichen arbeiten: 
+
+1. Zuerst Seitenschläge < 1 mm bringen 
+2. Höhenschläge < 1 mm 
+3. Zuletzt Felge mittig zur Nabe < 1 mm (Dishing) 
+	= Mittigkeit des Laufrads im Fahrradrahmen 
+	(Rad wdh. umschlagen* – Achse identisch einspannen! – 
+	und beidseitig gleichen Abstand zw. Fühler und Felge beim Ventilloch herstellen:  
+	ALLE Nippel der A-Seite +¼ und B-Seite –¼ paarweise gleichzeitig drehen, Start Ventilloch)
+
+![Screenshot](truing-where.svg?raw=true)
+
+
 
 
 
@@ -1538,8 +1634,8 @@ Siehe auch Abschnitt zum "Zentrieren"
 	  an der Felgenflanke ist idR alles schon fest; 
 	  trotzdem vorsichtig bleiben, damit man nicht kleckert
 - _am bzw. direkt neben Ventil anfangen_: 
-	mit Reifenheber den Mantel greifen und über die Felge drücken, 
-	die andere Seite des Reifenheber dabei in eine Speiche einhänge (schlechte Reifenheber haben keine)
+	mit Reifenheber unter den Mantelwulst greifen und über die Felge drücken, 
+	den Reifenheber mit dem anderen Ende dabei in eine Speiche einhängen/fixieren (schlechte Reifenheber haben keine Öffnung dafür)
 - zweiten Reifenheber daneben ansetzen und Mantel über Felge ziehen und bei Erfolg den Reifenheber nach rechts ziehen, 
 	so dass sich der Mantel "von alleine" Stück für Stück rausdrückt
 - Mantelseite, die noch auf der Felge sitzt, lässt sich leicht von Hand von der Felge abheben
@@ -1552,8 +1648,8 @@ Siehe auch Abschnitt zum "Zentrieren"
 	- nach einem Pfeilsymbol auf dem Mantel suchen: rechtsherum = Antriebsseite rechts
 	- Profilmuster mit Fotos im Web vergleichen
 - Reifen-Logo mittig am Ventil positionieren: 
-	- erleichtert Lochsuche bei Schlauchpanne (gleiche Position vom Ventil/Logo aus)
-	- sieht gut/einheitlich aus (Mechanikerstandard)
+	- traditionell: erleichtert Lochsuche bei Schlauchpanne (gleiche Position vom Ventil/Logo aus)
+	- einheitliches Erscheinungsbild beider Laufräder = ästhetischer (Mechanikerstandard)
 - _gegenueber des Ventils anfangen_
 	- Ventilteil in der Felge hebt sonst Reifen wieder aus der tiefern Felgenmitte = fehlen paar mm Spiel
 - erste Mantelseite mit linker und rechter Hand von oben nach unten ins Felgenbett druecken 
@@ -1632,19 +1728,8 @@ TODO
 - Brooks-C17-Oberfläche soll Hosen fressen
 
 
-### Meine Radhosen
+- Hersteller empfehlen bei vielen sportlicheren Sätteln die Verwendung zusammen mit einer Radhose – siehe auch Abschnitt "Meine Radhosen"
 
-| Modell                                 | Polster        | Einsatz (Saison)  | Sattel  | trocknet  | Bewertung  | Kommentar
-|----------------------------------------|----------------|-------------------|---------|-----------|------------|--------------------------------
-| Gore Wear Bibs                         | Schaum         | max 3h   (Sommer) | G, F, E | \*\*      | \*\*\*     | Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores (Oberstoff loest sich und bildet Rubbel-Falten); gute Standard-Hose
-| Gonso SQLab GO M Bibs (2x)             | Gel/Elast. 6mm | max 6h   (Sommer) | F, E    | \*\*\*\*  | \*\*\*\*   | Polsterkomfort konstant gut genug, kein Durchsitzen; Träger beim alten Modell zu kurz; *gut fuer Radreisen*
-| Castelli Unlimited Ultimate Bib-Liner  | Schaum         | max 2-3h (Sommer) | E       | \*        | \*\*\*\*\* | Progetto X2 Polster genial, guter Sitz der Hose; mein *Fav fuer Standardrunden*; fuer Radreisen eher ungeeignet; hat Rueckentaschen
-| Gore Wear Tights                       | Schaum         | max 3h   (Herbst) | F       | \*\*      | \*\*\*     | Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores; gute Hose sonst
-| GripGrab AquaRepel Bibs                | Schaum         | max ?    (Herbst) | E       | \*\*      | \*\*\*\*   | Kurze Hose fuer Herbsteinsatz mit Beinlingen bis 8 Grad
-| Gore Wear Tights Windstopper           | Schaum         | max 3h   (Winter) | F       | \*\*      | \*\*\*     | Polster-Falten/Abloesung n. 1-2 Jahren = Saddle Sores; Rest der Hose ist genial, fuhr damit problemlos bei Minustemperaturen
-| Gonso Essential Softshell              | ohne           | &infin;  (Winter) | E       | ?         | \*\*\*     | Winterhose, die ich ueber Sommer-Bibs mit gutem Polster ziehe; muss weniger Winterhosen kaufen
-| Überhose Sportful Supergiara 002 ('24) | ohne           | &infin;  (Sommer) | F       | ?         | \*\*\*     | viele kluge Taschen, duemmste Bundsystem ever: haelt beladene Hose nicht und ist mir irgendwann beim Nachspannen gerissen
-| Überhose Maloja StagiasM Gravel        | ohne           | &infin;  (Sommer) | E       | \*\*\*    | \*\*\*\*   | richtige Länge, leicht, laser-perforiert, aber nur 1 Tasche (Smartphone)
 
 
 
@@ -1918,7 +2003,9 @@ Gutes Setup auf YT:
 	- in mehrere Tages-Touren aufteilen (Ziel=Schlafplatz?)
 	- 3+ Schlafplätze pro Tag planen: gute/normale/schlechte Tagesfitness
 	- an Bahnhoefen entlang planen für schnelle Rückfahrt im Zug (Infekt etc)
-	- an Trinkwasser/Resupply-Stellen entlang planen: Friedhoefe, Imbiss, Tankstellen, Supermaerkte, Trinkbrunnen, ...
+	- an Trinkwasser/Resupply-Stellen entlang planen: 
+		- Friedhoefe, Imbiss, Tankstellen, Supermaerkte, Trinkbrunnen, ... 
+		- manche Cafés machen erst nachmittags auf
 	- Fewos/Hotels spontan erst am vorabend oder selben Tag buchen (wenn die Strecke und Fitness klar ist) = weniger Stress; 
 			scheinbar finde sich immer etwas, zur Not wildcampen;
 			als Soloradler mit 1P-Zelt finden Zeltplaetze nicht selten noch Luecken (ggf. vorher anfragen, wie spontan man kommen kann)
@@ -1927,8 +2014,9 @@ Gutes Setup auf YT:
 	- ersten Tag evtl. ruhiger angehen
 	- den letzten Tag möglichst nah am Abreise-Bahnhof/Faehre o.a. planen/beginnen = weniger Stress; weniger, das schief gehen kann; Zeit zum Orientieren
 	- rueckwaerts planen: Routen-Ende (Schlafplatz/Bahnhof) zu Anfang und die Zwischen-Etappen dem Zeitrahmen anpassen
-	- beliebte Orte an unmoeglichen Tageszeiten durchfahren, sehr frueh oder spaet; in der Woche statt Wochenende
+	- beliebte Orte an unmoeglichen Tageszeiten durchfahren, sehr frueh oder spaet; in der Woche statt Wochenende (auch einfacher mit Versorgung)
 	- Google MyMaps (My!) mit POI-Suche
+		- Region recherchieren und attraktive Regionen auf MyMaps markieren und Route dort langführen
 - Navigation: Wahoo Elemnt Bolt V2
 	- separat zum Handy: bessere/separate Akkuzeit, wasserdicht, kleiner etc
 	- POI-Funktionalitaet schlecht v.a. mit Hinblick auf Resupply- und Schlafplaetze-Planung (siehe Abschnitt "Wahoo Hackerei")
@@ -2169,6 +2257,17 @@ Oekonomische Zusammenhaenge, Rationales, ...
 
 
 ### Fahrrad-Handel (LBS, Online)
+
+- [Der teure Fahrradhändler - ein Statement!](https://www.youtube.com/watch?v=0ReiZTJ4MDM)
+	- Shimano 9x-Kette 11 Euro vs 25-35 Euro
+	- große Online-Händler kaufen containerweise günstiger direkt beim Hersteller statt beim Großhändler
+	- Radladen zahlt im Einkauf fast das gleiche wie Online-Händler im Verkauf
+	- LBS zielt auf Offline-Kunde: Unwille zu fachlicher Beschäftigung, Vor-Ort-Verfügbarkeit/Lager-Haltung eingepreist
+- [YouTube: Ein Fahrradladen im Sommer](https://www.youtube.com/watch?v=_UageeDQiQA)
+	- Arbeit im Radladen als Radfahrer schlecht, weil im Sommer nur Zeit fürs Arbeiten statt Radeln (Mo-Sa, 10-18/19 Uhr)
+	- Service in der Nebensaison machen [im Winter günstiger machen und beim Verkauf Winter-Servicetermine vorplanen]
+- [YouTube: Fahrradhändler = Abzocker? Warum es manchmal einfach so ist...](https://www.youtube.com/watch?v=VW7-tbJK7-k)
+- [YouTube: Is Your Bike Shop Unfairly Rewarding Bad Mechanics](https://www.youtube.com/watch?v=TaHqewGXlk4)
 
 TODO
 - Margen
