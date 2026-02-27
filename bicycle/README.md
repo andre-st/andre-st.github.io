@@ -201,7 +201,7 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Felgenband            | rim tape         | GIANT Tubeless Rim Tape 28 mm(?)
 | Laufradnabe Vorderrad | front hub        | GIANT, Konuslager mit 22 freien 1/8"-Kugeln (1 Lücke) (G5–G20 rund / HRC&ge;60 hart) [erprobt]; 2x 19mm-Konusschlüssel [erprobt]
 | Laufradnabe Hinterrad | rear  hub        | GIANT, angebl. Wälzlager (6902 15×28×7 mm???), stabiler als Konus (Kraftangriff axial/torsional durch Antrieb statt nur radial wie bei besser rollendem Konus vorne)
-| Reifen                | tyre             | GIANT CrossCut AT 2, 700x38C [misst 40 mm], robuster 680g [gewogen] / 35€ Semi-Slick-Drahtreifen, tubeless, 60 TPI, Silica-Mischung
+| Reifen                | tyre             | GIANT CrossCut AT 2, 700x38C [misst 40 mm], robuster 680g [gewogen] / 35€ Semi-Slick-Drahtreifen, tubeless, 60 TPI [bescheidener Karkassenflex/poltert], Silica-Mischung
 | Reifenpannenschutz    | puncture protect.| GIANT "Defect 2 lite" puncture protection Pannenschutzgürtel aus leichtem Nylon unter der Lauffläche des Reifens
 | Reifen-Dichtmilch     | sealant          | GIANT Tubeless Sealant (angebl. Stans-Dichtmilch; GIANT nennt Stans auch als einzige Alternative)
 | Sattel                | saddle           | GIANT Approach, 145 mm
@@ -227,8 +227,8 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Steuersatzlager    | 2025   | 2x 20 €?  | ?       | CQ GmbH Edelstahl                 | Ersatz wg. rauem Lauf
 | Konuslagerkugeln   | 2025   |  5 €?     | ?       | Woembi G20 HRC&ge;60 1/8"         | Ersatz wg. Korrosion
 | Kabel Schaltzug    | 2024   | 14 €      | \*\*\*  | Shimano OT-SP41 Optislick         | ersetzt gerissenes Jagwire; Zugseil gleitet gut (STI-Widerstand), gut zu cutten
-| Reifen             | 2025   | 2x 40 €   | Todo    | Tufo Thundero HD                  | 700x40C (41 mm),          je 439g, schneller Gravel-Semi-Slick-Faltreifen,      TPI 130/255, BRR 5/5 (19,2 W); 2,7 bar            (105 kg); 59ml Dichtmilch, Stans/Tufo-Sealant wuerden nicht dichten, Orange aber
-| Reifen             | 2025   | 2x 50 €   | Todo    | Michelin Pro 5 TLR                | 700x35C [35 mm gemessen], je 390g, leichter/schneller Allroad-Slick-Faltreifen, TPI 120,     BRR 5/5 (13,8 W); 3,3–3,5 bar/offiz. (105 kg); 35ml Dichtmilch; [Handmontage+Standpumpe]; 32mm bei 105 kg zu hart = Energieverlust (springt/reibt gg realen Asphalt statt verformend zu gleiten) = langsamer/kurveninstabiler/unkomfortabler als 35er
+| Reifen             | 2025   | 2x 40 €   | Todo    | Tufo Thundero HD                  | 700x40C (41 mm),          je 439g, schneller Gravel-Semi-Slick-Faltreifen,      TPI 130/255, BRR 5/5 (19,2 W); 2,7 bar            (105 kg); 59 ml Dichtmilch, Stans/Tufo-Sealant wuerden nicht dichten, Orange aber
+| Reifen             | 2025   | 2x 50 €   | \*\*\*  | Michelin Pro 5 TLR                | 700x35C [35 mm gemessen], je 390g, leichter/schneller Allroad-Slick-Faltreifen, TPI 120,     BRR 5/5 (13,8 W); 3,3–3,5 bar/offiz. (105 kg); 60 ml Dichtmilch initial, 30 ml top-up; [Handmontage+Standpumpe]; 32mm bei 105 kg zu hart = Energieverlust (springt/reibt gg realen Asphalt statt verformend zu gleiten) = langsamer/kurveninstabiler/unkomfortabler als 35er
 | Reifen-Dichtmilch  | 2025   | ?         | Todo    | Orange Seal Endurance             | bleibe länger flüssig, dichte aber nicht so schnell/gut wie die normale Orange-Version
 | Sattel             | 2024   | 100 €     | \*\*    | Fizik Terra Argo X5               | 160 mm, straff, gut, Hinternposition recht festgelegt; 100 km ohne nennenswerte Probleme
 | Sattel             | 2025   | 93 €      | \*\*\*  | Ergon SR Allroad Core Comp Men    | M-L, komfortabler, trotzdem noch flach, geht zeitw. ohne Polster, mehr Hinternpositionen; 0 Probleme
@@ -255,6 +255,30 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | STI            ./. Lenker        | handfest  | ?   ./.   ?     | trocken
 | Bremsscheibe   ./. Nabe          | 5,0       | 6   ./.   ?     | Schraubensicherung
 | Kassette       ./. Nabe          | ?         | ?   ./.   ?     | Antiseize zw. Feilauf und Kas.
+
+
+### Aktueller Schmierplan
+
+| Bauteil                          | Vor-Reinigung               | Nachbehandlung 
+|----------------------------------|-----------------------------|-------------------------
+| Schaltwerk-Roellchen (Pulleys)   | mechanisch Plastikschaber   | ?
+| Schaltwerk-Federn/-Gelenke       | ?                           | Balistol PTFE-Trockenschmierung (Spray); Öl wuerde mehr Dreck anziehen und kann verharzen = schwergaengiger; alternativ Brunox falls viel Regen/Wasser
+| Pedal-Cleat-Federn               | ?                           | Balistol PTFE-Trockenschmierung (Spray); alternativ Brunox falls viel Regen/Wasser
+| Pedal-Kurbel-Gewinde             | IPA                         | Shimano Anti-Seize
+| Cleat-Schrauben im Schuh         | ?                           | Schraubensicherung über Länge trennt we Anti-Seize und verhindert Lockern
+| Sattelstuetze-Sitzrohr           | IPA                         | Shimano Anti-Seize über Stütze, D-Fuse-Adapter, und alle Teile des Schraubmechanismus = verhindert Knarzgeraeusche (Carbon-Paste mit Partikel erzeugt bei Alu-Alu wie Dreck mehr statt weniger Knarzen)
+| Steuersatz                       | IPA, Muc-off Bio Degreaser + Pinsel zum Saeubern ausgebauter Lager, weniger aggressiv gegen Gummidichtung als Bremsenreiniger | Finishline Premium-Fett auf den Lager-Sitzen, _duenner_ Film um Cartridge Bearings und Gabelkonus, und dick unter der oberen Abdeckkappe (Gummiring) für Wasserdichtigkeit; untere Aufnahme wenig Fett (Dreck), oben mehr (kein Wassereintrag)
+| Griffgummis                      | ?                           | Hand-Sanitizer innen lässt besser rutschen falls neu aufzuziehen, verflüchtigt
+| Kette                            | Wasser, Bürste, trocknen    | Liquimoly Dry bzw. Wet Lube; kleiner fester Flach-Pinsel: Tropfen Öl drauf und streich dann eine Bahn von Pulley bis Kettenblatt, wdh. insg. 3 Tropfen pro Bahn, kurbel weiter: zügig-saubere Arbeit und Ergebnis
+| Kettenblatt                      | ?                           | ?
+| Kassette                         | ?                           | Antiseize zw. Freilauf und Kassette
+| Radwaesche allgemein             | Wasser                      | Mucoff Bike Cleaner; (Kassette besser separiert und mit Bremsenreiniger bearbeiten)
+| Reifen-Dichtmilch                | ?                           | Orange Seal Endurance bei allen Nicht-GIANT-Reifen; sonst GIANT Tire Sealant; 30-40 mm = 60ml initial, 30 ml top-up
+| Bremsscheibe                     | IPA oder Wuerth Bremsenreiniger        | -
+| Radlager Vorderrad Konuslager    | Bio Degreaser, IPA, WD40 Rostentferner | Finishline Premium-Grease
+| Kabel Schalt-/Bremszug           | -                           | -, OptiSlick werkseitig geschmiert
+
+s.a. Abschnitt [Kleine Schmierstoffkunde](#kleine-schmierstoffkunde)
 
 
 
@@ -726,31 +750,12 @@ Allgemein:
 
 
 
-#### Aktueller Schmierplan:
+#### Typische Produkte
 
-| Bauteil                            | Vor-Reinigung               | Nachbehandlung 
-|------------------------------------|-----------------------------|-------------------------
-| Schaltwerk-Roellchen (Pulleys)     | mechanisch Plastikschaber   | ?
-| Schaltwerk-Federn/-Gelenke         | ?                           | Balistol PTFE-Trockenschmierung (Spray); Öl wuerde mehr Dreck anziehen und kann verharzen = schwergaengiger; alternativ Brunox falls viel Regen/Wasser
-| Pedal-Cleat-Federn                 | ?                           | Balistol PTFE-Trockenschmierung (Spray); alternativ Brunox falls viel Regen/Wasser
-| Pedal-Kurbel-Gewinde               | IPA                         | Shimano Anti-Seize
-| Cleat-Schrauben im Schuh           | ?                           | Schraubensicherung über Länge trennt we Anti-Seize und verhindert Lockern
-| Sattelstuetze-Sitzrohr             | IPA                         | Shimano Anti-Seize über Stütze, D-Fuse-Adapter, und alle Teile des Schraubmechanismus = verhindert Knarzgeraeusche (Carbon-Paste mit Partikel erzeugt bei Alu-Alu wie Dreck mehr statt weniger Knarzen)
-| Steuersatz                         | IPA, Muc-off Bio Degreaser + Pinsel zum Saeubern ausgebauter Lager, weniger aggressiv gegen Gummidichtung als Bremsenreiniger | Finishline Premium-Fett auf den Lager-Sitzen, _duenner_ Film um Cartridge Bearings und Gabelkonus, und dick unter der oberen Abdeckkappe (Gummiring) für Wasserdichtigkeit; untere Aufnahme wenig Fett (Dreck), oben mehr (kein Wassereintrag)
-| Griffgummis                        | ?                           | Hand-Sanitizer innen lässt besser rutschen falls neu aufzuziehen, verflüchtigt
-| Kette                              | Wasser, Bürste, trocknen    | Liquimoly Dry bzw. Wet Lube; kleiner fester Flach-Pinsel: Tropfen Öl drauf und streich dann eine Bahn von Pulley bis Kettenblatt, wdh. insg. 3 Tropfen pro Bahn, kurbel weiter: zügig-saubere Arbeit und Ergebnis
-| Kettenblatt                        | ?                           | ?
-| Kassette                           | ?                           | Antiseize zw. Freilauf und Kassette
-| Radwaesche allgemein               | Wasser                      | Mucoff Bike Cleaner; (Kassette besser separiert und mit Bremsenreiniger bearbeiten)
-| Reifen-Dichtmilch                  | ?                           | Orange Seal Endurance bei allen Nicht-GIANT-Reifen; sonst GIANT Tire Sealant
-| Bremsscheibe                       | IPA oder Wuerth Bremsenreiniger        | -
-| Radlager Vorderrad Konuslager      | Bio Degreaser, IPA, WD40 Rostentferner | Finishline Premium-Grease
+Siehe auch Abschnitt [Aktueller Schmierplan](#aktueller-schmierplan).
+Folgende Liste mit Produkten, die mir mal untergekommen sind (also nicht alle verwende):
 
 
-
-#### Produktliste:
-
-Folgende Liste mit Produkten, die mir mal untergekommen sind:
 
 | Produkt                             | Typ                | Hauptzweck         | Do                           | Don't               | Kommentar
 |-------------------------------------|--------------------|--------------------|------------------------------|---------------------|-----------------------
@@ -1053,7 +1058,7 @@ Fuer Andere reicht ein Kabelbinder an der Sitzstrebe.
 
 #### Wo beginnen? 
 
-Beide Seiten im Zentrierständer testen und schauen, welche Seite insgesamt mehr am Fühler reibt – dort anfangen und Felge in andere Richtung ziehen
+Beide Seiten im Zentrierständer testen und schauen, welche Seite insgesamt mehr am Fühler reibt – dort anfangen und Felge in die andere Richtung ziehen
 
 ![Screenshot](truing-start.svg?raw=true)
 
@@ -1062,20 +1067,22 @@ Beide Seiten im Zentrierständer testen und schauen, welche Seite insgesamt mehr
 
 Anfänge & Mitte des Schlags finden, markieren und anteilig über mehrere Speichen arbeiten: 
 
+![Screenshot](truing-where.svg?raw=true)
+
 1. Zuerst Seitenschläge < 1 mm bringen 
 2. Höhenschläge < 1 mm 
-3. Zuletzt Felge mittig zur Nabe < 1 mm (Dishing) 
+3. Zuletzt Felge mittig zur Nabe < 1 mm (Dishing)  
 	= Mittigkeit des Laufrads im Fahrradrahmen 
 	(Rad wdh. umschlagen* – Achse identisch einspannen! – 
 	und beidseitig gleichen Abstand zw. Fühler und Felge beim Ventilloch herstellen:  
 	ALLE Nippel der A-Seite +¼ und B-Seite –¼ paarweise gleichzeitig drehen, Start Ventilloch)
 
-![Screenshot](truing-where.svg?raw=true)
-
 
 #### Wie ziehen? 
 
-- Seitenschlag: Speiche links BZW. rechts spannen (s.u.) 
+![Screenshot](truing-how.svg?raw=true)
+
+- Seitenschlag: Speiche links BZW. rechts spannen (s.o.) 
 - Höhenschlag: Speiche links UND rechts spannen 
 - kleinschrittig Viertel-Umdrehungen + überprüfen 
 - Kombinieren: 1 spannen, direkte Nachbarn ½ lockern 
@@ -1086,7 +1093,7 @@ Anfänge & Mitte des Schlags finden, markieren und anteilig über mehrere Speich
 - Abdrücken: ... TODO
 - Spannung: ... TODO
 
-![Screenshot](truing-how.svg?raw=true)
+
 
 
 
