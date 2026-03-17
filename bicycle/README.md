@@ -29,7 +29,7 @@ Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäß
 - Kette wechseln
 - Pedale wechseln
 - Pedale schmieren
-- Felge zentrieren / Truing
+- Felge zentrieren
 - Bowdenzuege ersetzen
 - Steuersatz (Headset), Gabel
 - Lenker zentrieren
@@ -66,13 +66,13 @@ Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäß
 	- Schaltauge
 - Schaltgruppe: Gesamtheit von Schalthebeln, Schaltzügen, Schaltwerk/Umwerfern
 - Schalthebel
-- STI Shimano Total Integration (Shimano Brems-Schalthebel-Kombination, Prinzip gängig bei modernen Rennrädern)
+- STI Shimano Total Integration: Shimano Brems-Schalthebel-Kombination, Prinzip gängig bei modernen Rennrädern
 - Gang
 - Rahmen: [Rohrgestänge insgesamt](https://cdn.prod.www.spiegel.de/images/5fdc5420-0001-0004-0000-000001203310_w860_r1.7551020408163265_fpx33.03_fpy50.jpg)
 	- Oberrohr
 	- Unterrohr
 	- Sitzrohr / Sattelrohr
-	- Sattelstütze (Rohr am Sattel, das dann wiederum im Sitzrohr steckt)
+	- Sattelstütze: Rohr am Sattel, das dann wiederum im Sitzrohr steckt
 	- Steuerrohr
 	- Gabel
 	- Sitzstrebe / Druckstrebe / Hinterbau
@@ -93,12 +93,12 @@ Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäß
 	- Compact Dropbar
 	- Backsweep
 	- Reach
-- Bowdenzug (verkehrt "Bautenzug")
-- Sattel
+- Bowdenzug
+- Sattel:
 	- Sattelschienen
 	- Sattelstütze
 	- Sattelklemmung: Verbindet Sattelstuetze und Sattel durch Klemmung an den Sattelschienen
-- Fahrradtypen:
+- Fahrradtypen
 	- Time-Trail-Fahrrad (TT Bike) / Zeitfahrrad 
 	- Race-Roadbike / Rennrad  
 	- Endurance-Rennrad / Allroad-Bike / Randonneur 
@@ -114,9 +114,9 @@ Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäß
 	- Fixie
 	- Singlespeed 
 	- BMX-Fahrrad
-	- Kunstrad/Saalmaschine (Starrlauf zum Rückwärtsfahren, 12 bar Reifendruck)
+	- Kunstrad/Saalmaschine: Starrlauf zum Rückwärtsfahren, 12 bar Reifendruck
 	- ...
-- Kadenz (Trittfrequenz gemessen in Umdrehungen pro Minute U/min bzw. rpm)
+- Kadenz: Trittfrequenz gemessen in Umdrehungen pro Minute U/min bzw. rpm
 - Fred: 
 	spöttische Bezeichnung von "ernsthafteren" Rennradfahrern entweder für Radfahrer, die 
 	durch Kleidungswahl und Modifikationen/Anbauten am Rad amateurhaft auf sie wirken.
@@ -1027,6 +1027,10 @@ Ersatzschaltauge besorgen (kann dann z.B. auf Reisen Werkstatt einbauen); s. Abs
 3. Kettenlänge ermitteln und einkürzen
 	- Vergleich mit alter Kette: Glied mit Glied vergleichen, da alte Kette gelängt ist
 	- meine KMC-Kette war out-of-the-box richtig gelängt
+	- Kette wirkt oben auf den Zahnrädern ("Zugtrum") und kann theoretisch unten locker herumbaumeln ("Leertrum");
+		das Schaltwerk mit Pulleys halten den unteren Teil auf Spannung;
+	- auf kleinstes Ritzel und kleinstes Kettenblatt; Schaltkäfig klappt komplett ein; so Ablängen dass beim Einklappen bisschen Spiel bleibt (wegen Kettenlängung):
+		https://www.youtube.com/watch?v=2OsM7Tou5Iw
 4. Schaltkäfig, Schalträdchen etc säubern
 5. Kette richtig einfädeln (über kleinstes Ritzel)
 	- korrekter Lauf über Schalträdchen und Führungen beachten
@@ -1053,10 +1057,10 @@ Ersatzschaltauge besorgen (kann dann z.B. auf Reisen Werkstatt einbauen); s. Abs
 
 
 
-## Felge zentrieren / Truing
+## Felge zentrieren (engl. Truing)
 
 
-![Reifen](truing.jpg)
+![Reifen](truing.jpg)  
 _(Abb.: UNIOR-Hobby-Zentrierständer – verwindungssteif & zusammenlegbar; weißes Papier verbessert Sicht auf Lücke zw. Fühler und Felge)_
 
 
@@ -1069,7 +1073,7 @@ Fuer Andere reicht ein Kabelbinder an der Sitzstrebe.
 - neue Speichen sind steifer 
 - Nippelspanner: ... TODO
 - Ständer mit Zange muss wg. Mittlungsfehler kalibriert werden, 
-	einseitiger Ständer nicht (Umschlagsmethode) 
+	einseitiger Ständer wie im Foto (UNIOR) nicht, dort nutzt man die Umschlagsmethode 
 - Speichenwinkel/-Spannung (Nicht-)Antriebsseite verschieden = verschiedene Tonhöhen; 
 	Antriebsseite wesentlich stärker gespannt
 
@@ -1118,7 +1122,7 @@ Anfänge & Mitte des Schlags an der Felge finden, markieren und anteilig über m
 
 
 
-## Bowdenzuege ersetzen
+## Bowdenzug ersetzen
 
 - STI-Brems-Schalthebel-Kombination Shimano
 - mechanische Schaltung/Bremsen
@@ -1224,7 +1228,7 @@ Bremszug:
 
 
 
-## Steuersatz (Headset), Gabel
+## Steuersatz warten (engl. Headset), Gabel
 
 
 ![Steuersatz, Gabelkonus](steuersatz.jpg)
@@ -1402,7 +1406,7 @@ HEADSET:
 
 
 
-## Radlager
+## Radlager warten
 
 ![Vorderrad Giant 2SX Konus](radlager-konus.jpg)
 
@@ -1834,13 +1838,13 @@ Mag sich ändern, falls ich mal in Richtung 200-300 km am Tag oder Ultracycling 
 > Ein Radrennfahrer muss seinen Hintern besser pflegen als sein Gesicht. (Radrennprofi Rudi Altig)
 
 Jede Tour:
-- Chamois-Creme: versuche ich möglichst selten zu verwenden, kann Poren verstopfen und Probleme erst erzeugen
-- After-Ride-Creme fast nach jeder Tour: Assos Skin Repair ist mein Zaubermittel, hatte seither keine Probleme mehr 
+- Not-Chamois-Creme (Kleinstabfüllung): versuche ich möglichst selten zu verwenden, kann Poren verstopfen und Probleme erst erzeugen
+- After-Ride-Creme fast nach jeder Tour: _Assos Skin Repair_ ist mein Zaubermittel, hatte seither keine Probleme mehr 
 	(bei Mehrtagestouren in kleineres Gefäß abgefüllt, ist recht ergiebig)
 - Unterleib müsse nicht mit Seife gewaschen werden, wird sogar abgeraten (zerstöre hauteigene Abwehr-Fettschicht);
-	verwende trotzdem eine sanfte Intimseife für Frauen
+	verwende trotzdem eine sanfte Frauen-Intimseife
 
-Längere Touren:
+Längere Tages-Touren:
 - large Body-Wipes, einzelverpackt
 
 Mehrtagestour: 
@@ -1853,10 +1857,11 @@ Mehrtagestour:
 
 ## Bikepacking
 
-![Bikepacking](bikepack-place.jpg)
+![Bikepacking](bikepack-place.jpg)  
+_(Abb.: Entdeckungsreisen mit dem Fahrrad)
 
-![Bikepacking-Touring-Hybrid](bikepack-setup.jpg)
-_(Abb.: Frühherbst-Setup mit Zelt/Matte/Wetterschutz Vorder-Rack, Zeltstangen/Wasser Rahmen, Schlafsack/Kleider Trunkbag, Tools/Elektro Pannier L, Food/Hygiene Pannier R)_
+![Bikepacking-Touring-Hybrid](bikepack-setup.jpg)  
+_(Abb.: Frühherbst-Setup mit Vorderrack = Doppelwand-Einmannzelt/Isomatte/Wetterschutz, Rahmen = Zeltstangen/Wasser, Trunkbag = Schlafsack/Kleider, Pannier L = Tools/Elektro, Pannier R = Nahrung/Hygiene)_
 
 
 - Bikepacking vs. Radreise/Biketouring
@@ -2286,7 +2291,7 @@ Oekonomische Zusammenhaenge, Rationales, ...
 
 ### Fahrrad-Handel (LBS, Online)
 
-- [Der teure Fahrradhändler - ein Statement!](https://www.youtube.com/watch?v=0ReiZTJ4MDM)
+- [YouTube: Der teure Fahrradhändler - ein Statement!](https://www.youtube.com/watch?v=0ReiZTJ4MDM)
 	- Shimano 9x-Kette 11 Euro vs 25-35 Euro
 	- große Online-Händler kaufen containerweise günstiger direkt beim Hersteller statt beim Großhändler
 	- Radladen zahlt im Einkauf fast das gleiche wie Online-Händler im Verkauf
