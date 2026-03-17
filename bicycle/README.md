@@ -10,29 +10,31 @@ Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäß
 ## Übersicht
 
 - [Begriffe](#begriffe)
-- [Modell](#modell)
+- Modell Sportrad
+	- Komponentenliste
+	- Montageplan
+- Modell Stadtrad
 - [Schalten](#schalten)
 - [Fahrtechniken](#fahrtechniken)
 - [Diebstahlschutz](#diebstahlschutz)
 - [Straßenzulassung StVoZ](#)
 - [Kleidung](#kleidung)
-- [Wartung](#wartung)
-	- Werkzeuge
-	- Kleine Schmierstoffkunde
-	- Verschleißteile bevorraten
-	- Radwäsche
-	- Bremsen einstellen
-	- Kettenschaltung einstellen
-	- Kette schmieren
-	- Kette wechseln
-	- Pedale wechseln
-	- Pedale schmieren
-	- Felge zentrieren / Truing
-	- Bowdenzuege ersetzen
-	- Steuersatz (Headset), Gabel
-	- Lenker zentrieren
-	- Radlager
-	- Dichtmilch erneuern
+- Werkzeuge
+- Kleine Schmierstoffkunde
+- Verschleißteile bevorraten
+- Radwäsche
+- Bremsen einstellen
+- Kettenschaltung einstellen
+- Kette schmieren
+- Kette wechseln
+- Pedale wechseln
+- Pedale schmieren
+- Felge zentrieren / Truing
+- Bowdenzuege ersetzen
+- Steuersatz (Headset), Gabel
+- Lenker zentrieren
+- Radlager
+- Dichtmilch erneuern
 - [Herbst/Winter](#herbst-winter)
 - [Reifen](#reifen)
 - [Sattel](#sattel)
@@ -147,7 +149,7 @@ Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäß
 
 
 
-## Modell: GIANT Revolt 2 XL Gravel Bike 2022/23
+## Modell Sportrad: GIANT Revolt 2 XL Gravel Bike 2022/23
 
 ![Giant Revolt 2 XL Gravel Bike im Allroad-Setup 2026](giantrevolt2-allroad.jpg)
 _(Abb.: 2026 im Allroad-Setup)_
@@ -241,20 +243,20 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 
 ### Drehmomente
 
-| Verbindung                       | Nm ich    | Nm offiz. (max) | Schmierung
-|----------------------------------|-----------|-----------------|---------------------------------
-| Vorbau         ./. Lenker Moquai | 4,5       | 6   ./.   5     | Schraubensicherung; sonst _alles_ trocken
-| Vorbau         ./. Carbon-Gabel  | 4,0       | 6   ./.   ?     | trocken
-| Sattel         ./. Stütze        | 6,0       | ?   ./.   8-9   | Antiseize Schrauben
-| Sattelklemme   ./. Stütze        | 5,0       | 7   ./.   ?     | Antiseize alles
-| Schaltwerk     ./. Auge          | handfest  | ?   ./.   ?     | 
-| Pedale         ./. Kurbel        | ?         | ?   ./.   ?     | Antiseize Gewinde
-| Steckachse H   ./. ?             | handfest  | ?   ./.   ?     | Fett Gewinde und min. Schaft
-| Steckachse V   ./. Gabel         | handfest  | ?   ./.   ?     | Fett Gewinde und min. Schaft
-| Flaschenhalter ./. Rohr          | handfest  | ?   ./.   ?     | Antiseize Schrauben
-| STI            ./. Lenker        | handfest  | ?   ./.   ?     | trocken
-| Bremsscheibe   ./. Nabe          | 5,0       | 6   ./.   ?     | Schraubensicherung
-| Kassette       ./. Nabe          | ?         | ?   ./.   ?     | Antiseize zw. Feilauf und Kas.
+| Verbindung A   | B             | Nm ich    | Nm offiz. (max) | Vor-Reinigung      | Schmierung
+|----------------|---------------|-----------|-----------------|--------------------|---------------------------------
+| Vorbau         | Lenker Moquai | 4,5       | 6   ./.   5     | IPA                | Schraubensicherung; sonst _alles_ trocken
+| Vorbau         | Carbon-Gabel  | 4,0       | 6   ./.   ?     | -                  | trocken
+| Sattel         | Stütze        | 6,0       | ?   ./.   8-9   |                    | Antiseize Schrauben
+| Sattelklemme   | Stütze        | 5,0       | 7   ./.   ?     |                    | Antiseize alles
+| Schaltwerk     | Auge          | handfest  | ?   ./.   ?     |                    | 
+| Pedale         | Kurbel        | ?         | ?   ./.   ?     |                    | Antiseize Gewinde
+| Steckachse H   | ?             | handfest  | ?   ./.   ?     |                    | Fett Gewinde und min. Schaft
+| Steckachse V   | Gabel         | handfest  | ?   ./.   ?     |                    | Fett Gewinde und min. Schaft
+| Flaschenhalter | Rohr          | handfest  | ?   ./.   ?     |                    | Antiseize Schrauben
+| STI            | Lenker        | handfest  | ?   ./.   ?     |                    | trocken
+| Bremsscheibe   | Nabe          | 5,0       | 6   ./.   ?     | IPA, Bremsenrein.  | Schraubensicherung
+| Kassette       | Nabe          | ?         | ?   ./.   ?     |                    | Antiseize zw. Feilauf und Kas.
 
 
 ### Aktueller Schmierplan
@@ -285,6 +287,12 @@ s.a. Abschnitt [Kleine Schmierstoffkunde](#kleine-schmierstoffkunde)
 Flipchip:
 	- short = quicker handling and acceleration
 	- long = improved stability at speed
+
+
+
+## Model Stadtrad / Beater-Bike
+
+TODO
 
 
 
@@ -373,6 +381,18 @@ Kurvenlinie
 
 @todo
 
+
+### Gangwechsel im Stand (Kettenschaltung)
+
+Bei absehbarem Halt immer schon in leichtere Gänge schalten (rotwerdende Ampel, stockender Verkehr, ...).
+Verpasst man dies und kommt mit schwerem Gang zum Stehen, dann wird das Wiederlosfahren für Radler und Rad unangenehm.
+Daher:
+
+1. leichteren Gang einlegen
+2. Vorderrad-Bremse gedrückt halten
+3. Fahrrad leicht nach vorne schieben = Hinterrad hebt an
+4. Kurbel mit dem Fuß drehen bis Gangwechsel erfolgt
+5. Hinterrad wieder absetzen
 
 
 
@@ -627,9 +647,8 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 
 
 
-## Wartung
 
-### Werkzeuge
+## Werkzeuge
 
 Allgemein:
 
@@ -719,7 +738,7 @@ Taeglich am Fahrrad:
 
 
 
-### Kleine Schmierstoffkunde
+## Kleine Schmierstoffkunde
 
 | Schmierung         | Konsistenz | Zusammensetzung | Anwendung | Haftung | Haltbarkeit | Gesundheit
 |--------------------|------------|-----------------|-----------|---------|-------------|---------------------
@@ -750,7 +769,7 @@ Allgemein:
 
 
 
-#### Typische Produkte
+### Typische Produkte
 
 Siehe auch Abschnitt [Aktueller Schmierplan](#aktueller-schmierplan).
 Folgende Liste mit Produkten, die mir mal untergekommen sind (also nicht alle verwende):
@@ -765,7 +784,8 @@ Folgende Liste mit Produkten, die mir mal untergekommen sind (also nicht alle ve
 | Muc-off Carbon Gripper<br>Muc-Off Carbon Assembly Paste<br>Finish Line Carbon Fiber Paste<br>Park Tool CSG-2            | Montagepaste, Reibungspaste | Reibung erhoehen   | Klemmflaeche Carbon-\* | Klemmfläche Alu-Alu (knarzt)  | Montagepaste mit hohem Reibungswert; erlaubt Anzug mit weniger Drehmoment/Schraubenvorspannkraft = materialschonender; MucOff Gripper fuer hoeher belastete Sachen wie Vorbau/Lenker/Sattelstuetze
 | Muc-off Bio Degreaser               | Entfetter          | Entfetten          |                              |                     | weniger aggressive zu Gummi-/Kunststoffteilen (Dichtungen) als Bremsenreiniger
 | Muc-off Bike Cleaner                |                    |                    |                              |                     | 
-| WD40 Silikonspray                   |                    |                    |                              |                     |
+| Pedros Green Fizz Bike Wash         |                    |                    |                              |                     | soll wohl carbon/lack-freundlicher sein als mucoff
+| WD40 Silikonspray                   |                    |                    |                              |                     | auf tuch sprühen, evtl. glanz bei stumpfgewaschenen Carbongabel wiederherstellen?
 | WD40 Rostentferner                  |                    |                    |                              |                     | 
 | WD40 Kontaktspray                   |                    |                    |                              |                     |
 | WD40 klassisch                      |                    |                    | für nichts am Rad einsetzen  |                     | immer falsch
@@ -797,7 +817,7 @@ Folgende Liste mit Produkten, die mir mal untergekommen sind (also nicht alle ve
 
 
 
-### Verschleissteile bevorraten
+## Verschleissteile bevorraten
 
 Auf Verschleissteile gibt es idR. keine Gewaehrleistung vom Fahrrad-Haendler.
 
@@ -878,7 +898,7 @@ Nach 200 km sollte man bei Neurädern den Erst-Service machen:
 
 
 
-### Radwaesche
+## Radwaesche
 
 "Ich benutze nie aber niemals Kettenreiniger; 
 es haut die ganze schmierung zwischen den Glieder raus. 
@@ -916,15 +936,15 @@ Motorrad-Reiniger mehr und billiger
 
 
 
-### Bremsen einstellen
+## Bremsen einstellen
 
 - TODO
 
 
 
-### Kettenschaltung einstellen
+## Kettenschaltung einstellen
 
-#### 4 Einstellschrauben:
+### 4 Einstellschrauben:
 
 - kleinster Gang = geringste Zugspannung
 - Test: in kleinstes Ritzel und dann Gang für Gang nach oben und wieder zurück
@@ -946,7 +966,7 @@ Motorrad-Reiniger mehr und billiger
 - Start: kleinstes Blatt vorne, größtes Ritzel hinten
 
 
-#### Schaltauge:
+### Schaltauge:
 
 - verbindet Rahmen mit dem Schaltwerk
 - Sollbruchstelle, falls das Fahrrad umfällt und aufs Schaltwerk kippt = Rahmen schonen (teuer);
@@ -967,7 +987,7 @@ Ersatzschaltauge besorgen (kann dann z.B. auf Reisen Werkstatt einbauen); s. Abs
 
 
 
-### Kette schmieren
+## Kette schmieren
 
 - ideal biologisch abbaubares Öl
 - ideal leicht auswaschbares Öl, da man sich 100% damit immer mal wieder irgendwo einsaut (bei normalen Hosen: Hose unten nah ans Bein abbinden)
@@ -986,7 +1006,7 @@ Ersatzschaltauge besorgen (kann dann z.B. auf Reisen Werkstatt einbauen); s. Abs
 
 
 
-### Kette wechseln
+## Kette wechseln
 
 - Kette längt sich über die Zeit
 	- abh. von Qualität, gefahrenen Gängen und Krafteinwirkung usw.
@@ -1017,14 +1037,14 @@ Ersatzschaltauge besorgen (kann dann z.B. auf Reisen Werkstatt einbauen); s. Abs
 7. neue Kette säubern, evtl. schmieren
 
 
-### Pedale wechseln
+## Pedale wechseln
 
 - Links/Rechtsgewinde! beide Seiten jeweils Öffnen in Richtung Hinterrad und Schließen in Richtung Vorderrad [TODO nochmal gegenpruefen]
 - Schmieren z.B. mit Shimano Anti-Seize fuer dichte starre Verbindung, die nicht festrosten/festfressen soll
 - TODO
 
 
-### Pedale schmieren
+## Pedale schmieren
 
 - außen
 - innen
@@ -1033,22 +1053,20 @@ Ersatzschaltauge besorgen (kann dann z.B. auf Reisen Werkstatt einbauen); s. Abs
 
 
 
-### Felge zentrieren / Truing
+## Felge zentrieren / Truing
 
 
 ![Reifen](truing.jpg)
+_(Abb.: UNIOR-Hobby-Zentrierständer – verwindungssteif & zusammenlegbar; weißes Papier verbessert Sicht auf Lücke zw. Fühler und Felge)_
 
-Als Hobby-Zentrierstaender habe ich den kleinen von UNIOR geholt, der ist verwindungssteif/steht wie eine 1 
-und laesst sich zusammengelegt schnell wieder in den Schrank packen.
-Professionellere haben Messuhren mit beweglichen Fuehlern. 
+
+Professionellere Zentrierständer haben Messuhren mit beweglichen Fuehlern. 
 Manche bauen sich selbst welche aus Systemprofilen. 
 Fuer Andere reicht ein Kabelbinder an der Sitzstrebe.
 
 
-
 - Speichen sind wie Seile: sie können nicht drücken, nur ziehen 
 - neue Speichen sind steifer 
-- weißes Papier zw. Ständer & Felge = Fühler-Lücke sichtbarer 
 - Nippelspanner: ... TODO
 - Ständer mit Zange muss wg. Mittlungsfehler kalibriert werden, 
 	einseitiger Ständer nicht (Umschlagsmethode) 
@@ -1056,29 +1074,31 @@ Fuer Andere reicht ein Kabelbinder an der Sitzstrebe.
 	Antriebsseite wesentlich stärker gespannt
 
 
-#### Wo beginnen? 
+### Wo beginnen? 
 
 Beide Seiten im Zentrierständer testen und schauen, welche Seite insgesamt mehr am Fühler reibt – dort anfangen und Felge in die andere Richtung ziehen
 
 ![Screenshot](truing-start.svg?raw=true)
 
 
-#### Was korrigieren? 
+### Was korrigieren? 
 
-Anfänge & Mitte des Schlags finden, markieren und anteilig über mehrere Speichen arbeiten: 
+Anfänge & Mitte des Schlags an der Felge finden, markieren und anteilig über mehrere Speichen arbeiten: 
 
 ![Screenshot](truing-where.svg?raw=true)
 
 1. Zuerst Seitenschläge < 1 mm bringen 
-2. Höhenschläge < 1 mm 
-3. Zuletzt Felge mittig zur Nabe < 1 mm (Dishing)  
-	= Mittigkeit des Laufrads im Fahrradrahmen 
-	(Rad wdh. umschlagen* – Achse identisch einspannen! – 
-	und beidseitig gleichen Abstand zw. Fühler und Felge beim Ventilloch herstellen:  
-	ALLE Nippel der A-Seite +¼ und B-Seite –¼ paarweise gleichzeitig drehen, Start Ventilloch)
+2. Danach Höhenschläge < 1 mm 
+3. Zuletzt Felge mittig zur Nabe (engl. Dishing) < 1 mm  
+	(= Mittigkeit des Laufrads im Fahrradrahmen)  
+	Hierfür das Rad wdh. umschlagen – Achse identisch einspannen! – 
+	und beidseitig gleichen Abstand zw. Fühler und Felge herstellen:
+	ALLE Nippel der A-Seite +¼ und B-Seite –¼ paarweise gleichzeitig drehen.  
+	Am Ventilloch starten und enden (erleichtert Überblick).  
+	Messung am Ventilloch als einheitlichen Referenzpunkt.
 
 
-#### Wie ziehen? 
+### Wie ziehen? 
 
 ![Screenshot](truing-how.svg?raw=true)
 
@@ -1098,7 +1118,7 @@ Anfänge & Mitte des Schlags finden, markieren und anteilig über mehrere Speich
 
 
 
-### Bowdenzuege ersetzen
+## Bowdenzuege ersetzen
 
 - STI-Brems-Schalthebel-Kombination Shimano
 - mechanische Schaltung/Bremsen
@@ -1204,7 +1224,7 @@ Bremszug:
 
 
 
-### Steuersatz (Headset), Gabel
+## Steuersatz (Headset), Gabel
 
 
 ![Steuersatz, Gabelkonus](steuersatz.jpg)
@@ -1239,7 +1259,7 @@ Bremszug:
 	zweite Zahl = Gabelschaft-Durchmesser
 
 
-#### Schmieren, Fetten
+### Schmieren, Fetten
 
 - Nachfetten von Lagern, Lagersitzen, Lagerschalen, Gabelschaft 
 		und allen Kontaktflächen verhindert Korrision und erleichtert die Demontage/Montage
@@ -1287,7 +1307,7 @@ Teile:
 	- 
 
 
-#### Vollintegrierte Lagerschalen (IS Integrated Standard)
+### Vollintegrierte Lagerschalen (IS Integrated Standard)
 
 - braucht kein Einpresswerkzeug
 - Lager liegen in Buchten und koennen mir Finger oder Plastikpieker rausgeholt werden
@@ -1382,7 +1402,7 @@ HEADSET:
 
 
 
-### Radlager
+## Radlager
 
 ![Vorderrad Giant 2SX Konus](radlager-konus.jpg)
 
@@ -1420,7 +1440,7 @@ Bei meinem Modell waere vorne Konuslager und hinten Cartridge/gedichtetes Lager:
 						Regen/Wetter/Pendler: alle 6 Monate
 
 
-#### Vorbereitungen:
+### Vorbereitungen:
 
 - Handtuch auf Montagetisch, Rad auf dem Handtuch: hält herausfallende Kugeln auf; alternativ ueber einem Eimer arbeiten
 - Bremsscheiben entfernen (Torx 25, 4-6 Nm) kann es leichter machen - falls man an dieser Seite zumindest an der Achse was korrigieren muss, im Idealfall nicht
@@ -1428,7 +1448,7 @@ Bei meinem Modell waere vorne Konuslager und hinten Cartridge/gedichtetes Lager:
 - Kugeln spaeter immer mal wieder abzaehlen
 
 
-#### Vorderrad-Lager oeffnen
+### Vorderrad-Lager oeffnen
 
 1. ganz Aussen sitzen die Sicherungsmuttern (Mutter mit zusaetzlichem Plastikring), 
 	dann eine Staubkappe, 
@@ -1442,7 +1462,7 @@ Bei meinem Modell waere vorne Konuslager und hinten Cartridge/gedichtetes Lager:
 7. Kugeln entfernen
 
 
-#### Vorderrad-Lager reinigen
+### Vorderrad-Lager reinigen
 
 ![Siffiges Konuslager Vorderrad Giant Revolt 2](radlager-korrosion.jpg)
 _(Abb.: Korrosion im Radlager, Fett ausgewaschen; ab Werk in 2.5 Jahren nie gewartet; Antriebsseite halbwegs ok, bremsenseitig obiges Bild)_
@@ -1454,7 +1474,7 @@ _(Abb.: Korrosion im Radlager, Fett ausgewaschen; ab Werk in 2.5 Jahren nie gewa
 
 
 
-#### Lagerteile untersuchen
+### Lagerteile untersuchen
 
 ![Lagerschale mit Einkerbungen/Pittings](radlager-pittings.jpg)
 _(Abb.: Pitting in der Lagerschale)_
@@ -1469,7 +1489,7 @@ _(Abb.: Pitting in der Lagerschale)_
 	ansonsten ist die Nabe am Ende bzw. das komplette Laufrad, wenn man keine Lust aufs Einspeichen einer neuen Nabe hat
 
 
-#### Vorderrad-Lager schmieren und Kugeln einsetzen
+### Vorderrad-Lager schmieren und Kugeln einsetzen
 
 - lieber zu viel Fett als zu wenig (trotzdem nicht uebertreiben), wenn es rausquirlt ist auch nicht verkehrt (Waermeentw. und Bremswirkung wohl vernachlaessigbar)
 
@@ -1483,7 +1503,7 @@ _(Abb.: Pitting in der Lagerschale)_
 7. Rad umdrehen, Achse dabei festhalten, und auf der anderen Seite dann schmieren und Kugeln einsetzen
 
 
-#### Vorderrad-Lager schließen und justieren
+### Vorderrad-Lager schließen und justieren
 
 Unterscheidungen:
 	- [ ] Schnellspanner
@@ -1502,7 +1522,7 @@ Trick:
 4. Konus jetzt gegen die Mutter sichern (statt umgekehrt), so dass der Konus beim Spannen gegen die Mutter von den Kugeln minimalst zurueckgeht
 
 
-#### Nachbereitungen
+### Nachbereitungen
 
 - nach 50 km nochmal pruefen: Achsenspiel (kippelt das Laufrad in der Gabel), Rauheit, ...
 
@@ -1510,7 +1530,7 @@ Trick:
 
 
 
-### Dichtmilch erneuern
+## Dichtmilch erneuern
 
 ![Felge mit Dichtmilch-Datum-Etikett](tubeless.jpg)
 
@@ -1835,6 +1855,10 @@ Mehrtagestour:
 
 ![Bikepacking](bikepack-place.jpg)
 
+![Bikepacking-Touring-Hybrid](bikepack-setup.jpg)
+_(Abb.: Frühherbst-Setup mit Zelt/Matte/Wetterschutz Vorder-Rack, Zeltstangen/Wasser Rahmen, Schlafsack/Kleider Trunkbag, Tools/Elektro Pannier L, Food/Hygiene Pannier R)_
+
+
 - Bikepacking vs. Radreise/Biketouring
 	- Bikepacking begriffl. von Backpacking abgeleitet – dem Reisen nur mit Rucksack (engl. Backpack)
 	- Bikepacking urspr. für Offroad
@@ -1901,8 +1925,6 @@ Andererseits ist ein Faltstuhl vor dem eigenen Zelt schon eine tolle Sache, um l
 
 
 ### Hybridlösung
-
-![Bikepacking-Touring-Hybrid](bikepack-setup.jpg)
 
 - Gepäckträger + 15-35 Liter Rucksack oder Drybag mit Trage-Gurten
 	- mehr Platz als in der Arschrakete
@@ -2059,7 +2081,7 @@ see [my Github Wahoo-repository](https://github.com/andre-st/wahoo)
 | Prio | Bedarfsart    | Zweck             | Wann            | Bezugsquelle                               | Beispiele                                                          | Kommentar
 |------|---------------|-------------------|-----------------|--------------------------------------------|--------------------------------------------------------------------|-----------|------------------
 |    1 | Wasser        | Kreislauf/Kühlung | immer           | Markt, Tanke, Imbiss &gt; Trinkbrunnen &gt; Friedhof &gt; Anwohner, Waschbecken öff. WC                        || wird ausgeschwitzt; Naturquellen eher vermeiden oder filtern (Landwirt.-/Stadtchemie, Kadaver, ...)
-|    2 | Kohlenhydrate | Energie           | Fahrzeit/Start  | Markt, Tanke, Imbiss, Gaststätte, Drogerie | Brötchen, Banane, _gekochte_ Kartoffeln, Brezel, Laugenstange, Reiswaffel, belegte Brötchen ohne Mayo, Dönerwrap, Rossmann Energy-Gel (Ausnahme) | beim Pedalieren verbrannt; Fettiges vermeiden (Pommes); "bonking" plötz. Müdigkeit; Carboloading
+|    2 | Kohlenhydrate | Energie           | Fahrzeit/Vortag | Markt, Tanke, Imbiss, Gaststätte, Drogerie | Brötchen, Banane, _gekochte_ Kartoffeln, Brezel, Laugenstange, Reiswaffel, belegte Brötchen ohne Mayo, Dönerwrap, Rossmann Energy-Gel (Ausnahme) | beim Pedalieren verbrannt; Fettiges vermeiden (Pommes); "bonking" plötz. Müdigkeit; Carboloading
 |    3 | Elektrolyte   | Krampfprävention  | Fahrzeit        | Drogerie                                   | Rossmann Hydraid Trinkpulver-Sticks; Salz in Mineralwasser rühren  | wird ausgeschwitzt; für Nervensignale an Muskeln;  besser vorkaufen und in kleinem Gefäß mitnehmen
 |    4 | Proteine      | Regeneration      | Ruhephasen/Camp | Drogerie, Markt                            | Rossmann Proteinriegel, Thunfischbüchse                            | während Leistung kaum Nutzen/evtl. Magenproblem; Muskeln reparieren
 
