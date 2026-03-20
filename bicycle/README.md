@@ -2,7 +2,7 @@
 
 > Driving a car is like watching a movie, but riding a bike is like acting in one.
 
-_ACHTUNG: Alles work-in-progress hier, mag sich alles ändern_
+_ACHTUNG: Alles work-in-progress hier, mag sich alles ändern – große Müllhalde zu redigieren._
 
 Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäßig; 1 = vermeiden)
 
@@ -30,10 +30,10 @@ Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäß
 - Pedale wechseln
 - Pedale schmieren
 - Felge zentrieren
-- Bowdenzuege ersetzen
-- Steuersatz (Headset), Gabel
+- Bowdenzug ersetzen
+- Steuersatz/Gabel warten
 - Lenker zentrieren
-- Radlager
+- Radlager warten
 - Dichtmilch erneuern
 - [Herbst/Winter](#herbst-winter)
 - [Reifen](#reifen)
@@ -66,7 +66,7 @@ Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäß
 	- Schaltauge
 - Schaltgruppe: Gesamtheit von Schalthebeln, Schaltzügen, Schaltwerk/Umwerfern
 - Schalthebel
-- STI Shimano Total Integration: Shimano Brems-Schalthebel-Kombination, Prinzip gängig bei modernen Rennrädern
+- STI Shimano Total Integration: Shimano Brems-Schalthebel-Kombination, Prinzip gängig bei modernen Rennrädern; ugs. engl. "Brifters" = Brakes + Shifters
 - Gang
 - Rahmen: [Rohrgestänge insgesamt](https://cdn.prod.www.spiegel.de/images/5fdc5420-0001-0004-0000-000001203310_w860_r1.7551020408163265_fpx33.03_fpy50.jpg)
 	- Oberrohr
@@ -99,36 +99,43 @@ Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäß
 	- Sattelstütze
 	- Sattelklemmung: Verbindet Sattelstuetze und Sattel durch Klemmung an den Sattelschienen
 - Fahrradtypen
-	- Time-Trail-Fahrrad (TT Bike) / Zeitfahrrad 
-	- Race-Roadbike / Rennrad  
-	- Endurance-Rennrad / Allroad-Bike / Randonneur 
-	- Cyclocrosser (CX)       
-	- Gravelbike / Schotterrad
-	- Enduro-Mountain-Bike (MTB)
-	- Hardtail-MTB (Federung nur vorne)
-	- Fully (Full Suspension MTB)
+	- Zeitfahrrad / Triathlon-Rennrad (engl. Time-Trail-Bike / TT Bike): Handling untaugl. für Gruppen
+	- Race-Roadbike / klassisches Rennrad: leicht, gute Klettereigenschaften
+	- Aero-Rennrad: für Gruppen geeignet, wg. Aeroformen schwerer als Race-Roadbike
+	- Endurance-Rennrad / Allroad-Bike / Randonneur: bequemeres Rennrad (aufrechter) bis 35 mm Reifen
+	- Cyclocrosser (CX): schulterbares, robustes, etwas entspannteres Rennrad mit Profilreifen bis 33 mm (UCI-Vorgabe) und höherer Bodenfreiheit für Rennen auf unbefestigten Untergründen
+	- Schotterrad (engl. Gravel bike): bequemeres Rennrad (aufrechter) mit leichtprofilierten Reifen zw. 35 und 50 mm, mittl. Bodenfreiheit, Langstrecke
+	- Hardtail-Mountain-Bike / Cross Country MTB: Federung nur vorne
+	- Fully (Full Suspension MTB): Vollfederung mit Federgabel + Hinterbaudämpfer
+		- Race-Fully:       bis 120 mm Federweg
+		- All-Mountain-MTB: bis 130 mm Federweg
+		- Touren-Fully:     bis 140 mm Federweg
+		- Enduro-MTB:       bis 170 mm Federweg
+		- Freeride-MTB:     bis 180 mm Federweg
+		- Downhill-MTB:     bis 200 mm Federweg
 	- All-Terrain-Bike (ATB)
 	- Adventure-Bike
 	- Trekking-Bike
-	- Bahnrad
-	- Fixie
-	- Singlespeed 
-	- BMX-Fahrrad
+	- Singlespeed: 1 Gang mit Freilauf
+		- Standard-BMX-Fahrrad:
+	- Fixie: 1 Gang ohne Freilauf, dafür Rücktritt-Bremse
+		- Bahnrad: fahren im Velodrom = ovaler 200-250m-Kurs aus Holz oder Kunststoff mit Steilkurven
 	- Kunstrad/Saalmaschine: Starrlauf zum Rückwärtsfahren, 12 bar Reifendruck
 	- ...
 - Kadenz: Trittfrequenz gemessen in Umdrehungen pro Minute U/min bzw. rpm
-- Fred: 
+- Fred [satirisch]: 
 	spöttische Bezeichnung von "ernsthafteren" Rennradfahrern entweder für Radfahrer, die 
 	durch Kleidungswahl und Modifikationen/Anbauten am Rad amateurhaft auf sie wirken.
 	Oder Radfahrer die besonders Pro wirken möchten durch sündhaft teure Profi-Räder und Trikots, 
 	tats. aber normale Sonntags-Radler mit bescheidener Leistung sind.
 	verwandt mit MAMIL; 
 	im Rennrad-Bereich ist Minimalismus/"cleane"/"smarte" Optik angesehen
-- MAMIL: 
+- MAMIL [satirisch]: 
 	"Middle-Aged Men In Lycra"; Presswurst-Optik dank Bierbauch im Skinsuit, 
 	auf dem irgendwelche Logos gedruckt wurden, 
 	was vermeintlich Pro aussehen würde; verwandt mit Fred
-- Zahnarzt:
+- Zahnarzt [satirisch]: 
+	Berufsgruppe, die sich mittel-/hochpreisige Rennräder leistet
 - Laufrad: Gesamtheit von
 	- Steckachse
 	- Schnellspanner
@@ -146,6 +153,11 @@ Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäß
 	- Tubeless
 	- Tubular
 	- System-Laufradsatz
+- Bikepacking
+- Ultracycling
+- Distance Cycling
+- Radreise / Touring
+
 
 
 
@@ -217,15 +229,6 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 
 | Fahrradteil        | Jahr   | Preis     | Wertung | Neu verbaut                       | Details
 |--------------------|--------|-----------|---------|-----------------------------------|--------------------------------------------
-| Lenkeraufsatz      | 2023   | &gt;100 € | \*\*\*  | Profile Design Sonic Ergo T5+     | 348 mm Länge (13&deg;), Alu 6061-T6, siehe Aerolenker-Abschnitt
-| Lenker             | 2025   | 27 €      | \*\*\*  | Moquai Aero Rennradlenker         | 420/420 mm  (0&deg; Flair), kompakt, Alu 6061 "285g"; 4 cm schmaler/sportl. als Erstlenker; Logos subtil; ovalisierte, nicht zu breite Tops; flext in den Drops
-| Lenker             | 2025   | 18 € Sale | Todo    | FSA AGX Adventure Compact         | 440/500 mm (12&deg; Flair), kompakt, Alu 6061 "325g", 2 cm schmaler als Erstlenker, für Bikepacking, Logos übertrieben
-| Lenkerband         | 2023   | 25 €      | \*\*\*  | Profile Design Aerobar Wrap       | dünn,    gummiartig,  Klebestreifen,        für Lenkeraufsatz; duenner als Dropbar gegen Wurst-Optik; nur Grip, kaum Dämpf.; Bandkante drueckt sich als "Fortsetzungslinie" durch = gleichmäßiges Wickeln
-| Lenkerband         | 2025   | 13 €      | \*\*    | FSA Ultra-Gel Kork                | mittel,  Kork,        Klebestreifen (Rückstände),  dämpft ohne zu dick aufzutragen, stufig/Grip ok, ging schnell drauf, mit ital. 8 genug Länge; hässl. Finishtape/Barends
-| Lenkerband         | 2025   | 13 €      | \*      | Selle Italia SmooTape Gran Fondo  | 2,5 mm,  Schaumstoff (langweiliger als Kork), Silikonstreifen/Zug,  ½ oder ⅓ wickeln? aus Entfernung stufenfrei (auch nicht besser als andere); ledrigerer Look ok; weiße Logos = Vogelstange; hässl. Finishtape
-| Lenkerband         | 2025   | 12 €      | \*      | Selle Italia Smart Tape Greentech | 2,5 mm,  gummiartig wie die Hoods (kein Handschmeichler wie Kork), hält allein auf Zug (gut), wenig Daempfung trotz Dicke (nur Handfüller), integrierte "Endkappe" laesst sich verdrehen und loest Band (ist nur auf Zug) und verlangt kürzere 2. Wicklung (uneinheitlich) oder haessliche Beule und verunmöglicht Klingel-Endkappe o.ä.; Laenge passt mit ⅓-Wicklung und ital. Acht gerade so auf 42cm-Flattop-Dropbar inkl. Flattop-Bereich (stufenfrei!); klebriger gummi hält dreck fest, aber gut zu reinigen und wiederzuverwenden; unempfindlicher gegen Regen
-| Lenkerband         | 2025   | 22 €      | Todo    | Cinelli Gel Gork                  | mittel,  Kork,        Klebestreifen,        wie FSA Ultra-Gel Kork (white label produkt?)
-| Lenkerband         | 2025   | 10 €      | Todo    | SRAM SuperCork Bar Tape           | mittel,  Kork,        Klebestreifen,        wie FSA Ultra-Gel Kork (white label produkt?); guenstiges Notfall-Korkband (fahre Shimano)
 | Steuersatzlager    | 2025   | 2x 20 €?  | ?       | CQ GmbH Edelstahl                 | Ersatz wg. rauem Lauf
 | Konuslagerkugeln   | 2025   |  5 €?     | ?       | Woembi G20 HRC&ge;60 1/8"         | Ersatz wg. Korrosion
 | Kabel Schaltzug    | 2024   | 14 €      | \*\*\*  | Shimano OT-SP41 Optislick         | ersetzt gerissenes Jagwire; Zugseil gleitet gut (STI-Widerstand), gut zu cutten
@@ -239,24 +242,34 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Flaschenhalter     | 2023   | 2x 15 €   | \*\*\*  | SKS Germany DUAL SC RH und LH     | seitliche Entnahme rechtshändig; zerkratzt Flaschen, ansonsten top, stabil
 | Computer           | 2023   | 260 €     | \*\*\*  | Wahoo Bolt 2                      | mit Gummi-Schutzhülle
 | Computer-Halterung | 2025   | 63 €      | \*\*    | Framesandgear Aero 27 mm Wah/Sm.  | Stem-Mount; stabil, sieht gut aus/ragt nicht über Lenker; ragt nicht seitl. über Vorbaulenkerklemme = einzig mit meinem Jack-Frontrack+Lenker funktionierender; teuer und schlechter Transferwert durch feste Breite
+| Lenkeraufsatz      | 2023   | &gt;100 € | \*\*\*  | Profile Design Sonic Ergo T5+     | 348 mm Länge (13&deg;), Alu 6061-T6, siehe Aerolenker-Abschnitt
+| Lenker             | 2025   | 27 €      | \*\*\*  | Moquai Aero Rennradlenker         | 420/420 mm  (0&deg; Flair), kompakt, Alu 6061 "285g"; 4 cm schmaler/sportl. als Erstlenker; Logos subtil; ovalisierte, nicht zu breite Tops; flext in den Drops
+| Lenker             | 2025   | 18 € Sale | Todo    | FSA AGX Adventure Compact         | 440/500 mm (12&deg; Flair), kompakt, Alu 6061 "325g", 2 cm schmaler als Erstlenker, für Bikepacking, Logos übertrieben
+| Lenkerband         | 2023   | 25 €      | \*\*\*  | Profile Design Aerobar Wrap       | dünn,    gummiartig,  Klebestreifen,        für Lenkeraufsatz; duenner als Dropbar gegen Wurst-Optik; nur Grip, kaum Dämpf.; Bandkante drueckt sich als "Fortsetzungslinie" durch = gleichmäßiges Wickeln
+| Lenkerband         | 2025   | 13 €      | \*\*    | FSA Ultra-Gel Kork                | mittel,  Kork,        Klebestreifen (Rückstände),  dämpft ohne zu dick aufzutragen, stufig/Grip ok, ging schnell drauf, mit ital. 8 genug Länge; hässl. Finishtape/Barends
+| Lenkerband         | 2025   | 13 €      | \*      | Selle Italia SmooTape Gran Fondo  | 2,5 mm,  Schaumstoff (langweiliger als Kork), Silikonstreifen/Zug,  ½ oder ⅓ wickeln? aus Entfernung stufenfrei (auch nicht besser als andere); ledrigerer Look ok; weiße Logos = Vogelstange; hässl. Finishtape
+| Lenkerband         | 2025   | 12 €      | \*      | Selle Italia Smart Tape Greentech | 2,5 mm,  gummiartig wie die Hoods (kein Handschmeichler wie Kork), hält allein auf Zug (gut), wenig Daempfung trotz Dicke (nur Handfüller), integrierte "Endkappe" laesst sich verdrehen und loest Band (ist nur auf Zug) und verlangt kürzere 2. Wicklung (uneinheitlich) oder haessliche Beule und verunmöglicht Klingel-Endkappe o.ä.; Laenge passt mit ⅓-Wicklung und ital. Acht gerade so auf 42cm-Flattop-Dropbar inkl. Flattop-Bereich (stufenfrei!); klebriger gummi hält dreck fest, aber gut zu reinigen und wiederzuverwenden; unempfindlicher gegen Regen
+| Lenkerband         | 2025   | 22 €      | Todo    | Cinelli Gel Gork                  | mittel,  Kork,        Klebestreifen,        wie FSA Ultra-Gel Kork (white label produkt?)
+| Lenkerband         | 2025   | 10 €      | Todo    | SRAM SuperCork Bar Tape           | mittel,  Kork,        Klebestreifen,        wie FSA Ultra-Gel Kork (white label produkt?); guenstiges Notfall-Korkband (fahre Shimano)
+| Lenkerband         | 2026   |  8 €      | Todo    | DEDA                              | Synthetik, gun barrel grey (4800)
 
 
 ### Drehmomente
 
-| Verbindung A   | B             | Nm ich    | Nm offiz. (max) | Vor-Reinigung      | Schmierung
+| Verbindung A   | mit B         | Nm ich    | Nm offiz. (max) | Vor-Reinigung      | Schmierung
 |----------------|---------------|-----------|-----------------|--------------------|---------------------------------
 | Vorbau         | Lenker Moquai | 4,5       | 6   ./.   5     | IPA                | Schraubensicherung; sonst _alles_ trocken
 | Vorbau         | Carbon-Gabel  | 4,0       | 6   ./.   ?     | -                  | trocken
 | Sattel         | Stütze        | 6,0       | ?   ./.   8-9   |                    | Antiseize Schrauben
 | Sattelklemme   | Stütze        | 5,0       | 7   ./.   ?     |                    | Antiseize alles
 | Schaltwerk     | Auge          | handfest  | ?   ./.   ?     |                    | 
-| Pedale         | Kurbel        | ?         | ?   ./.   ?     |                    | Antiseize Gewinde
-| Steckachse H   | ?             | handfest  | ?   ./.   ?     |                    | Fett Gewinde und min. Schaft
-| Steckachse V   | Gabel         | handfest  | ?   ./.   ?     |                    | Fett Gewinde und min. Schaft
-| Flaschenhalter | Rohr          | handfest  | ?   ./.   ?     |                    | Antiseize Schrauben
-| STI            | Lenker        | handfest  | ?   ./.   ?     |                    | trocken
+| Pedale         | Kurbel        | ?         | ?   ./.   ?     | IPA                | Antiseize Gewinde
+| Steckachse H   | ?             | handfest  | ?   ./.   ?     | IPA                | Fett Gewinde und min. Schaft
+| Steckachse V   | Gabel         | handfest  | ?   ./.   ?     | IPA                | Fett Gewinde und min. Schaft
+| Flaschenhalter | Rohr          | handfest  | ?   ./.   ?     | IPA                | Antiseize Schrauben
+| STI            | Lenker        | handfest  | ?   ./.   ?     | IPA                | trocken
 | Bremsscheibe   | Nabe          | 5,0       | 6   ./.   ?     | IPA, Bremsenrein.  | Schraubensicherung
-| Kassette       | Nabe          | ?         | ?   ./.   ?     |                    | Antiseize zw. Feilauf und Kas.
+| Kassette       | Nabe          | ?         | ?   ./.   ?     | IPA                | Antiseize zw. Feilauf und Kas.
 
 
 ### Aktueller Schmierplan
@@ -358,37 +371,39 @@ s.a. Wartung-Schaltung-einstellen
 
 ### Rollen: 
 
-1. Zeit gewinnt man auf der Ebene: 
+- Zeit gewinnt man auf der Ebene:  
 	23 km/h vs. 27 km/h auf der Ebene = enormer Zeitunterschied bei nur moderat mehr Leistung
-
-2. Energie verliert man am Berg: 
+- Energie verliert man am Berg:  
 	Geschwindigkeit ohnehin niedrig, mehr Kraft bringt nur wenig zusätzliche Geschwindigkeit, dafür Puls, Laktat und Ermüdung;
-	Steile Anstiege vglw. langsam in niedrigsten Gängen angehen;
-	Wiegetritt (vorher Gang etwas höher machen)
-
-3. Erholung passiert bergab: 
+	Steile Anstiege vglw. langsam aber konstant in niedrigen Gängen angehen: einen Elefant verspeist man Stück für Stück.
+	Wiegetritt (vorher Gang etwas schwerer machen)
+- Erholung passiert bergab:  
 	Luftwiderstand steigt extrem mit Geschwindigkeit. 
 	Oberhalb von ca. 35–45 km/h kostet Treten sehr viel Energie für wenig Zusatztempo
+- Zeitverlust am Berg ist nicht linear mit Zeitgewinn bei Abfahrten einzuholen;
+	(Training und Diät, um am Berg schneller zu werden, ohne sich kaputt zu machen)
+- vorausschauend Schalten, insb. bei Ampeln/Verkehr - 
+	leichtere Gänge vorm Stehen beschleunigen das Anfahren; langsam annähern, Ampelphasen lernen
 
 Gleichmäßige Leistung, hohe Trittfrequenz (80–95 rpm), aerodynamische Haltung auf Geraden
 
 
 ### Kurven:
 
-1. vorm Einbiegen Pedal zur Kurvenseite (rechts-rechts) nach oben drehen, damit kein Bodenkontakt entsteht
+- vorm Einbiegen Pedal zur Kurvenseite (rechts-rechts) nach oben drehen, um Bodenkontakt beim Hineinlehnen in die Kurve zu vermeiden
 
 Kurvenlinie
 
 @todo
 
 
-### Gangwechsel im Stand (Kettenschaltung)
+### Gangwechsel im Stand (Kettenschaltung):
 
-Bei absehbarem Halt immer schon in leichtere Gänge schalten (rotwerdende Ampel, stockender Verkehr, ...).
-Verpasst man dies und kommt mit schwerem Gang zum Stehen, dann wird das Wiederlosfahren für Radler und Rad unangenehm.
-Daher:
+Kommt man mit schwerem Gang zum Stehen (vorausschauend Schalten!), 
+dann wird das Wiederlosfahren für Radler und Rad unangenehm.
+In so einem Fall:
 
-1. leichteren Gang einlegen
+1. leichteren Gang im Stehen schalten
 2. Vorderrad-Bremse gedrückt halten
 3. Fahrrad leicht nach vorne schieben = Hinterrad hebt an
 4. Kurbel mit dem Fuß drehen bis Gangwechsel erfolgt
@@ -404,14 +419,13 @@ dann gegen Faltschloss getauscht,
 da sich paar Sekunden Sicherheitsgewinn nicht lohnen:
 
 
-| Aspekt        | Bügelschloss Trelock U6 16mm Dicke                                   | Faltschloss ABUS Bordo 6000K BIG  (120cm)                  | Kettenschloss
-|---------------|----------------------------------------------------------------------|------------------------------------------------------------|--------------------------------
-| Installation  | in Rahmen hässlich und sperrig, behindert Trinkflasche etc           | relativ schmal im Rahmen, wird nur breiter zu den Beinen mit mehr Länge, besser als Bügel, aber schön es auch nicht und nimmt Platz für weitere Trinkflasche weg; die Klappe des billigen Plastikhalters bricht schnell und das Schloss kann rausfallen, muss man dann mit einem Klettband ersetzen   |  um Rohre oder Sattelstütze wickelbar; oder Radtasche
-| Abschließen   | Passte bei mir nicht um Rahmen und Hinterrad                         | passt um alles                                             | passt um alles
-| Abschließen   | Kaum Länge oder Durchmesser für Geländer, Bäume, Laternen            | passt um fast alles                                        | passt um fast alles
-| Sicherheit    | 150-€-Akkuflex ~60s, örtl. Unflexibilität kompromittiert Sichtweite  | Flex in 20s(?) durch; Rad eher in Sichtweite platzierbar   | bei 3 mm: Flex 3s, grosser Bolzenschneider 3s; haelt aber Gelegenheitsdiebe ab und ist dabei widerstandsfaehiger als die Minischloesser
-| Gewicht       | merkbar hoch mit 1-2 kg                                              | halb so schwer, aber leicht auch nicht                     | bei 3 mm: 300g
-| Preis         | 75 €                                                                 | 130 € überteuert (im Fahrradladen)                         | 40 €
+| Schlossart                               | Installation                                                        | Abschließen | Sicherheit | Gewicht | Preis
+|------------------------------------------|---------------------------------------------------------------------|-------------|------------|---------|---------------
+| Bügelschloss Trelock U6 16mm             | in Rahmen hässlich und sperrig, behindert Trinkflasche etc                                                                                                          | Passte bei mir nicht um Rahmen und Hinterrad; Kaum Länge oder Durchmesser für Geländer, Bäume, Laternen  | 150-€-Akkuflex ~60s, örtl. Unflexibilität kompromittiert Sichtweite                                               | merkbar hoch mit 1-2 kg                 |  75 €
+| Faltschloss ABUS Bordo 6000K Big 120 cm  | relativ schmal im Rahmen, besser als Bügel, klaut Platz für Trinkflasche; Billo-Plastikhalter-Klappe bricht schnell=Schloss kann rausfallen, mit Klettband ersetzen | passt um fast alles                                                                                      | Flex in 20s(?) durch; Rad eher in Sichtweite platzierbar                                                          | halb so schwer, aber leicht auch nicht  | 130 € (überteuert im Fahrradladen)
+| Kettenschloss                            | um Rohre oder Sattelstütze wickelbar; oder Radtasche                                                                                                                | passt um fast alles                                                                                      | bei 3 mm: Flex 3s, grosser Bolzenschneider 3s; haelt Gelegenheitsdieb ab und widerstandsfaehiger als Minischloss  | bei 3 mm: 300g                          |  40 €
+| Textilschloss                            ||||
+| Kabelschloss                             ||||
 
 
 
@@ -522,31 +536,18 @@ Helm:
 
 Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 
-|        | -5-4&deg;C               | 4-7&deg;C                | 7-9&deg;C                | 9-13&deg;C              | 13-18&deg;C              | 18-30&deg;C
-|--------|--------------------------|--------------------------|--------------------------|-------------------------|--------------------------|----------------------------
-| Kopf   | Helm                     | Helm                     | Helm                     | Helm                    | Helm                     | Helm
-| "      | dünne Unterhelmmütze     | dünne Unterhelmmütze     | ggf. Unterhelmmütze      | -                       | -                        | -
-| "      | Buff Hinterkopf+Gesicht  | Buff (Atmung)            | ggf. Buff (Atmung)       | -                       | -                        | -
-| "      | Klarsicht-/Sonnenbrille  | Klarsicht-/Sonnenbrille  | Klarsicht-/Sonnenbrille  | Klarsicht-/Sonnenbrille | Sonnenbrille             | Sonnenbrille
-| Torso  | Thermo-Softshelljacke    | Thermo-Softshelljacke    | Thermo-Softshelljacke    | dünne 80%-Windjacke     | Kurzarmtrikot            | Kurzarmtrikot
-| "      | Langarm-Trikot-Midlayer  | dicker Thermo-Baselayer  | dünner Kurzarm-Basel.    | dicker Thermo-Baselayer | Windweste                | oder dünnes Merino-Langarmshirt
-| "      | Kurzarm-Baselayer        | -                        | -                        | -                       | Armlinge (dünn wirklos)  | - 
-| "      | -                        | -                        | -                        | -                       | o. Windstopper-Unterhemd | Sonnencreme (oder UV-Armlinge)
-| "      | -                        | -                        | -                        | -                       | Langarmtrikot            | -
-| Hände  | Krebshandschuhe          | Langfingerhandschuhe     | Langfingerhandschuhe     | dünne Handschuhe        | Kurzfingerhandschuhe     | Kurzfingerhandschuhe
-| Beine  | windblock. Thermo-Tights | lange aufgerau. Bibs     | lange aufgerauhte Bibs   | lange Bibs              | Bibshorts                | Bibshorts
-| "      | -                        | oder Winterbeinlinge     | oder Beinlinge           | oder Beinlinge          | -                        | -
-| "      | -                        | kurze windd. Überhose    | mit winddichten Bibs     | mit winddichten Bibs    | -                        | -
-| "      | -                        | oder Thermo-Tights       | -                        | -                       | -                        | -
-| "      | -                        | oder Sommerbibs mit      | oder Sommerbibs mit      | -                       | -                        | -
-| "      | -                        | langer Ueberhose         | langer Ueberhose         | -                       | -                        | -
-| Füße   | Sommer-Radschuhe SPD     | Sommer-Radschuhe SPD     | Sommer-Radschuhe SPD     | Sommer-Radschuhe SPD    | Sommer-Radschuhe SPD     | Sommer-Radschuhe SPD
-| "      | dicke Neopren-Überschuhe | Neopren-Überschuhe       | -                        | -                       | -                        | -
-| "      | normaldicke Socken       | normaldicke Socken       | normaldicke Socken       | normaldicke Socken      | normaldicke Socken       | dünnere Mesh-Socken
-| "      | (oder Winter-Radschuhe)  | oder winddichte Socken   | -                        | -                       | -                        | -
-| Regen  | Regenjacke im Gepäck     | Regenjacke im Gepäck     | Regenjacke im Gepäck     | Regenjacke im Gepäck    | ggf. Regenjacke Gepäck   | aushalten
-| "      | Regenponcho              | Regenponcho              | Regenponcho              | Regenponcho             | ggf. Regenponcho         | aushalten
-| "      | -                        | Velotoze o. Überschuhe   | Velotoze bei Langfahrt   | Velotoze bei Langfahrt  | Velotoze bei Langfahrt   | aushalten
+
+Helm + Klarsicht-/Sonnenbrille + Sommer-Gravel-Radschuhe +
+
+| Temp.        | Kopf                                      | Torso                                       | Hände                 | Beine                            | Füße                              | Regen
+|--------------|-------------------------------------------|---------------------------------------------|-----------------------|----------------------------------|-----------------------------------|-----------------------
+|  -5-4&deg;C  | dünne Unterhelm-Mütze + Buff Kopf/Gesicht | Thermo-Softshell, Trikot lang, Basel. kurz  | Krebs-Handschuhe      | Wind-Thermo-Tights/Überhose lang | Neopren-Überschuhe, Socken mittel | Regenjacke/-poncho Gepäck
+|   4-7&deg;C  | dünne Unterhelm-Mütze + Buff Gesicht      | Thermo-Softshell, Thermo-Baselayer lang     | isol. Handschuhe lang | Wind-Thermo-Tights/Überhose lang | Wind-Socken                       | Regenjacke/-poncho Gepäck, Velotoze
+|   7-9&deg;C  | dünne Unterhelm-Mütze + Buff in Rücktasch | Thermo-Softshell, Baselayer kurz            | isol. Handschuhe lang |      Thermo-Tights/Überhose lang | Socken mittel                     | Regenjacke/-poncho Gepäck, Velotoze bei Langfahrt
+|  9-13&deg;C  | -                                         | 80%-Windjacke, Thermo-Baselayer lang        | dünne Handschuhe lang | Wind-Thermo-Bibshort + Beinlinge | Socken mittel                     | Regenjacke/-poncho Gepäck, Velotoze bei Langfahrt
+| 13-18&deg;C  | -                                         | Trikot, Windweste/-Basel., Armlinge Rückta. | Handschuhe kurz       | Bibshort + Beinlinge Rückta.     | Socken mittel                     | Windjacke, Velotoze bei Langfahrt
+| 18-30&deg;C  | -                                         | Trikot/Merinoshirt                          | Handschuhe kurz       | Bibshort                         | Socken dünn                       | - (aushalten)
+
 
 
 - Sportbrille:
@@ -718,7 +719,7 @@ Reinigung:
 
 Taeglich am Fahrrad:
 
-- Werkzeugtasche (SKS Explorer Straps 800 ml):
+- ~~Werkzeugtasche (SKS Explorer Straps 800 ml)~~ Fahrradportemonnaie (The Pack) in Rückentasche:
 	- Inbus 3,4,5  (3er bei mir fuer Bremsbelagnachstellung)
 	- Bits PH1, PH2 mit kleinem Daumenschrauber (Shimano-Schaltgruppe)
 	- Tubeless-Wuerstchen mit Pieker und Minimesser (klappbar)
@@ -726,7 +727,7 @@ Taeglich am Fahrrad:
 	- TPU-Schlauch
 	- TPU-Schlauch-Reparatur-Kit
 	- Reifen-Reparaturkit (Boots)
-	- Minizange Knipex Kobra
+	- ~~Minizange Knipex Kobra~~
 	- Mini-Kettennieter mit Griff = Ventileinsatzschluessel
 	- Speichennippel-Spanner
 	- Nitril-Handschuhe
@@ -740,15 +741,15 @@ Taeglich am Fahrrad:
 
 ## Kleine Schmierstoffkunde
 
-| Schmierung         | Konsistenz | Zusammensetzung | Anwendung | Haftung | Haltbarkeit | Gesundheit
-|--------------------|------------|-----------------|-----------|---------|-------------|---------------------
-| Öl                 | flüssig bei Raumtemperatur | reine Grundöle + Additive | schnell-bewegl. Teile | dringt in enge Zwischenräume, bildet dünnen Schutzfilm | wäscht sich schnell aus | ?
-| Fett               | halbfest bis fest          | Mischung aus Öl und Verdicker wie Lithiumseife oder PTFE | stark belastete, langsam bewegl. oder dauerhaft geschuetzte Teile, Lager, Tretlager, Gewinde, Steuersatz | haftet länger an | besserer Schutz gegen Wasser | ?
-| Antiseize          |            |                 |           |         |             |
-| Schraubensicherung |            |                 |           |         |             |
-| Dichtmilch         |            |                 |           |         |             |
+| Schmierung         | Konsistenz                 | Zusammensetzung | Anwendung | Haftung/Haltbarkeit | Gesundheit | Entsorgung
+|--------------------|----------------------------|-----------------|-----------|---------------------|------------|---------
+| Öl                 | flüssig bei Raumtemperatur | reine Grundöle + Additive                                      | schnell-bewegliche Teile                                                                                            | dringt in enge Zwischenräume, bildet dünnen Schutzfilm, wäscht sich schnell aus                                                 | ?                             | Schadstoffstelle, nicht Abfluss/Boden (Öl verschmutzt Wasser)
+| Fett               | halbfest bis fest          | Mischung aus Öl und Verdicker (Lithiumseife, PTFE)             | stark belastete, langsam bewegl. oder dauerhaft geschützte Teile, Lager, Tretlager, Gewinde, Steuersatz             | haftet länger an, besserer Wasserschutz; ungeöffnet 5-10 J. lagerbar, sonst 2-5: Öl trennt sich irgendwann/klumpig/dünnflüss.   | gelegentl. Hautkontakt ok     | Schadstoffstelle, nicht Abfluss/Boden (Öl verschmutzt Wasser)
+| Antiseize          | zähflüssig, pastös         | Grundöl + Metall-/Keramikpartikel (Kupfer, Nickel, Graphit)    | Schrauben, Gewinde; verhindert Festfressen                                                                          | gute Haftung, stabil bei Hitze und Vibration, langzeitbeständig, temperaturfest, wasserabweisend                                | ggf. hautreizend o. allergen  | nicht Abfluss/Kanalisation (Öl verschmutzt Wasser), Restmüll nur getrocknet
+| Schraubensicherung | flüssig bis gelartig       | anaerober Klebstoff + Farbpigmente (Farbcodierung=Härte)       | härtet bei Sauerstoffentzug + Metall(ionen)-Kontakt: verhindert Losdrehen durch Vibration, leichter Festfressschutz | montiert jahrelang; ungeöffnet 1-2 Jahre lagerbar                                                                               | ggf. reizend, nicht einatmen  | fest Hausmüll, flüssig Sondermüll/Schadstoffstelle
+| Dichtmilch         | flüssig bis gelartig       | Wasser- oder Glykolbasis mit Latex-/Polymerpartikeln           | dichtet kleine Reifen-Einstiche ab, verschließt Lücken zw. Tubeless-Reifen und Felge                                | montiert 2-12 Monate wirksam je nach Temp. und Bewegung; ungeöffnet 6-18 Monate lagerbar                                        | ggf. reizend                  | nicht in Abfluss
 
-- Bauteile vor dem Auftragen von Fett gruendlich säubern, sonst erzeugt man eine Schleifpaste.
+- Bauteile vor dem Auftragen von Fett gruendlich säubern, sonst erzeugt man eine Schleifpaste
 - meisten Fette sind lithiumverseift und nicht so wasserfest wie calciumbasierte Fette wie Motorex 2000
 - Calcium-verseiftes Fett nennt sich auch Staufferfett
 - Silikonfett wird als synthetisches Fett betrachtet, 
@@ -1061,7 +1062,7 @@ Ersatzschaltauge besorgen (kann dann z.B. auf Reisen Werkstatt einbauen); s. Abs
 
 
 ![Reifen](truing.jpg)  
-_(Abb.: UNIOR-Hobby-Zentrierständer – verwindungssteif & zusammenlegbar; weißes Papier verbessert Sicht auf Lücke zw. Fühler und Felge)_
+_(Abb.: Übungslaufrad im UNIOR-Hobby-Zentrierständer – verwindungssteif & zusammenlegbar; weißes Papier verbessert Sicht auf Lücke zw. Fühler und Felge)_
 
 
 Professionellere Zentrierständer haben Messuhren mit beweglichen Fuehlern. 
@@ -1228,7 +1229,7 @@ Bremszug:
 
 
 
-## Steuersatz warten (engl. Headset), Gabel
+## Steuersatz/Gabel warten (engl. Headset)
 
 
 ![Steuersatz, Gabelkonus](steuersatz.jpg)
@@ -1403,6 +1404,10 @@ HEADSET:
 		OverDrive transmits input directly to the front wheel for more precise handling.
 
 
+Gabel untersuchen:
+- "Ring of Death"
+
+
 
 
 
@@ -1483,11 +1488,11 @@ _(Abb.: Korrosion im Radlager, Fett ausgewaschen; ab Werk in 2.5 Jahren nie gewa
 ![Lagerschale mit Einkerbungen/Pittings](radlager-pittings.jpg)
 _(Abb.: Pitting in der Lagerschale)_
 
-- minimalste Kerben/Mulden-Bildung (Pitting) in der Lagerschale oder an der schraegen Laufflaeche des Konus sorgen schon fuer sandiges Feeling/rauen Lauf;
+- minimalste Kerben/Mulden-Bildung (engl. Pitting) in der Lagerschale oder an der schraegen Laufflaeche des Konus sorgen schon fuer sandiges Feeling/rauen Lauf;
 	sollte tats. perfekt glattrund sein für minimalsten Punktkontakt zw. Kugel und Flächen; 
 	das Rad hier laeuft nach Instandsetzung wesentlich besser als vorher (mit der Hand gedrehte Achse klemmte stellenweise) und auch nur leicht sandig (trotz Pitting), 
 	aber nie wieder butterweich und mehr Verschleiß ist zu erwarten
-- Kugeln idealerweise entsorgen und neue nehmen, kosten nicht die Welt (siehe Abschnitt [Shops](#shops))
+- Kugeln idealerweise entsorgen und neue nehmen, nicht alte und neue mischen, kosten nicht die Welt (siehe Abschnitt [Shops](#shops))
 - manche Lagerschalen sind nur eingepresst und koennten theoretisch getauscht werden, 
 	scheitert aber an Ersatzteilen, bzw. Notwendigkeit, gleich eine ganze Ersatznabe kaufen zu muessen;
 	ansonsten ist die Nabe am Ende bzw. das komplette Laufrad, wenn man keine Lust aufs Einspeichen einer neuen Nabe hat
@@ -1658,8 +1663,8 @@ Siehe auch Abschnitt zum "Zentrieren"
 ### Reifen-Demontage (Tubeless oder Schlauch)
 
 - Luft vollständig ablassen (nicht einfach Ventilkern rausdrehen, der schießt sonst durch die Gegend)
-- Mantel vorsichtig überall in die tiefere Felgenmitte (Felgenbett) drücken (Unseating) 
-  und dabei die Verklebung zw. Reifenwulst (Tire Bead) und Felgenhorn/-flanke brechen;
+- Mantel vorsichtig überall in die tiefere Felgenmitte (Felgenbett) drücken (engl. Unseating) 
+  und dabei die Verklebung zw. Reifenwulst (engl. Tire Bead) und Felgenhorn/-flanke brechen;
 	- flüssige Dichtmilchreste sammeln sich am Boden des Reifens, 
 	  an der Felgenflanke ist idR alles schon fest; 
 	  trotzdem vorsichtig bleiben, damit man nicht kleckert
@@ -1790,6 +1795,10 @@ TODO
 	zum Tape mitgelieferte Abschlussstreifen waren bei mir bisher immer hässlich
 
 
+Lenkerbreite bei Bügellenkern/Dropbar: Breite zw. den Knochenhügeln auf den Schultern;
+
+
+
 TODO Lenker gerade ausrichten
 
 
@@ -1858,10 +1867,15 @@ Mehrtagestour:
 ## Bikepacking
 
 ![Bikepacking](bikepack-place.jpg)  
-_(Abb.: Entdeckungsreisen mit dem Fahrrad)
+_(Abb.: Entdeckungsreisen mit Fahrrad und Gepäck)_
 
 ![Bikepacking-Touring-Hybrid](bikepack-setup.jpg)  
-_(Abb.: Frühherbst-Setup mit Vorderrack = Doppelwand-Einmannzelt/Isomatte/Wetterschutz, Rahmen = Zeltstangen/Wasser, Trunkbag = Schlafsack/Kleider, Pannier L = Tools/Elektro, Pannier R = Nahrung/Hygiene)_
+_(Abb.: Frühherbst-Setup mit Vorderrack = Doppelwand-Einmannzelt/Isomatte/Wetterschutz, Rahmen = Zeltstangen/Wasser, Trunkbag = Schlafsack/Kleider, Links-Pannier = Tools/Elektro, Rechts-Pannier = Nahrung/Hygiene)_
+
+
+- die einzige Form des Reisens: zu Fuss ist man nach Stunden noch am selben Ort, im Auto fliegt alles vorbei, 
+	Flugzeug, Bus oder Zug ist kein Reisen sondern Transport (_Reisender vs Passagier_),
+	auf dem Fahrrad reist man langsam um alles aufzunehmen, aber schnell genug, um vorwaerts zu kommen
 
 
 - Bikepacking vs. Radreise/Biketouring
@@ -1877,16 +1891,13 @@ _(Abb.: Frühherbst-Setup mit Vorderrack = Doppelwand-Einmannzelt/Isomatte/Wette
 - je leichter das Rad, umso besser: Gewicht nervt bei Anstiegen und 
    ermuedet ueber lange Strecken schneller und geht auch staerker auf die Substanz/Gelenke etc. 
 
-- die einzige Form des Reisens: zu Fuss ist man nach Stunden noch am selben Ort, im Auto fliegt alles vorbei, 
-	Flugzeug, Bus oder Zug ist kein Reisen sondern Transport (Reisender vs Passagier),
-	auf dem Fahrrad reist man langsam um alles aufzunehmen, aber schnell genug, um vorwaerts zu kommen
 
 
 
 
 ### Reine Lehre
 
-- Gabeltaschen (hässlich)
+- Gabeltaschen
 - Rahmentasche (Halb- oder Vollrahmentasche)
 	- Giant Halbrahmentasche H2Pro, gefaellt mir bisher
 	- verhunzen aber Radästhethik
@@ -2023,7 +2034,7 @@ Gutes Setup auf YT:
 - Planung leichter am PC statt Smartphone:
 	- Komoot
 	- ungetestet: Ride with GPS (RwGPS)
-- Info-Basics Wetterdaten:
+- Info-Basics notieren (Wetterdaten):
 	- Vergleich mit Vorjahren bei Anreise erst in paar Wochen: https://de.weatherspark.com/
 	- aktuelles Wetter:        https://www.meteoblue.com/
 	- von wo kommt der Wind (üblicherweise)  = Richtung der Route so fahren, dass man Wind im Rücken statt Gegenwind hat, vor allem am Ende, wenn Kraft und Psyche nachlassen
@@ -2246,7 +2257,7 @@ Alles andere lässt sich unterwegs lösen.
 
 | Alle_Bestellungen_top                                  | Teile                     | Versand     | Kommentar
 |--------------------------------------------------------|---------------------------|-------------|--------------------
-| [bike24.de](https://bike24.de)                         | alles                     | DHL         | Ruecksende-Etikett direkt im Paket, schneller Versand
+| [bike24.de](https://bike24.de)                         | alles                     | DHL/GLS     | Ruecksende-Etikett direkt im Paket, schneller Versand; 99% DHL, leider mal GLS
 | [bike-discount.de](https://bike-discount.de)           | alles                     | DHL         | oft gute Preise; Ruecksendungen unproblematisch
 | [kugellager-shop.net](https://www.kugellager-shop.net) | Wälzlager, Lagerkugeln G10 auf Anfrage  | ? | Edelstahlversionen kaufen
 | [decathlon.de](https://decathlon.de)                   | Kleidung, Bikepacking     | ?           | bisher immer alles bekommen, Ruecksendung unproblematisch; guenstige "Szenetipps" wie brauchbare Forclaz MT100 Daunenjacke oder gut verpackbare Forclaz MT500 Sandalen
@@ -2292,13 +2303,14 @@ Oekonomische Zusammenhaenge, Rationales, ...
 ### Fahrrad-Handel (LBS, Online)
 
 - [YouTube: Der teure Fahrradhändler - ein Statement!](https://www.youtube.com/watch?v=0ReiZTJ4MDM)
-	- Shimano 9x-Kette 11 Euro vs 25-35 Euro
+	- Shimano 9x-Kette 11 Euro online vs 25-35 Euro beim Vor-Ort-Händler
 	- große Online-Händler kaufen containerweise günstiger direkt beim Hersteller statt beim Großhändler
 	- Radladen zahlt im Einkauf fast das gleiche wie Online-Händler im Verkauf
 	- LBS zielt auf Offline-Kunde: Unwille zu fachlicher Beschäftigung, Vor-Ort-Verfügbarkeit/Lager-Haltung eingepreist
 - [YouTube: Ein Fahrradladen im Sommer](https://www.youtube.com/watch?v=_UageeDQiQA)
-	- Arbeit im Radladen als Radfahrer schlecht, weil im Sommer nur Zeit fürs Arbeiten statt Radeln (Mo-Sa, 10-18/19 Uhr)
-	- Service in der Nebensaison machen [im Winter günstiger machen und beim Verkauf Winter-Servicetermine vorplanen]
+	- Arbeit im Radladen als Radfahrer schlecht, weil im Sommer nur Zeit fürs Arbeiten statt Radeln [Mo-Sa 10-18/19 Uhr, kein Sommerurlaub]
+	- saisonal mehr Personal einstellen funktioniere nicht
+	- Service in der ruhigeren Nebensaison erledigen [als LBS: im Winter günstiger anbieten und beim Rad-Verkauf schon Winter-Servicetermine vorgeben]
 - [YouTube: Fahrradhändler = Abzocker? Warum es manchmal einfach so ist...](https://www.youtube.com/watch?v=VW7-tbJK7-k)
 - [YouTube: Is Your Bike Shop Unfairly Rewarding Bad Mechanics](https://www.youtube.com/watch?v=TaHqewGXlk4)
 
