@@ -39,7 +39,8 @@ Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäß
 - [Reifen](#reifen)
 - [Sattel](#sattel)
 - [Lenker](#lenker)
-- [Hygiene](#hygiene)
+- [Hygiene / Medizin](#hygiene-medizin)
+- [Bike-Fitting](#bikefitting)
 - [Bikepacking](#bikepacking)
 - [Tourplanung](#tourplanung)
 - [Reisekueche](#reisekueche)
@@ -87,7 +88,7 @@ Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäß
 	- Unterlenker / Drops
 	- Oberlenker / Tops
 	- Hoods
-	- Flair
+	- Flare
 	- Dropbar
 	- Flatbar
 	- Compact Dropbar
@@ -192,7 +193,7 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Steuersatzlager unten | bottom bearing   | MH-P22  – 34.1 x 46.9 x 7 – 45/45 [erprobt],  OD=46,76 ID=34,0  mm [gemessen]
 | Vorbaudistanzringe    | spacer           | AD=??? mm, ID=??? mm, Kunststoff?
 | Vorbau                | stem             | GIANT Sport(?), 90 mm, 7&deg;, 27 mm horz. zw. Schraubenmitten [erprobt mit Stem-Mount]
-| Lenker                | handle bar       | GIANT Contact XR Ergo-Control(?) Drop 460/510 mm (8&deg; Flair), kompakt, 31,8 mm, Alu, 337g, clip-on compatible, Reach 10 cm
+| Lenker                | handle bar       | GIANT Contact XR Ergo-Control(?) Drop 460/510 mm (8&deg; Flare), kompakt, 31,8 mm, Alu, 337g, clip-on compatible, Reach 10 cm
 | Lenkerband            | bar tape         | GIANT Gel(?) Cork, mittel
 | Bremsen               | brakes           | Tektro MD-C550 mechanisch; 2-Kolben-Bremssattel (Double piston); 3er Inbus für Bremsbelagnachstellung
 | Bremsscheiben         | brake disc/rotor | GIANT MPH Rotoren [V]160mm, [H]160mm, 6 Loch, Torx 25 [erprobt]
@@ -243,8 +244,8 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Computer           | 2023   | 260 €     | \*\*\*  | Wahoo Bolt 2                      | mit Gummi-Schutzhülle
 | Computer-Halterung | 2025   | 63 €      | \*\*    | Framesandgear Aero 27 mm Wah/Sm.  | Stem-Mount; stabil, sieht gut aus/ragt nicht über Lenker; ragt nicht seitl. über Vorbaulenkerklemme = einzig mit meinem Jack-Frontrack+Lenker funktionierender; teuer und schlechter Transferwert durch feste Breite
 | Lenkeraufsatz      | 2023   | &gt;100 € | \*\*\*  | Profile Design Sonic Ergo T5+     | 348 mm Länge (13&deg;), Alu 6061-T6, siehe Aerolenker-Abschnitt
-| Lenker             | 2025   | 27 €      | \*\*\*  | Moquai Aero Rennradlenker         | 420/420 mm  (0&deg; Flair), kompakt, Alu 6061 "285g"; 4 cm schmaler/sportl. als Erstlenker; Logos subtil; ovalisierte, nicht zu breite Tops; flext in den Drops
-| Lenker             | 2025   | 18 € Sale | Todo    | FSA AGX Adventure Compact         | 440/500 mm (12&deg; Flair), kompakt, Alu 6061 "325g", 2 cm schmaler als Erstlenker, für Bikepacking, Logos übertrieben
+| Lenker             | 2025   | 27 €      | \*\*\*  | Moquai Aero Rennradlenker         | 420/420 mm  (0&deg; Flare), kompakt, Alu 6061 "285g"; 4 cm schmaler/sportl. als Erstlenker; Logos subtil; ovalisierte, nicht zu breite Tops; flext in den Drops
+| Lenker             | 2025   | 18 € Sale | Todo    | FSA AGX Adventure Compact         | 440/500 mm (12&deg; Flare), kompakt, Alu 6061 "325g", 2 cm schmaler als Erstlenker, für Bikepacking, Logos übertrieben
 | Lenkerband         | 2023   | 25 €      | \*\*\*  | Profile Design Aerobar Wrap       | dünn,    gummiartig,  Klebestreifen,        für Lenkeraufsatz; duenner als Dropbar gegen Wurst-Optik; nur Grip, kaum Dämpf.; Bandkante drueckt sich als "Fortsetzungslinie" durch = gleichmäßiges Wickeln
 | Lenkerband         | 2025   | 13 €      | \*\*    | FSA Ultra-Gel Kork                | mittel,  Kork,        Klebestreifen (Rückstände),  dämpft ohne zu dick aufzutragen, stufig/Grip ok, ging schnell drauf, mit ital. 8 genug Länge; hässl. Finishtape/Barends
 | Lenkerband         | 2025   | 13 €      | \*      | Selle Italia SmooTape Gran Fondo  | 2,5 mm,  Schaumstoff (langweiliger als Kork), Silikonstreifen/Zug,  ½ oder ⅓ wickeln? aus Entfernung stufenfrei (auch nicht besser als andere); ledrigerer Look ok; weiße Logos = Vogelstange; hässl. Finishtape
@@ -331,9 +332,7 @@ TODO
 - Pedale beim Schalten nicht rückwärts treten
 - vorausschauend schalten: Ampel, Huegel, stockender Verkehr, Kinder, ...
 	- vorm Anhalten in leichteren Gang schalten, damit Antreten leichter und weniger belastend fürs Material
-- sonst Gang im Stehen korrigieren: 
-	- Vorderbremse ziehen, Rad nach vorne schieben, so dass das Hinterrad in der Luft haengt und dann mit dem eingeklickten Fuß die Kurbel drehen.
-	- alternativ im Stand mit der Hand zw. Ober- und Sattelrohr das Hinterteil heben und mit eingeklicktem Fuß Kurbel drehen
+- sonst Gang im Stehen korrigieren: s. Abschnitt [Fahrtechniken](#fahrtechniken)
 - höhere Trittfrequenz = weniger Belastung für Knie und Gelenke
 - Radler trainieren für Ausdauer nicht Kraft, Krafttreten (hohe Übersetzung) eher sinnlos
 - nicht über Kreuz schalten:
@@ -397,7 +396,7 @@ Kurvenlinie
 @todo
 
 
-### Gangwechsel im Stand (Kettenschaltung):
+### Gangwechsel im Stand vor der Ampel (Kettenschaltung):
 
 Kommt man mit schwerem Gang zum Stehen (vorausschauend Schalten!), 
 dann wird das Wiederlosfahren für Radler und Rad unangenehm.
@@ -537,16 +536,16 @@ Helm:
 Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 
 
-Helm + Klarsicht-/Sonnenbrille + Sommer-Gravel-Radschuhe +
+*Helm + Klarsicht-/Sonnenbrille + Sommer-Gravel-Radschuhe +*
 
-| Temp.        | Kopf                                      | Torso                                       | Hände                 | Beine                            | Füße                              | Regen
-|--------------|-------------------------------------------|---------------------------------------------|-----------------------|----------------------------------|-----------------------------------|-----------------------
-|  -5-4&deg;C  | dünne Unterhelm-Mütze + Buff Kopf/Gesicht | Thermo-Softshell, Trikot lang, Basel. kurz  | Krebs-Handschuhe      | Wind-Thermo-Tights/Überhose lang | Neopren-Überschuhe, Socken mittel | Regenjacke/-poncho Gepäck
-|   4-7&deg;C  | dünne Unterhelm-Mütze + Buff Gesicht      | Thermo-Softshell, Thermo-Baselayer lang     | isol. Handschuhe lang | Wind-Thermo-Tights/Überhose lang | Wind-Socken                       | Regenjacke/-poncho Gepäck, Velotoze
-|   7-9&deg;C  | dünne Unterhelm-Mütze + Buff in Rücktasch | Thermo-Softshell, Baselayer kurz            | isol. Handschuhe lang |      Thermo-Tights/Überhose lang | Socken mittel                     | Regenjacke/-poncho Gepäck, Velotoze bei Langfahrt
-|  9-13&deg;C  | -                                         | 80%-Windjacke, Thermo-Baselayer lang        | dünne Handschuhe lang | Wind-Thermo-Bibshort + Beinlinge | Socken mittel                     | Regenjacke/-poncho Gepäck, Velotoze bei Langfahrt
-| 13-18&deg;C  | -                                         | Trikot, Windweste/-Basel., Armlinge Rückta. | Handschuhe kurz       | Bibshort + Beinlinge Rückta.     | Socken mittel                     | Windjacke, Velotoze bei Langfahrt
-| 18-30&deg;C  | -                                         | Trikot/Merinoshirt                          | Handschuhe kurz       | Bibshort                         | Socken dünn                       | - (aushalten)
+| Temperatur   | Kopf                                                 | Torso                                       | Hände                        | Beine                            | Füße                                    | Regen
+|--------------|------------------------------------------------------|---------------------------------------------|------------------------------|----------------------------------|-----------------------------------------|-----------------------
+| *-5-4&deg;C* | Unterhelm-Mütze dünn + Merinobuff Hinterkopf/Gesicht | Thermo-Softshell, Trikot lang, Basel. kurz  | dicke Krebs-Handschuhe       | Wind-Thermo-Tights/Überhose lang | Neopren-Überschuhe, Wandersocken mittel | Regenjacke/-poncho Gepäck
+|  *4-7&deg;C* | Unterhelm-Mütze dünn, Merinobuff Gesicht             | Thermo-Softshell, Thermo-Baselayer lang     | mittelisol. Handschuhe lang  | Wind-Thermo-Tights/Überhose lang | Wind-Socken angeraut                    | Regenjacke/-poncho Gepäck, Velotoze
+|  *7-9&deg;C* | Unterhelm-Mütze dünn, Merinobuff in Rücktasch        | Thermo-Softshell, Baselayer kurz            | mittelisol. Handschuhe lang  |      Thermo-Tights/Überhose lang | Wandersocken mittel                     | Regenjacke/-poncho Gepäck, Velotoze bei Langfahrt
+| *9-13&deg;C* | -                                                    | 80%-Windjacke, Thermo-Baselayer lang        | unisol. Wind-Handschuhe lang | Wind-Thermo-Bibshort + Beinlinge | Wandersocken mittel                     | Regenjacke/-poncho Gepäck, Velotoze bei Langfahrt
+|*13-18&deg;C* | -                                                    | Trikot, Windweste/-Basel., Armlinge Rückta. | Handschuhe kurz              | Bibshort + Beinlinge Rückta.     | Rad-Socken mittel                       | Windjacke, Velotoze bei Langfahrt
+|*18-30&deg;C* | -                                                    | Trikot/ Merinoshirt                         | Handschuhe kurz              | Bibshort                         | Rad-Socken dünn                         | - (aushalten)
 
 
 
@@ -741,13 +740,13 @@ Taeglich am Fahrrad:
 
 ## Kleine Schmierstoffkunde
 
-| Schmierung         | Konsistenz                 | Zusammensetzung | Anwendung | Haftung/Haltbarkeit | Gesundheit | Entsorgung
-|--------------------|----------------------------|-----------------|-----------|---------------------|------------|---------
-| Öl                 | flüssig bei Raumtemperatur | reine Grundöle + Additive                                      | schnell-bewegliche Teile                                                                                            | dringt in enge Zwischenräume, bildet dünnen Schutzfilm, wäscht sich schnell aus                                                 | ?                             | Schadstoffstelle, nicht Abfluss/Boden (Öl verschmutzt Wasser)
-| Fett               | halbfest bis fest          | Mischung aus Öl und Verdicker (Lithiumseife, PTFE)             | stark belastete, langsam bewegl. oder dauerhaft geschützte Teile, Lager, Tretlager, Gewinde, Steuersatz             | haftet länger an, besserer Wasserschutz; ungeöffnet 5-10 J. lagerbar, sonst 2-5: Öl trennt sich irgendwann/klumpig/dünnflüss.   | gelegentl. Hautkontakt ok     | Schadstoffstelle, nicht Abfluss/Boden (Öl verschmutzt Wasser)
-| Antiseize          | zähflüssig, pastös         | Grundöl + Metall-/Keramikpartikel (Kupfer, Nickel, Graphit)    | Schrauben, Gewinde; verhindert Festfressen                                                                          | gute Haftung, stabil bei Hitze und Vibration, langzeitbeständig, temperaturfest, wasserabweisend                                | ggf. hautreizend o. allergen  | nicht Abfluss/Kanalisation (Öl verschmutzt Wasser), Restmüll nur getrocknet
-| Schraubensicherung | flüssig bis gelartig       | anaerober Klebstoff + Farbpigmente (Farbcodierung=Härte)       | härtet bei Sauerstoffentzug + Metall(ionen)-Kontakt: verhindert Losdrehen durch Vibration, leichter Festfressschutz | montiert jahrelang; ungeöffnet 1-2 Jahre lagerbar                                                                               | ggf. reizend, nicht einatmen  | fest Hausmüll, flüssig Sondermüll/Schadstoffstelle
-| Dichtmilch         | flüssig bis gelartig       | Wasser- oder Glykolbasis mit Latex-/Polymerpartikeln           | dichtet kleine Reifen-Einstiche ab, verschließt Lücken zw. Tubeless-Reifen und Felge                                | montiert 2-12 Monate wirksam je nach Temp. und Bewegung; ungeöffnet 6-18 Monate lagerbar                                        | ggf. reizend                  | nicht in Abfluss
+| Schmierung          | Konsistenz            | Zusammensetzung | Anwendung | Haftung /Haltbarkeit | Gesundheit | Entsorgung
+|---------------------|-----------------------|-----------------|-----------|----------------------|---------|---------
+| Öl                  | flüssig bei Raumtemp. | reine Grundöle + Additive                                    | schnell-bewegliche Teile                                                                                            | dringt in enge Zwischenräume, bildet dünnen Schutzfilm, wäscht sich schnell aus                                                   | ?                             | Schadstoffstelle, nicht Abfluss/Boden (Öl verschmutzt Wasser)
+| Fett                | halbfest bis fest     | Mischung aus Öl und Verdicker (Lithiumseife, PTFE)           | stark belastete, langsam bewegl. oder dauerhaft geschützte Teile, Lager, Tretlager, Gewinde, Steuersatz             | haftet länger an, besserer Wasserschutz; ungeöffnet 5-10 J. lagerbar, sonst 2-5: Öl trennt sich irgendwann /klumpig /dünnflüss.   | gelegentl. Hautkontakt ok     | Schadstoffstelle, nicht Abfluss/Boden (Öl verschmutzt Wasser)
+| Antiseize           | zähflüssig, pastös    | Grundöl + Metall- /Keramikpartikel (Kupfer, Nickel, Graphit) | Schrauben, Gewinde; verhindert Festfressen                                                                          | gute Haftung, stabil bei Hitze und Vibration, langzeitbeständig, temperaturfest, wasserabweisend                                  | ggf. hautreizend o. allergen  | nicht Abfluss/Kanalisation (Öl verschmutzt Wasser), Restmüll nur getrocknet
+| Schrauben-Sicherung | flüssig bis gelartig  | anaerober Klebstoff + Farbpigmente (Farbcode=Härte)          | härtet bei Sauerstoffentzug + Metall(ionen)-Kontakt: verhindert Losdrehen durch Vibration, leichter Festfressschutz | montiert jahrelang; ungeöffnet 1-2 Jahre lagerbar                                                                                 | ggf. reizend, nicht einatmen  | fest Hausmüll, flüssig Sondermüll/Schadstoffstelle
+| Dichtmilch          | flüssig bis gelartig  | Wasser- oder Glykolbasis mit Latex- /Polymerpartikeln        | dichtet kleine Reifen-Einstiche ab, verschließt Lücken zw. Tubeless-Reifen und Felge                                | montiert 2-12 Monate wirksam je nach Temp. und Bewegung; ungeöffnet 6-18 Monate lagerbar                                          | ggf. reizend                  | nicht in Abfluss
 
 - Bauteile vor dem Auftragen von Fett gruendlich säubern, sonst erzeugt man eine Schleifpaste
 - meisten Fette sind lithiumverseift und nicht so wasserfest wie calciumbasierte Fette wie Motorex 2000
@@ -1842,7 +1841,7 @@ Mag sich ändern, falls ich mal in Richtung 200-300 km am Tag oder Ultracycling 
 
 
 
-## Hygiene
+## Hygiene / Medizin
 
 > Ein Radrennfahrer muss seinen Hintern besser pflegen als sein Gesicht. (Radrennprofi Rudi Altig)
 
@@ -1861,16 +1860,26 @@ Mehrtagestour:
 - guter Schrupp-Waschlappen und Wasser aus der Trinkflasche
 
 
+Road-Rash:
+	TODO
+
+Knieschmerzen
+
+
+
+## Bike-Fitting
+
+TODO
 
 
 
 ## Bikepacking
 
 ![Bikepacking](bikepack-place.jpg)  
-_(Abb.: Entdeckungsreisen mit Fahrrad und Gepäck)_
+_(Abb.: Entdeckungsreise mit Fahrrad und Gepäck)_
 
 ![Bikepacking-Touring-Hybrid](bikepack-setup.jpg)  
-_(Abb.: Frühherbst-Setup mit Vorderrack = Doppelwand-Einmannzelt/Isomatte/Wetterschutz, Rahmen = Zeltstangen/Wasser, Trunkbag = Schlafsack/Kleider, Links-Pannier = Tools/Elektro, Rechts-Pannier = Nahrung/Hygiene)_
+_(Abb.: Frühherbst-Setup mit Vorderrack = Doppelwand-Einmannzelt/ Isomatte/ Wetterschutz, Rahmen = Zeltstangen/ Wasser, Trunkbag = Schlafsack/ Kleider/ BW-Elefantenhaut, Links-Pannier = Tools/ Elektro, Rechts-Pannier = Nahrung/ Hygiene)_
 
 
 - die einzige Form des Reisens: zu Fuss ist man nach Stunden noch am selben Ort, im Auto fliegt alles vorbei, 
@@ -2094,12 +2103,12 @@ see [my Github Wahoo-repository](https://github.com/andre-st/wahoo)
 
 ### Lebensmittel
 
-| Prio | Bedarfsart    | Zweck             | Wann            | Bezugsquelle                               | Beispiele                                                          | Kommentar
-|------|---------------|-------------------|-----------------|--------------------------------------------|--------------------------------------------------------------------|-----------|------------------
-|    1 | Wasser        | Kreislauf/Kühlung | immer           | Markt, Tanke, Imbiss &gt; Trinkbrunnen &gt; Friedhof &gt; Anwohner, Waschbecken öff. WC                        || wird ausgeschwitzt; Naturquellen eher vermeiden oder filtern (Landwirt.-/Stadtchemie, Kadaver, ...)
-|    2 | Kohlenhydrate | Energie           | Fahrzeit/Vortag | Markt, Tanke, Imbiss, Gaststätte, Drogerie | Brötchen, Banane, _gekochte_ Kartoffeln, Brezel, Laugenstange, Reiswaffel, belegte Brötchen ohne Mayo, Dönerwrap, Rossmann Energy-Gel (Ausnahme) | beim Pedalieren verbrannt; Fettiges vermeiden (Pommes); "bonking" plötz. Müdigkeit; Carboloading
-|    3 | Elektrolyte   | Krampfprävention  | Fahrzeit        | Drogerie                                   | Rossmann Hydraid Trinkpulver-Sticks; Salz in Mineralwasser rühren  | wird ausgeschwitzt; für Nervensignale an Muskeln;  besser vorkaufen und in kleinem Gefäß mitnehmen
-|    4 | Proteine      | Regeneration      | Ruhephasen/Camp | Drogerie, Markt                            | Rossmann Proteinriegel, Thunfischbüchse                            | während Leistung kaum Nutzen/evtl. Magenproblem; Muskeln reparieren
+| Prio | Bedarfsart    | Zweck              | Wann             | Bezugsquelle                               | Beispiele                                                          | Kommentar
+|------|---------------|--------------------|------------------|--------------------------------------------|--------------------------------------------------------------------|-----------|------------------
+|    1 | Wasser        | Kreislauf/ Kühlung | immer            | Markt, Tanke, Imbiss &gt; Trinkbrunnen &gt; Friedhof &gt; Anwohner, Waschbecken öff. WC                        || wird ausgeschwitzt; Naturquellen eher vermeiden oder filtern (Landwirt.-/Stadtchemie, Kadaver, ...)
+|    2 | Kohlenhydrate | Energie            | Fahrzeit/ Vortag | Markt, Tanke, Imbiss, Gaststätte, Drogerie | Brötchen, Banane, _gekochte_ Kartoffeln, Brezel, Laugenstange, Reiswaffel, belegte Brötchen ohne Mayo, Dönerwrap, Rossmann Energy-Gel (Ausnahme) | beim Pedalieren verbrannt; Fettiges vermeiden (Pommes); "bonking" plötz. Müdigkeit; Carboloading
+|    3 | Elektrolyte   | Krampfprävention   | Fahrzeit         | Drogerie                                   | Rossmann Hydraid Trinkpulver-Sticks; Salz in Mineralwasser rühren  | wird ausgeschwitzt; für Nervensignale an Muskeln;  besser vorkaufen und in kleinem Gefäß mitnehmen
+|    4 | Proteine      | Regeneration       | Ruhephasen/ Camp | Drogerie, Markt                            | Rossmann Proteinriegel, Thunfischbüchse                            | während Leistung kaum Nutzen/evtl. Magenproblem; Muskeln reparieren
 
 
 Ziel: halbwegs gesunde Lebensmittel mit guter Nährstoffdichte auf kleinstem Stauraum bei geringem Gewicht
