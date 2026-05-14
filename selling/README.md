@@ -41,7 +41,8 @@ Booklooker.de: [https://www.booklooker.de/faq/steuer-privatverkauf/197](https://
 
 ## Haftungsausschluss im Inserat
 
-> Privatverkauf: keine Garantie, Gewährleistung, Rücknahme oder Haftung für Unfälle oder Schäden. Ein Widerrufsrecht besteht nicht.  
+> Barzahlung oder Überweisung, kein Paypal.  
+> Privatverkauf unter Ausschluss jeglicher Garantie, Gewährleistung, Rücknahme oder Haftung für Unfälle oder Schäden. Ein Widerrufsrecht besteht nicht.  
 > Das Produkt ist in gutem Zustand.
 
 - Unangenehmes für Käufer mit etwas Positivem enden lassen.
@@ -119,6 +120,12 @@ Kleinanzeigen wird meckern, dass man keine privaten Daten senden soll (sondern K
 > Gruß André
 
 _(Kleinanzeigen.de-Chat)_
+
+
+Falls der Käufer auf Paypal besteht:
+
+> Hallo XXX, ich nutze hier leider kein PayPal. Wenn es nicht passt, verstehe ich das natürlich, kein Thema. Gruß André
+
 
 
 ## Ware richtig verpacken und adressieren
