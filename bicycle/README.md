@@ -46,7 +46,6 @@ Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäß
 - [Reiseküche](#reisekueche)
 - [Shops](#shops)
 - [Wirtschaft](#wirtschaft)
-- [Politik](#politik)
 - [Sonstiges](#Sonstiges)
 
 
@@ -254,11 +253,11 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Lenkeraufsatz      | 2023    | &gt;100 € | \*\*\*  | Profile Design Sonic Ergo T5+     | 348 mm Länge (13&deg;), Alu 6061-T6, siehe Aerolenker-Abschnitt
 | Lenker             | 2025    | 27 €      | \*\*\*  | Moquai Aero Rennradlenker         | 420/420 mm  (0&deg; Flare), kompakt, Alu 6061 "285g"; 4 cm schmaler/sportl. als Erstlenker; Logos subtil; ovalisierte, nicht zu breite Tops; flext in den Drops
 | Lenker             | 2025    | 18 € Sale | Todo    | FSA AGX Adventure Compact         | 440/500 mm (12&deg; Flare), kompakt, Alu 6061 "325g", 2 cm schmaler als Erstlenker, für Bikepacking, Logos übertrieben
-| Lenkerband         | 2023    | 25 €      | \*\*\*  | Profile Design Aerobar Wrap       | dünn,    gummiartig,  Klebestreifen,        für Lenkeraufsatz; dünner als Dropbar gegen Wurst-Optik; nur Grip, kaum Dämpf.; Bandkante drückt sich als "Fortsetzungslinie" durch = gleichmäßiges Wickeln
+| Lenkerband         | 2023    | 25 €      | \*\*\*  | Profile Design Aerobar Wrap       | dünn,    gummiartig,  Klebestreifen,        für Lenkeraufsatz; dünner als Dropbar gegen Wurstoptik; nur Grip, kaum Dämpf.; Bandkante drückt sich als "Fortsetzungslinie" durch = gleichmäßiges Wickeln
 | Lenkerband         | 2025    | 13 €      | \*\*    | FSA Ultra-Gel Kork                | mittel,  Kork,        Klebestreifen (Rückstände),  dämpft ohne zu dick aufzutragen, stufig/Grip ok, ging schnell drauf, mit ital. 8 genug Länge; hässl. Finishtape/Barends
 | Lenkerband         | 2025    | 13 €      | \*      | Selle Italia SmooTape Gran Fondo  | 2,5 mm,  Schaumstoff (langweiliger als Kork), Silikonstreifen/Zug,  ½ oder ⅓ wickeln? aus Entfernung stufenfrei (auch nicht besser als andere); ledrigerer Look ok; weiße Logos = Vogelstange; hässl. Finishtape
 | Lenkerband         | 2026-02 | 12 €      | \*      | Selle Italia Smart Tape Greentech | 2,5 mm,  gummiartig wie die Hoods (kein Handschmeichler wie Kork), hält allein auf Zug (gut), wenig Dämpfung trotz Dicke (nur Handfüller), integrierte "Endkappe" lässt sich verdrehen und löst Band (ist nur auf Zug, passiert 100% bei Unterlenker-Fahrt), und verlangt kürzere 2. Wicklung (uneinheitlich) oder hässliche Beule; verunmöglicht Klingel-Endkappe o.ä.; Endkappen verdecken nur dünn die Rohröffnungen = Sicherheitsrisiko bei Unfall; Länge passt mit ⅓-Wicklung und ital. Acht gerade so auf 42cm-Flattop-Dropbar inkl. Flattop-Bereich (stufenfrei!); klebriger gummi hält dreck fest, aber gut zu reinigen und wiederzuverwenden; unempfindlicher gegen Regen
-| Lenkerband         | 2026-05 | 22 €      | \*\*\*  | Cinelli Gel Gork                  | Kork, mittel (muss straff gelegt werden, sonst wurstoptik), Silikonstreifen, lässt sich gut wickeln und korrigieren, Cinelli-Logos helfen beim Alignment; dämpft auch noch ausreichend wenn straff gewickelt; etwas glatt, Hand kann rutschen
+| Lenkerband         | 2026-05 | 22 €      | \*\*\*  | Cinelli Gel Gork                  | Kork, mittel (muss straff gelegt werden, sonst Wurstoptik), Silikonstreifen, lässt sich gut wickeln und korrigieren, Cinelli-Logos helfen beim Alignment; dämpft auch noch ausreichend wenn straff gewickelt; etwas glatt, Hand kann rutschen
 | Lenkerband         | 2025    | 10 €      | Todo    | SRAM SuperCork Bar Tape           | Kirk, mittel, Klebestreifen,        wie FSA Ultra-Gel Kork (white label produkt?); günstiges Notfall-Korkband (fahre Shimano)
 | Lenkerband         | 2026-04 |  8 €      | \*      | DEDA                              | Synthetik, gun barrel grey (4800); Klebestreifen; sieht ok aus (all black aber doch schöner), lässt sich gut wickeln und korrigieren, aber hart-samtig-glatt = problematisch wenig Grip; wenig Dämpfung und Vorsicht beim Abziehen des Schutzes auf dem Klebestreifens, löst sonst gleich beides vom Band (ggf. von der Seite abfitzeln); Länge hat ohne ital 8 noch gereicht bei 42-cm Flattop-Lenker inkl. Tops; ok, falls es günstig sein muss; hinterließ beim Entfernen keine Spuren, war aber auch nur 1-2 Monate auf dem Lenker
 
@@ -318,7 +317,7 @@ TODO
 
 ## Schalten
 
-### Schaltnummerierung / Wording
+### Schaltnummerierung / Sprachregelung:
 
 | Krafttreten für Speed in Ebene/Abfahrt  | Leichttreten für Anstiege (dafür mehr treten)
 |-----------------------------------------|--------------------------------------------------
@@ -326,14 +325,23 @@ TODO
 | hinten kleinstes Ritzel                 | hinten größtes Ritzel
 | letzter Gang                            | erster Gang
 | hohe Übersetzung                        | niedrige Übersetzung
-| Kette weiter vom Fahrrad                | Kette näher am Fahrrad
+| Kette entfernter vom Laufrad            | Kette näher am Laufrad
+
+"Hoch" und "niedrig" beziehen sich auf den Weg, den das Hinterrad pro Pedalumdrehung weiterdreht (Übersetzung).  
+_Niedrige_ Übersetzung: Eine Kurbeldrehung erzeugt relativ _wenig_ Radumdrehung.  
+"Übersetzung" ist abstrakt das Verhältnis von Eingangsbewegung zu Ausgangsbewegung (z.B. Weg, Drehzahl, indirekt Drehmoment, ...): 
+	Kettenblattzähne dividiert durch Ritzelzähne (hinten).  
+Vorne 30 und hinten 40 = Übersetzung von 0,75  
+Vorne 50 und hinten 10 = Übersetzung von 5 = Hinterrad dreht sich fünfmal so stark pro Pedalumdrehung.  
 
 
-### Brems-Schalthebel-Kombination
+### Brems-Schalthebel-Kombination:
 
-Bei Shimano Sora ST-R3000:
+Bei Shimano Sora ST-R3000: Linke Hebel regeln vorne; Rechte Hebel regeln hinten (Rear)  
+Im UK, in NZ, Japan, China u.a. wären Bremsen vertauscht im Vgl. zu USA und den meisten europ. Ländern inkl. Deutschland.
 
-| L1 (Bremse)           | L2                 | R1 (Bremse)                  | R2
+
+| Linker Bremshebel     | Linker Minihebel   | Rechter Bremshebel           | Rechter Minihebel
 |-----------------------|--------------------|------------------------------|--------------------
 | schaltet vorne        | schaltet vorne     | schaltet hinten              | schaltet hinten
 | auf größeres Zahnrad  | kleineres Zahnrad  | größeres Zahnrad (leichter)  | kleineres (schneller)
@@ -352,7 +360,7 @@ Bei Shimano Sora ST-R3000:
 - Pedale beim Schalten nicht rückwärts treten
 - vorausschauend schalten: Ampel, Hügel, stockender Verkehr, Kinder, ...
 	- vorm Anhalten in leichteren Gang schalten, damit Antreten leichter und weniger belastend fürs Material
-- sonst Gang im Stehen korrigieren: s.u.
+	- sonst Gang im Stehen korrigieren: s.u.
 - höhere Trittfrequenz = weniger Belastung für Knie und Gelenke
 - Radler trainieren für Ausdauer nicht Kraft, Krafttreten (hohe Übersetzung) eher sinnlos
 - nicht über Kreuz schalten:
@@ -372,8 +380,10 @@ In so einem Fall:
 1. leichteren Gang im Stehen schalten
 2. Vorderrad-Bremse gedrückt halten
 3. Fahrrad leicht nach vorne schieben = Hinterrad hebt an
-4. Kurbel mit dem Fuß drehen bis Gangwechsel erfolgt
+4. Kurbel mit dem Fuß drehen bis Gangwechsel erfolgt (Vorsicht: gegenüberliegendes Pedal könnte Standbein treffen)
 5. Hinterrad wieder absetzen
+
+Alternativ: Statt Bremse+Vorschub den Sattel fassen und anheben und Kurbel drehen
 
 
 ### Bremsen:
@@ -395,9 +405,10 @@ In so einem Fall:
 	Luftwiderstand steigt extrem mit Geschwindigkeit. 
 	Oberhalb von ca. 35–45 km/h kostet Treten sehr viel Energie für wenig Zusatztempo
 - Zeitverlust am Berg ist nicht linear mit Zeitgewinn bei Abfahrten einzuholen;
-	(Training und Diät, um am Berg schneller zu werden, ohne sich kaputt zu machen)
+	(daher Training und Diät, um am Berg schneller zu werden, ohne sich kaputt zu machen; verbessert Durchschnittsgeschw.);
 - vorausschauend Schalten, insb. bei Ampeln/Verkehr - 
-	leichtere Gänge vorm Stehen beschleunigen das Anfahren; langsam annähern, Ampelphasen lernen
+	leichtere Gänge vorm Stehen beschleunigen das Anfahren; langsam annähern, Ampelphasen lernen; 
+	idealerweise gleitet man so ohne Absteigen/Trackstand schon in die nächste Grünphase
 
 Gleichmäßige Leistung, hohe Trittfrequenz (80–95 rpm), aerodynamische Haltung auf Geraden
 
@@ -411,6 +422,29 @@ Kurvenlinie
 @todo
 
 
+### Parkreihen:
+
+- mind. 1 Meter Abstand zur Parkreihe halten, da Autotüren unerwartet aufgehen und Radfahrer unsanft stoppen könnten (engl. Dooring)
+	- ist glaube auch STVO-Vorschrift @todo
+- ignorieren, wenn Autos hinten Druck machen, weil man sich angeblich nicht weit rechts genug einordnet und Straße blockiert
+
+
+### Radwege:
+
+- Radwege müssen nur benutzt werden, wenn das Blaue-Lolli-Schild dies explizit vorschreibt (STVO), sonst optional
+	- wissen viele Autofahrer nicht und ermahnen teils Radler zur Nutzung von Radwegen, die sie gar nicht nutzen müssen = Nötigung?
+- Radwege sind fast immer in schlechterem Zustand als die Straße: aufgebrochen durch Wurzeln, Schlaglöcher, 
+	Behinderungen durch langsame Paare usw. - ungünstig für Roadies bei 30-40 km/h
+- manchmal hat jede Straßenseite einen eigenen Radweg: "Geisterfahrer" fahren entgegen der vorgesehenen Verkehrsrichtung
+- Radwege haben fast immer Vorrang, trotzdem bei Wegkreuzungen auf Autoverkehr von beiden Seiten achten 
+	- Autos fahren manchmal mit der Nase über den Radweg um Straße einsehen zu können und blockieren Radfahrer
+	- Autos biegen manchmal achtlos ein und stoßen gegen heranfahrende Radler
+	- lieber gesund bleiben statt Recht erzwingen: man ist der schwächerer Teilnehmer = defensiv fahren
+
+
+### Busse, LKW:
+
+- sich dahinter zurückfallen lassen, nicht daneben warten bzw. mithalten; toter winkel; gibt komplette Ass1s @todo
 
 
 
@@ -2402,14 +2436,6 @@ TODO
 
 
 
-
-
-## Politik
-
-- Infrastruktur vs individuelle Radlersicherheit
-- car-centric cities; alles sagt der autofahrer-psychologie = seine autostraße, radler fremder störfaktor
-
-
 ## Sonstiges
 
 - Tour mit langsamerem Partner (meist Freundin/Ehefrau)
@@ -2420,6 +2446,16 @@ TODO
 	- langsame Recovery Rides mit Partner; immer nur auf Geschwindigkeit ist verkehrtes Training
 	- erste Kilometer langsam, Partner fährt nach hause, anderer fährt weiter in eigenem Tempo 
 		 (fühlt sich für Schnelleren trotzdem wie lästige Pflicht an, und Solo-Heimfahrt für Langsameren wie düpiert)
+- "motorisierte Gewalt", Road Rage, Car-Brain
+	- leichtes 2x Hupen: kann tats. manchmal nur Überholversuch ankündigen, in der STVO tats. so erlaubt (Lichtsignal oder Hupe)
+	- Scheibenwischanlage beim Vorbeifahren betätigt
+	- geringe Überholabstände
+	- Verweis auf angebliche Radwege, obwohl keine Pflicht (kein blauer Lolli oder unfahrbar)
+	- Überholzwang 10 Meter vor der roten Ampel, wird in der Stadt oft wieder eingeholt
+- Infrastruktur vs individuelle Radlersicherheit
+- car-centric cities; alles sagt der autofahrer-psychologie = seine autostraße, radler fremder störfaktor
+
+
 
 
 
