@@ -414,13 +414,17 @@ Alternativ: Statt Bremse+Vorschub den Sattel fassen und anheben und Kurbel drehe
 	- leichtere Gänge vorm Stehen beschleunigen das Anfahren; langsam annähern, Ampelphasen lernen; 
 	- idealerweise gleitet man so ohne Absteigen/Trackstand schon in die nächste Grünphase
 
-Durschnittsgeschwindigkeit steigern:
-	- Hauptprinzip: Geschwindigkeit ist günstiger zu halten als neu aufzubauen
-	- Leistung auf leicht ansteigendem bis welligem Terrain konstant hoch halten
-	- noch 10-20 Sekunden über Hügelkuppen weitertreten statt nach höchstem Punkt sofort locker ausrollen:
-		- man ist noch schnell genug, dass Luftwiderstand relevant ist, aber nicht schnell genug, dass Rollen von selbst stabil läuft
-	- bremsfreieres Fahren der Kurven lernen
-	- typisch Mecklenburg-Vorpommern: 1.) Ebene größter Hebel, 2.) Berg zweitgrößter Hebel, 3.) Abfahrt kleinster Hebel
+
+Durchschnittsgeschwindigkeit steigern:
+
+- Hauptprinzip: Geschwindigkeit ist günstiger zu halten als neu aufzubauen
+- Leistung auf leicht ansteigendem bis welligem Terrain konstant hoch halten
+- noch 10-20 Sekunden über Hügelkuppen weitertreten statt nach höchstem Punkt sofort locker ausrollen:
+	- man ist noch schnell genug, dass Luftwiderstand relevant ist, aber nicht schnell genug, dass Rollen von selbst stabil läuft
+- bremsfreieres Fahren der Kurven lernen
+- typisch Mecklenburg-Vorpommern: 1.) Ebene größter Hebel, 2.) Berg zweitgrößter Hebel, 3.) Abfahrt kleinster Hebel
+
+
 
 
 ### Kurven:
@@ -590,15 +594,16 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 
 **Helm + Klarsicht-/Sonnenbrille + Sommer-Gravel-Radschuhe +**
 
-| Temperatur     | Kopf                                                 | Torso                                       | Hände                        | Beine                            | Füße                                    | Regen
-|----------------|------------------------------------------------------|---------------------------------------------|------------------------------|----------------------------------|-----------------------------------------|-----------------------
-| **-5-4&deg;C** | Unterhelm-Mütze dünn + Merinobuff Hinterkopf/Gesicht | Thermo-Softshell, Trikot lang, Basel. kurz  | dicke Krebs-Handschuhe       | Wind-Thermo-Tights/Überhose lang | Neopren-Überschuhe, Wandersocken mittel | - (Softshell reicht, Nassregen selten)
-|  **4-7&deg;C** | Unterhelm-Mütze dünn, Merinobuff Gesicht             | Thermo-Softshell, Thermo-Baselayer lang     | mittelisol. Handschuhe lang  | Wind-Thermo-Tights/Überhose lang | Wind-Socken angeraut                    | Regenjacke/-poncho Gepäck, Velotoze
-|  **7-9&deg;C** | Unterhelm-Mütze dünn, Merinobuff in Rücktasch        | Thermo-Softshell, Baselayer kurz            | mittelisol. Handschuhe lang  |      Thermo-Tights/Überhose lang | Wandersocken mittel                     | Regenjacke/-poncho Gepäck, Velotoze bei Langfahrt
-| **9-13&deg;C** | -                                                    | 80%-Windjacke, Thermo-Baselayer lang;<br>Trikot lang, Base angeraut lang, Windweste | unisol. Wind-Handschuhe lang | Wind-Thermo-Bibshort + Beinlinge; <br> Bib + Beinl. + Überhose kurz | Wandersocken mittel | Regenjacke/-poncho Gepäck, Velotoze bei Langfahrt
-|**13-18&deg;C** | -                                                    | Trikot, Windweste/-Basel., Armlinge Rückta. | Handschuhe kurz              | Bibshort + Beinlinge Rückta. /&frac34; gekrempelt  | Rad-Socken mittel     | Windjacke, Velotoze bei Langfahrt
-|**18-30&deg;C** | -                                                    | Trikot/ Merinoshirt                         | Handschuhe kurz              | Bibshort                         | Rad-Socken dünn                         | - (aushalten)
+| Temperatur     | Kopf                                                | Torso                                      | Hände                        | Beine                               | Füße                                    | Regen
+|----------------|-----------------------------------------------------|--------------------------------------------|------------------------------|-------------------------------------|-----------------------------------------|-----------------------
+| **-5-4&deg;C** | Unterhelm-Mütze dünn +Merinobuff Hinterkopf/Gesicht | Thermo-Softshell +Trikot lang +Basel. kurz | dicke Krebs-Handschuhe       | Bibshort +Wind-Thermo-Überhose lang | Neopren-Überschuhe +Wandersocken mittel | - (Nassregen selten)
+|  **4-7&deg;C** | Unterhelm-Mütze dünn +Merinobuff Gesicht            | Thermo-Softshell +Thermo-Baselayer lang    | mittelisol. Handschuhe lang  | Bibshort +Wind-Thermo-Überhose lang | Wind-Socken angeraut                    | Regenjacke/-poncho Gepäck +Velotoze
+|  **7-9&deg;C** | Unterhelm-Mütze dünn +Merinobuff in Rücktasch       | Thermo-Softshell +Baselayer kurz           | mittelisol. Handschuhe lang  | Bibshort +Wind-Thermo-Überhose lang | Wandersocken mittel                     | Regenjacke/-poncho Gepäck +Velotoze bei Langfahrt
+| **9-13&deg;C** | -                                                   | 80%-Windjacke    +Thermo-Baselayer lang;;<br>Trikot lang +Base angeraut lang +Windweste | unisol. Wind-Handschuhe lang  | Wind-Thermo-Bibshort +Beinlinge;; <br> Bib +Beinl. (auf &frac34;?) +Überhose kurz | Wandersocken mittel | Regenjacke/-poncho Gepäck +Velotoze bei Langfahrt
+|**13-18&deg;C** | -                                                   | Trikot lang +Windweste/-Basel.             | Handschuhe kurz              | Bibshort +Beinlinge auf &frac34;/Rückta.    | Rad-Socken mittel               | Windjacke +Velotoze bei Langfahrt
+|**18-30&deg;C** | -                                                   | Trikot/ Merinoshirt                        | Handschuhe kurz              | Bibshort                            | Rad-Socken dünn                         | - (aushalten)
 
+(Bibshort kann in Kombi mit Überhose auch ein Bibliner sein)
 
 
 - Sportbrille:
