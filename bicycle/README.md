@@ -2,9 +2,12 @@
 
 > Driving a car is like watching a movie, but riding a bike is like acting in one.
 
-_ACHTUNG: Alles work-in-progress hier, mag sich alles ändern – große Müllhalde zu redigieren._
+_ACHTUNG: Alles work-in-progress hier, mag sich alles ändern – große Müllhalde zu redigieren._  
+
+Ich bin weder Anwalt noch ausgebildeter Zweiradmechaniker, daher alle rechtlichen oder technischen Aussagen ohne Gewähr.  
 
 Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäßig; 1 = vermeiden)
+
 
 
 ## Übersicht
@@ -328,7 +331,7 @@ TODO
 | Kette entfernter vom Laufrad            | Kette näher am Laufrad
 
 "Hoch" und "niedrig" beziehen sich auf den Weg, den das Hinterrad pro Pedalumdrehung weiterdreht (Übersetzung).  
-_Niedrige_ Übersetzung: Eine Kurbeldrehung erzeugt relativ _wenig_ Radumdrehung.  
+_Niedrige_ Übersetzung: Eine Kurbeldrehung erzeugt relativ _wenig_ Radumdrehung (bei größerem Drehmoment - wie langer Hebel).
 "Übersetzung" ist abstrakt das Verhältnis von Eingangsbewegung zu Ausgangsbewegung (z.B. Weg, Drehzahl, indirekt Drehmoment, ...): 
 	Kettenblattzähne dividiert durch Ritzelzähne (hinten).  
 Vorne 30 und hinten 40 = Übersetzung von 0,75  
@@ -366,7 +369,7 @@ Im UK, in NZ, Japan, China u.a. wären Bremsen vertauscht im Vgl. zu USA und den
 - nicht über Kreuz schalten:
 	- schlecht: kleines Zahnrad hinten (Ritzel) und kleines Zahnrad vorne (Kettenblatt) = klein-klein vermeiden (Kreuz)
 	- schlecht: großes Zahnrad vorne und großes Zahnrad hinten   = groß-groß vermeiden (Kreuz)
-	- alles andere ok
+	- ideal:    radnäheres Kettenblatt mit den radnäheren Ritzeln verwenden und umgekehrt (ideal halbwegs gerade Kettenlinie)
 - beim Wiegetritt vorher auf etwas schwereren Gang schalten; Körpergewicht gibt mehr Power, beim leichten Gang fällt man durch
 - s.a. Wartung-Schaltung-einstellen
 
@@ -395,22 +398,29 @@ Alternativ: Statt Bremse+Vorschub den Sattel fassen und anheben und Kurbel drehe
 
 ### Rollen: 
 
-- Zeit gewinnt man auf der Ebene:  
-	23 km/h vs. 27 km/h auf der Ebene = enormer Zeitunterschied bei nur moderat mehr Leistung
-- Energie verliert man am Berg:  
-	Geschwindigkeit ohnehin niedrig, mehr Kraft bringt nur wenig zusätzliche Geschwindigkeit, dafür Puls, Laktat und Ermüdung;
-	Steile Anstiege vglw. langsam aber konstant in niedrigen Gängen angehen: einen Elefant verspeist man Stück für Stück.
-	Wiegetritt (vorher Gang etwas schwerer machen)
-- Erholung passiert bergab:  
-	Luftwiderstand steigt extrem mit Geschwindigkeit. 
-	Oberhalb von ca. 35–45 km/h kostet Treten sehr viel Energie für wenig Zusatztempo
-- Zeitverlust am Berg ist nicht linear mit Zeitgewinn bei Abfahrten einzuholen;
-	(daher Training und Diät, um am Berg schneller zu werden, ohne sich kaputt zu machen; verbessert Durchschnittsgeschw.);
-- vorausschauend Schalten, insb. bei Ampeln/Verkehr - 
-	leichtere Gänge vorm Stehen beschleunigen das Anfahren; langsam annähern, Ampelphasen lernen; 
-	idealerweise gleitet man so ohne Absteigen/Trackstand schon in die nächste Grünphase
+- Zeit gewinnt man auf der Ebene:
+	- 23 km/h vs. 27 km/h auf der Ebene = enormer Zeitunterschied bei nur moderat mehr Leistung
+	- gleichmäßige Leistung, hohe Trittfrequenz (80–95 rpm), aerodynamische Haltung auf Geraden
+- Energie verliert man am Berg:
+	- Geschwindigkeit ohnehin niedrig, mehr Kraft bringt nur wenig zusätzliche Geschwindigkeit, dafür Puls, Laktat und Ermüdung
+	- Steile Anstiege vglw. langsam aber konstant in niedrigen Gängen angehen: einen Elefant verspeist man Stück für Stück
+	- Wiegetritt (vorher Gang etwas schwerer machen)
+- Erholung passiert bergab:
+	- Luftwiderstand steigt extrem mit Geschwindigkeit. 
+	- oberhalb von ca. 35–45 km/h kostet Treten sehr viel Energie für wenig Zusatztempo
+- Zeitverlust am Berg ist nicht linear mit Zeitgewinn bei Abfahrten einzuholen
+	- daher Training und Körperfett-reduzierende Diät, um am Berg leichter und schneller zu werden, ohne sich kaputt zu machen
+- vorausschauend Schalten, insb. bei Ampeln/Verkehr
+	- leichtere Gänge vorm Stehen beschleunigen das Anfahren; langsam annähern, Ampelphasen lernen; 
+	- idealerweise gleitet man so ohne Absteigen/Trackstand schon in die nächste Grünphase
 
-Gleichmäßige Leistung, hohe Trittfrequenz (80–95 rpm), aerodynamische Haltung auf Geraden
+Durschnittsgeschwindigkeit steigern:
+	- Hauptprinzip: Geschwindigkeit ist günstiger zu halten als neu aufzubauen
+	- Leistung auf leicht ansteigendem bis welligem Terrain konstant hoch halten
+	- noch 10-20 Sekunden über Hügelkuppen weitertreten statt nach höchstem Punkt sofort locker ausrollen:
+		- man ist noch schnell genug, dass Luftwiderstand relevant ist, aber nicht schnell genug, dass Rollen von selbst stabil läuft
+	- bremsfreieres Fahren der Kurven lernen
+	- typisch Mecklenburg-Vorpommern: 1.) Ebene größter Hebel, 2.) Berg zweitgrößter Hebel, 3.) Abfahrt kleinster Hebel
 
 
 ### Kurven:
@@ -433,13 +443,14 @@ Kurvenlinie
 
 - Radwege müssen nur benutzt werden, wenn das Blaue-Lolli-Schild dies explizit vorschreibt (STVO), sonst optional
 	- wissen viele Autofahrer nicht und ermahnen teils Radler zur Nutzung von Radwegen, die sie gar nicht nutzen müssen = Nötigung?
-- Radwege sind fast immer in schlechterem Zustand als die Straße: aufgebrochen durch Wurzeln, Schlaglöcher, 
-	Behinderungen durch langsame Paare usw. - ungünstig für Roadies bei 30-40 km/h
+- Radwege sind fast immer in schlechterem Zustand als die Straße: aufgebrochen durch Wurzeln, Schlaglöcher, Glas, 
+	nebeneinanderfahrende/-flanierende Rentner, Fußgänger mit Hunden, zugeparkt usw. - ungünstig für Roadies bei 30-40 km/h
 - manchmal hat jede Straßenseite einen eigenen Radweg: "Geisterfahrer" fahren entgegen der vorgesehenen Verkehrsrichtung
 - Radwege haben fast immer Vorrang, trotzdem bei Wegkreuzungen auf Autoverkehr von beiden Seiten achten 
 	- Autos fahren manchmal mit der Nase über den Radweg um Straße einsehen zu können und blockieren Radfahrer
-	- Autos biegen manchmal achtlos ein und stoßen gegen heranfahrende Radler
-	- lieber gesund bleiben statt Recht erzwingen: man ist der schwächerer Teilnehmer = defensiv fahren
+	- Autos biegen manchmal ohne Schulterblick achtlos rechts ein und stoßen gegen heranfahrende Radler
+	- lieber gesund bleiben statt sein Recht erzwingen: Radler sind zwar die härtere Typen als Autofahrer, aber durch den fehlenden Schutz nicht ganz so hart wie deren Autokühler; 
+		das Theater anschließend ist auch Zeitverschwendung
 
 
 ### Busse, LKW:
@@ -581,11 +592,11 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 
 | Temperatur     | Kopf                                                 | Torso                                       | Hände                        | Beine                            | Füße                                    | Regen
 |----------------|------------------------------------------------------|---------------------------------------------|------------------------------|----------------------------------|-----------------------------------------|-----------------------
-| **-5-4&deg;C** | Unterhelm-Mütze dünn + Merinobuff Hinterkopf/Gesicht | Thermo-Softshell, Trikot lang, Basel. kurz  | dicke Krebs-Handschuhe       | Wind-Thermo-Tights/Überhose lang | Neopren-Überschuhe, Wandersocken mittel | Regenjacke/-poncho Gepäck
+| **-5-4&deg;C** | Unterhelm-Mütze dünn + Merinobuff Hinterkopf/Gesicht | Thermo-Softshell, Trikot lang, Basel. kurz  | dicke Krebs-Handschuhe       | Wind-Thermo-Tights/Überhose lang | Neopren-Überschuhe, Wandersocken mittel | - (Softshell reicht, Nassregen selten)
 |  **4-7&deg;C** | Unterhelm-Mütze dünn, Merinobuff Gesicht             | Thermo-Softshell, Thermo-Baselayer lang     | mittelisol. Handschuhe lang  | Wind-Thermo-Tights/Überhose lang | Wind-Socken angeraut                    | Regenjacke/-poncho Gepäck, Velotoze
 |  **7-9&deg;C** | Unterhelm-Mütze dünn, Merinobuff in Rücktasch        | Thermo-Softshell, Baselayer kurz            | mittelisol. Handschuhe lang  |      Thermo-Tights/Überhose lang | Wandersocken mittel                     | Regenjacke/-poncho Gepäck, Velotoze bei Langfahrt
 | **9-13&deg;C** | -                                                    | 80%-Windjacke, Thermo-Baselayer lang;<br>Trikot lang, Base angeraut lang, Windweste | unisol. Wind-Handschuhe lang | Wind-Thermo-Bibshort + Beinlinge; <br> Bib + Beinl. + Überhose kurz | Wandersocken mittel | Regenjacke/-poncho Gepäck, Velotoze bei Langfahrt
-|**13-18&deg;C** | -                                                    | Trikot, Windweste/-Basel., Armlinge Rückta. | Handschuhe kurz              | Bibshort + Beinlinge Rückta.     | Rad-Socken mittel                       | Windjacke, Velotoze bei Langfahrt
+|**13-18&deg;C** | -                                                    | Trikot, Windweste/-Basel., Armlinge Rückta. | Handschuhe kurz              | Bibshort + Beinlinge Rückta. /&frac34; gekrempelt  | Rad-Socken mittel     | Windjacke, Velotoze bei Langfahrt
 |**18-30&deg;C** | -                                                    | Trikot/ Merinoshirt                         | Handschuhe kurz              | Bibshort                         | Rad-Socken dünn                         | - (aushalten)
 
 
@@ -2438,6 +2449,9 @@ TODO
 
 ## Sonstiges
 
+Bin kein Anwalt, daher alle rechtl. Angaben ohne Gewähr:
+
+
 - Tour mit langsamerem Partner (meist Freundin/Ehefrau)
 	- Partner auf E-Bike
 	- Tandem: unterschiedl. Fitness egal, man kann sich unterhalten, etwas Besonderes als Gemeinsames
@@ -2452,6 +2466,9 @@ TODO
 	- geringe Überholabstände
 	- Verweis auf angebliche Radwege, obwohl keine Pflicht (kein blauer Lolli oder unfahrbar)
 	- Überholzwang 10 Meter vor der roten Ampel, wird in der Stadt oft wieder eingeholt
+	- Stvo-Regeln gelten weiterhin für Autofahrer, auch wenn Radfahrer sie gerade (vermeintlich) bricht - darf also nicht 30 cm vorbeifahren
+	- Autofahrer dürfen nicht bestrafen oder erziehen, nur Polizei
+	- Polizisten entscheiden nicht über Anzeigen, sondern Staatsanwalt; Anzeigen müssen aufgenommen werden, egal wie der Beamte es einschätzt (?)
 - Infrastruktur vs individuelle Radlersicherheit
 - car-centric cities; alles sagt der autofahrer-psychologie = seine autostraße, radler fremder störfaktor
 
