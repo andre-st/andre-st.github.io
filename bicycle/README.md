@@ -17,11 +17,11 @@ Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäß
 	- Komponentenliste
 	- Montageplan
 - Modell Stadtrad
+- [Kleidung](#kleidung)
 - [Schalten](#schalten)
 - [Fahrtechniken](#fahrtechniken)
 - [Diebstahlschutz](#diebstahlschutz)
 - [Straßenzulassung StVoZ](#)
-- [Kleidung](#kleidung)
 - Werkzeuge
 - Kleine Schmierstoffkunde
 - Verschleißteile bevorraten
@@ -114,7 +114,7 @@ Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäß
 	- Aero-Rennrad: für Gruppen geeignet, wg. Aeroformen schwerer als Race-Roadbike
 	- Endurance-Rennrad / Allroad-Bike / Randonneur: bequemeres Rennrad (aufrechter) bis 35 mm Reifen
 	- Cyclocrosser (CX): schulterbares, robustes, etwas entspannteres Rennrad mit Profilreifen bis 33 mm (UCI-Vorgabe) und höherer Bodenfreiheit für Rennen auf unbefestigten Untergründen
-	- Schotterrad (engl. Gravel bike): bequemeres Rennrad (aufrechter) mit leichtprofilierten Reifen zw. 35 und 50 mm, mittl. Bodenfreiheit, Langstrecke
+	- Schotterrad (engl. Gravel bike): bequemeres Rennrad (aufrechter) mit leichtprofilierten Reifen zw. 35 und 50 mm, mittl. Bodenfreiheit, robuster, Langstrecke
 	- Hardtail-Mountain-Bike / Cross Country MTB: Federung nur vorne
 	- Fully (Full Suspension MTB): Vollfederung mit Federgabel + Hinterbaudämpfer
 		- Race-Fully:       bis 120 mm Federweg
@@ -145,7 +145,7 @@ Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäß
 	auf dem irgendwelche Logos gedruckt wurden, 
 	was vermeintlich Pro aussehen würde; verwandt mit Fred
 - Zahnarzt [satirisch]: 
-	Berufsgruppe, die sich mittel-/hochpreisige Rennräder leistet
+	Berufsgruppe, die sich mittel-/hochpreisige Rennräder leisten kann
 - Laufrad: Gesamtheit von
 	- Steckachse
 	- Schnellspanner
@@ -202,7 +202,7 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Steuersatzlager oben  | top bearing      | MH-P08F – 30.5 x 41.8 x 8 – 45/45 [erprobt],  OD=41,81 ID=30,47 mm [gemessen]
 | Steuersatzlager unten | bottom bearing   | MH-P22  – 34.1 x 46.9 x 7 – 45/45 [erprobt],  OD=46,76 ID=34,0  mm [gemessen]
 | Vorbaudistanzringe    | spacer           | AD=??? mm, ID=??? mm, Kunststoff?
-| Vorbau                | stem             | GIANT Sport(?), 90 mm, 7&deg;, 27 mm horz. zw. Schraubenmitten [erprobt mit Stem-Mount]
+| Vorbau                | stem             | GIANT Sport(?), 90 mm, 7&deg;, 27 mm horz. zw. Schraubenmitten [erprobt mit Stem-Mount für Radcomputer]
 | Lenker                | handle bar       | GIANT Contact XR Ergo-Control(?) Drop 460/510 mm (8&deg; Flare), kompakt, 31,8 mm, Alu, 337g, clip-on compatible, Reach 10 cm
 | Lenkerband            | bar tape         | GIANT Gel(?) Cork, mittel
 | Bremsen               | brakes           | Tektro MD-C550 mechanisch; 2-Kolben-Bremssattel (Double piston); 3er Inbus für Bremsbelagnachstellung
@@ -240,7 +240,7 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 
 | Fahrradteil        | Jahr    | Preis     | Wertung | Neu verbaut                       | Details
 |--------------------|---------|-----------|---------|-----------------------------------|--------------------------------------------
-| Steuersatzlager    | 2025    | 2x 20 €?  | ?       | CQ GmbH Edelstahl                 | Ersatz wg. rauem Lauf
+| Steuersatzlager    | 2025    | 2x 20 €?  | \*\*\*  | CQ GmbH Edelstahl                 | Ersatz wg. rauem Lauf; vorläufig noch nichts Negatives festgestellt
 | Konuslagerkugeln   | 2025    |  5 €?     | ?       | Woembi G20 HRC&ge;60 1/8"         | Ersatz wg. Korrosion
 | Kabel Schaltzug    | 2024    | 14 €      | \*\*\*  | Shimano OT-SP41 Optislick         | ersetzt gerissenes Jagwire; Zugseil gleitet gut (STI-Widerstand), gut zu cutten
 | Reifen             | 2025    | 2x 40 €   | Todo    | Tufo Thundero HD                  | 700x40C (41 mm),          je 439g, schneller Gravel-Semi-Slick-Faltreifen,      TPI 130/255, BRR 5/5 (19,2 W); 2,7 bar            (105 kg); 59 ml Dichtmilch, Stans/Tufo-Sealant würden nicht dichten, Orange aber
@@ -250,19 +250,23 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Sattel             | 2025    | 93 €      | \*\*\*  | Ergon SR Allroad Core Comp Men    | M-L, 120 kg, 248 g, Chrom-Molybdän-Stahl-Gestell (CrMo), Nylonkomposit-Sitzschale, orthopäd. AirCell-Sitzschaum + Kern BASF Infinergy E-TPU Partikelschaum, Microfiber-Obermaterial: komfortabler, trotzdem noch flach, geht zeitw. ohne Polster, mehr Hinternpositionen; 0 Probleme
 | Pedale             | 2023    | 85 €      | \*\*\*  | Shimano XT PD-T8000               | Plattform-SPD-Kombipedal, mein Übergangspedal fürs Clipless-Lernen; später nie Situation für Plattform gehabt
 | Pedale             | 2024    | 83 €      | \*\*\*  | Shimano XT PD-M8100               | SPD-Klickpedal, SM-SH56 SPD Cleats für Unfall-Präventions-Reflexe
-| Flaschenhalter     | 2023    | 2x 15 €   | \*\*\*  | SKS Germany DUAL SC RH und LH     | seitliche Entnahme rechtshändig; zerkratzt Flaschen, ansonsten top, stabil
-| Computer           | 2023    | 260 €     | \*\*\*  | Wahoo Bolt 2                      | mit Gummi-Schutzhülle
+| Flaschenhalter     | 2023    | 2x 15 €   | \*\*\*  | SKS Germany DUAL SC RH und LH     | seitliche Entnahme beide rechtshändig; zerkratzt Flaschen, ansonsten top, stabil
+| Computer           | 2023    | 260 €     | \*\*\*  | Wahoo Bolt 2                      | mit Gummi-Schutzhülle, dank der mein Wahoo mal aus der Hand flummiartig runter durchs Treppenhaus schoss und unversehrt blieb
 | Computer-Halterung | 2025    | 63 €      | \*\*    | Framesandgear Aero 27 mm Wah/Sm.  | Stem-Mount; stabil, sieht gut aus/ragt nicht über Lenker; ragt nicht seitl. über Vorbaulenkerklemme = einzig mit meinem Jack-Frontrack+Lenker funktionierender; teuer und schlechter Transferwert durch feste Breite
 | Lenkeraufsatz      | 2023    | &gt;100 € | \*\*\*  | Profile Design Sonic Ergo T5+     | 348 mm Länge (13&deg;), Alu 6061-T6, siehe Aerolenker-Abschnitt
+| Lenker             | 2026-07 | 38 € Sale | Todo    | Zipp Service Course 70 Ergo Blast | 440/    mm  (4&deg; Flare), kompakt, Alu 6061 "365g", 3&deg; Backsweep, abgeflachter Oberlenker, Clip-on ok; 1cm kürzerer Reach auf 70mm (war vorher oft vor den Hoods) + 90mm-Vorbau
 | Lenker             | 2025    | 27 €      | \*\*\*  | Moquai Aero Rennradlenker         | 420/420 mm  (0&deg; Flare), kompakt, Alu 6061 "285g"; 4 cm schmaler/sportl. als Erstlenker; Logos subtil; ovalisierte, nicht zu breite Tops; flext in den Drops
 | Lenker             | 2025    | 18 € Sale | Todo    | FSA AGX Adventure Compact         | 440/500 mm (12&deg; Flare), kompakt, Alu 6061 "325g", 2 cm schmaler als Erstlenker, für Bikepacking, Logos übertrieben
 | Lenkerband         | 2023    | 25 €      | \*\*\*  | Profile Design Aerobar Wrap       | dünn,    gummiartig,  Klebestreifen,        für Lenkeraufsatz; dünner als Dropbar gegen Wurstoptik; nur Grip, kaum Dämpf.; Bandkante drückt sich als "Fortsetzungslinie" durch = gleichmäßiges Wickeln
 | Lenkerband         | 2025    | 13 €      | \*\*    | FSA Ultra-Gel Kork                | mittel,  Kork,        Klebestreifen (Rückstände),  dämpft ohne zu dick aufzutragen, stufig/Grip ok, ging schnell drauf, mit ital. 8 genug Länge; hässl. Finishtape/Barends
-| Lenkerband         | 2025    | 13 €      | \*      | Selle Italia SmooTape Gran Fondo  | 2,5 mm,  Schaumstoff (langweiliger als Kork), Silikonstreifen/Zug,  ½ oder ⅓ wickeln? aus Entfernung stufenfrei (auch nicht besser als andere); ledrigerer Look ok; weiße Logos = Vogelstange; hässl. Finishtape
-| Lenkerband         | 2026-02 | 12 €      | \*      | Selle Italia Smart Tape Greentech | 2,5 mm,  gummiartig wie die Hoods (kein Handschmeichler wie Kork), hält allein auf Zug (gut), wenig Dämpfung trotz Dicke (nur Handfüller), integrierte "Endkappe" lässt sich verdrehen und löst Band (ist nur auf Zug, passiert 100% bei Unterlenker-Fahrt), und verlangt kürzere 2. Wicklung (uneinheitlich) oder hässliche Beule; verunmöglicht Klingel-Endkappe o.ä.; Endkappen verdecken nur dünn die Rohröffnungen = Sicherheitsrisiko bei Unfall; Länge passt mit ⅓-Wicklung und ital. Acht gerade so auf 42cm-Flattop-Dropbar inkl. Flattop-Bereich (stufenfrei!); klebriger gummi hält dreck fest, aber gut zu reinigen und wiederzuverwenden; unempfindlicher gegen Regen
-| Lenkerband         | 2026-05 | 22 €      | \*\*\*  | Cinelli Gel Gork                  | Kork, mittel (muss straff gelegt werden, sonst Wurstoptik), Silikonstreifen, lässt sich gut wickeln und korrigieren, Cinelli-Logos helfen beim Alignment; dämpft auch noch ausreichend wenn straff gewickelt; etwas glatt, Hand kann rutschen
+| Lenkerband         | 2025    | 13 €      | \*      | Selle Italia SmooTape Gran Fondo  | 2,5 mm,  EVA-Schaumstoff (langweiliger als Kork), Silikonstreifen/Zug,  ½ oder ⅓ wickeln? aus Entfernung stufenfrei (auch nicht besser als andere); ledrigerer Look ok; weiße Logos = Vogelstange; hässl. Finishtape
 | Lenkerband         | 2025    | 10 €      | Todo    | SRAM SuperCork Bar Tape           | Kirk, mittel, Klebestreifen,        wie FSA Ultra-Gel Kork (white label produkt?); günstiges Notfall-Korkband (fahre Shimano)
+| Lenkerband         | 2026-02 | 12 €      | \*      | Selle Italia Smart Tape Greentech | 2,5 mm,  gummiartig wie die Hoods (kein Handschmeichler wie Kork), hält allein auf Zug (gut), wenig Dämpfung trotz Dicke (nur Handfüller), integrierte "Endkappe" lässt sich verdrehen und löst Band (ist nur auf Zug, passiert 100% bei Unterlenker-Fahrt), und verlangt kürzere 2. Wicklung (uneinheitlich) oder hässliche Beule; verunmöglicht Klingel-Endkappe o.ä.; Endkappen verdecken nur dünn die Rohröffnungen = Sicherheitsrisiko bei Unfall; Länge passt mit ⅓-Wicklung und ital. Acht gerade so auf 42cm-Flattop-Dropbar inkl. Flattop-Bereich (stufenfrei!); klebriger gummi hält dreck fest, aber gut zu reinigen und wiederzuverwenden; unempfindlicher gegen Regen
 | Lenkerband         | 2026-04 |  8 €      | \*      | DEDA                              | Synthetik, gun barrel grey (4800); Klebestreifen; sieht ok aus (all black aber doch schöner), lässt sich gut wickeln und korrigieren, aber hart-samtig-glatt = problematisch wenig Grip; wenig Dämpfung und Vorsicht beim Abziehen des Schutzes auf dem Klebestreifens, löst sonst gleich beides vom Band (ggf. von der Seite abfitzeln); Länge hat ohne ital 8 noch gereicht bei 42-cm Flattop-Lenker inkl. Tops; ok, falls es günstig sein muss; hinterließ beim Entfernen keine Spuren, war aber auch nur 1-2 Monate auf dem Lenker
+| Lenkerband         | 2026-05 | 22 €      | \*\*\*  | Cinelli Special Edition Gelkork   | Kork, mittel (muss straff gelegt werden, sonst Wurstoptik), diese SE-Version hat guten Silikon- statt Klebestreifen = leicht wickeln und korrigieren, Cinelli-Logos helfen beim Alignment; dämpft auch noch ausreichend wenn straff gewickelt; etwas glatt, Hand kann rutschen; kann auf dem Lenker verrutschen, lässt sich aber wieder ohne Abwickeln zeitlang korrigieren
+| Lenkerband         | 2026-05 | 25 €      | Todo    | Faserwerk Handschmeichler SL      | 2,5 mm,  EVA-Schaumstoff
+| Kabel Bremszug     | 2026-07 | -         | -       | -                                 | ca. 5-6 cm eingekürzt, da Lenker 6 cm schmaler als Originallenker
+
 
 
 ### Drehmomente und Schmierplan
@@ -273,7 +277,8 @@ Gummi-freundlicher: Mucoff Bio-Degreaser
 
 | Verbindung A          | mit B          | Nm ich    | Nm offiz. (max) | Schmierung
 |-----------------------|----------------|-----------|-----------------|---------------------------------
-| Vorbau           Alu  | Lenker     Alu | 4,5       | 6   ./.   5     | Schraubensicherung; sonst _alles_ trocken
+| STI-Hebel Shima.      | Lenker     Alu | handfest  | ?   ./.   ?     | trocken
+| Vorbau           Alu  | Lenker     Alu | 4,5       | 6   ./.   5     | Schraubensicherung; sonst _alles_ trocken; Werte gleich für Zipp und Moquai
 | Vorbau           Alu  | Gabel      Cfk | 4,0       | 6   ./.   ?     | trocken
 | Sattel           CrMo | Stütze     Alu | 6,0       | ?   ./.   8-9   | Antiseize Schrauben
 | Sattelklemme          | Stütze     Alu | 5,0       | 7   ./.   ?     | Antiseize alles
@@ -283,7 +288,6 @@ Gummi-freundlicher: Mucoff Bio-Degreaser
 | Steckachse H          | Hinterbau  Alu | handfest  | ?   ./.   ?     | Fett Gewinde und min. Schaft
 | Steckachse V          | Gabel      Cfk | handfest  | ?   ./.   ?     | Fett Gewinde und min. Schaft
 | Flaschenhalter   Cfk  | Rohr       Alu | handfest  | ?   ./.   ?     | Antiseize Schrauben
-| STI-Hebel Shima.      | Lenker     Alu | handfest  | ?   ./.   ?     | trocken
 | Bremsscheibe          | Nabe       Alu | 5,0       | 6   ./.   ?     | Schraubensicherung
 | Kassette              | Nabe       Alu | ?         | ?   ./.   ?     | Antiseize zw. Feilauf und Kas.
 | Kettenblatt           | Kurbel         | ?         | ?               | ?
@@ -318,6 +322,152 @@ TODO
 
 
 
+## Kleidung
+
+Kleine Materialkunde:
+
+| Material               | Trocknung | Waerme | Kühlung | bleibt geruchsarm | Hautgefühl | Preis   | Kommentar
+|------------------------|-----------|--------|---------|-------------------|------------|---------|----------------
+| Baumwolle              | \*        | \*\*\* | \*\*\*  | \*                | \*\*       | \*\*\*  | 
+| Merino-Wolle           | \*\*      | \*\*\* | \*\*\*  | \*\*\*            | \*\*\*     | \*      | 
+| todo...                |           |        |         |                   |            |         | 
+
+
+
+Helm:
+- einfarbig weiß oder schwarz mit allen Kleiderfarben kombinierbar
+- Größe gut, wenn man noch Spiel beim Einstellrädchen hat:
+	- lockern bei Druckschmerzen nach längerer Zeit (Kopf schwillt auch an)
+	- Platz für Unterhelmmütze
+- Polster entfern- und reinigbar? Ersatzpolster kaufbar? (musste meine aum Ausland bestellen)
+- Unterscheidungen:
+
+
+| Rennradhelm (Giro Synthe 2 MIPS)                      | Stadthelm                                | Aerohelm |  ...
+|-------------------------------------------------------|------------------------------------------|----------|--------
+| starke belüftet                                       | weniger belüftet für mehr Crash-Masse    | weniger belüftet   |
+| MIPS (mglw. nur Marketing Gimmick)                    |                                          |          |
+| "GIRO"- und MIPS-Logoaufkleber entfernt               |                                          |          |
+
+
+
+Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
+
+
+**Helm + Klarsicht-/Sonnenbrille + Sommer-Gravel-Radschuhe +**
+
+| Temperatur     | Kopf                                                | Torso                                      | Hände                        | Beine                               | Füße                                    | Regen
+|----------------|-----------------------------------------------------|--------------------------------------------|------------------------------|-------------------------------------|-----------------------------------------|-----------------------
+| **-5-4&deg;C** | Unterhelm-Mütze dünn +Merinobuff Hinterkopf/Gesicht | Thermo-Softshell +Trikot lang +Basel. kurz | dicke Krebs-Handschuhe       | Bibshort +Wind-Thermo-Überhose lang | Neopren-Überschuhe +Wandersocken mittel | -<br>(Nassregen selten)
+|  **4-7&deg;C** | Unterhelm-Mütze dünn +Merinobuff Gesicht            | Thermo-Softshell +Thermo-Baselayer lang    | mittelisol. Handschuhe lang  | Bibshort +Wind-Thermo-Überhose lang | Wind-Socken angeraut                    | Regenjacke/-poncho Gepäck +Velotoze
+|  **7-9&deg;C** | Unterhelm-Mütze dünn +Merinobuff in Rücktasch       | Thermo-Softshell +Baselayer kurz           | mittelisol. Handschuhe lang  | Bibshort +Wind-Thermo-Überhose lang | Wandersocken mittel                     | Regenjacke/-poncho Gepäck +Velotoze bei Langfahrt
+| **9-13&deg;C** | -                                                   | 80%-Windjacke    +Thermo-Baselayer lang;;<br>Trikot lang +Base angeraut lang +Windweste | unisol. Wind-Handschuhe lang  | Wind-Thermo-Bibshort +Beinlinge;; <br> Bib +Beinl. (auf &frac34;?) +Überhose kurz | Wandersocken mittel | Regenjacke/-poncho Gepäck +Velotoze bei Langfahrt
+|**13-18&deg;C** | -                                                   | Trikot lang +Windweste/-Basel.             | Handschuhe kurz              | Bibshort +Beinlinge auf &frac34;/Rückta.    | Rad-Socken mittel               | Windjacke +Velotoze bei Langfahrt
+|**18-30&deg;C** | -                                                   | Trikot/ Merinoshirt                        | Handschuhe kurz              | Bibshort                            | Rad-Socken dünn                         | - (aushalten)
+
+(Bibshort kann in Kombi mit Überhose auch ein Bibliner sein)
+
+
+- Sportbrille:
+	- bruchsicher
+	- großer Sichtbereich
+	- gegen Zugluft (auch seitlich), Insekten, Split, ...
+	- verdeckt erschöpften Blick
+	- Sonnenschutz (UV)
+	- Bügel nicht gebogen sondern gerade:
+		- passen in Radhelm-Lüftungsschlitze, falls man sie eine Weile nicht tragen möchte
+		- leichter aufsetzbar/abnehmbar ohne sich in Helmbändern zu verheddern
+	- wird _über_ statt unter dem Helmriemen getragen, damit kein Gefriemel im Unglücksfall und Rüffel durch Stylepolizei
+		- Nachteil: Vergessen beim Helmabsetzen = Brille fliegt auf den Boden
+	- ...
+	- Klarsicht für Abend/Herbst/Winter, oder photochromatisch
+- Handschuhe:
+	- schützt Hände beim Hinfallen, Weiterfahren sonst schmerzhaft
+	- Lenkerband verschmutzt weniger schnell
+	- Wind-/Kälteschutz
+	- Polsterung
+	- Kurzfinger: Castelli Men's Entrata V Glove
+	- Langfinger: Gripgrab Herbst (schwarz), Gripgrab Deep Winter (schwarz), Castelli Perfetto Light Glove (sehr dünn, 0 Polsterung, winddicht)
+- Trikot: 
+	- weites Hemd mit engen Bibs = Fred-Vibes: locker-locker oder eng-eng
+	- Gravel-Style: fahre Frühsommer bis Frühherbst meistens ein dünnes, etwas lockerer liegendes Langarm-Merino-Hemd mit Halb-Reißverschluss: 
+		UV-Blocker und gutes Klima drunter gehabt; steckt in einer dünnen, enger geschnittenen Überhose; 
+		nicht Presswurst-eng figurbetont wie Roadies und nicht zu baggy wie MTB-Fahrer; Ärmel kann man bei Bedarf hoch/runterziehen
+- Radhose:
+	- Polster: mMn. schwimmende besser als statische; 3d-geformte Polster vermutl. sinnvoller wenn man ungepolsterte Plastikschalen-Rennradsattel hat,
+		sonst addieren sich die Polsteroptimierungen u.U. ungünstig und die Polsterhügel wandern unterm Hintern;
+		ich komme jedenfalls mit den neutralen/flachen Polstern besser klar bei meiner leichten Sattelpolsterung (Ergon SR Allroad Core).
+	- siehe auch Abschnitt Sattel
+	- Trägerhose (Bib) rollt nicht vom Bauch
+	- zusammen mit Überhosen ergeben auch "Bib-Liner" Sinn; sind luftiger und Rückentaschen des Liners ersetzen fehlende Rückentaschen am Trikot/Hemd
+	- System für Herbst/Winter: mehrere hochwertige Sommer-Bibs mit polsterfreier Thermo-Überhose = bessere/gewohnte Polster, ökonomischer: kann 1 lange Hose länger tragen und Bibs durchwechseln/waschen
+- Überhose kurz:
+	- Anmutung kompatibler mit ländlich wohnenden Hillbillies als enge, abzeichnende Bibshorts
+	- Taschen, erspart andere Taschen am Rad oder Trikot
+	- Hose "Sportful Supergiara" taugt, wäre das Bundsystem nicht so dumm: reißt schnell und hält kaum Gewicht, z.B. Handy in der Tasche, kein Silikongripper;
+		auf dem Rad egal, aber Hose rutscht beim Gehen, was sehr stört
+- Überhose lang:
+	- habe eine Fahrrad-Winterhose (Überhose) ohne Polster, die ich über meine Sommerbibs ziehe = ökonomischer, bessere Polster, mehr Sommerbibs zur Verfügung;
+		meine Hosen mit Polster bekamen irgendwann Probleme mit dem Polster, auch umständlicher mit reinigen/Verfügbarkeit
+- Schuhe:
+	- für Klickpedale (clipless)
+	- mit SM-SH56-Cleats (erlaubt schräge Panikausstiege, taugt trotzdem zum Pedalziehen/Sprints vielleicht schwierig)
+	- Boa-Verschlussmechanismus vs Schnürsenkel vs Klettstreifen
+	- Radschuhe mit Schnürren haben oft eine flexible Lasche auf der Zunge, 
+		unter die man die Schnüren fixieren kann, damit sie sich nicht aufs Kettenblatt oder Pedalgewinde wickeln
+- Herbst/Winter:
+	- Langärmel-Trikot in orange (wobei dann eh meist Windweste oder Jacke drüber ist, highvis-Trikot eher sekundär; 
+		hatte nur 1 oder 2x Windstopperhemd drunter, Tage schnell kälter geworden)
+	- Thermojacke
+- Regen:
+	- im Spätsommer mal einfache Regenjacke angehabt 
+		und darunter dann durch Schweiß so nass gewesen 
+		als hätte ich mich gleich vollregnen lassen können;
+		probiere es seither mit Fahrrad-optimierten Poncho, 
+		der breiter belüftet wird
+	- Merino schwierig: 
+		trocknet langsamer als technische Plastikkleidung 
+		(aber schneller als Baumwolle)
+	- das Trocknen nasser Schuhe (innen) dauert lange
+	- Haut nasser Füße reibt sich über die Zeit auf und führt zu Entzündungen; Füße sind wichtiger Kontaktpunkt beim Radfahren: 
+		Velotoze nerviger anzuziehen, haben aber ein gutes Packmaß und halten dicht (es gibt Gesonderte für MTB/SPD und Rennrad/SPD-SL)
+- HighVis (v.a. Herbst-Winter, nachts):
+	- nicht kleidsam: statt Neongelb lieber weniger grelle Signalfarben wie orange, rot, matteres gelb
+	- Autofahrer finden es gut; als Radfahrer sieht man grelle Radler auch in Entfernung gut
+	- Problem imho weniger, dass Radler nicht wie Tannenbaum leuchtet, sondern Autofahrer nicht hingucken (Handy, Fahrerfensterseite) oder Radfahrer verdeckt wird
+	- Farbe nachts egal, Reflektoren wichtiger
+	- Debatte (inkl Reflektoren) macht Radsicherheit zum Privatproblem des Individuums und 
+		ignoriert allgm. Verkehrsinfrastruktur mit Gefährdungsstellen für Radler, Autos, Fußgänger
+- Sonstiges:
+	- Armlinge und Beinlinge verwende ich selten im Alltag; nur noch, wenn Packvolumen problem wird; 
+	  meist stimmt dann schon die Langarm-/Langbein-Auswahl; die nervt auch weniger als das Anzuppen;
+	  im letzten Sommer/Herbst gab's mal einen kalten Tag entlang des Wassers, da war ich froh über die Beinlinge;
+	  Vorteil ist das kleine Packmaß (Rückentaschen etc)
+	- die Beinlingphase im Jahr ist auch vglw. kurz, dann greift man eh zur Langhose
+	- habe eine dunne und dicke Unterhelmmütze von Gripgrab; bei Temperaturen -2 bis 2 hat die dünne immer gereicht, 
+		wenn man das Buff auch noch bis über den Hinterkopf gezogen hat (und daruber dann die dünne Mütze), 
+		dann wurde aus beidem quasi eine dickere Unterhelmmütze,
+		und die Wangen usw. wurdem auch noch geschützt
+
+
+### Meine Radhosen
+
+| Modell                                  | Polster        | Einsatz/offiz. (Saison)  | Sattel  | trocknet | Bewertung | Kommentar
+|-----------------------------------------|----------------|--------------------------|---------|----------|-----------|--------------------------------
+|  Gore Wear Bibs                         | Schaum         | max 3h/3h       (Sommer) | G, F, E | \*\*     | \*\*      | Polster-Falten/Ablösung n. 1-2 Jahren = Saddle Sores (Oberstoff löst sich und bildet Rubbel-Falten); gute Standard-Hose
+|**Gonso SQLab GO M Bibs (2x)**           | Gel/Elast. 6mm | max 6h/6h       (Sommer) | F, E    | \*\*\*   | \*\*\*    | Polsterkomfort konstant gut genug, kein Durchsitzen; Träger beim alten Modell zu kurz; *gut für Radreisen* und Standardrunden
+|  Castelli Unlimited Ultimate Bib-Liner  | Schaum         | max 4h/2-3h     (Sommer) | E       | \*       | \*\*\*    | Progetto X2 Polster genial, guter Sitz der Hose; mein *Fav für Standardrunden*; für Radreisen eher ungeeignet; hat Rückentaschen z.B. für Fahrrad-Portemonnaie
+|  Gore Wear Fernflow Bib-Liner           | Schaum         |     4h/?        (Sommer) | E       | \*\*\*   | \*\*\*    | Rückentaschen; sehr leicht; wenig Kompression, trotzdem ok; schwimmende Polsterkonstruktion; multi-density foam
+|  Gore Wear Tights                       | Schaum         | max 3h/3h       (Herbst) | F       | \*\*     | \*\*      | Polster-Falten/Ablösung n. 1-2 Jahren = Saddle Sores; gute Hose sonst
+|  GripGrab AquaRepel Bibs                | Schaum         | max ?/?         (Herbst) | E       | \*\*     | \*\*\*    | Kurze Hose für Herbsteinsatz mit Beinlingen bis 8 Grad
+|  Gore Wear Tights Windstopper           | Schaum         | max 3h/3h       (Winter) | F       | \*\*     | \*\*      | Polster-Falten/Ablösung n. 1-2 Jahren = Saddle Sores; Rest der Hose ist genial, fuhr damit problemlos bei Minustemperaturen
+|  Gonso Essential Softshell              | ohne           | &infin;         (Winter) | E       | ?        | \*\*      | Winterhose, die ich über Sommer-Bibs mit gutem Polster ziehe; muss weniger Winterhosen kaufen
+|  Überhose Sportful Supergiara 002 ('24) | ohne           | &infin;         (Sommer) | F       | ?        | \*\*      | viele kluge Taschen, dümmste Bundsystem ever: hält beladene Hose nicht und ist mir irgendwann beim Nachspannen gerissen
+|  Überhose Maloja StagiasM Gravel        | ohne           | &infin;         (Sommer) | E       | \*\*\*   | \*\*\*    | richtige Länge, leicht, punched in früherer Version, aber nur 1 Tasche (Smartphone)
+
+
+
+
 ## Schalten
 
 ### Schaltnummerierung / Sprachregelung:
@@ -348,7 +498,6 @@ Im UK, in NZ, Japan, China u.a. wären Bremsen vertauscht im Vgl. zu USA und den
 |-----------------------|--------------------|------------------------------|--------------------
 | schaltet vorne        | schaltet vorne     | schaltet hinten              | schaltet hinten
 | auf größeres Zahnrad  | kleineres Zahnrad  | größeres Zahnrad (leichter)  | kleineres (schneller)
-
 
 
 
@@ -414,22 +563,22 @@ Alternativ: Statt Bremse+Vorschub den Sattel fassen und anheben und Kurbel drehe
 	- leichtere Gänge vorm Stehen beschleunigen das Anfahren; langsam annähern, Ampelphasen lernen; 
 	- idealerweise gleitet man so ohne Absteigen/Trackstand schon in die nächste Grünphase
 
-
 Durchschnittsgeschwindigkeit steigern:
 
 - Hauptprinzip: Geschwindigkeit ist günstiger zu halten als neu aufzubauen
+- bremsfreieres Fahren der Kurven lernen
+- konstantes Tempo kurbeln statt Tempo variieren (Antreten-Rollen-Verlangsamen-Antreten-...), 
+	auch wenn sich mal langsam anfühlt
 - Leistung auf leicht ansteigendem bis welligem Terrain konstant hoch halten
 - noch 10-20 Sekunden über Hügelkuppen weitertreten statt nach höchstem Punkt sofort locker ausrollen:
 	- man ist noch schnell genug, dass Luftwiderstand relevant ist, aber nicht schnell genug, dass Rollen von selbst stabil läuft
-- bremsfreieres Fahren der Kurven lernen
 - typisch Mecklenburg-Vorpommern: 1.) Ebene größter Hebel, 2.) Berg zweitgrößter Hebel, 3.) Abfahrt kleinster Hebel
-
-
 
 
 ### Kurven:
 
 - vorm Einbiegen Pedal zur Kurvenseite (rechts-rechts) nach oben drehen, um Bodenkontakt beim Hineinlehnen in die Kurve zu vermeiden
+- mit der Seitenlage nicht übertreiben, falls man kräftiger Natur ist (Gewicht hohe Position auf dem Rad)
 
 Kurvenlinie
 
@@ -447,7 +596,7 @@ Kurvenlinie
 
 - Radwege müssen nur benutzt werden, wenn das Blaue-Lolli-Schild dies explizit vorschreibt (STVO), sonst optional
 	- wissen viele Autofahrer nicht und ermahnen teils Radler zur Nutzung von Radwegen, die sie gar nicht nutzen müssen = Nötigung?
-- Radwege sind fast immer in schlechterem Zustand als die Straße: aufgebrochen durch Wurzeln, Schlaglöcher, Glas, 
+- Radwege sind fast immer in schlechterem Zustand als die Straße: aufgebrochen durch Wurzeln, Schlaglöcher, Glasscherben, 
 	nebeneinanderfahrende/-flanierende Rentner, Fußgänger mit Hunden, zugeparkt usw. - ungünstig für Roadies bei 30-40 km/h
 - manchmal hat jede Straßenseite einen eigenen Radweg: "Geisterfahrer" fahren entgegen der vorgesehenen Verkehrsrichtung
 - Radwege haben fast immer Vorrang, trotzdem bei Wegkreuzungen auf Autoverkehr von beiden Seiten achten 
@@ -461,6 +610,17 @@ Kurvenlinie
 
 - sich dahinter zurückfallen lassen, nicht daneben warten bzw. mithalten; toter winkel; gibt komplette Ass1s @todo
 
+
+### Schieben:
+
+- wenn nur Straße zur Verfügung steht, muss man in Deutschland auf der _linken_ Seite dem Verkehr entgegen laufen (STVO)
+
+
+### PKW-Verfolger (Psychose):
+
+- YouTube zeigt Pkw-Fahrer, die Radfahrer verfolgen, z.B. weil diese aufs Dach geklopft haben (Mindestabstand)
+- Stadt: von Straße auf Weg wechseln und 180 Grad drehen (aufpassen, das PKW nicht schneiden kann); 
+	Auto lässt sich nicht so schnell drehen und kann nicht leicht rückwärts fahren da rückwärtiger Verkehr
 
 
 
@@ -560,151 +720,6 @@ StVoZ-ungültige, aber funktionale, ästhetischere Alternativen:
 
 
 
-## Kleidung
-
-Kleine Materialkunde:
-
-| Material               | Trocknung | Waerme | Kühlung | bleibt geruchsarm | Hautgefühl | Preis   | Kommentar
-|------------------------|-----------|--------|---------|-------------------|------------|---------|----------------
-| Baumwolle              | \*        | \*\*\* | \*\*\*  | \*                | \*\*       | \*\*\*  | 
-| Merino-Wolle           | \*\*      | \*\*\* | \*\*\*  | \*\*\*            | \*\*\*     | \*      | 
-| todo...                |           |        |         |                   |            |         | 
-
-
-
-Helm:
-- einfarbig weiß oder schwarz mit allen Kleiderfarben kombinierbar
-- Größe gut, wenn man noch Spiel beim Einstellrädchen hat:
-	- lockern bei Druckschmerzen nach längerer Zeit (Kopf schwillt auch an)
-	- Platz für Unterhelmmütze
-- Polster entfern- und reinigbar? Ersatzpolster kaufbar? (musste meine aum Ausland bestellen)
-- Unterscheidungen:
-
-
-| Rennradhelm (Giro Synthe 2 MIPS)                      | Stadthelm                                | Aerohelm |  ...
-|-------------------------------------------------------|------------------------------------------|----------|--------
-| starke belüftet                                       | weniger belüftet für mehr Crash-Masse    | weniger belüftet   |
-| MIPS (mglw. nur Marketing Gimmick)                    |                                          |          |
-| "GIRO"- und MIPS-Logoaufkleber entfernt               |                                          |          |
-
-
-
-Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
-
-
-**Helm + Klarsicht-/Sonnenbrille + Sommer-Gravel-Radschuhe +**
-
-| Temperatur     | Kopf                                                | Torso                                      | Hände                        | Beine                               | Füße                                    | Regen
-|----------------|-----------------------------------------------------|--------------------------------------------|------------------------------|-------------------------------------|-----------------------------------------|-----------------------
-| **-5-4&deg;C** | Unterhelm-Mütze dünn +Merinobuff Hinterkopf/Gesicht | Thermo-Softshell +Trikot lang +Basel. kurz | dicke Krebs-Handschuhe       | Bibshort +Wind-Thermo-Überhose lang | Neopren-Überschuhe +Wandersocken mittel | - (Nassregen selten)
-|  **4-7&deg;C** | Unterhelm-Mütze dünn +Merinobuff Gesicht            | Thermo-Softshell +Thermo-Baselayer lang    | mittelisol. Handschuhe lang  | Bibshort +Wind-Thermo-Überhose lang | Wind-Socken angeraut                    | Regenjacke/-poncho Gepäck +Velotoze
-|  **7-9&deg;C** | Unterhelm-Mütze dünn +Merinobuff in Rücktasch       | Thermo-Softshell +Baselayer kurz           | mittelisol. Handschuhe lang  | Bibshort +Wind-Thermo-Überhose lang | Wandersocken mittel                     | Regenjacke/-poncho Gepäck +Velotoze bei Langfahrt
-| **9-13&deg;C** | -                                                   | 80%-Windjacke    +Thermo-Baselayer lang;;<br>Trikot lang +Base angeraut lang +Windweste | unisol. Wind-Handschuhe lang  | Wind-Thermo-Bibshort +Beinlinge;; <br> Bib +Beinl. (auf &frac34;?) +Überhose kurz | Wandersocken mittel | Regenjacke/-poncho Gepäck +Velotoze bei Langfahrt
-|**13-18&deg;C** | -                                                   | Trikot lang +Windweste/-Basel.             | Handschuhe kurz              | Bibshort +Beinlinge auf &frac34;/Rückta.    | Rad-Socken mittel               | Windjacke +Velotoze bei Langfahrt
-|**18-30&deg;C** | -                                                   | Trikot/ Merinoshirt                        | Handschuhe kurz              | Bibshort                            | Rad-Socken dünn                         | - (aushalten)
-
-(Bibshort kann in Kombi mit Überhose auch ein Bibliner sein)
-
-
-- Sportbrille:
-	- bruchsicher
-	- großer Sichtbereich
-	- gegen Zugluft (auch seitlich), Insekten, Split, ...
-	- verdeckt erschöpften Blick
-	- Sonnenschutz (UV)
-	- Bügel nicht gebogen sondern gerade:
-		- passen in Radhelm-Lüftungsschlitze, falls man sie eine Weile nicht tragen möchte
-		- leichter aufsetzbar/abnehmbar ohne sich in Helmbändern zu verheddern
-	- wird _über_ statt unter dem Helmriemen getragen, damit kein Gefriemel im Unglücksfall und Rüffel durch Stylepolizei
-		- Nachteil: Vergessen beim Helmabsetzen = Brille fliegt auf den Boden
-	- ...
-	- Klarsicht für Abend/Herbst/Winter, oder photochromatisch
-- Handschuhe:
-	- schützt Hände beim Hinfallen, Weiterfahren sonst schmerzhaft
-	- Lenkerband verschmutzt weniger schnell
-	- Wind-/Kälteschutz
-	- Polsterung
-	- Kurzfinger: Castelli Men's Entrata V Glove
-	- Langfinger: Gripgrab Herbst (schwarz), Gripgrab Deep Winter (schwarz), Castelli Perfetto Light Glove (sehr dünn, 0 Polsterung, winddicht)
-- Trikot: 
-	- weites Hemd mit engen Bibs = Fred-Vibes: locker-locker oder eng-eng
-	- Gravel-Style: fahre Frühsommer bis Frühherbst meistens ein dünnes, etwas lockerer liegendes Langarm-Merino-Hemd mit Halb-Reißverschluss: 
-		UV-Blocker und gutes Klima drunter gehabt; steckt in einer dünnen, enger geschnittenen Überhose; 
-		nicht Presswurst-eng figurbetont wie Roadies und nicht zu baggy wie MTB-Fahrer; Ärmel kann man bei Bedarf hoch/runterziehen
-- Radhose:
-	- Polster: mMn. schwimmende besser als statische; 3d-geformte Polster vermutl. sinnvoller wenn man ungepolsterte Plastikschalen-Rennradsattel hat,
-		sonst addieren sich die Polsteroptimierungen u.U. ungünstig und die Polsterhügel wandern unterm Hintern;
-		ich komme jedenfalls mit den neutralen/flachen Polstern besser klar bei meiner leichten Sattelpolsterung (Ergon SR Allroad Core).
-	- siehe auch Abschnitt Sattel
-	- Trägerhose (Bib) rollt nicht vom Bauch
-	- zusammen mit Überhosen ergeben auch "Bib-Liner" Sinn; sind luftiger und Rückentaschen des Liners ersetzen fehlende Rückentaschen am Trikot/Hemd
-	- System für Herbst/Winter: mehrere hochwertige Sommer-Bibs mit polsterfreier Thermo-Überhose = bessere/gewohnte Polster, ökonomischer: kann 1 lange Hose länger tragen und Bibs durchwechseln/waschen
-- Überhose kurz:
-	- Anmutung kompatibler mit ländlich wohnenden Hillbillies als enge, abzeichnende Bibshorts
-	- Taschen, erspart andere Taschen am Rad oder Trikot
-	- Hose "Sportful Supergiara" taugt, wäre das Bundsystem nicht so dumm: reißt schnell und hält kaum Gewicht, z.B. Handy in der Tasche, kein Silikongripper;
-		auf dem Rad egal, aber Hose rutscht beim Gehen, was sehr stört
-- Überhose lang:
-	- habe eine Fahrrad-Winterhose (Überhose) ohne Polster, die ich über meine Sommerbibs ziehe = ökonomischer, bessere Polster, mehr Sommerbibs zur Verfügung;
-		meine Hosen mit Polster bekamen irgendwann Probleme mit dem Polster, auch umständlicher mit reinigen/Verfügbarkeit
-- Schuhe:
-	- für Klickpedale (clipless)
-	- mit SM-SH56-Cleats (erlaubt schräge Panikausstiege, taugt trotzdem sehr gut zum Pedalziehen)
-	- Boa-Verschlussmechanismus vs Schnürsenkel vs Klettstreifen
-	- Radschuhe mit Schnürren haben oft eine flexible Lasche auf der Zunge, 
-		unter die man die Schnüren fixieren kann, damit sie sich nicht aufs Kettenblatt oder Pedalgewinde wickeln
-- Herbst/Winter:
-	- Langärmel-Trikot in orange (wobei dann eh meist Windweste oder Jacke drüber ist, highvis-Trikot eher sekundär; 
-		hatte nur 1 oder 2x Windstopperhemd drunter, Tage schnell kälter geworden)
-	- Thermojacke
-- Regen:
-	- im Spätsommer mal einfache Regenjacke angehabt 
-		und darunter dann durch Schweiß so nass gewesen 
-		als hätte ich mich gleich vollregnen lassen können;
-		probiere es seither mit Fahrrad-optimierten Poncho, 
-		der breiter belüftet wird
-	- Merino schwierig: 
-		trocknet langsamer als technische Plastikkleidung 
-		(aber schneller als Baumwolle)
-	- das Trocknen nasser Schuhe (innen) dauert lange
-	- Haut nasser Füße reibt sich über die Zeit auf und führt zu Entzündungen; Füße sind wichtiger Kontaktpunkt beim Radfahren: 
-		Velotoze nerviger anzuziehen, haben aber ein gutes Packmaß und halten dicht (es gibt Gesonderte für MTB/SPD und Rennrad/SPD-SL)
-- HighVis (v.a. Herbst-Winter, nachts):
-	- nicht kleidsam: statt Neongelb lieber weniger grelle Signalfarben wie orange, rot, matteres gelb
-	- Autofahrer finden es gut; als Radfahrer sieht man grelle Radler auch in Entfernung gut
-	- Problem imho weniger, dass Radler nicht wie Tannenbaum leuchtet, sondern Autofahrer nicht hingucken (Handy, Fahrerfensterseite) oder Radfahrer verdeckt wird
-	- Farbe nachts egal, Reflektoren wichtiger
-	- Debatte (inkl Reflektoren) macht Radsicherheit zum Privatproblem des Individuums und 
-		ignoriert allgm. Verkehrsinfrastruktur mit Gefährdungsstellen für Radler, Autos, Fußgänger
-- Sonstiges:
-	- Armlinge und Beinlinge verwende ich selten im Alltag; nur noch, wenn Packvolumen problem wird; 
-	  meist stimmt dann schon die Langarm-/Langbein-Auswahl; die nervt auch weniger als das Anzuppen;
-	  im letzten Sommer/Herbst gab's mal einen kalten Tag entlang des Wassers, da war ich froh über die Beinlinge;
-	  Vorteil ist das kleine Packmaß (Rückentaschen etc)
-	- die Beinlingphase im Jahr ist auch vglw. kurz, dann greift man eh zur Langhose
-	- habe eine dunne und dicke Unterhelmmütze von Gripgrab; bei Temperaturen -2 bis 2 hat die dünne immer gereicht, 
-		wenn man das Buff auch noch bis über den Hinterkopf gezogen hat (und daruber dann die dünne Mütze), 
-		dann wurde aus beidem quasi eine dickere Unterhelmmütze,
-		und die Wangen usw. wurdem auch noch geschützt
-
-
-### Meine Radhosen
-
-| Modell                                  | Polster        | Einsatz (Saison)  | Sattel  | trocknet | Bewertung | Kommentar
-|-----------------------------------------|----------------|-------------------|---------|----------|-----------|--------------------------------
-|  Gore Wear Bibs                         | Schaum         | max 3h   (Sommer) | G, F, E | \*\*     | \*\*      | Polster-Falten/Ablösung n. 1-2 Jahren = Saddle Sores (Oberstoff löst sich und bildet Rubbel-Falten); gute Standard-Hose
-|**Gonso SQLab GO M Bibs (2x)**           | Gel/Elast. 6mm | max 6h   (Sommer) | F, E    | \*\*\*   | \*\*\*    | Polsterkomfort konstant gut genug, kein Durchsitzen; Träger beim alten Modell zu kurz; *gut für Radreisen* und Standardrunden
-|  Castelli Unlimited Ultimate Bib-Liner  | Schaum         | max 2-3h (Sommer) | E       | \*       | \*\*\*    | Progetto X2 Polster genial, guter Sitz der Hose; mein *Fav für Standardrunden*; für Radreisen eher ungeeignet; hat Rückentaschen z.B. für Fahrrad-Portemonnaie
-|  Gore Wear Tights                       | Schaum         | max 3h   (Herbst) | F       | \*\*     | \*\*      | Polster-Falten/Ablösung n. 1-2 Jahren = Saddle Sores; gute Hose sonst
-|  GripGrab AquaRepel Bibs                | Schaum         | max ?    (Herbst) | E       | \*\*     | \*\*\*    | Kurze Hose für Herbsteinsatz mit Beinlingen bis 8 Grad
-|  Gore Wear Tights Windstopper           | Schaum         | max 3h   (Winter) | F       | \*\*     | \*\*      | Polster-Falten/Ablösung n. 1-2 Jahren = Saddle Sores; Rest der Hose ist genial, fuhr damit problemlos bei Minustemperaturen
-|  Gonso Essential Softshell              | ohne           | &infin;  (Winter) | E       | ?        | \*\*      | Winterhose, die ich über Sommer-Bibs mit gutem Polster ziehe; muss weniger Winterhosen kaufen
-|  Überhose Sportful Supergiara 002 ('24) | ohne           | &infin;  (Sommer) | F       | ?        | \*\*      | viele kluge Taschen, dümmste Bundsystem ever: hält beladene Hose nicht und ist mir irgendwann beim Nachspannen gerissen
-|  Überhose Maloja StagiasM Gravel        | ohne           | &infin;  (Sommer) | E       | \*\*\*   | \*\*\*    | richtige Länge, leicht, punched in früherer Version, aber nur 1 Tasche (Smartphone)
-
-
-
-
 
 ## Werkzeuge
 
@@ -781,25 +796,51 @@ Ständig am Fahrrad bzw. Fahrer:
 - ~~Werkzeugtasche (SKS Explorer Straps 800 ml)~~ Fahrrad-Portemonnaie (The Pack) in Trikot/Jacken/Bibliner-Rückentasche:
 	- Inbus 3,4,5  (3er bei mir für Bremsbelagnachstellung)
 	- Bits PH1, PH2 mit kleinem Daumenschrauber (Shimano-Schaltgruppe)
-	- Tubeless-Würstchen mit Pieker und klappbarem Minimesser
+	- ~~Tubeless-Würstchen mit Ahle/Reamer und klappbarem Minimesser~~ Dynaplug Racer Pro + halbe Rasierklinge im Panzertape-"Cover"  
+		(einfache Würstchen, engl. bacon strips, günstiger, aber zu mühsam und fehleranfällig, macht Loch größer)
 	- Reifenheber Schwalbe 2x
 	- TPU-Schlauch
 	- TPU-Schlauch-Reparatur-Kit
 	- Reifen-Reparaturkit (Boots)
 	- ~~Minizange Knipex Kobra~~  (kein Platz mehr)
 	- Mini-Kettennieter mit Griff = Ventileinsatzschlüssel
-	- Speichennippel-Spanner
+	- Speichennippel-Spanner (passender Spokey ist leicht und flach packbar)
 	- Nitril-Handschuhe
 	- RIAS Trockentücher in Tablettenform (Schmutz am Rad oder Öl-Hände abwischen, Frischmachen im Schwitz-Sommer, Notfall-Klopapier)
-	- Mülltüte für Reparaturreste (z.B. Tücher voll mit Dichtmilch oder Öl)
-- Smartphone in Klapphülle mit Fächern für
+	- Mülltüte für Reparaturreste (z.B. öl-/dichtmilchverschmierte Tücher oder Handschuhe)
+- Smartphone in Klapphülle mit Fächer für
 	- Geldkarte
 	- Personalausweis
 	- Bargeldscheine (5-50 Euro)
-	- Krankenkarte passt bei mir nicht mehr rein (kann man aber immer nachreichen, Foto auf Smartphone für Daten)
+	- Krankenkarte passt bei mir nicht mehr rein (kann man aber immer nachreichen, Foto auf Smartphone für Daten; Name der KK reicht im RTW erfahrungsgemäß)
 - Minipumpe (SKS Supershort) am Sitzrohr (unauffälliger als am Unterrohr)
 	- darauf paar Meter Panzertape gewickelt
-
+- Road-Rash-Erste-Hilfe-Plastikverschlusstüte mit Gummi in Rücktasche (ich bin kein Arzt!):
+	- Nagelschere und Pinzette in Lederetui (nicht am Rückgrat tragen)
+	- Wundspülung mit Wasser aus Trinkflasche (bei 2 Flaschen immer eine ohne Zusätze transportieren) 
+		- besser: kleines Wundspray 50 ml oder 1-2 NaCl-Ampullen 20 ml
+		- auch um Wunde herum säubern (ideal mit Alkohol, Alk nie in der Wunde!)
+	- halbierte Sensory-Bürste, falls sich Dreck nicht ausspülen lässt - Wunden idealerweise sonst nicht bürsten
+		- alternativ: sterile Mulltupfer + Spülflüssigkeit + Wunde bisschen mit Duck säubern (hatte mein Sani im RTW gemacht)
+	- (wound dressing solutions/creams?: Neosporin oder Betadine mit Mulltupfer auftragen) 
+	- 2x Solvaline N sterile Wundauflagen 10x10 cm (verklebungsarm) 
+		- alternativ (unerprobt/Hörensagen): zeitw. Lebensmittelfolie = isoliert und erhält feuchtes Milieu, könnte aber suppen
+		- 3M Tegaderm eher für zuhause  
+		- 3M Steri Strip gut packbar aber fast immer schlechter als eine Wundauflage: 
+			für kleine, saubere Schnittwunden, 
+			bei denen die Wundränder leicht auseinanderstehen (Blutung vorher mit Kompresse und Druck gestoppt), 
+			kein Ersatz fürs Nähen oder Klammern, nichts für tiefe Wunden (Fettgewebe/Muskeln sichtbar),
+			zugeklebte Wunde exudiert evtl. sogar schlechter
+	- Fixomull Stretch Klebevlies 10xN cm zum Festhalten der Wundauflagen  
+		(vorm Entfernen erst anfeuchten/einweichen, sonst Haare weg, ggf. auch bei der Wundauflage, falls Wunde/Schorf anklebt)
+	- normale Pflaster
+	- merke:
+		- früh Dreck entfernen
+		- Tetanus-Impfung
+		- früher galt trocknen lassen, heute lieber feuchte Heilumgebung (weniger Narbenbildung)
+		- Ersthilfe taugt nur, falls man sich noch gut selbst helfen kann, sonst lieber helfen lassen bzw. Rettungswagen
+		- Adrenalin vs. Schmerzempfinden
+		- Gesichtsverletzungen prüfen (Smartphone), merkt man evtl. kaum/ggf. taub
 
 
 ## Kleine Schmierstoffkunde
@@ -1679,38 +1720,34 @@ Säubern:
 	- Reifentausch HR/VR mgl.; allerdings schlechterer Reifen vorne = erhöhtes Sturzrisiko
 	- symmetrisch ästhetischer
 	- einfacher/gut genug; asymetrisch mehr Knobelei
-- Nasshaftung (Wet grip) _auf Asphalt_ bei profillosen Slick-Reifen besser (mehr Kontaktfläche) als bei profilierten Noppen-/Stollenreifen,
-	off-road ist es umgekehrt
 
 
-| Gesichtspunkt  | Hinterreifen (=Vortrieb) | Vorderreifen (=Handling) | Bemerkung
-|----------------|--------------------------|--------------------------|--------------------------
-| Antriebskräfte | Großteil                 | -                        | HR belasteter
-| Tragegewicht   | 60%                      | 40%                      | HR belasteter
-| Verschleiß     | schneller                | langsamer                | manche tauschen irgendwann HR und VR (falls identisch)
-| Compound       | härter                   | weicher                  | HR robuster, VR mehr Grip für Kurven, Notbremsung
-| TPI            | weniger                  | mehr                     | HR robuster, VR geschmeidiger/Grip
-| Reifenbreite   | schmaler                 | breiter                  | max. 3mm Unterschied, sonst wabbeliges Fahrverhalten
-| Rollwiderstand | *entscheidend*           | -                        | für Gesamtgeschw. auf gerader Strecke; lahmer VR weniger Einfluss auf HR als umgekehrt
-| Reifengewicht  | -                        | -                        | Rollwiderstand unabh. vom Reifengewicht sondern von Abroll-Verformung (Material, Aufbau, Breite, Luftdruck) \* Normalkraft auf Reifen (Gewicht Fahrer + Rad, Reifengewicht +300g Bruchteil); aber: leichte Reifen beschleunigen/bremsen schneller und sind agiler in Kurven (Inertia/rotierende Masse), halten Speed aber nicht so lange (Momentum)
-
+| Gesichtspunkt   | Hinterreifen (=Vortrieb) | Vorderreifen (=Handling) | Bemerkung
+|-----------------|--------------------------|--------------------------|--------------------------
+| Antriebskräfte  | Großteil                 | -                        | HR belasteter
+| Tragegewicht    | 60%                      | 40%                      | HR belasteter
+| Verschleiß      | schneller                | langsamer                | Laufleistung; manche tauschen irgendwann HR mit VR (falls identisch)
+| Pannenrisiko    | höher                    | geringer                 | Pannenschutz: HR trägt mehr Gewicht und verschleißt schneller, Durchschläge wahrscheinlicher
+| Gummimischung   | härter (robuster)        | weicher (Kurvengrip)     | engl. Compound; Notbremsung; Short-Härte z.B. 60a höher=weicher
+| Bodenhaftung    | Vortrieb/Bremsen         | Seitenführung/Kurvengrip | 
+| Nasshaftung     | kontrollierbar           | Sturzgefahr (Lenkung)    | engl. Wet grip auf Asphalt bei Slicks besser (mehr Kontaktfläche) als bei profilierten Noppen/Stollenreifen; off-road umgekehrt
+| TPI             | weniger                  | mehr (supple)            | HR robuster, VR geschmeidiger/Grip, mehr Fäden=verformen/walken besser, aber geringere Haltbarkeit bei höherem Preis
+| Reifenbreite    | schmaler                 | breiter                  | max. 3mm Unterschied, sonst wabbeliges Fahrverhalten
+| Rollwiderstand  | *entscheidend*           | -                        | für Gesamtgeschw. auf gerader Strecke; lahmer VR weniger Einfluss auf HR als umgekehrt
+| Reifengewicht   | -                        | Lenkverhalten/Agilität   | Rollwiderstand unabh. vom Reifengewicht sondern von Abroll-Verformung (Material, Aufbau, Breite, Luftdruck) \* Normalkraft auf Reifen (Gewicht Fahrer + Rad, Reifengewicht +300g Bruchteil); aber: leichte Reifen beschleunigen/bremsen schneller und sind agiler in Kurven (Inertia/rotierende Masse), halten Speed aber nicht so lange (Momentum)
+| Selbstreinigung | Traktion bei Beschleun.  | Lenkpräzision            |  
+| Handreinigung   | -                        | -                        | Slicks/glattflache Oberflächen sind leichter zu reinigen, bleibt weniger hängen
+| Geräuschentw.   | -                        | wahrnehmbarer            | weniger Profil ist meist leiser
+| Maßhaltung      | -                        | -                        | angegebene Reifenbreite vs real gemessene auf verwendeter Felge; auch Rundlauf, Formstabilität unter Last, Konstanz über Verschleißdauer
 
 
 - Karkasse
 	- TPI = Threads per inch, Fäden pro Zoll, Dichte des Gewebes (auch: EPI, ends per inch);
 		Je höher der Wert, desto besser soll der Reifen walken können
-- Laufleistung
-- Rollwiderstand
-- rotierende Masse, die man beschleunigen oder hochtragen muss: Reifengewicht \* x?
+- es ist effizienter, wenn sich der Reifen leicht verformt, wenn er auf ein Hindernis trifft, 
+	als wenn das gesamte Fahrrad und der Fahrer über das Hindernis gehoben werden
 - Schwingungswiderstand
-- Geräuschentwicklung
-- Nasshaftung
-- Pannenschutz
-- Gummimischung
-	- Shore­Härte (z.B. 60a), je höher, desto weicher das Gummi
 - Wulst, Drahtwulst vs. Faltwulst
-- Maßhaltung 
-	- Angabe der Reifenbreite vs. reale/gemessene Breite auf der verwendeten Felge
 - wann wechseln?
 
 
@@ -2108,7 +2145,8 @@ TODO muss ich komplett überarbeiten bzw. mein tats. Planungs-Spreadsheet verlin
 	- Isomatte: 
 		- Thermarest Neoair Xlite, bequem und Packmaß noch ok (XL ist schon größerer Klotz als die S-Version in der Werbung)
 	- Schlafsack:
-		- Sommer: Carinthia G90 (hab meinen Carinthia Tropen verkauft: würde auch nichts militärisches mehr kaufen, da schwerer und Körper mehr Stauraum erwärmen muss; zivil ist oft effektiver/effizienter), 
+		- Sommer: Carinthia G90 (hab meinen Carinthia Tropen verkauft: würde auch nichts militärisches mehr kaufen, 
+			da schwerer und Körper mehr Stauraum erwärmen muss; zivil ist oft effektiver/effizienter), 
 			Sommer hat hier morgens schonmal 10-11 Grad
 		- dünner Schlafsack wird gepimpt mit Daunenjacke und Thermohose, die ich auch außerhalb tragen kann = modularer, platzsparender
 	- Shelter:
@@ -2141,6 +2179,11 @@ TODO muss ich komplett überarbeiten bzw. mein tats. Planungs-Spreadsheet verlin
 	- Schutzfolie gegen Abrieb durch Taschenriemen
 
 
+Militärische Ausrüstung ist primär auf Robustheit, Standardisierung, Wartbarkeit und lange Lagerfähigkeit ausgelegt. 
+Das führt oft zu mehr Gewicht, simplerer Konstruktion und weniger Feintuning auf Komfort oder
+Spezialanwendungen im zivilen Sinn. Persönlich bevorzuge ich für Bikepacking zivile Ausrüstung.
+
+
 
 
 Gutes Setup auf YT:
@@ -2152,8 +2195,11 @@ Gutes Setup auf YT:
 ## Tourplanung
 
 - Planung leichter am PC statt Smartphone:
-	- Komoot
-	- ungetestet: Ride with GPS (RwGPS)
+	- Komoot: 
+		- falsch: alle Zwischenstationen/POI nacheinander setzen
+		- richtig: Anfang und Endpunkt der Tour zuerst markieren, ggf. als Rundkurs setzem, und danach in _beliebiger_ Reihenfolge POIs "zur Strecke hinzufügen", finale Korrekturen
+		- "Rennrad" = befestigt, "Fahrrad" meist noch ok, "Gravel" ist tats. schon MTB
+	- ungetestet: Ride with GPS (RwGPS), Bikerouter
 - Info-Basics notieren (Wetterdaten):
 	- Vergleich mit Vorjahren bei Anreise erst in paar Wochen: https://de.weatherspark.com/
 	- aktuelles Wetter:        https://www.meteoblue.com/
@@ -2424,6 +2470,8 @@ Alles andere lässt sich unterwegs lösen.
 
 #### Fahrrad-Handel (LBS, Online):
 
+- der verkauf ist viel lukrativer als die werkstatt, insofern macht es sinn, die werkstatt als "loss-leader" 
+	(oder bzw. mit sehr geringen margen) für den verkauf zu betreiben
 - [YouTube: Der teure Fahrradhändler - ein Statement!](https://www.youtube.com/watch?v=0ReiZTJ4MDM)
 	- Shimano 9x-Kette 11 Euro online vs 25-35 Euro beim Vor-Ort-Händler
 	- große Online-Händler kaufen containerweise günstiger direkt beim Hersteller statt beim Großhändler
@@ -2466,7 +2514,7 @@ Bin kein Anwalt, daher alle rechtl. Angaben ohne Gewähr:
 	- erste Kilometer langsam, Partner fährt nach hause, anderer fährt weiter in eigenem Tempo 
 		 (fühlt sich für Schnelleren trotzdem wie lästige Pflicht an, und Solo-Heimfahrt für Langsameren wie düpiert)
 - "motorisierte Gewalt", Road Rage, Car-Brain
-	- leichtes 2x Hupen: kann tats. manchmal nur Überholversuch ankündigen, in der STVO tats. so erlaubt (Lichtsignal oder Hupe)
+	- leichtes 2x Hupen: kann tats. manchmal nur Überholversuch ankündigen, in der STVO tats. so _außerorts_ erlaubt (Lichtsignal oder Hupe)
 	- Scheibenwischanlage beim Vorbeifahren betätigt
 	- geringe Überholabstände
 	- Verweis auf angebliche Radwege, obwohl keine Pflicht (kein blauer Lolli oder unfahrbar)
