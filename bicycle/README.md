@@ -195,7 +195,7 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Stoßdämpfer           | shock absorber   | N/A
 | Pedale                | pedals           | N/A
 | Gabel                 | fork             | GIANT Revolt Advanced Vollcarbon-Gabel (rly?)
-| Gabelschaft           | steerer tube     | GIANT OverDrive-Gabelschaft (OD Version 1) aus Carbon-Verbundwerkstoff; tapered/konisch; OD=1 1/8" (28,6 mm), ID=???
+| Gabelschaft           | steerer tube     | GIANT OverDrive-Gabelschaft (OD Version 1) aus Carbon-Verbundwerkstoff; tapered/konisch; OD=1 1/8" (28,6 mm [28,8 mm gemessen]), ID=23,5 mm [gemessen]
 | Gabelschaftexpander   | fork expander    | ???  compression plug; "PAT.NO:176446 4Nm" [mglw. Foto](https://img.yec.tw/ob/image/ce890db5-1b65-421b-b4de-a53e8e558b2a.jpg), [Foto 2](https://img.yec.tw/cl/api/res/1.2/FerNGcWZE_MX7Lyih.Lhxw--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTEyMDA7cT04NTtyb3RhdGU9YXV0bzt3PTEyMDA-/https://img.yec.tw/ob/image/a96fede6-75ca-4027-a848-4aec1f1e7915.jpg)
 | Gabelkonus            | crown race       | Konus ist nicht separat, sondern im Carbonschaft integriert, also Teil der Gabelkrone
 | Steuersatz            | headset          | voll-integriert (IS): statt Einpress- oder Ausschlagwerkzeug alles mit Hand in Rahmen-Ausbuchtungen legbar [erprobt]
@@ -243,6 +243,7 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Steuersatzlager    | 2025    | 2x 20 €?  | \*\*\*  | CQ GmbH Edelstahl                 | Ersatz wg. rauem Lauf; vorläufig noch nichts Negatives festgestellt
 | Konuslagerkugeln   | 2025    |  5 €?     | ?       | Woembi G20 HRC&ge;60 1/8"         | Ersatz wg. Korrosion
 | Kabel Schaltzug    | 2024    | 14 €      | \*\*\*  | Shimano OT-SP41 Optislick         | ersetzt gerissenes Jagwire; Zugseil gleitet gut (STI-Widerstand), gut zu cutten
+| Kabel Bremszug     | 2026-07 | 22 €      | Todo    | Jagwire Road Pro Brake Kit        | _kompressionsfreie_ Hüllen zur Aufwertung mechanischer Scheibenbremsen
 | Reifen             | 2025    | 2x 40 €   | Todo    | Tufo Thundero HD                  | 700x40C (41 mm),          je 439g, schneller Gravel-Semi-Slick-Faltreifen,      TPI 130/255, BRR 5/5 (19,2 W); 2,7 bar            (105 kg); 59 ml Dichtmilch, Stans/Tufo-Sealant würden nicht dichten, Orange aber
 | Reifen             | 2025-02 | 2x 50 €   | \*\*\*  | Michelin Pro 5 TLR                | 700x35C [35 mm gemessen], je 390g, leichter/schneller Allroad-Slick-Faltreifen, TPI 120,     BRR 5/5 (13,8 W); 3,3–3,5 bar/offiz. (105 kg); 60 ml Dichtmilch initial, 30 ml top-up; [Handmontage+Standpumpe]; 32mm bei 105 kg zu hart = Energieverlust (springt/reibt gg realen Asphalt statt verformend zu gleiten) = langsamer/kurveninstabiler/unkomfortabler als 35er; 32er auf meine Felge auch grenzwertig
 | Reifen-Dichtmilch  | 2025-02 | ?         | ?       | Orange Seal Endurance             | bleibe länger flüssig, dichte aber nicht so schnell/gut wie die normale Orange-Version; Orange scheint auch mit mehr Reifen verträglich zu sein als Stans; hat gut zw. Bead und Felgen abgedichtet
@@ -253,10 +254,11 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Flaschenhalter     | 2023    | 2x 15 €   | \*\*\*  | SKS Germany DUAL SC RH und LH     | seitliche Entnahme beide rechtshändig; zerkratzt Flaschen, ansonsten top, stabil
 | Computer           | 2023    | 260 €     | \*\*\*  | Wahoo Bolt 2                      | mit Gummi-Schutzhülle, dank der mein Wahoo mal aus der Hand flummiartig runter durchs Treppenhaus schoss und unversehrt blieb
 | Computer-Halterung | 2025    | 63 €      | \*\*    | Framesandgear Aero 27 mm Wah/Sm.  | Stem-Mount; stabil, sieht gut aus/ragt nicht über Lenker; ragt nicht seitl. über Vorbaulenkerklemme = einzig mit meinem Jack-Frontrack+Lenker funktionierender; teuer und schlechter Transferwert durch feste Breite
-| Lenkeraufsatz      | 2023    | &gt;100 € | \*\*\*  | Profile Design Sonic Ergo T5+     | 348 mm Länge (13&deg;), Alu 6061-T6, siehe Aerolenker-Abschnitt
-| Lenker             | 2026-07 | 38 € Sale | Todo    | Zipp Service Course 70 Ergo Blast | 440/    mm  (4&deg; Flare), kompakt, Alu 6061 "365g", 3&deg; Backsweep, abgeflachter Oberlenker, Clip-on ok; 1cm kürzerer Reach auf 70mm (war vorher oft vor den Hoods) + 90mm-Vorbau
+| Gabelexpander      | 2026-07 | 33 €      | Todo    | Öhlins SP Expander                | Todo cm, 1 1/8"; ersetzt zu kurzen 3 cm-OEM-Expander, da ich mit Lenker tiefer möchte ohne vorerst Gabel abzusägen
+| Lenker             | 2026-07 | 38 € Sale | Todo    | Zipp Service Course 70 Ergo Blast | 440/    mm  (4&deg; Flare), kompakt, Alu 6061 "365g", 3&deg; Backsweep, abgeflachter Oberlenker, Clip-on ok; 1cm kürzerer Reach auf 70mm (war vorher oft vor den Hoods) + 90mm-Vorbau; je tiefer umso ergonomischer die Tops vermutl.
 | Lenker             | 2025    | 27 €      | \*\*\*  | Moquai Aero Rennradlenker         | 420/420 mm  (0&deg; Flare), kompakt, Alu 6061 "285g"; 4 cm schmaler/sportl. als Erstlenker; Logos subtil; ovalisierte, nicht zu breite Tops; flext in den Drops
 | Lenker             | 2025    | 18 € Sale | Todo    | FSA AGX Adventure Compact         | 440/500 mm (12&deg; Flare), kompakt, Alu 6061 "325g", 2 cm schmaler als Erstlenker, für Bikepacking, Logos übertrieben
+| Lenkeraufsatz      | 2023    | &gt;100 € | \*\*\*  | Profile Design Sonic Ergo T5+     | 348 mm Länge (13&deg;), Alu 6061-T6, siehe Aerolenker-Abschnitt
 | Lenkerband         | 2023    | 25 €      | \*\*\*  | Profile Design Aerobar Wrap       | dünn,    gummiartig,  Klebestreifen,        für Lenkeraufsatz; dünner als Dropbar gegen Wurstoptik; nur Grip, kaum Dämpf.; Bandkante drückt sich als "Fortsetzungslinie" durch = gleichmäßiges Wickeln
 | Lenkerband         | 2025    | 13 €      | \*\*    | FSA Ultra-Gel Kork                | mittel,  Kork,        Klebestreifen (Rückstände),  dämpft ohne zu dick aufzutragen, stufig/Grip ok, ging schnell drauf, mit ital. 8 genug Länge; hässl. Finishtape/Barends
 | Lenkerband         | 2025    | 13 €      | \*      | Selle Italia SmooTape Gran Fondo  | 2,5 mm,  EVA-Schaumstoff (langweiliger als Kork), Silikonstreifen/Zug,  ½ oder ⅓ wickeln? aus Entfernung stufenfrei (auch nicht besser als andere); ledrigerer Look ok; weiße Logos = Vogelstange; hässl. Finishtape
@@ -265,7 +267,7 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Lenkerband         | 2026-04 |  8 €      | \*      | DEDA                              | Synthetik, gun barrel grey (4800); Klebestreifen; sieht ok aus (all black aber doch schöner), lässt sich gut wickeln und korrigieren, aber hart-samtig-glatt = problematisch wenig Grip; wenig Dämpfung und Vorsicht beim Abziehen des Schutzes auf dem Klebestreifens, löst sonst gleich beides vom Band (ggf. von der Seite abfitzeln); Länge hat ohne ital 8 noch gereicht bei 42-cm Flattop-Lenker inkl. Tops; ok, falls es günstig sein muss; hinterließ beim Entfernen keine Spuren, war aber auch nur 1-2 Monate auf dem Lenker
 | Lenkerband         | 2026-05 | 22 €      | \*\*\*  | Cinelli Special Edition Gelkork   | Kork, mittel (muss straff gelegt werden, sonst Wurstoptik), diese SE-Version hat guten Silikon- statt Klebestreifen = leicht wickeln und korrigieren, Cinelli-Logos helfen beim Alignment; dämpft auch noch ausreichend wenn straff gewickelt; etwas glatt, Hand kann rutschen; kann auf dem Lenker verrutschen, lässt sich aber wieder ohne Abwickeln zeitlang korrigieren
 | Lenkerband         | 2026-05 | 25 €      | Todo    | Faserwerk Handschmeichler SL      | 2,5 mm,  EVA-Schaumstoff
-| Kabel Bremszug     | 2026-07 | -         | -       | -                                 | ca. 5-6 cm eingekürzt, da Lenker 6 cm schmaler als Originallenker
+
 
 
 
@@ -950,7 +952,10 @@ Mit Vorrat hat man Zeit für Suche/Nachschub.
 		Messung nicht über die Ränder (bleiben dick) sondern quer auf die Bremsfläche) + ggf je 6 Schrauben
 - Lenker:
 	- 2x Lenkerband (löst sich auf, sitzt nicht mehr, reißt)
-	- 3x Haubenabdeckungen/Griffgummi-Paare, ggf. mehr Vorrat bei alten/auslaufenden Gruppen (Bracket Covers bei den Bremsschalthebeln werden ungleichmäßig abgerieben = nicht hübsch; schnell Knicke/Risse durch Wartungsarbeiten am Lenkerband oder der Hebelposition)
+	- 4x Haubenabdeckungen/Griffgummi-Paare, 
+			ggf. mehr Vorrat bei alten/auslaufenden Gruppen 
+			(Bracket Covers bei den Bremsschalthebeln werden ungleichmäßig abgerieben = nicht hübsch; 
+			schnell Knicke/Risse durch Wartungsarbeiten am Lenkerband oder der Hebelposition)
 	- 2x Steuersatzlager exakt mit Außen- und v.a. Innendurchmesser und z.B. 45-Grad-Kanten, Edelstahl (nicht nur Werkzeugstahl oder brüniertes Metall)
 - Laufrad:
 	- ?x Reifenmantel (Profil) wird abgerieben 
@@ -1916,6 +1921,32 @@ TODO
 	- _breiter_ Gravel-Unterlenker (andere Hand-Drehrichtung) und gute Abschlussband-Technik!: https://www.youtube.com/watch?v=K_BBKeH_9Co
 	- Road bike ohne ital. Acht mit Extrastreifen: https://www.youtube.com/watch?v=5MzIiv7pewE
 	- beste Methode für den Schnitt am Bandende: https://www.youtube.com/watch?v=O1Uvh6jhqc4
+
+
+
+#### Lenkervorbau + Gabelschaft-Expander/Compression Plug
+
+![Expander](expander.jpg)
+_(Abb.: kurzer, von GIANT verbauter Original-Expander: Zugbolzen mit Flansch zieht konischen Keil in die geschlitzte Spreizhülse und weitet sie dadurch auf)_
+
+Der Expander sorgt dafür, dass das Carbonrohr beim Festschrauben des Vorbaus nicht eingedrückt wird - der Expander übt eine Gegenkraft von Innen.
+
+##### Expander-Ausbau:
+
+1. Niemals mit Schraubendreher o.ä. zwischen Expander und Carbon-Schaft! Nicht auf dem Rohr irgendwas hebeln.
+2. Ahead-Kappe abschrauben
+3. Expander mit 8er-Inbus paar Windungen aufschrauben
+4. unwahrscheinlich, dass man den Expander schon rausziehen kann
+5. bisschen Druck auf den Inbus ausüben: dies presst den Keil nach unten aus der Hülse raus. 
+	Evtl. Keil einfach in Schaft fallen lassen und später wieder rausschütteln
+6. Hülse steckt trotzdem noch fest: 
+	z.B. mit 25ml-Nadelflasche etwas 99%-Isopropylalkohol (ist Carbon-verträglich) zwischen Hülle und Schaft einsickern lassen 
+	und mit Fingern versuchen den Hülse zu mobilisieren, z.B. nach unten drücken und wieder nach oben ziehen;
+	irgendwann hat man den in der Hand
+
+##### Expander-Einbau:
+
+Todo
 
 
 
