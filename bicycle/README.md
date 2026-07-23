@@ -1881,7 +1881,7 @@ TODO
 
 ## Lenker
 
-#### Fitting
+### Fitting
 
 - Compact Dropbar: 
 	Öffnung des Unterlenkerrohrs muss 90 Grad an einer Vertikalen vom Boden anliegen, also ohne Winkel gerade nach hinten zeigen.
@@ -1898,7 +1898,7 @@ TODO
 	- TODO
 
 
-#### Lenkerband
+### Lenkerband
 
 - Lenkerband mit Logos: an den Drops angefangen Logos zum Hinterrad ausrichten, also so dass man von Fahrerseite normal ablesen könnte.
 	Steht dann beim Hochwickeln nicht auf dem Kopf.
@@ -1924,34 +1924,39 @@ TODO
 
 
 
-#### Lenkervorbau + Gabelschaft-Expander/Compression Plug
+### Lenkervorbau + Gabelschaft-Expander/Compression Plug
 
-![Expander](expander.jpg)
+![Expander](expander.jpg)  
 _(Abb.: kurzer, von GIANT verbauter Original-Expander: Zugbolzen mit Flansch zieht konischen Keil in die geschlitzte Spreizhülse und weitet sie dadurch auf)_
 
 Der Expander sorgt dafür, dass das Carbonrohr beim Festschrauben des Vorbaus nicht eingedrückt wird - der Expander übt eine Gegenkraft von Innen.
+Außerdem hält er die Gabel fest, sobald diese bei der Lagerspieleinstellung nach oben gezogen wird.
 
-##### Expander-Ausbau:
 
-1. Niemals mit Schraubendreher o.ä. zwischen Expander und Carbon-Schaft! Nicht auf dem Rohr irgendwas hebeln.
+#### Expander-Ausbau:
+
+1. Niemals mit Schraubendreher o.ä. zwischen Expander und Carbon-Schaft! Niemals auf dem Rohrende irgendwas hebeln!
 2. Ahead-Kappe abschrauben
-3. Expander mit 8er-Inbus paar Windungen aufschrauben
+3. Expander mit 8er-Inbus paar Windungen aufschrauben (gegen Uhrzeigersinn)
 4. unwahrscheinlich, dass man den Expander schon rausziehen kann
-5. bisschen Druck auf den Inbus ausüben: dies presst den Keil nach unten aus der Hülse raus. 
+5. bisschen Druck auf den Inbus nach unten ausüben: dies presst den Keil nach unten aus der Hülse raus. 
 	Evtl. Keil einfach in Schaft fallen lassen und später wieder rausschütteln
 6. Hülse steckt trotzdem noch fest: 
-	z.B. mit 25ml-Nadelflasche etwas 99%-Isopropylalkohol (ist Carbon-verträglich) zwischen Hülle und Schaft einsickern lassen 
+	z.B. mit 25ml-Nadelflasche etwas 99%-Isopropylalkohol (ist Carbon-verträglich) zwischen Hülse und Gabelschaft einsickern lassen 
 	und mit Fingern versuchen den Hülse zu mobilisieren, z.B. nach unten drücken und wieder nach oben ziehen;
+	Vorsicht vor Graten.
+	Die Hülse hat Schlitze, die man mit einer Sprengringzange fassten könnte;
 	irgendwann hat man den in der Hand
 
-##### Expander-Einbau:
+
+#### Expander-Einbau:
 
 Todo
 
 
 
 
-#### Ausrichten des Lenkers
+### Ausrichten des Lenkers
 
 TODO
 
