@@ -196,7 +196,7 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Pedale                | pedals           | N/A
 | Gabel                 | fork             | GIANT Revolt Advanced Vollcarbon-Gabel (rly?)
 | Gabelschaft           | steerer tube     | GIANT OverDrive-Gabelschaft (OD Version 1) aus Carbon-Verbundwerkstoff; tapered/konisch; OD=1 1/8" (28,6 mm [28,8 mm gemessen]), ID=23,5 mm [gemessen]
-| Gabelschaftexpander   | fork expander    | ???  compression plug; "PAT.NO:176446 4Nm" [mglw. Foto](https://img.yec.tw/ob/image/ce890db5-1b65-421b-b4de-a53e8e558b2a.jpg), [Foto 2](https://img.yec.tw/cl/api/res/1.2/FerNGcWZE_MX7Lyih.Lhxw--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7Zmk9ZmlsbDtoPTEyMDA7cT04NTtyb3RhdGU9YXV0bzt3PTEyMDA-/https://img.yec.tw/ob/image/a96fede6-75ca-4027-a848-4aec1f1e7915.jpg)
+| Gabelschaftexpander   | fork expander    | Unbenannter OD1 compression plug; "PAT.NO:176446 4Nm"; s. Abschnitt "Lenkervorbau" in diesem Dokument
 | Gabelkonus            | crown race       | Konus ist nicht separat, sondern im Carbonschaft integriert, also Teil der Gabelkrone
 | Steuersatz            | headset          | voll-integriert (IS): statt Einpress- oder Ausschlagwerkzeug alles mit Hand in Rahmen-Ausbuchtungen legbar [erprobt]
 | Steuersatzlager oben  | top bearing      | MH-P08F – 30.5 x 41.8 x 8 – 45/45 [erprobt],  OD=41,81 ID=30,47 mm [gemessen]
@@ -205,8 +205,9 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Vorbau                | stem             | GIANT Sport(?), 90 mm, 7&deg;, 27 mm horz. zw. Schraubenmitten [erprobt mit Stem-Mount für Radcomputer]
 | Lenker                | handle bar       | GIANT Contact XR Ergo-Control(?) Drop 460/510 mm (8&deg; Flare), kompakt, 31,8 mm, Alu, 337g, clip-on compatible, Reach 10 cm
 | Lenkerband            | bar tape         | GIANT Gel(?) Cork, mittel
-| Bremsen               | brakes           | Tektro MD-C550 mechanisch; 2-Kolben-Bremssattel (Double piston); 3er Inbus für Bremsbelagnachstellung
-| Bremsscheiben         | brake disc/rotor | GIANT MPH Rotoren [V]160mm, [H]160mm, 6 Loch, Torx 25 [erprobt]
+| Bremsen               | brakes           | Tektro MD-C550 mechanisch (MD = Mechanical Disk brake, HD = hydr.); 2-Kolben-Bremssattel (Double piston); 3er Inbus für Bremsbelagnachstellung; kompatible Tektro-Beläge lt Hersteller: P20.11, A10YS, E10.11, Sicherungssplint MA1.0
+| Bremsscheibe          | brake disc/rotor | GIANT MPH Rotoren [V]160mm, [H]160mm, 6 Loch, Torx 25 [erprobt]
+| Bremsbelag            | brake pad        | ???
 | Umwerfer              | front derailleur | Shimano Sora ST-R3000
 | Schaltwerk            | rear  derailleur | Shimano Sora ST-R3000, langer Käfig
 | Schalthebel           | shifter/lever    | Shimano Sora ST-R3000, 2x9
@@ -243,7 +244,7 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Steuersatzlager    | 2025    | 2x 20 €?  | \*\*\*  | CQ GmbH Edelstahl                 | Ersatz wg. rauem Lauf; vorläufig noch nichts Negatives festgestellt
 | Konuslagerkugeln   | 2025    |  5 €?     | ?       | Woembi G20 HRC&ge;60 1/8"         | Ersatz wg. Korrosion
 | Kabel Schaltzug    | 2024    | 14 €      | \*\*\*  | Shimano OT-SP41 Optislick         | ersetzt gerissenes Jagwire; Zugseil gleitet gut (STI-Widerstand), gut zu cutten
-| Kabel Bremszug     | 2026-07 | 22 €      | Todo    | Jagwire Road Pro Brake Kit        | _kompressionsfreie_ Hüllen zur Aufwertung mechanischer Scheibenbremsen
+| Kabel Bremszug     | 2026-07 | 22 €      | Todo    | Jagwire Road Pro Brake Kit        | _kompressionsfreie_ Hüllen zur Aufwertung mechanischer Scheibenbremsen: normale Spiralumwicklung hat Flex v.a. über Länge; Kabel dicker, kevlarverstärkt, unflexibler/groessere Radien, flexiblerer Anfang für Lenker
 | Reifen             | 2025    | 2x 40 €   | Todo    | Tufo Thundero HD                  | 700x40C (41 mm),          je 439g, schneller Gravel-Semi-Slick-Faltreifen,      TPI 130/255, BRR 5/5 (19,2 W); 2,7 bar            (105 kg); 59 ml Dichtmilch, Stans/Tufo-Sealant würden nicht dichten, Orange aber
 | Reifen             | 2025-02 | 2x 50 €   | \*\*\*  | Michelin Pro 5 TLR                | 700x35C [35 mm gemessen], je 390g, leichter/schneller Allroad-Slick-Faltreifen, TPI 120,     BRR 5/5 (13,8 W); 3,3–3,5 bar/offiz. (105 kg); 60 ml Dichtmilch initial, 30 ml top-up; [Handmontage+Standpumpe]; 32mm bei 105 kg zu hart = Energieverlust (springt/reibt gg realen Asphalt statt verformend zu gleiten) = langsamer/kurveninstabiler/unkomfortabler als 35er; 32er auf meine Felge auch grenzwertig
 | Reifen-Dichtmilch  | 2025-02 | ?         | ?       | Orange Seal Endurance             | bleibe länger flüssig, dichte aber nicht so schnell/gut wie die normale Orange-Version; Orange scheint auch mit mehr Reifen verträglich zu sein als Stans; hat gut zw. Bead und Felgen abgedichtet
@@ -255,6 +256,8 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Computer           | 2023    | 260 €     | \*\*\*  | Wahoo Bolt 2                      | mit Gummi-Schutzhülle, dank der mein Wahoo mal aus der Hand flummiartig runter durchs Treppenhaus schoss und unversehrt blieb
 | Computer-Halterung | 2025    | 63 €      | \*\*    | Framesandgear Aero 27 mm Wah/Sm.  | Stem-Mount; stabil, sieht gut aus/ragt nicht über Lenker; ragt nicht seitl. über Vorbaulenkerklemme = einzig mit meinem Jack-Frontrack+Lenker funktionierender; teuer und schlechter Transferwert durch feste Breite
 | Gabelexpander      | 2026-07 | 33 €      | Todo    | Öhlins SP Expander                | Todo cm, 1 1/8"; ersetzt zu kurzen 3 cm-OEM-Expander, da ich mit Lenker tiefer möchte ohne vorerst Gabel abzusägen
+| Bremsbelag         | 2023    | 17 €      | Todo    | Reverse Components Shimano Deore  | organisch, lt. Hersteller kompatibel mit der Tektro MD-C550
+| Bremsbelag         | 2023    | 17 €      | Todo    | Tektro P20.11                     | organisch, "optimiert für Bremsscheibenstärke von 1.8mm"
 | Lenker             | 2026-07 | 38 € Sale | Todo    | Zipp Service Course 70 Ergo Blast | 440/    mm  (4&deg; Flare), kompakt, Alu 6061 "365g", 3&deg; Backsweep, abgeflachter Oberlenker, Clip-on ok; 1cm kürzerer Reach auf 70mm (war vorher oft vor den Hoods) + 90mm-Vorbau; je tiefer umso ergonomischer die Tops vermutl.
 | Lenker             | 2025    | 27 €      | \*\*\*  | Moquai Aero Rennradlenker         | 420/420 mm  (0&deg; Flare), kompakt, Alu 6061 "285g"; 4 cm schmaler/sportl. als Erstlenker; Logos subtil; ovalisierte, nicht zu breite Tops; flext in den Drops
 | Lenker             | 2025    | 18 € Sale | Todo    | FSA AGX Adventure Compact         | 440/500 mm (12&deg; Flare), kompakt, Alu 6061 "325g", 2 cm schmaler als Erstlenker, für Bikepacking, Logos übertrieben
@@ -1051,6 +1054,21 @@ Motorrad-Reiniger mehr und billiger
 ## Bremsen einstellen
 
 - TODO
+
+### Scheibenbremsbeläge
+
+metallisch für Grenzbereich/Spezialist, organisch für Normalbetrieb
+
+| Gesichtspunkt               | Metallische Beläge                 | Organische Beläge 
+|-----------------------------|------------------------------------|--------------------------------------
+| Alternativbezeichnung       | Sinter-Belag                       | Resin-Belag
+| Haltbarkeit                 | besser                             | schlechter (weicher)
+| Bremswirkung Hitze/Abfahrt  | besser (faden später)              | schlechter (faden früher)
+| Bremswirkung Normalbetrieb  | schlechter (brauchen Temperatur)   | besser
+| Nässe                       | besser                             | schlechter
+| Lautstärke                  | schlechter                         | besser
+| Dosierbarkeit               | schlechter                         | besser
+
 
 
 
@@ -1908,9 +1926,11 @@ TODO
 - einheitliche Bandabstände in Geraden und an den Kurven-Außenseiten, nach innen kann uneinheitlicher werden
 - Abschlussstreifen: Silikon-Reparaturband als besseres finishing tape; 
 	wirkt matter/weniger billig als nur Isotape, 
-	v.a. aber löst es sich nicht von alleine/pult nicht ab, sondern verschweist (isotape hatte sich bei mir bisher aber auch nie gelöst, falls letzte Isotape-Wicklung locker gelegt);
+	v.a. aber löst es sich nicht von alleine/pult nicht ab, 
+	ondern verschweist (isotape hatte sich bei mir bisher aber auch nie gelöst, falls letzte Isotape-Wicklung locker gelegt);
 	auf Zug halbiert sich die Breite und wird flach wie Isotape (also 2 cm auf 1 cm Isotape)
-	zum Tape mitgelieferte Abschlussstreifen waren bei mir bisher immer hässlich
+	zum Tape mitgelieferte Abschlussstreifen waren bei mir bisher immer hässlich.
+	Funktioniert besser _ohne_ Isotape unter dem Silikonband: rutscht weniger und Abwickeln/Zurückwickeln einfacher
 - Lenker mit Aero-Flattops: Reverse-Wrapping ist hübscher, also von oben nach unten in die Drops. 
 	Band am Oberlenker dort anfangen/enden lassen, wo das Lenkerrohr noch gleichmäßig dick ist, nicht in die Verjüngung reinkommen, nicht mal bisschen.
 	Nachteil von Reverse: Kante zur Reibrichtung mit der Hand more or less.
@@ -1927,38 +1947,41 @@ TODO
 ### Lenkervorbau + Gabelschaft-Expander/Compression Plug
 
 ![Expander](expander.jpg)  
-_(Abb.: kurzer, von GIANT verbauter Original-Expander: Zugbolzen mit Flansch zieht konischen Keil in die geschlitzte Spreizhülse und weitet sie dadurch auf)_
+_(Abb.: GIANT-verbauter Original-Expander: Zugbolzen mit Flansch zieht konischen Keil in die geschlitzte Spreizhülse und weitet sie dadurch auf)_
 
-Der Expander sorgt dafür, dass das Carbonrohr beim Festschrauben des Vorbaus nicht eingedrückt wird - der Expander übt eine Gegenkraft von Innen.
-Außerdem hält er die Gabel fest, sobald diese bei der Lagerspieleinstellung nach oben gezogen wird.
+Ohne Expander wird das Carbonrohr beim Festziehen der Vorbauschrauben verformt.  
+Der Expander übt eine Gegenkraft von Innen und sollte daher mit dem Vorbau auf selber Höhe sein.  
+Außerdem hält der Expander die Gabel fest, sobald diese bei der Lagerspieleinstellung nach oben gezogen wird.
 
 
-#### Expander-Ausbau:
+#### Ausbau des Original-Expanders (Foto):
 
 1. Niemals mit Schraubendreher o.ä. zwischen Expander und Carbon-Schaft! Niemals auf dem Rohrende irgendwas hebeln!
 2. Ahead-Kappe abschrauben
 3. Expander mit 8er-Inbus paar Windungen aufschrauben (gegen Uhrzeigersinn)
 4. unwahrscheinlich, dass man den Expander schon rausziehen kann
-5. bisschen Druck auf den Inbus nach unten ausüben: dies presst den Keil nach unten aus der Hülse raus. 
-	Evtl. Keil einfach in Schaft fallen lassen und später wieder rausschütteln
-6. Hülse steckt trotzdem noch fest: 
-	z.B. mit 25ml-Nadelflasche etwas 99%-Isopropylalkohol (ist Carbon-verträglich) zwischen Hülse und Gabelschaft einsickern lassen 
-	und mit Fingern versuchen den Hülse zu mobilisieren, z.B. nach unten drücken und wieder nach oben ziehen;
-	Vorsicht vor Graten.
-	Die Hülse hat Schlitze, die man mit einer Sprengringzange fassten könnte;
-	irgendwann hat man den in der Hand
+5. bisschen Druck auf den Inbus nach unten ausüben: dies presst den Keil nach unten aus der Hülse raus.  
+	Habe Keil einfach in Schaft fallen lassen und später leicht wieder rausgegeschüttelt
+6. Hülse steckt trotzdem noch fest:  
+	z.B. mit 25ml-Nadelflasche etwas 99%-Isopropylalkohol (IPA ist Carbon-verträglich) zwischen Hülse und Gabelschaft einsickern lassen 
+	und mit Fingern versuchen die Hülse zu mobilisieren, z.B. nach unten drücken und wieder nach oben ziehen;
+	Vorsicht vor Graten!  
+	Die Hülse hat Schlitze, die man mit einer Sprengringzange fassen könnte;
+	irgendwann hat man die Hülse in der Hand
+7. Innenrohr reinigen (IPA)
 
 
-#### Expander-Einbau:
-
-Todo
-
-
-
-
-### Ausrichten des Lenkers
+#### Einbau neuer Expander:
 
 TODO
+
+
+
+
+### Ausrichten des Lenkers und der Bremsschalthebel
+
+TODO
+
 
 
 
