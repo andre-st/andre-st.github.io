@@ -255,7 +255,7 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Flaschenhalter     | 2023    | 2x 15 €   | \*\*\*  | SKS Germany DUAL SC RH und LH     | seitliche Entnahme beide rechtshändig; zerkratzt Flaschen, ansonsten top, stabil
 | Computer           | 2023    | 260 €     | \*\*\*  | Wahoo Bolt 2                      | mit Gummi-Schutzhülle, dank der mein Wahoo mal aus der Hand flummiartig runter durchs Treppenhaus schoss und unversehrt blieb
 | Computer-Halterung | 2025    | 63 €      | \*\*    | Framesandgear Aero 27 mm Wah/Sm.  | Stem-Mount; stabil, sieht gut aus/ragt nicht über Lenker; ragt nicht seitl. über Vorbaulenkerklemme = einzig mit meinem Jack-Frontrack+Lenker funktionierender; teuer und schlechter Transferwert durch feste Breite
-| Gabelexpander      | 2026-07 | 33 €      | Todo    | Öhlins SP Expander                | Todo cm, 1 1/8"; ersetzt zu kurzen 3 cm-OEM-Expander, da ich mit Lenker tiefer möchte ohne vorerst Gabel abzusägen
+| Gabelexpander      | 2026-07 | 33 €      | Todo    | Öhlins SP Expander                | 5 cm Klemmfläche, 1 1/8", Doppelkeilkonstruktion, komplett schwarz eloxiert, Keil-Verlier-Sicherung mit Madenschraube (1,5er-Inbus); ersetzt zu kurzen 3 cm-OEM-Expander, da ich mit Lenker tiefer möchte ohne vorerst Gabel abzusägen; Installation problemlos
 | Bremsbelag         | 2023    | 17 €      | Todo    | Reverse Components Shimano Deore  | organisch, lt. Hersteller kompatibel mit der Tektro MD-C550
 | Bremsbelag         | 2023    | 17 €      | Todo    | Tektro P20.11                     | organisch, "optimiert für Bremsscheibenstärke von 1.8mm"
 | Lenker             | 2026-07 | 38 € Sale | Todo    | Zipp Service Course 70 Ergo Blast | 440/    mm  (4&deg; Flare), kompakt, Alu 6061 "365g", 3&deg; Backsweep, abgeflachter Oberlenker, Clip-on ok; 1cm kürzerer Reach auf 70mm (war vorher oft vor den Hoods) + 90mm-Vorbau; je tiefer umso ergonomischer die Tops vermutl.
@@ -268,7 +268,7 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Lenkerband         | 2025    | 10 €      | Todo    | SRAM SuperCork Bar Tape           | Kirk, mittel, Klebestreifen,        wie FSA Ultra-Gel Kork (white label produkt?); günstiges Notfall-Korkband (fahre Shimano)
 | Lenkerband         | 2026-02 | 12 €      | \*      | Selle Italia Smart Tape Greentech | 2,5 mm,  gummiartig wie die Hoods (kein Handschmeichler wie Kork), hält allein auf Zug (gut), wenig Dämpfung trotz Dicke (nur Handfüller), integrierte "Endkappe" lässt sich verdrehen und löst Band (ist nur auf Zug, passiert 100% bei Unterlenker-Fahrt), und verlangt kürzere 2. Wicklung (uneinheitlich) oder hässliche Beule; verunmöglicht Klingel-Endkappe o.ä.; Endkappen verdecken nur dünn die Rohröffnungen = Sicherheitsrisiko bei Unfall; Länge passt mit ⅓-Wicklung und ital. Acht gerade so auf 42cm-Flattop-Dropbar inkl. Flattop-Bereich (stufenfrei!); klebriger gummi hält dreck fest, aber gut zu reinigen und wiederzuverwenden; unempfindlicher gegen Regen
 | Lenkerband         | 2026-04 |  8 €      | \*      | DEDA                              | Synthetik, gun barrel grey (4800); Klebestreifen; sieht ok aus (all black aber doch schöner), lässt sich gut wickeln und korrigieren, aber hart-samtig-glatt = problematisch wenig Grip; wenig Dämpfung und Vorsicht beim Abziehen des Schutzes auf dem Klebestreifens, löst sonst gleich beides vom Band (ggf. von der Seite abfitzeln); Länge hat ohne ital 8 noch gereicht bei 42-cm Flattop-Lenker inkl. Tops; ok, falls es günstig sein muss; hinterließ beim Entfernen keine Spuren, war aber auch nur 1-2 Monate auf dem Lenker
-| Lenkerband         | 2026-05 | 22 €      | \*\*\*  | Cinelli Special Edition Gelkork   | Kork, mittel (muss straff gelegt werden, sonst Wurstoptik), diese SE-Version hat guten Silikon- statt Klebestreifen = leicht wickeln und korrigieren, Cinelli-Logos helfen beim Alignment; dämpft auch noch ausreichend wenn straff gewickelt; etwas glatt, Hand kann rutschen; kann auf dem Lenker verrutschen, lässt sich aber wieder ohne Abwickeln zeitlang korrigieren
+| Lenkerband         | 2026-05 | 22 €      | \*\*\*  | Cinelli Special Edition Gelkork   | Kork, mittel (muss straff gelegt werden, sonst Wurstoptik), diese SE-Version hat guten Silikon- statt Klebestreifen = leicht wickeln und korrigieren, Cinelli-Logos helfen beim Alignment; dämpft auch noch ausreichend wenn straff gewickelt; Grip nicht so gut/etwas glatt, Hand kann auf dem Lenker verrutschen; 
 | Lenkerband         | 2026-05 | 25 €      | Todo    | Faserwerk Handschmeichler SL      | 2,5 mm,  EVA-Schaumstoff
 
 
@@ -292,6 +292,7 @@ Gummi-freundlicher: Mucoff Bio-Degreaser
 | Pedale Shimano        | Kurbel FSA     | 25,0      | 35  ./.   ?     | Antiseize Gewinde (&#x21D2; 65-75% Drehm.)
 | Steckachse H          | Hinterbau  Alu | handfest  | ?   ./.   ?     | Fett Gewinde und min. Schaft
 | Steckachse V          | Gabel      Cfk | handfest  | ?   ./.   ?     | Fett Gewinde und min. Schaft
+| Gabelexpander   Alu   | Gabel      Cfk | 4,0       | 8   ./.   ?     | Antiseize Schrauben und Keilflächen; keine Carbon-Paste; Hülsenaußenfläche komplett fettfrei
 | Flaschenhalter   Cfk  | Rohr       Alu | handfest  | ?   ./.   ?     | Antiseize Schrauben
 | Bremsscheibe          | Nabe       Alu | 5,0       | 6   ./.   ?     | Schraubensicherung
 | Kassette              | Nabe       Alu | ?         | ?   ./.   ?     | Antiseize zw. Feilauf und Kas.
@@ -1951,7 +1952,8 @@ _(Abb.: GIANT-verbauter Original-Expander: Zugbolzen mit Flansch zieht konischen
 
 Ohne Expander wird das Carbonrohr beim Festziehen der Vorbauschrauben verformt.  
 Der Expander übt eine Gegenkraft von Innen und sollte daher mit dem Vorbau auf selber Höhe sein.  
-Außerdem hält der Expander die Gabel fest, sobald diese bei der Lagerspieleinstellung nach oben gezogen wird.
+Außerdem hält der Expander die Gabel fest, sobald diese bei der Lagerspieleinstellung nach oben gezogen wird.  
+Will man den Lenker tiefer und die Gabel nicht absägen, dann muss ein längerer Expander her.
 
 
 #### Ausbau des Original-Expanders (Foto):
@@ -1973,9 +1975,17 @@ Außerdem hält der Expander die Gabel fest, sobald diese bei der Lagerspieleins
 
 #### Einbau neuer Expander:
 
-TODO
-
-
+1. Keine Carbon-Paste an die Hülse! Schmirgelt Harz runter, wandert durch Vibrationen und Feuchtigkeit zum Steuersatzlager und kann dort schmirgeln.
+2. Innenseite des Gabelschafts mit IPA reinigen
+3. Anti-Seize an das Gewinde des Zugbolzens
+4. Anti-Seize an die Schrägflächen des Keils (bzw. der Keile falls Doppel-Keil-Konstruktion, wichtiger aber unterer Keil)
+		der Keil ist evtl. mit Madenschrauben gesichert, kann man mit kleinstem Inbus lösen
+5. Außenseite des Expanders mit IPA reinigen; hier darf kein Fett sein, sonst rutscht der Expander später
+6. Bolzen reindrehen und Hülse erstmal soweit aufweiten, dass sich der Expander nicht im im Rohr verdrehen kann, wenn wir dann mit Drehmoment loslegen;
+	der Expander sollte nicht leichtgängig ins Rohr gesteckt werden können
+7. mit Drehmomentschlüssel auf richtige Spannung bringen, im Zweifel 4-5 Nm (durch Schmierung effektiv 5-6 Nm)
+8. Anti-Seize auf Schraube der Ahead-Kappe
+9. Lagerspiel etc einstellen
 
 
 ### Ausrichten des Lenkers und der Bremsschalthebel
