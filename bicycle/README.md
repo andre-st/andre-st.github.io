@@ -187,7 +187,7 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 
 | Fahrradteil           | engl.            | Original verbaut (Stock)
 |-----------------------|------------------|----------------------------
-| Lackierung            | paint job        | Black Diamond
+| Lackierung            | paint job        | Black Diamond; rotorange Decals ca. RAL 2001
 | Systemgewicht         | tot. weight limit| max. 150 kg; 110 kg Fahrer/Gepäck unbedenklich zuladbar = &le;120 kg (20% Reserve) - 11–11 kg XL-Fahrrad-Eigengewicht; Laufräder/Speichen leiden zuerst
 | Rahmen                | frame            | GIANT ALUXX-Aluminium, 12 x 142 mm Steckachse, Bremsscheiben, Flip-Chip-Ausfallende
 | Rahmennummer          | serial no.       | unterm Tretlager zweigeteilt; bei GIANT-Werkstattanfragen immer nennen
@@ -232,7 +232,7 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Reifen-Dichtmilch     | sealant          | GIANT Tubeless Sealant (angebl. Stans-Dichtmilch; GIANT nennt Stans auch als einzige Alternative)
 | Sattel                | saddle           | GIANT Approach, 145 mm
 | Sattelstütze          | seat post        | GIANT D-Fuse, Legierung, 14 mm Versatz
-| Kabel Bremszug        | brake cable      | 5mm ??
+| Kabel Bremszug        | brake cable      | 5mm Jagwire CEX low cost entry-level brake cable housing, non-lubed; reibt
 | Kabel Schaltzug       | shift cable      | 4mm Jagwire LEX 1,1 mm, linear steels strands, non-lubed liner; angebl. 1,2 mm kompatibel, tats. Draht [misst] wohl 1,2 mm
 | Kabel Schaltzuglängen | cable lengths    | Hülle STI rechts bis Steuerrohr = 51 cm; Hülle Sattel-/Unterrohr bis Schaltkäfig = 62 cm
 
@@ -244,7 +244,7 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Steuersatzlager    | 2025    | 2x 20 €?  | \*\*\*  | CQ GmbH Edelstahl                 | Ersatz wg. rauem Lauf; vorläufig noch nichts Negatives festgestellt
 | Konuslagerkugeln   | 2025    |  5 €?     | ?       | Woembi G20 HRC&ge;60 1/8"         | Ersatz wg. Korrosion
 | Kabel Schaltzug    | 2024    | 14 €      | \*\*\*  | Shimano OT-SP41 Optislick         | ersetzt gerissenes Jagwire; Zugseil gleitet gut (STI-Widerstand), gut zu cutten
-| Kabel Bremszug     | 2026-07 | 22 €      | Todo    | Jagwire Road Pro Brake Kit        | _kompressionsfreie_ Hüllen zur Aufwertung mechanischer Scheibenbremsen: normale Spiralumwicklung hat Flex v.a. über Länge; Kabel dicker, kevlarverstärkt, unflexibler/groessere Radien, flexiblerer Anfang für Lenker
+| Kabel Bremszug     | 2026-07 | 22 €      | Todo    | Jagwire Road Pro Brake Kit        | _kompressionsfreie_ KEB-SL-Hüllen zur Aufwertung mechanischer Scheibenbremsen. Giant verbaut das billigste Jagwire-Kabel = Reibung beim Hebelbetätigen und weniger Kraftübertragung: normale Spiralumwicklung hat Flex v.a. über Länge; flexiblerer Anfang für Lenkerradien, fand den Rest auch ausreichend flexibel/gleiche Radien wie altes Kabel
 | Reifen             | 2025    | 2x 40 €   | Todo    | Tufo Thundero HD                  | 700x40C (41 mm),          je 439g, schneller Gravel-Semi-Slick-Faltreifen,      TPI 130/255, BRR 5/5 (19,2 W); 2,7 bar            (105 kg); 59 ml Dichtmilch, Stans/Tufo-Sealant würden nicht dichten, Orange aber
 | Reifen             | 2025-02 | 2x 50 €   | \*\*\*  | Michelin Pro 5 TLR                | 700x35C [35 mm gemessen], je 390g, leichter/schneller Allroad-Slick-Faltreifen, TPI 120,     BRR 5/5 (13,8 W); 3,3–3,5 bar/offiz. (105 kg); 60 ml Dichtmilch initial, 30 ml top-up; [Handmontage+Standpumpe]; 32mm bei 105 kg zu hart = Energieverlust (springt/reibt gg realen Asphalt statt verformend zu gleiten) = langsamer/kurveninstabiler/unkomfortabler als 35er; 32er auf meine Felge auch grenzwertig
 | Reifen-Dichtmilch  | 2025-02 | ?         | ?       | Orange Seal Endurance             | bleibe länger flüssig, dichte aber nicht so schnell/gut wie die normale Orange-Version; Orange scheint auch mit mehr Reifen verträglich zu sein als Stans; hat gut zw. Bead und Felgen abgedichtet
@@ -1287,6 +1287,7 @@ Begriffe:
 - Zugnippel
 - (Hüllen-)Endkappe, ggf. gedichtet, schließen die Hüllen, so dass nur noch der blanke Zug durchguckt, 
 	sind oft auch nötig, um den Bowdenzug in Führungen usw. einzustecken;
+	verhindern gröberen Schmutzeintrag; verhindern Durchdrücken der inneren Strands in der Hülle;
 	die Endkappen gibt es in verschiedenen Ausführungen, nicht nur modisch begründete
 - Zugend-Hülse verhindert Ausfranzen des Zugs am Ende, schützt vor allem den User vor Verletzungen
 - Schaltkäfig
@@ -1315,7 +1316,7 @@ Werkzeuge (teils optional):
 - Inbus-Schlüssel für Schraube am Schaltkäfig, alles Andere wird bei meinem Rad sonst nur mit der Hand rausgezeogen, gesteckt und gefädelt
 - Silikonspray zum Schmieren der Zugaufnahme im Bremsschalthebel, kein Öl; der Zug macht auch an der Stelle noch kleine Bewegungen
 - Druckluft zum Ausblasen von Drahtresten (mit Vorsicht verwenden: nur bei Zugführung einblasen)
-
+- dünnen langen 1,5er-Inbus (oder ähnlich dünnes langes) um Hüllenende freizumachen, manchmal hakelt es dort auf der Strecke
 
 Gerissenen Schaltzug im STI-Bremsschalthebel entfernen:
 
@@ -1337,7 +1338,7 @@ mind 1-2 cm aber unbedingt stehen lassen, damit man den Zug noch beim Nachjustie
 
 
 
-Schaltzug:
+### Schaltzug:
 
 Shimano-Züge sind 1,2 mm - viele andere nur 1,1mm, macht die Verwendung mit markenfremden Außenhüllen evtl. schwieriger
 Jagwire LEX Außenhüllen wären wohl mit Shimano bzw. max 1,2mm kompatibel. 
@@ -1358,8 +1359,23 @@ s. Schaltung einstellen
 
 
 
-Bremszug:
+### Bremszug:
 
+Todo;
+
+
+
+### Innenverlegte Züge wechseln:
+
+- im Rahmen komplett durchgehender Bowdenzug schon vorhanden?: 
+	- alte Hülle so vom Seil abziehen, dass das Seil im Rahmen verbleibt! 
+		das verbliebene Seil dient dann als Führungshilfe für die neuen Bowdenzughülle.
+		Diese wird einfach rückwärts über das Seil durch den Rahmen zum Zielloch geschoben.
+	- "ROCK SHOX Reverb Barb Connector" verbindet zwei Hüllen, 
+		so dass man die neue Hülle reinzieht, wahrend man die alte Hülle herauszieht
+- Seil im Rahmen nackt verlegt?:
+	- Seile mit Schrumpfschlauch oder Stoßverbinder zusammenquetschen und das neue Seil beim Rausziehen des alten Seils wieder in den Rahmen einziehen.
+		Alternativ: eine Zugendhülse zu beiden Seiten mit Cutter aufmachen und Seile damit zusammenquetschen: https://www.youtube.com/watch?v=B449ew43gus
 
 
 
@@ -1958,7 +1974,11 @@ Will man den Lenker tiefer und die Gabel nicht absägen, dann muss ein längerer
 
 #### Ausbau des Original-Expanders (Foto):
 
-1. Niemals mit Schraubendreher o.ä. zwischen Expander und Carbon-Schaft! Niemals auf dem Rohrende irgendwas hebeln!
+1. Niemals 
+	- mit Schraubendreher o.ä. zwischen Expander und Carbon-Schaft
+	- auf dem Rohrende irgendwas hebeln
+	- erhitzen: Epoxidharz wird ab 80-100 Grad C weich; Kältspray ins Rohr sollte bei Verzweiflung ok sein (senkt Reibung)
+	- punktuellen Druck und Scherkräfte ausüben
 2. Ahead-Kappe abschrauben
 3. Expander mit 8er-Inbus paar Windungen aufschrauben (gegen Uhrzeigersinn)
 4. unwahrscheinlich, dass man den Expander schon rausziehen kann
@@ -1969,7 +1989,9 @@ Will man den Lenker tiefer und die Gabel nicht absägen, dann muss ein längerer
 	und mit Fingern versuchen die Hülse zu mobilisieren, z.B. nach unten drücken und wieder nach oben ziehen;
 	Vorsicht vor Graten!  
 	Die Hülse hat Schlitze, die man mit einer Sprengringzange fassen könnte;
-	irgendwann hat man die Hülse in der Hand
+	irgendwann hat man die Hülse in der Hand;  
+	Schlechtere Alternativ zu IPA: evtl. Silikonspray (danach gut säubern) oder spezielle Rostlöser ohne Ester/Keton; 
+		eher vermeiden: normales WD-40, Aceton, Bremsenreiniger, Nitro-Verdünnung, Industriereiniger, 
 7. Innenrohr reinigen (IPA)
 
 
