@@ -23,6 +23,7 @@ Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäß
 - [Diebstahlschutz](#diebstahlschutz)
 - [Straßenzulassung StVoZ](#)
 - Werkzeuge
+- Kleine Schraubkunde
 - Kleine Schmierstoffkunde
 - Verschleißteile bevorraten
 - Radwäsche
@@ -31,7 +32,7 @@ Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäß
 - Kette schmieren
 - Kette wechseln
 - Pedale wechseln
-- Pedale schmieren
+- Pedale warten
 - Felge zentrieren
 - Bowdenzug ersetzen
 - Steuersatz/Gabel warten
@@ -206,7 +207,7 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Lenker                | handle bar       | GIANT Contact XR Ergo-Control(?) Drop 460/510 mm (8&deg; Flare), kompakt, 31,8 mm, Alu, 337g, clip-on compatible, Reach 10 cm
 | Lenkerband            | bar tape         | GIANT Gel(?) Cork, mittel
 | Bremsen               | brakes           | Tektro MD-C550 mechanisch (MD = Mechanical Disk brake, HD = hydr.); 2-Kolben-Bremssattel (Double piston); 3er Inbus für Bremsbelagnachstellung; kompatible Tektro-Beläge lt Hersteller: P20.11, A10YS, E10.11, Sicherungssplint MA1.0
-| Bremsscheibe          | brake disc/rotor | GIANT MPH Rotoren [V]160mm, [H]160mm, 6 Loch, Torx 25 [erprobt]
+| Bremsscheibe          | brake disc/rotor | Tektro 160-22 6-Lock Vorne/Hinten; Torx 25
 | Bremsbelag            | brake pad        | ???
 | Umwerfer              | front derailleur | Shimano Sora ST-R3000
 | Schaltwerk            | rear  derailleur | Shimano Sora ST-R3000, langer Käfig
@@ -237,6 +238,7 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Kabel Schaltzuglängen | cable lengths    | Hülle STI rechts bis Steuerrohr = 51 cm; Hülle Sattel-/Unterrohr bis Schaltkäfig = 62 cm
 
 
+
 ### Komponenten abweichend vom Original getauscht/hinzugefügt:
 
 | Fahrradteil        | Jahr    | Preis     | Wertung | Neu verbaut                       | Details
@@ -256,8 +258,10 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Computer           | 2023    | 260 €     | \*\*\*  | Wahoo Bolt 2                      | mit Gummi-Schutzhülle, dank der mein Wahoo mal aus der Hand flummiartig runter durchs Treppenhaus schoss und unversehrt blieb
 | Computer-Halterung | 2025    | 63 €      | \*\*    | Framesandgear Aero 27 mm Wah/Sm.  | Stem-Mount; stabil, sieht gut aus/ragt nicht über Lenker; ragt nicht seitl. über Vorbaulenkerklemme = einzig mit meinem Jack-Frontrack+Lenker funktionierender; teuer und schlechter Transferwert durch feste Breite
 | Gabelexpander      | 2026-07 | 33 €      | Todo    | Öhlins SP Expander                | 5 cm Klemmfläche, 1 1/8", Doppelkeilkonstruktion, komplett schwarz eloxiert, Keil-Verlier-Sicherung mit Madenschraube (1,5er-Inbus); ersetzt zu kurzen 3 cm-OEM-Expander, da ich mit Lenker tiefer möchte ohne vorerst Gabel abzusägen; Installation problemlos
-| Bremsbelag         | 2023    | 17 €      | Todo    | Reverse Components Shimano Deore  | organisch, lt. Hersteller kompatibel mit der Tektro MD-C550
-| Bremsbelag         | 2023    | 17 €      | Todo    | Tektro P20.11                     | organisch, "optimiert für Bremsscheibenstärke von 1.8mm"
+| Bremsbelag         | 2023    | 17 €      | Todo    | Reverse Components #01915         | organisch, lt. Hersteller kompatibel mit der Tektro MD-C550, eigtl. optimiert fuer E-Bike (wäre haltbarer da kevlarverstärkt, verglase langsamer, quietsche weniger) - passt evtl gut bei meinem Gewichts-Speed-Profil
+| Bremsbelag         | 2023    | 17 €      | Todo    | Tektro P20.11                     | organisch, "optimiert für Bremsscheibenstärke von 1.8mm", Bremsenhersteller-eigene Beläge
+| Bremsscheibe       | 2026    | 26 €      | Todo    | SRAM Centerline Round Edges       | 160 mm. 6 Loch
+| Bremsscheibe Bolts | 2026    | 5 € 6Stk. | Todo    | Galfer Schrauben Edelstahl hell   | Torx 25
 | Lenker             | 2026-07 | 38 € Sale | Todo    | Zipp Service Course 70 Ergo Blast | 440/    mm  (4&deg; Flare), kompakt, Alu 6061 "365g", 3&deg; Backsweep, abgeflachter Oberlenker, Clip-on ok; 1cm kürzerer Reach auf 70mm (war vorher oft vor den Hoods) + 90mm-Vorbau; je tiefer umso ergonomischer die Tops vermutl.
 | Lenker             | 2025    | 27 €      | \*\*\*  | Moquai Aero Rennradlenker         | 420/420 mm  (0&deg; Flare), kompakt, Alu 6061 "285g"; 4 cm schmaler/sportl. als Erstlenker; Logos subtil; ovalisierte, nicht zu breite Tops; flext in den Drops
 | Lenker             | 2025    | 18 € Sale | Todo    | FSA AGX Adventure Compact         | 440/500 mm (12&deg; Flare), kompakt, Alu 6061 "325g", 2 cm schmaler als Erstlenker, für Bikepacking, Logos übertrieben
@@ -270,7 +274,6 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Lenkerband         | 2026-04 |  8 €      | \*      | DEDA                              | Synthetik, gun barrel grey (4800); Klebestreifen; sieht ok aus (all black aber doch schöner), lässt sich gut wickeln und korrigieren, aber hart-samtig-glatt = problematisch wenig Grip; wenig Dämpfung und Vorsicht beim Abziehen des Schutzes auf dem Klebestreifens, löst sonst gleich beides vom Band (ggf. von der Seite abfitzeln); Länge hat ohne ital 8 noch gereicht bei 42-cm Flattop-Lenker inkl. Tops; ok, falls es günstig sein muss; hinterließ beim Entfernen keine Spuren, war aber auch nur 1-2 Monate auf dem Lenker
 | Lenkerband         | 2026-05 | 22 €      | \*\*\*  | Cinelli Special Edition Gelkork   | Kork, mittel (muss straff gelegt werden, sonst Wurstoptik), diese SE-Version hat guten Silikon- statt Klebestreifen = leicht wickeln und korrigieren, Cinelli-Logos helfen beim Alignment; dämpft auch noch ausreichend wenn straff gewickelt; Grip nicht so gut/etwas glatt, Hand kann auf dem Lenker verrutschen; 
 | Lenkerband         | 2026-05 | 25 €      | Todo    | Faserwerk Handschmeichler SL      | 2,5 mm,  EVA-Schaumstoff
-
 
 
 
@@ -295,6 +298,7 @@ Gummi-freundlicher: Mucoff Bio-Degreaser
 | Gabelexpander   Alu   | Gabel      Cfk | 4,0       | 8   ./.   ?     | Antiseize Schrauben und Keilflächen; keine Carbon-Paste; Hülsenaußenfläche komplett fettfrei
 | Flaschenhalter   Cfk  | Rohr       Alu | handfest  | ?   ./.   ?     | Antiseize Schrauben
 | Bremsscheibe          | Nabe       Alu | 5,0       | 6   ./.   ?     | Schraubensicherung
+| Bremszange            | Klemmschraube  | 5,0       | 6-8             | evtl. Loctite aufs Schraubenende; alles Klemmbare absolut fettfrei halten!
 | Kassette              | Nabe       Alu | ?         | ?   ./.   ?     | Antiseize zw. Feilauf und Kas.
 | Kettenblatt           | Kurbel         | ?         | ?               | ?
 | SPD-Cleat       Stahl | Schuh      PA  | 4,0       | ?   ./.   ?     | Schraubensicherung über Länge (trennt auch bisschen; Mischen mit Antiseize reduziert Wirkung)
@@ -308,7 +312,7 @@ Gummi-freundlicher: Mucoff Bio-Degreaser
 | Griffgummi            | STI-Hebel      | -         | -               | offiz. soll man STI abbauen und Gummi von hinten aufziehen; real von vorne Hand-Sanitizer aufs Gummiinnere für besseren Rutsch (verflüchtigt)
 | Kette                 | Zahnräder      | -         | -               | Liquimoly Dry bzw. Wet Lube; kleiner fester Flach-Pinsel: Tropfen Öl drauf und streich dann eine Bahn von Pulley bis Kettenblatt, wdh. insg. 3 Tropfen pro Bahn, kurbel weiter: zügig-saubere Arbeit und Ergebnis
 | Reifen Tubeless       | Felge          | -         | -               | Orange Seal Endurance bei allen Nicht-GIANT-Reifen; sonst GIANT Tire Sealant; 30-40 mm = 60ml initial, 30 ml top-up
-| Schalt-/Bremsseil     | Bowdenzughülle | -         | -               | -, OptiSlick werkseitig geschmiert
+| Schalt-/Bremsseil     | Bowdenzughülle | -         | -               | -, OptiSlick werkseitig geschmiert, Jagwire Pro werkseitig geschmiert
 
 
 handfest = Kontakt + leichtes Nachziehen mit kurzem Hebel, aber ohne Kraftaufwand oder letzten Ruck;  
@@ -614,12 +618,19 @@ Kurvenlinie
 
 ### Busse, LKW:
 
-- sich dahinter zurückfallen lassen, nicht daneben warten bzw. mithalten; toter winkel; gibt komplette Ass1s @todo
+- sich dahinter zurückfallen lassen, nicht daneben warten bzw. mithalten; 
+	toter winkel; gibt komplette Ass1s @todo
 
 
 ### Schieben:
 
-- wenn nur Straße zur Verfügung steht, muss man in Deutschland auf der _linken_ Seite dem Verkehr entgegen laufen (STVO)
+- wenn nur Straße zur Verfügung steht, 	muss man in Deutschland 
+	auf der _linken_ Seite dem Verkehr entgegen laufen (STVO)
+
+
+### Rückwärts schauen:
+
+- https://www.youtube.com/watch?v=pZl3_-ftMww
 
 
 ### PKW-Verfolger (Psychose):
@@ -849,6 +860,32 @@ Ständig am Fahrrad bzw. Fahrer:
 		- Gesichtsverletzungen prüfen (Smartphone), merkt man evtl. kaum/ggf. taub
 
 
+
+## Kleine Schraubkunde
+
+4-Loch überkreuz (sternförmig) anziehen:
+```
+  (4)       (1)
+     \     /
+      \   /
+       \ /
+       / \
+      /   \
+     /     \
+  (2)       (3)
+```
+
+
+6-Loch überkreuz (sternförmig) anziehen:
+```
+       (1)
+   (6)     (4)
+   (3)     (5)
+       (2)
+```
+
+
+
 ## Kleine Schmierstoffkunde
 
 | Schmierung          | Konsistenz            | Zusammensetzung | Anwendung | Haftung /Haltbarkeit | Gesundheit | Entsorgung
@@ -879,6 +916,13 @@ Allgemein:
 	Fett zu nehmen ist besser, als das Gewinde trocken zu schrauben.
 - Nicht mischen, verändert Eigenschaften = unbrauchbarer
 	- Schraubensicherung und Antiseize
+- Aufträge können Drehmomente verändern
+
+
+Schraubensicherung: 
+- feste gelbe Farbe: wahrscheinlich mikroverkapselter Trockenkleber (z.B. precote 80-3 oder Loctite Dri-Loc) - nur 1x verwendbar
+- feste blaue Farbe: Dri-Loc (lackartig gleichmäßig ums Gewinde) oder verformendes Polyamid/Nylon (erhabener elastischer Punkt) statt Kleber, ersteres 1x und letzeres 2-5x verwendbar
+- im Zweifel bei Wiederverwendung: alle Reste mit Messingdrahtbürste entfernen und neues Loctite auftragen.
 
 
 
@@ -904,7 +948,7 @@ Folgende Liste mit Produkten, die mir mal untergekommen sind (also nicht alle ve
 | WD40 klassisch                      |                    |                    | für nichts am Rad einsetzen  |                      | immer falsch
 | Finishline Premium-Grease           | Fett               |                    |                              |                      | alte PTFE-Version mit "Trilinium" (Eigenbezeichnung) ersetzt
 | Shimano Premium-Fett                | Fett               |                    |                              |                      |
-| Inbus Schraubensicherung<br>Loctite | Klebstoff          | Loslösen hindern   | Bremsscheiben-Bolzen, Cleats-Schrauben (Schuh), Bremsgriff-Schrauben, Lenker-Schrauben  |  | sicherheitsrelevante Teile; gg. Lockerung durch Vibration; bietet auch Korrossionsschutz (Antiseize extra unnötig; vermischt kann sogar Wirkung aufheben); Loctite blau ist niedrigfest bis mittelfest, rot ist hochfest
+| Inbus Schraubensicherung<br>Loctite | Klebstoff          | Loslösen hindern   | Bremsscheiben-Bolzen, Cleats-Schrauben (Schuh), Lenker-Schrauben, Bremsgriff-Schrauben(?) |  | lässt sich nur 1x verwenden (Kleber-Mikrokapseln aufgeplatzt), danach nur noch nutzloses Pulver auf Gewinde; oft verwechselt mit blauem Nylon auf Schrauben (TufLok), der sich nur aufdehnt statt klebt und 2-5x wiederverwenden lässt;  sicherheitsrelevante Teile; gg. Lockerung durch Vibration; bietet auch Korrossionsschutz (Antiseize extra unnötig; vermischt kann sogar Wirkung aufheben); Loctite blau ist niedrigfest bis mittelfest, rot ist hochfest
 | Liquimoly LM47 Langzeitfett         | Fett (Lagerfett)   | Reibung reduzieren |                              | von Carbon fernhalten (Fett bläht Carbon-bindendes Epoxidharz)  | 
 | Liquimoly Silikonfett               | Fett (synthetisch) |                    | Carbon                       |                      | 
 | Liquimoly Dry oder Wet Lube         | Öl                 | Reibung reduzieren | Kette im Sommer/Herbstwinter | nicht auf Kassetten-Ritzel (verschmutzt ohne Nutzen), Bremsscheibe | punktuell auf Kettenglieder, nur dort muss Öl hin, sonst sauber
@@ -920,7 +964,7 @@ Folgende Liste mit Produkten, die mir mal untergekommen sind (also nicht alle ve
 | Schwalbe Easy-Fit Montage Fluid     | Reifenmontierflüss.| Reibung reduzieren | Reifen                       |                      | vereinfacht Reifenmontage auf Felge
 | ??? Kettenwachs                     | Wachs              |                    |                              |                      | Alternative zum Kettenöl
 | ??? Steuersatzfett                  | Fett               |                    |                              |                      | s.a. Kugellager-Abschmierfett (salzwasserbeständig), s.a. Wälzlagerfett, Siliconpaste bei Carbon (Faser ist chemiebständig, aber deren Harz-Einbettung nicht)
-| Isopropyl-Alkohol, Hand-Sanitizer   |                    |                    | Bremsscheiben, Hoods-Griffgummi-Inneres für Gleitfähigkeit bei Montage | |
+| Isopropyl-Alkohol, Hand-Sanitizer   | Alkohol            |                    | Bremsscheiben, Hoods-Griffgummi-Inneres für Gleitfähigkeit bei Montage | |
 | Talkumpulver                        |                    |                    | Reifenschlauch               |                      |
 
 
@@ -1056,6 +1100,7 @@ Motorrad-Reiniger mehr und billiger
 
 - TODO
 
+
 ### Scheibenbremsbeläge
 
 metallisch für Grenzbereich/Spezialist, organisch für Normalbetrieb
@@ -1069,6 +1114,34 @@ metallisch für Grenzbereich/Spezialist, organisch für Normalbetrieb
 | Nässe                       | besser                             | schlechter
 | Lautstärke                  | schlechter                         | besser
 | Dosierbarkeit               | schlechter                         | besser
+
+
+### Bremsscheibe 6-Loch
+
+#### Auswahl:
+
+Todo
+
+
+#### Festschrauben:
+
+Dass das 6-Loch-System eben keine perfekte Selbstdrehung und Zentrierung besitzt, 
+ist der Hauptgrund, warum Shimano das Centerlock-System entwickelt hat. 
+Dort schiebt man die Scheibe auf eine exakte Vielzahn-Verzahnung auf, 
+wodurch sie sich absolut perfekt zentriert und null Rotationsspiel hat.
+
+Beim 6-Loch-System erreicht man dasselbe Ergebnis 
+nur durch saubere Handarbeit: Scheibe gegen Fahrrichtung auf Anschlag drehen (Bremsrichtung) + überkreuz festziehen.
+
+Drehst du die Scheibe vor dem Festziehen nicht manuell an den Anschlag (entgegen der Fahrtrichtung), 
+verlässt du dich rein auf die Flächenpressung unter den Schraubenköpfen.
+Damit eine Schraube ein Bauteil von selbst exakt mittig zentriert, 
+bräuchte man Senkkopfflachschrauben mit einem konischen Sitz.
+Bremsscheibenschrauben sind jedoch Zylinderschrauben mit flachem Kopf (Linsenkopf).
+
+Siehe Abschnitt "kleine Schmierstoffkunde" wegen blauem/gelber Farbe 
+auf Schrauben und deren Wiederverwendbarkeit.
+
 
 
 
@@ -1179,7 +1252,7 @@ Ersatzschaltauge besorgen (kann dann z.B. auf Reisen Werkstatt einbauen); s. Abs
 - TODO
 
 
-## Pedale schmieren
+## Pedale warten
 
 - außen
 - innen
@@ -1316,7 +1389,7 @@ Werkzeuge (teils optional):
 - Inbus-Schlüssel für Schraube am Schaltkäfig, alles Andere wird bei meinem Rad sonst nur mit der Hand rausgezeogen, gesteckt und gefädelt
 - Silikonspray zum Schmieren der Zugaufnahme im Bremsschalthebel, kein Öl; der Zug macht auch an der Stelle noch kleine Bewegungen
 - Druckluft zum Ausblasen von Drahtresten (mit Vorsicht verwenden: nur bei Zugführung einblasen)
-- dünnen langen 1,5er-Inbus (oder ähnlich dünnes langes) um Hüllenende freizumachen, manchmal hakelt es dort auf der Strecke
+- dünnen langen 1,5er-Inbus, Speiche oder ähnlich dünnes Langes um Hüllenende freizumachen, manchmal hakelt es dort auf der Strecke
 
 Gerissenen Schaltzug im STI-Bremsschalthebel entfernen:
 
