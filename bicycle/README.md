@@ -863,7 +863,7 @@ Ständig am Fahrrad bzw. Fahrer:
 
 ## Kleine Schraubkunde
 
-4-Loch überkreuz (sternförmig) anziehen:
+4-Loch überkreuz/sternförmig anziehen (Lenkervorbau):
 ```
   (4)       (1)
      \     /
@@ -876,11 +876,11 @@ Ständig am Fahrrad bzw. Fahrer:
 ```
 
 
-6-Loch überkreuz (sternförmig) anziehen:
+6-Loch überkreuz/sternförmig anziehen (Bremsscheiben):
 ```
        (1)
-   (6)     (4)
-   (3)     (5)
+   (3)     (6)
+   (5)     (4)
        (2)
 ```
 
