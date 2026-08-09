@@ -12,7 +12,7 @@ Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäß
 
 ## Übersicht
 
-- [Begriffe](#begriffe)
+- [Verwendete Begriffe](#verwendete-begriffe)
 - Modell Sportrad
 	- Komponentenliste
 	- Montageplan
@@ -53,7 +53,7 @@ Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäß
 - [Sonstiges](#Sonstiges)
 
 
-## Begriffe
+## Verwendete Begriffe
 
 - Klettern: einen Anstieg hochfahren
 - Antrieb:
@@ -196,7 +196,7 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Stoßdämpfer           | shock absorber   | N/A
 | Pedale                | pedals           | N/A
 | Gabel                 | fork             | GIANT Revolt Advanced Vollcarbon-Gabel (rly?)
-| Gabelschaft           | steerer tube     | GIANT OverDrive-Gabelschaft (OD Version 1) aus Carbon-Verbundwerkstoff; tapered/konisch; OD=1 1/8" (28,6 mm [28,8 mm gemessen]), ID=23,5 mm [gemessen]
+| Gabelschaft           | steerer tube     | GIANT OverDrive-Gabelschaft (OD Version 1) aus Carbon-Verbundwerkstoff; tapered/konisch; OD=1 1/8" (28,6 mm [28,8 mm gemessen]), ID=23,5 mm [gemessen]; TODO: Tapered 1-1/8" nach 1-1/2" oder 1-1/4" [?]
 | Gabelschaftexpander   | fork expander    | Unbenannter OD1 compression plug; "PAT.NO:176446 4Nm"; s. Abschnitt "Lenkervorbau" in diesem Dokument
 | Gabelkonus            | crown race       | Konus ist nicht separat, sondern im Carbonschaft integriert, also Teil der Gabelkrone
 | Steuersatz            | headset          | voll-integriert (IS): statt Einpress- oder Ausschlagwerkzeug alles mit Hand in Rahmen-Ausbuchtungen legbar [erprobt]
@@ -206,13 +206,15 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Vorbau                | stem             | GIANT Sport(?), 90 mm, 7&deg;, 27 mm horz. zw. Schraubenmitten [erprobt mit Stem-Mount für Radcomputer]
 | Lenker                | handle bar       | GIANT Contact XR Ergo-Control(?) Drop 460/510 mm (8&deg; Flare), kompakt, 31,8 mm, Alu, 337g, clip-on compatible, Reach 10 cm
 | Lenkerband            | bar tape         | GIANT Gel(?) Cork, mittel
-| Bremsen               | brakes           | Tektro MD-C550 mechanisch (MD = Mechanical Disk brake, HD = hydr.); 2-Kolben-Bremssattel (Double piston); 3er Inbus für Bremsbelagnachstellung; kompatible Tektro-Beläge lt Hersteller: P20.11, A10YS, E10.11, Sicherungssplint MA1.0
+| Bremsen               | brakes           | Tektro MD-C550 mechanisch (MD = Mechanical Disk brake, HD = hydr.); 2-Kolben-Bremssattel (Double piston); 3er Inbus für Bremsbelagnachstellung; kompatible Tektro-Beläge lt Hersteller: P20.11, A10YS, E10.11, Sicherungssplint MA1.0; Bremssattelbolzen hatten bei mir eine Nylon-Schraubensicherung
 | Bremsscheibe          | brake disc/rotor | Tektro 160-22 6-Lock Vorne/Hinten; Torx 25
 | Bremsbelag            | brake pad        | ???
 | Umwerfer              | front derailleur | Shimano Sora ST-R3000
 | Schaltwerk            | rear  derailleur | Shimano Sora ST-R3000, langer Käfig
 | Schalthebel           | shifter/lever    | Shimano Sora ST-R3000, 2x9
 | Schaltröllchen        | jockey wheels    | Shimano Leitröllchen (guide pulley) oben = ?; Spannröllchen (tension pulley) unten = Gleitlager oder gedichtes Kugellager? Kunststoff oder Alu? Anzahl Zähne?; angeblich kompatibel mit 9-Speed Shimano RD6700 Ultegra XT Saint
+| Steckachse H          | thru-axle rear   | GIANT Road Bike Front Thru-Axle 142x12 [proprietär passend zum Rahmen]; Länge 160,8 mm; Thread pitch P=1.5
+| Steckackse V          | thru-axle front  | GIANT Road Bike Rear Thru-Axle 100x12 [proprietär passend zur Gabel];  Länge 116,8 mm; Thread pitch P=1.5
 | Kassette              | cogset           | Shimano HG400, 11x34
 | Kette                 | chain            | KMC X9 EPT mit Missing Link, 114 Glieder
 | Kurbelsatz            | crank            | FSA Vero Pro
@@ -235,7 +237,7 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Sattelstütze          | seat post        | GIANT D-Fuse, Legierung, 14 mm Versatz
 | Kabel Bremszug        | brake cable      | 5mm Jagwire CEX low cost entry-level brake cable housing, non-lubed; reibt
 | Kabel Schaltzug       | shift cable      | 4mm Jagwire LEX 1,1 mm, linear steels strands, non-lubed liner; angebl. 1,2 mm kompatibel, tats. Draht [misst] wohl 1,2 mm
-| Kabel Schaltzuglängen | cable lengths    | Hülle STI rechts bis Steuerrohr = 51 cm; Hülle Sattel-/Unterrohr bis Schaltkäfig = 62 cm
+| Kabel Schaltzuglängen | cable lengths    | Hülle STI rechts bis Steuerrohr = 52,5 cm; Hülle Sattel-/Unterrohr bis Schaltkäfig = 62 cm; STI links bis Adjuster 39,5 cm und Adjuster bis Steuerrohr 11 cm
 
 
 
@@ -246,7 +248,7 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Steuersatzlager    | 2025    | 2x 20 €?  | \*\*\*  | CQ GmbH Edelstahl                 | Ersatz wg. rauem Lauf; vorläufig noch nichts Negatives festgestellt
 | Konuslagerkugeln   | 2025    |  5 €?     | ?       | Woembi G20 HRC&ge;60 1/8"         | Ersatz wg. Korrosion
 | Kabel Schaltzug    | 2024    | 14 €      | \*\*\*  | Shimano OT-SP41 Optislick         | ersetzt gerissenes Jagwire; Zugseil gleitet gut (STI-Widerstand), gut zu cutten
-| Kabel Bremszug     | 2026-07 | 22 €      | Todo    | Jagwire Road Pro Brake Kit        | _kompressionsfreie_ KEB-SL-Hüllen zur Aufwertung mechanischer Scheibenbremsen. Giant verbaut das billigste Jagwire-Kabel = Reibung beim Hebelbetätigen und weniger Kraftübertragung: normale Spiralumwicklung hat Flex v.a. über Länge; flexiblerer Anfang für Lenkerradien, fand den Rest auch ausreichend flexibel/gleiche Radien wie altes Kabel
+| Kabel Bremszug     | 2026-07 | 22 €      | \*\*\*  | Jagwire Road Pro Brake Kit        | _kompressionsfreie_ KEB-SL-Hüllen zur Aufwertung mechanischer Scheibenbremsen. Giant verbaut das billigste Jagwire-Kabel = Reibung beim Hebelbetätigen, ungleiche Druckpunkte L/R und weniger Kraftübertragung: normale Spiralumwicklung hat Flex v.a. über Länge; flexiblerer Anfang für Lenkerradien, fand den Rest auch ausreichend flexibel bis auf letzte Biegung in den Bremssattel, die war vorher schon bei Rahmen/Altkabeln grenzwertig; jetzt gleichm. Druckpunkt L/R, geht gut drauf
 | Reifen             | 2025    | 2x 40 €   | Todo    | Tufo Thundero HD                  | 700x40C (41 mm),          je 439g, schneller Gravel-Semi-Slick-Faltreifen,      TPI 130/255, BRR 5/5 (19,2 W); 2,7 bar            (105 kg); 59 ml Dichtmilch, Stans/Tufo-Sealant würden nicht dichten, Orange aber
 | Reifen             | 2025-02 | 2x 50 €   | \*\*\*  | Michelin Pro 5 TLR                | 700x35C [35 mm gemessen], je 390g, leichter/schneller Allroad-Slick-Faltreifen, TPI 120,     BRR 5/5 (13,8 W); 3,3–3,5 bar/offiz. (105 kg); 60 ml Dichtmilch initial, 30 ml top-up; [Handmontage+Standpumpe]; 32mm bei 105 kg zu hart = Energieverlust (springt/reibt gg realen Asphalt statt verformend zu gleiten) = langsamer/kurveninstabiler/unkomfortabler als 35er; 32er auf meine Felge auch grenzwertig
 | Reifen-Dichtmilch  | 2025-02 | ?         | ?       | Orange Seal Endurance             | bleibe länger flüssig, dichte aber nicht so schnell/gut wie die normale Orange-Version; Orange scheint auch mit mehr Reifen verträglich zu sein als Stans; hat gut zw. Bead und Felgen abgedichtet
@@ -286,7 +288,7 @@ Gummi-freundlicher: Mucoff Bio-Degreaser
 | Verbindung A          | mit B          | Nm ich    | Nm offiz. (max) | Schmierung
 |-----------------------|----------------|-----------|-----------------|---------------------------------
 | STI-Hebel Shima.      | Lenker     Alu | handfest  | ?   ./.   ?     | trocken
-| Vorbau           Alu  | Lenker     Alu | 4,5       | 6   ./.   5     | Schraubensicherung; sonst _alles_ trocken; Werte gleich für Zipp und Moquai
+| Vorbau           Alu  | Lenker     Alu | 4,5       | 6   ./.   5     | Schraubensicherung (bei Loctite jedes mal neu!); sonst _alles_ trocken; Werte gleich für Zipp und Moquai
 | Vorbau           Alu  | Gabel      Cfk | 4,0       | 6   ./.   ?     | trocken
 | Sattel           CrMo | Stütze     Alu | 6,0       | ?   ./.   8-9   | Antiseize Schrauben
 | Sattelklemme          | Stütze     Alu | 5,0       | 7   ./.   ?     | Antiseize alles
@@ -297,12 +299,14 @@ Gummi-freundlicher: Mucoff Bio-Degreaser
 | Steckachse V          | Gabel      Cfk | handfest  | ?   ./.   ?     | Fett Gewinde und min. Schaft
 | Gabelexpander   Alu   | Gabel      Cfk | 4,0       | 8   ./.   ?     | Antiseize Schrauben und Keilflächen; keine Carbon-Paste; Hülsenaußenfläche komplett fettfrei
 | Flaschenhalter   Cfk  | Rohr       Alu | handfest  | ?   ./.   ?     | Antiseize Schrauben
-| Bremsscheibe          | Nabe       Alu | 5,0       | 6   ./.   ?     | Schraubensicherung
-| Bremszange            | Klemmschraube  | 5,0       | 6-8             | evtl. Loctite aufs Schraubenende; alles Klemmbare absolut fettfrei halten!
+| Bremsscheibe          | Nabe       Alu | 4,5       | 6   ./.   ?     | Schraubensicherung
+| Bremszange            | Klemmschraube  | 5,0       | 6-8             | evtl. Schraubensicherung aufs Schraubenende; alles Klemmbare absolut fettfrei halten!
+| Bremssattel           | Rahmen     Alu | 5,0       | ?   ./.   ?     | Schraubensicherung (bei Loctite jedes mal neu!)
+| Bremssattel           | Rahmen     Cfk | ?         |                 | Schraubensicherung (bei Loctite jedes mal neu!)
 | Kassette              | Nabe       Alu | ?         | ?   ./.   ?     | Antiseize zw. Feilauf und Kas.
 | Kettenblatt           | Kurbel         | ?         | ?               | ?
 | SPD-Cleat       Stahl | Schuh      PA  | 4,0       | ?   ./.   ?     | Schraubensicherung über Länge (trennt auch bisschen; Mischen mit Antiseize reduziert Wirkung)
-| Radlager-Konus V      | Nabe       Alu | Spiel     | Spiel           | Finishline Premium Grease (Schale, Kugeln, Abdeckung)
+| Radlager-Konus V      | Nabe       Alu | Spiel     | Spiel           | Finishline Premium Grease (Schale, Kugeln, Abdeckung); Fettpresse, Finger oder weicher Rundpinsel (harter trägt alles wieder ab)
 | Steuersatz            | Steuerrohr Alu | -         | - (IS-Lagersitz)| Finishline Premium Grease (oben viel gg. Wasser, unten weniger da Dreck: Lagersitze, Film um Lager und Gabelkonus, dick unter oberer Abdeckkappe/Gummiring)
 | Schaltw.-Leitrolle  O | Schaltschwinge | ?         | ?               | ?
 | Schaltw.-Spannrolle U | Schaltschwinge | ?         | ?               | ?
@@ -323,6 +327,68 @@ s.a. Abschnitt [Kleine Schmierstoffkunde](#kleine-schmierstoffkunde)
 Flipchip:
 	- short = quicker handling and acceleration
 	- long = improved stability at speed
+
+
+### Mein Erfahrungsbericht (Summary)
+
+Since 2023 I've used GIANT's Revolt for fast fair-weather commuting and day trips as well as for multiday tent bike-packing adventures.
+It is (comparatively) easy and cheap to maintain because of:  
+- solid entry level components (Shimano, FSA, Tektro, GIANT)
+- semi-internal cable routing with a head-/downtube exit and a BB-chainstay exit
+- Integrated Systems (IS) headset bearings
+- intuitive mechanical brakes
+- almost no surprises in a good way
+
+So the Revolt 2 became an non-frustrating learning platform both for wrenching and cycling.
+
+However:
+
+- Giant fitted the cheapest Jagwire cables (CEX and LEX),  
+	even though you can significantly improve the mechanical brakes for just 20 euros more by switching to
+	_compressionless_ cables (Jagwire Road Pro KEB-SL). 
+	Also install somewhat better rotors and decent brake pads (biting yet dosable as Revolt is not a trickbike).
+	Tektro’s actually solid dual-piston disc brake caliper has acquired an unfair reputation because of this.
+
+- The original Crosscut tires are heavy, slow and uncomfortable (though seemingly industructible for beginners) - replace
+
+- The seatpost needs to be coated with anti-seize compound every now and then to prevent creaking noises.  
+	That’s actually a real annoyance when bikepacking over several _rainy_ days.  
+	(Carbon paste with particles makes the creaking worse. Avoid it.) 
+	I never had any issues with the seatpost slipping.
+
+- The front wheel uses a cup-and-cone bearing rather than a sealed cartridge bearing,  
+	so it requires periodic maintenance.
+	If it wears out (due to grease washing out, rust and pitting), you would have to
+	buy a new front wheel (or maybe press out the cup and find a replacement, or
+	replace the hub and re-lace the wheel—though buying a new SX2 wheel works out cheaper here).
+
+- The uncut original steerer tube is still relatively long, with plenty of	spacers.  
+	If you want to lower the handlebars without sawing off the steerer,
+	you’ll need a longer expander plug inside the tube. 
+	The one originally installed is iirc ~3 cm long - replace with 7 cm (clamping area).
+
+- The cover cap for the seat post clamp bolt doesn't stay on very well.  
+	I use small dabs of adhesive putty underneath the cap so it stays in place, while
+	still allowing me to easily remove and reattach it.
+
+- The bottom bracket/crank area isn't ultra stiff.  
+	If you put a lot of weight and power down in high gears and 
+	depending on the position of the front derailleur,
+	it might rub against the chain (despite trimming). However, 99% it's a rider/gearing issue.
+
+- It probably wouldn't hurt to check whether Giant skimped on grease.
+
+- Few but still some proprietary parts (maintain a stock):
+	- Seat pillar clamp and its cover cap
+	- Cable guide below the bottom bracket
+	- Seat tube compatibility was an issue for _older_ Revolts (D-shaped vs round), but Giant uses an adapter now
+	- Thru-axles
+	- _Maybe_ the tapered Overdrive fork
+	- _Maybe_ the head tube dust cap
+	- For genuine parts, you get referred to local GIANT dealers, 
+		leaving you at the mercy of their arbitrary (steep) pricing.
+		Thank goodness for giantbikespares.com (UK export).
+
 
 
 
@@ -863,7 +929,8 @@ Ständig am Fahrrad bzw. Fahrer:
 
 ## Kleine Schraubkunde
 
-4-Loch überkreuz/sternförmig anziehen (Lenkervorbau):
+
+4-Loch abwechselnd-kleinschrittig überkreuz/sternförmig anziehen (Lenkervorbau):
 ```
   (4)       (1)
      \     /
@@ -876,13 +943,17 @@ Ständig am Fahrrad bzw. Fahrer:
 ```
 
 
-6-Loch überkreuz/sternförmig anziehen (Bremsscheiben):
+6-Loch abwechselnd-kleinschrittig überkreuz/sternförmig anziehen (Bremsscheiben):
 ```
        (1)
    (3)     (6)
    (5)     (4)
        (2)
 ```
+
+Schrauben/Bolzen lösen:
+- frontal attackiert fast immer gegen den Uhrzeigersinn (Ausnahme: Rechtsgewinde bei einem der Pedale)
+- Inbus: runde Enden nicht zum Lösen/Festziehen nutzen: macht die Inbusaufnahme des Bolzens kaputt
 
 
 
@@ -1101,7 +1172,7 @@ Motorrad-Reiniger mehr und billiger
 - TODO
 
 
-### Scheibenbremsbeläge
+### Bremsbelag (Scheibenbremse)
 
 metallisch für Grenzbereich/Spezialist, organisch für Normalbetrieb
 
@@ -1120,29 +1191,51 @@ metallisch für Grenzbereich/Spezialist, organisch für Normalbetrieb
 
 #### Auswahl:
 
+- formstabilität, kühlung, belagabtrag, standzeit, ...
+
 Todo
 
 
-#### Festschrauben:
+#### Installation:
 
-Dass das 6-Loch-System eben keine perfekte Selbstdrehung und Zentrierung besitzt, 
+Dass das 6-Loch-System keine perfekte Selbstdrehung und Zentrierung besitzt, 
 ist der Hauptgrund, warum Shimano das Centerlock-System entwickelt hat. 
-Dort schiebt man die Scheibe auf eine exakte Vielzahn-Verzahnung auf, 
+Bei Centerlock schiebt man die Scheibe auf eine exakte Vielzahn-Verzahnung auf, 
 wodurch sie sich absolut perfekt zentriert und null Rotationsspiel hat.
 
 Beim 6-Loch-System erreicht man dasselbe Ergebnis 
-nur durch saubere Handarbeit: Scheibe gegen Fahrrichtung auf Anschlag drehen (Bremsrichtung) + überkreuz festziehen.
+nur durch saubere Handarbeit: 
 
-Drehst du die Scheibe vor dem Festziehen nicht manuell an den Anschlag (entgegen der Fahrtrichtung), 
-verlässt du dich rein auf die Flächenpressung unter den Schraubenköpfen.
+- Beschriftete Scheibenseite zeigt zum Monteur; 
+- Pfeilbeschriftung bezeichnet die Vorwärts-Laufrichtung (gegen Uhrzeigersinn).
+- Scheibe im Uhrzeigersinn auf Anschlag drehen (Bremsrichtung/gegen Fahrrichtung)
+- überkreuz festziehen.
+
+
 Damit eine Schraube ein Bauteil von selbst exakt mittig zentriert, 
 bräuchte man Senkkopfflachschrauben mit einem konischen Sitz.
 Bremsscheibenschrauben sind jedoch Zylinderschrauben mit flachem Kopf (Linsenkopf).
+Drehst du die Scheibe vor dem Festziehen nicht manuell an den Anschlag (entgegen der Fahrtrichtung), 
+verlässt du dich rein auf die Flächenpressung unter den Schraubenköpfen.
 
 Siehe Abschnitt "kleine Schmierstoffkunde" wegen blauem/gelber Farbe 
 auf Schrauben und deren Wiederverwendbarkeit.
 
+Siehe Abschnitt "kleine Schraubkunde" wegen der 6-Loch-Schraubreihenfolge.
 
+
+#### Zentrieren:
+
+Manche Bremsscheiben kommen nicht true vom Werk, 
+werden untrue beim Installieren oder über die Dauer.
+
+Zentrierständer wie der UNIOR 1688 haben einen eigenen Sensor für Bremsscheiben.
+
+Mit einer Ausrichtungshilfe drückt man die Scheibe dann entsprechend zurecht:
+Möglichst ganze Vertiefung des Werkzeugs verwenden, 
+an einem Spider-Strahl ansetzen/nicht nur an der Bremsflanke, 
+ganzen Hebel des Werkzeugs nutzen und ggf. Radspeichen als Griffanker zum Heranziehen des Werkzeugs nutzen; 
+immer nur kleine Kippelbiegeschritte machen.
 
 
 
@@ -1278,6 +1371,11 @@ Für Andere reicht ein Kabelbinder an der Sitzstrebe.
 	einseitiger Ständer wie im Foto (UNIOR 1688) nicht, dort nutzt man die Umschlagsmethode 
 - Nippel: Messing (schwerer/stabiler) vs Alu (leichter/schwächer)
 - Speichen: J, ... TODO
+- seitlich sind Felgen auf Zehtnel mm zentrierbar, Höhenschläge gelingen aber nicht immer gut oder
+	perfekt rund nur mit hohen Spannungsunterschieden: lieber 0,5 mm Höhenschlag und dafür eine homogene Einspeichung. 
+- keine Straße ist so eben, dass man 0,5 mm merken könnte, der Reifen kompensiert (Ausnahme: Bahnräder mit hoher Geschw.)
+- Reifen eignen manchmal eigenen Höhenschlag trotz perfekt runder Felge, z.B. breit-ungleichm. Felgenband (getrennt messen)
+- wenn die Felge sehr gut ist gehen Rundlauf und homogene Speichenspannug zusammen
 
 
 ### Wo beginnen? 
@@ -1326,7 +1424,7 @@ Anfänge & Mitte des Schlags an der Felge finden, markieren und anteilig über m
 	- relativ gleichmäßige Speichenspannung wichtiger als extrem genaue Zentrierung
 - Abdrücken/Setzarbeit: ... TODO
 	- nach jedem Zentrierschritt: sich kreuzende Speichen zusammendrücken rund ums Rad
-
+- mehr als 10% Abweichung der Spannung vermeiden (auf der selben Laufradseite)
 
 
 
@@ -1398,14 +1496,19 @@ den Griffgummi kann man direkt unter dem Hebel greifen und etwas nach vorne Zieh
 
 Auf der Innenseite des Hebels ist eine helle Klappe, die kann man mit den Fingern oder etwas Spitzel heraushebeln.
 
-Kleinen Hebel nutzen, damit die Zugnippelaufnahme Richtung Außenöffnung kommt (von Außenseite auf den Schalter gesehen)
+KLEINEN Schalthebel bis aufs kleinste Ritzel/höchsten Gang drücken, 
+damit die Zugnippelaufnahme im STI zur Außenöffnung hochkommt (von Außenseite auf den Schalter gesehen).
+Das ist dann die entspannteste Kabelposition; beim Schalten auf größere Ritzel zieht er den Nippel immer weiter nach unten und das Seil ins Kabel rein.
+Nippel entfernen.
 
-Von Unten auf den Hebel geschaut befindet sich ein Service-Fenster, verdeckt mit eine Klappe mit Schraube: Nach Lösen kommt man an das Schaltwerk heran
+Abgerissene Seilreste aus der Mechanik entfernen:  
+Von Unten auf den Hebel geschaut befindet sich ein Service-Fenster, verdeckt mit eine Klappe mit Schraube (Phillips 1/JIS 1?): 
+Nach Lösen kommt man an den Ratschenmechanismus heran
 und kann abgerissene Zugteile vorsichtig herausziehen.
 Um diese Klappe wieder anbringen zu können sollte man den Griffgummi erst nach hinten Richtung Lenker wickeln.
 
-Drahtzug maximal 3-5 cm (inkl. Endhülse) hinter der Klemmung überstehen lassen;
-kürzer wirkt professioneller: sauberer (kein unnötiger Drahtüberschuss), 
+Drahtzug maximal 3-5 cm (inkl. Endhülse) hinter der Klemmung am Schaltwerk überstehen lassen;
+kürzer wirkt professioneller (nach 3 Fingerbreiten abknipsen): sauberer (kein unnötiger Drahtüberschuss), 
 weniger Risiko für Kontakt mit Bauteilen, Kleidung oder Gestrüpp und entsprechende Geräusche;
 mind 1-2 cm aber unbedingt stehen lassen, damit man den Zug noch beim Nachjustieren greifen kann.
 
@@ -1434,7 +1537,18 @@ s. Schaltung einstellen
 
 ### Bremszug:
 
-Todo;
+- einfacher als Schaltzug
+- Bremse drücken, Seil mit Pilzkopf vorne aus dem STI rausziehen
+- Bowdenhülle ohne Kappen direkt in die STI-Öffnung gesteckt
+- am anderen Ende - bei der Bremszange - sind Metall- oder Keramikkappen notwendig (Plastik zu weich)
+- Der Bowdenzug geht komplett durch den Rahmen bzw. Gabelholm, der wird nicht nochmal unterbrochen.
+- Beim Einsetzen des Seils schauen, dass der Pilzkopf wirklich komplett in der Fassung ist und nicht paar mm davor;
+- die Tektrobremsen sind ziemlich easy, da muss nichts gehalten werden etc, einfach im entspannten Zustand durchfädeln, dabei 
+	das Seil richtig durch die klemmnase und klemmring führen und vorm Klemmen stramm machen 
+	(reichte mit Fingern bei den Jagwire Pro KEB-SL-Kabeln).
+- Biegeradien der Kabel beachten, Lenker muss links und rechts eingeschlagen werden können.
+- an der Kettenstrebe sind unten Kabelführungen, an denen das Kabel mit Zipties gehalten werden kann.
+
 
 
 
@@ -1689,7 +1803,10 @@ Bei meinem Modell wäre vorne Konuslager und hinten Cartridge/gedichtetes Lager:
 3. Konusschlüssel an Konus, dort kontern und Sicherungsmutter gegen Uhrzeigersinn aufdrehen
 4. Sicherungsmutter, Staubkappe, Konus entfernen (bei Komplettwartung)
 	- überall merken, wo oben und unten war: entweder durch entsprechendes Ablegen in einer Schale oder Skizze auf Notizzettel
-5. Kugeln entfernen mit Magnet oder Pinzette
+	- falls man nicht gedreht bekommt, von der anderen Seite mit der Hand drehen, so dass sich er der Konus hochschiebt
+	- fast nie nötig: Konus und Mutter auch von der anderen Seite der Achse lösen; der sollte schöne fest bleiben, 
+		weil man dort vielleicht mal kontern muss und es erlaubt, alles mit relativ ähnlichen Abständen wiederzusammenbauen
+5. Kugeln mit Pinzette entfernen; Magnet nur, falls die Kugeln danach in den Müll sollen (evtl. magnetisierte Kugeln bappen wohl im Lager ungünstig zusammen)
 6. Rad umdrehen, dabei die Achse festhalten (sonst fliegen Kugeln raus) und Achse an der Bremsseite entfernen
 7. Kugeln entfernen
 
@@ -1749,9 +1866,12 @@ Beachten:
 
 Trick:
 1. Achse auf der gegenüberliegenden Seite richtig andrücken, damit auf der anderen Seite vollständiges Gewinde verfügbar ist (sonst später ungewolltest Achsenspiel)
-2. Konus ranschieben bis man Kugeln kontaktiert
+2. Konus mit der Hand ranschieben bis man Kugeln kontaktiert
 3. Sicherungsmutter auf den Konus mit der Hand drehen
 4. Konus jetzt gegen die Mutter sichern (statt umgekehrt), so dass der Konus beim Spannen gegen die Mutter von den Kugeln minimalst zurückgeht
+
+Immer testen, ob das Rad im eingespannten Zustand in der Gabel Spiel hat: Dann wieder justieren.
+Sweet spot finden kann eine Weile dauern.
 
 
 ### Nachbereitungen
@@ -1767,7 +1887,7 @@ Trick:
 ![Felge mit Dichtmilch-Datum-Etikett](tubeless.jpg)
 
 Ich notiere das Datum meiner letzten Erneuerung direkt auf den Laufrädern:
-Das Etikett besteht aus einem schwarzen Stück 3M 33+ Scotch Elektroisolierband mit 19mm Breite
+Das Etikett besteht aus einem schwarzen Stück 3M 33+ Scotch Elektroisolierband mit 1,8 cm Breite und 5 cm Länge (Flachprofilfelgen)
 und einem weißen Schriftzug aus einem Edding 780 Glanzlackmarker weiß 0,8mm Rundspitze.
 
 Nach einigen Monaten trocknet die Milch aus.
@@ -1775,6 +1895,9 @@ Nach einigen Monaten trocknet die Milch aus.
 Mit Dichtmilch sollte man regelm. fahren und nicht lange im Keler stehen lassen, 
 sonst bildet sich im Reifen am Boden eine Verklumpung und damit eine Unwucht.
 
+
+![Tubeless-Spritzen](tubeless2.jpg)
+_(Abb.: Dichtmilch-Spritzen in genauen(!) Größen)_
 
 Nachfüllen:
 
@@ -1789,6 +1912,23 @@ Nachfüllen:
 	7. Ventileinsatz reinschrauben
 	8. aufpumpen, nicht knallvoll
 	9. paar mal Rad seitlich nach vorne wenden, dann wie uhr drehen, dann zu sich drehen, wieder wie uhr drehen, wiederholen
+
+- es gibt große Dichtmilch-Spritzen (120 ml), die man auffüllen kann (im Idealfall aufziehen);
+	fand sie in der Praxis aber unhandlich, schlecht lesbar, unsauberer, ...;
+	habe irgendwann Billig-China-Kunststoffspritzen in genauen Größen gekauft (30 Topping und 60 ml Initial) - mit Schlauch, 
+	um Dichtmilch aus der Flasche aufzuziehen; 
+	die breite reStummelspitze der Spritzen kann ich direkt in den Ventilschaft halten und es gibt dabei auch keine Sauerei.
+	Ich verwende Schlauch und Spritzen wieder, man muss sich nur etwas mit der Reinigung beeilen.
+
+
+Warum trocknet die Milch nicht sofort im Reifen wie außerhalb?  
+Sobald die Dichtmilch im Reifen ist und dieser aufgepumpt wird, 
+bildet sich im Luftvolumen des Reifens ein Sättigungsgleichgewicht. 
+Die Luft im Reifen hat 100 % relative Luftfeuchtigkeit. 
+Da keine frische, trockene Luft nachströmt und kein Zugluft-Effekt herrscht, 
+kann die Trägerflüssigkeit nicht weiter verdunsten.
+
+
 
 
 
@@ -2034,7 +2174,9 @@ TODO
 
 
 
-### Lenkervorbau + Gabelschaft-Expander/Compression Plug
+### Lenkerhöhe 
+
+#### Lenkervorbau + Gabelschaft-Expander/Compression Plug
 
 ![Expander](expander.jpg)  
 _(Abb.: GIANT-verbauter Original-Expander: Zugbolzen mit Flansch zieht konischen Keil in die geschlitzte Spreizhülse und weitet sie dadurch auf)_
@@ -2047,11 +2189,11 @@ Will man den Lenker tiefer und die Gabel nicht absägen, dann muss ein längerer
 
 #### Ausbau des Original-Expanders (Foto):
 
-1. Niemals 
-	- mit Schraubendreher o.ä. zwischen Expander und Carbon-Schaft
-	- auf dem Rohrende irgendwas hebeln
-	- erhitzen: Epoxidharz wird ab 80-100 Grad C weich; Kältspray ins Rohr sollte bei Verzweiflung ok sein (senkt Reibung)
-	- punktuellen Druck und Scherkräfte ausüben
+1. Vorsicht: 
+	- niemals mit Schraubendreher o.ä. zwischen Expander und Carbon-Schaft
+	- niemals auf dem Rohrende irgendwas hebeln
+	- niemals erhitzen: Epoxidharz wird ab 80-100 Grad C weich; Kältspray ins Rohr sollte bei Verzweiflung ok sein (senkt Reibung)
+	- niemals punktuellen Druck und Scherkräfte ausüben
 2. Ahead-Kappe abschrauben
 3. Expander mit 8er-Inbus paar Windungen aufschrauben (gegen Uhrzeigersinn)
 4. unwahrscheinlich, dass man den Expander schon rausziehen kann
