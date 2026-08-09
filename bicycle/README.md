@@ -1892,14 +1892,13 @@ und einem weißen Schriftzug aus einem Edding 780 Glanzlackmarker weiß 0,8mm Ru
 
 Nach einigen Monaten trocknet die Milch aus.
 
-Mit Dichtmilch sollte man regelm. fahren und nicht lange im Keler stehen lassen, 
+Mit Dichtmilch sollte man regelm. fahren und nicht lange im Keller stehen lassen, 
 sonst bildet sich im Reifen am Boden eine Verklumpung und damit eine Unwucht.
 
 
 ![Tubeless-Spritzen](tubeless2.jpg)
 _(Abb.: Dichtmilch-Spritzen in genauen(!) Größen)_
 
-Nachfüllen:
 
 - man kann häufiger direkt nachfüllen, das Gewicht getrockneter alter Dichtmilch beträgt nur wenige Gramm und ist vernachlässigbar.
 - es gibt 59ml-Flaschen direkt mit Spitze, die man in die Ventilöffnung drücken kann:
@@ -1913,12 +1912,22 @@ Nachfüllen:
 	8. aufpumpen, nicht knallvoll
 	9. paar mal Rad seitlich nach vorne wenden, dann wie uhr drehen, dann zu sich drehen, wieder wie uhr drehen, wiederholen
 
-- es gibt große Dichtmilch-Spritzen (120 ml), die man auffüllen kann (im Idealfall aufziehen);
-	fand sie in der Praxis aber unhandlich, schlecht lesbar, unsauberer, ...;
-	habe irgendwann Billig-China-Kunststoffspritzen in genauen Größen gekauft (30 Topping und 60 ml Initial) - mit Schlauch, 
-	um Dichtmilch aus der Flasche aufzuziehen; 
-	die breite reStummelspitze der Spritzen kann ich direkt in den Ventilschaft halten und es gibt dabei auch keine Sauerei.
-	Ich verwende Schlauch und Spritzen wieder, man muss sich nur etwas mit der Reinigung beeilen.
+- es gibt große Tubeless-Injectors (Spritzen) (100-120 ml)
+	- idealerweise nie von hinten auffüllen, sondern Milch aufziehen, 
+		sonst ist der Behälter schnell komplett mit Milch benetzt und die Skala nicht mehr brauchbar
+	- sollte einen Ansaugschlauch für "tiefe", dünnhalsige Dichtmilchflaschen haben, der dann das Ventil nicht einsaut 
+		(Ventil-Aufsteck/-schraublösungen vermeiden)
+	- fand meine (Stans Injector) in der Praxis unhandlich, den Ventilschaft-Adapter unsauber, teuer (1x zum Preis von 4-6 Noname-China-Spritzen)
+	- habe irgendwann Noname-China-Kunststoffspritzen in genauen Größen gekauft (60 ml Erstverklebung und 30 ml Auffrischung bei mir), 
+		inkl. Schläuche.
+		Ich saug Milch über den Schlauch in die Spritze, drück den Schlauch von der Spritze (Unterdruck hält Dichtmilch in der Spritze)
+		und halte die breit-stumpfe Stummelkanüle der Spritze direkt in den Ventilschaft (ohne Raddreherei direkt bei 4 oder 8 Uhr).
+		Bleibt idR. alles sehr sauber.  
+		Ich verwende Schlauch und Spritzen wieder, man muss sich nur etwas mit der Reinigung beeilen, 
+		sonst backt die Dichtmilch an und das Entfernen wird aufwendig; 
+		zur Not habe ich mehrere Ersatzspritzen (zum Preis von 1 offiz. "Tubeless Injector").
+	- für Dichtmilch mit Feststoffen ist die Kanüle evtl. zu eng: ggf. Dossier-/Messflaschen kaufen und Auslasser zurechtschneiden.  
+
 
 
 Warum trocknet die Milch nicht sofort im Reifen wie außerhalb?  
@@ -1936,7 +1945,8 @@ Säubern:
 
 
 
-
+Sonstiges:
+	- "Ghetto-Tubeless"
 
 
 
