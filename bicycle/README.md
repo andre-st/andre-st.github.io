@@ -276,6 +276,10 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Lenkerband         | 2026-04 |  8 €      | \*      | DEDA                                | Synthetik, gun barrel grey (4800); Klebestreifen; sieht ok aus (all black aber doch schöner), lässt sich gut wickeln und korrigieren, aber hart-samtig-glatt = problematisch wenig Grip; wenig Dämpfung und Vorsicht beim Abziehen des Schutzes auf dem Klebestreifens, löst sonst gleich beides vom Band (ggf. von der Seite abfitzeln); Länge hat ohne ital 8 noch gereicht bei 42-cm Flattop-Lenker inkl. Tops; ok, falls es günstig sein muss; hinterließ beim Entfernen keine Spuren, war aber auch nur 1-2 Monate auf dem Lenker
 | Lenkerband         | 2026-05 | 22 €      | \*\*\*  | **Cinelli Special Edition Gelkork** | Kork, mittel (muss straff gelegt werden, sonst Wurstoptik), diese SE-Version hat guten Silikon- statt Klebestreifen = leicht wickeln und korrigieren = sehr wartungsfreundlich, Cinelli-Logos helfen beim Alignment; dämpft auch noch ausreichend wenn straff gewickelt; Grip nicht so gut/etwas glatt, Hand kann auf dem Lenker verrutschen; hatte die auch mal von einem Lenker auf anderen Lenker easy weiterverwendet
 | Lenkerband         | 2026-05 | 25 €      | Todo    | Faserwerk Handschmeichler SL        | 2,5 mm,  EVA-Schaumstoff
+| Flasche            |         | 13 €      | \*\*\*  | Camelbak Podium                     | 710 ml passende Größe für XL-Rahmen, kleiner wirkt dumm; größer nur für Bikepacking; ich mag den großen Ventildurchfluss (Reinigung umständlicher); die Staubkappen lohnen, einzeln aber teuer
+| Flasche            |         | 16 €      | \*      | Camelbak Podium Chill               | stinken, Isolation lohnt nicht und weniger Wasser verfügbar
+| Flasche            |         |  6 €      | \*\*    | Elite Fly (Tex) / Jet Green         | primitiv, aber auch ihr Vorteil (Reinigung, Preis); stinken nicht
+| Flasche            |         |           | \*      | Tacx-Derivate (siehe Boden)         | stinken; rebranded oft Abzockpreis (14 statt 4 Euro)
 
 
 
@@ -284,25 +288,26 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 Vor-Reinigung außer Carbon (CfK) und Gummi: 90%-Isopropylalkohol (IPA), Bremsenreiniger, WD40 Rostentferner, Schleifvlies, Bürste, Plastikschaber (Pulleys)
 Gummi-freundlicher: Mucoff Bio-Degreaser  
 
+Reihenfolge in Liste = Reihenfolge bei Kontrolle  
 
-| Verbindung A            | mit B          | Nm ich    | Nm offiz. (max) | Schmierung
+| Verbindung A            | mit B          | Nm ich    | Nm offiz. (max) | Schmierung / Kommentar
 |-------------------------|----------------|-----------|-----------------|---------------------------------
-| STI-Hebel Shima.        | Lenker     Alu | handfest  | ?   ./.   ?     | trocken
+| STI-Hebel Shima.        | Lenker     Alu | handfest  | ?   ./.   ?     | trocken; handfest erlaubt bei Sturz das Verdrehen der STI bzw. verhindert stärkere Schäden / Einleiten der Sturzenergie über Klemmschelle in Lenker oder STI
+| Steckachse H            | Hinterbau  Alu | handfest  | ?   ./.   ?     | Fett Gewinde und min. Schaft
+| Steckachse V            | Gabel      Cfk | handfest  | ?   ./.   ?     | Fett Gewinde und min. Schaft
 | Vorbau             Alu  | Lenker     Alu | 4,5       | 6   ./.   5     | Schraubensicherung (bei Loctite jedes mal neu!); sonst _alles_ trocken; Werte gleich für Zipp und Moquai
 | Vorbau             Alu  | Gabel      Cfk | 4,0       | 6   ./.   ?     | trocken
 | Sattel             CrMo | Stütze     Alu | 6,0       | ?   ./.   8-9   | Antiseize Schrauben
 | Sattelklemme            | Stütze     Alu | 5,0       | 7   ./.   ?     | Antiseize alles
+| Bremssattel             | Rahmen     Alu | 5,0       | ?   ./.   ?     | Schraubensicherung (bei Loctite jedes mal neu!)
+| Bremssattel             | Rahmen     Cfk | ?         |                 | Schraubensicherung (bei Loctite jedes mal neu!)
 | Sitzrohr           Alu  | Stütze     Alu | -         | -               | Anti-Seize über Stütze, D-Fuse-Adapter, und alle Teile des Schraubmechanismus = verhindert Knarzgeräusche (Carbon-Paste mit Partikel erzeugt bei Alu-Alu wie Dreck mehr statt weniger Knarzen)
 | Schaltwerk              | Auge       Alu | handfest  | ?   ./.   ?     | 
 | Pedale Shimano          | Kurbel FSA     | 25,0      | 35  ./.   ?     | Antiseize Gewinde (&#x21D2; 65-75% Drehm.)
-| Steckachse H            | Hinterbau  Alu | handfest  | ?   ./.   ?     | Fett Gewinde und min. Schaft
-| Steckachse V            | Gabel      Cfk | handfest  | ?   ./.   ?     | Fett Gewinde und min. Schaft
 | Gabelexpander      Alu  | Gabel      Cfk | 4,0       | 8   ./.   ?     | Antiseize Schrauben und Keilflächen; keine Carbon-Paste; Hülsenaußenfläche komplett fettfrei
 | Flaschenhalter     Cfk  | Rohr       Alu | handfest  | ?   ./.   ?     | Antiseize Schrauben
 | Bremsscheibe            | Nabe       Alu | 4,5       | 6   ./.   ?     | Schraubensicherung
 | Bremszange              | Klemmschraube  | 5,0       | 6-8             | evtl. Schraubensicherung aufs Schraubenende; alles Klemmbare absolut fettfrei halten!
-| Bremssattel             | Rahmen     Alu | 5,0       | ?   ./.   ?     | Schraubensicherung (bei Loctite jedes mal neu!)
-| Bremssattel             | Rahmen     Cfk | ?         |                 | Schraubensicherung (bei Loctite jedes mal neu!)
 | Kassette                | Nabe       Alu | ?         | ?   ./.   ?     | Antiseize zw. Feilauf und Kas.
 | Kettenblatt             | Kurbel         | ?         | ?               | ?
 | SPD-Cleat         Stahl | Schuh      PA  | 4,0       | ?   ./.   ?     | Schraubensicherung über Länge (trennt auch bisschen; Mischen mit Antiseize reduziert Wirkung)
@@ -317,6 +322,7 @@ Gummi-freundlicher: Mucoff Bio-Degreaser
 | Kette                   | Zahnräder      | -         | -               | Liquimoly Dry bzw. Wet Lube; kleiner fester Flach-Pinsel: Tropfen Öl drauf und streich dann eine Bahn von Pulley bis Kettenblatt, wdh. insg. 3 Tropfen pro Bahn, kurbel weiter: zügig-saubere Arbeit und Ergebnis
 | Reifen Tubeless         | Felge          | -         | -               | Orange Seal Endurance bei allen Nicht-GIANT-Reifen; sonst GIANT Tire Sealant; 30-40 mm = 60ml initial, 30 ml top-up
 | Schalt-/Bremsseil       | Bowdenzughülle | -         | -               | -, OptiSlick werkseitig geschmiert, Jagwire Pro werkseitig geschmiert(?)
+| Flipchip-Befestigung    |                |           |                 |
 
 
 handfest = Kontakt + leichtes Nachziehen mit kurzem Hebel, aber ohne Kraftaufwand oder letzten Ruck;  
@@ -324,9 +330,13 @@ Cfk = Carbon, Alu = Aluminium, CrMo = Stahl, PA = Nylon
 s.a. Abschnitt [Kleine Schmierstoffkunde](#kleine-schmierstoffkunde)
 
 
+
+
+
 Flipchip:
 	- short = quicker handling and acceleration
 	- long = improved stability at speed
+
 
 
 ### Mein Erfahrungsbericht (English Summary)
@@ -402,11 +412,23 @@ TODO
 
 Kleine Materialkunde:
 
-| Material               | Trocknung | Waerme | Kühlung | bleibt geruchsarm | Hautgefühl | Preis   | Kommentar
-|------------------------|-----------|--------|---------|-------------------|------------|---------|----------------
-| Baumwolle              | \*        | \*\*\* | \*\*\*  | \*                | \*\*       | \*\*\*  | 
-| Merino-Wolle           | \*\*      | \*\*\* | \*\*\*  | \*\*\*            | \*\*\*     | \*      | 
-| todo...                |           |        |         |                   |            |         | 
+| Material               | trocknet | wärmt  | kühlt   | geruchsarm | UV-Schutz* | Hautgefühl | Preis   | Waschtemp. | Kommentar
+|------------------------|----------|--------|---------|------------|------------|------------|---------|------------|----
+| Baumwolle              | \*       | \*     | \*      | \*\*       | \*         | \*\*\*     | \*\*\*  | 40-60°C    | für Rad/Outdoor ungeeignet: saugt Schweiß auf, trocknet langsam und kühlt dann stark aus (keine angenehme Kühlung), klebt luftundurchl. am Körper, Haut quillt auf (Scheuerstellen)
+| Merinowolle            | \*\*     | \*\*\* | \*\*    | \*\*\*     | \*\*\*     | \*\*\*     | \*      | 20-30°C    | Nasser-Hund-Geruch wenn feucht? zuviel Lanolin (Wollfett): mit 1-2 Tropfen Spüli für 30 Minuten einweichen; Handwäsche; nasse Kleidung (ideal auf Handtuch) hinlegen statt aufhängen (leiert aus); kein Weichspüler
+| Polyester (Synthetik)  | \*\*\*   | \*\*   | \*\*    | \*         | \*\*       | \*\*       | \*\*\*  | 30-40°C    | Sportwaschmittel; kein Weichspüler (verklebt Poren/ruiniert Feuchtigkeitsmgmt.)
+| Polyamid / Nylon       | \*\*\*   | \*\*   | \*\*    | \*         | \*\*\*     | \*\*\*     | \*\*    | 30-40°C    | Schonwaschgang; Reiß- und Klettverschlüsse schließen sonst Pilling/Abrieb
+| Polypropylen           | \*\*\*   | \*     | \*      | \*         | \*         | \*\*       | \*\*    | 20-30°C    | nie bügeln
+
+\*) unbehandelt; höhere SPF erreichbar durch dichtere Web-/Strickart (Konstruktions-SPF) und/oder eingearbeitete UV-Absorber/Pigmente, bei evtl. mehr Gewicht
+
+Sportkleidung waschen:
+- hohe Temperaturen (60°C) ist ein Mythos aus Baumwollzeiten
+- Funktions-/Sportwaschmittel benutzen (Vollwaschmittel mit Bleichmittel und Protease-Enzyme greifen Funktionsfasern an)
+- rasch waschen und trocknen, nicht muffig werden lassen
+- bei "Permastink" gelegentlich Hygienespüler oder mildes Essigwasserbad
+- nie bügeln
+- ideal Lufttrocknen im Schatten; UV-Strahlung greift Elasthan und synthetische Fasern an, macht sie auf Dauer spröde und bleicht Farben aus
 
 
 
@@ -524,6 +546,8 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 		wenn man das Buff auch noch bis über den Hinterkopf gezogen hat (und daruber dann die dünne Mütze), 
 		dann wurde aus beidem quasi eine dickere Unterhelmmütze,
 		und die Wangen usw. wurdem auch noch geschützt
+
+
 
 
 ### Meine Radhosen
