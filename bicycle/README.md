@@ -43,7 +43,7 @@ Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäß
 - [Reifen](#reifen)
 - [Sattel](#sattel)
 - [Lenker](#lenker)
-- [Hygiene / Medizin / Diät](#hygiene-medizin-diat)
+- [Hygiene / Medizin / Diät](#hygiene--medizin--diät)
 - [Bike-Fitting](#bikefitting)
 - [Bikepacking](#bikepacking)
 - [Tourplanung](#tourplanung)
@@ -2342,7 +2342,7 @@ Mag sich ändern, falls ich mal in Richtung 200-300 km am Tag oder Ultracycling 
 
 ## Hygiene / Medizin / Diät
 
-![Giant Revolt 2 XL Gravel Bike im Allroad-Setup 2026](giantrevolt2-allroad.jpg)
+![Medizinkiste](meds.jpg)
 _(Abb.: kleine Kiste mit Sturzmedizin-Produkten)_
 
 
