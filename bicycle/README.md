@@ -4,7 +4,7 @@
 
 _ACHTUNG: Alles work-in-progress hier, mag sich alles ändern – große Müllhalde zu redigieren._  
 
-Ich bin weder Anwalt noch ausgebildeter Zweiradmechaniker, daher alle rechtlichen oder technischen Aussagen ohne Gewähr.  
+Ich bin weder Anwalt, noch medizinisch ausgebildet, noch ausgebildeter Zweiradmechaniker, daher alle rechtlichen, medizinischen oder technischen Aussagen ohne Gewähr.  
 
 Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäßig; 1 = vermeiden)
 
@@ -410,15 +410,35 @@ TODO
 
 ## Kleidung
 
+
+Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
+
+
+**Helm + Klarsicht-/Sonnenbrille + Sommer-Gravel-Radschuhe +**
+
+| Temperatur     | Kopf                                                | Torso                                      | Hände                        | Beine                               | Füße                                    | Regen
+|----------------|-----------------------------------------------------|--------------------------------------------|------------------------------|-------------------------------------|-----------------------------------------|-----------------------
+| **-5-4&deg;C** | Unterhelm-Mütze dünn +Merinobuff Hinterkopf/Gesicht | Thermo-Softshell +Trikot lang +Basel. kurz | dicke Krebs-Handschuhe       | Bibshort +Wind-Thermo-Überhose lang | Neopren-Überschuhe +Wandersocken mittel | -<br>(Nassregen selten)
+|  **4-7&deg;C** | Unterhelm-Mütze dünn +Merinobuff Gesicht            | Thermo-Softshell +Thermo-Baselayer lang    | mittelisol. Handschuhe lang  | Bibshort +Wind-Thermo-Überhose lang | Wind-Socken angeraut                    | Regenjacke/-poncho Gepäck +Velotoze
+|  **7-9&deg;C** | Unterhelm-Mütze dünn +Merinobuff in Rücktasch       | Thermo-Softshell +Baselayer kurz           | mittelisol. Handschuhe lang  | Bibshort +Wind-Thermo-Überhose lang | Wandersocken mittel                     | Regenjacke/-poncho Gepäck +Velotoze bei Langfahrt
+| **9-13&deg;C** | -                                                   | 80%-Windjacke    +Thermo-Baselayer lang;;<br>Trikot lang +Base angeraut lang +Windweste | unisol. Wind-Handschuhe lang  | Wind-Thermo-Bibshort +Beinlinge;; <br> Bib +Beinl. (auf &frac34;?) +Überhose kurz | Wandersocken mittel | Regenjacke/-poncho Gepäck +Velotoze bei Langfahrt
+|**13-18&deg;C** | -                                                   | Trikot lang +Windweste/-Basel.             | Handschuhe kurz              | Bibshort +Beinlinge auf &frac34;/Rückta.    | Rad-Socken mittel               | Windjacke +Velotoze bei Langfahrt
+|**18-30&deg;C** | -                                                   | Trikot/ Merinoshirt / Sun-Hoodie           | Handschuhe kurz              | Bibshort                            | Rad-Socken dünn                         | - (aushalten)
+
+(Bibshort kann in Kombi mit Überhose auch ein Bibliner sein)
+
+
+
+
 Kleine Materialkunde:
 
-| Material               | trocknet | wärmt  | kühlt   | geruchsarm | UV-Schutz* | Hautgefühl | Preis   | Waschtemp. | Kommentar
-|------------------------|----------|--------|---------|------------|------------|------------|---------|------------|----
-| Baumwolle              | \*       | \*     | \*      | \*\*       | \*         | \*\*\*     | \*\*\*  | 40-60°C    | für Rad/Outdoor ungeeignet: saugt Schweiß auf, trocknet langsam und kühlt dann stark aus (keine angenehme Kühlung), klebt luftundurchl. am Körper, Haut quillt auf (Scheuerstellen)
-| Merinowolle            | \*\*     | \*\*\* | \*\*    | \*\*\*     | \*\*\*     | \*\*\*     | \*      | 20-30°C    | Nasser-Hund-Geruch wenn feucht? zuviel Lanolin (Wollfett): mit 1-2 Tropfen Spüli für 30 Minuten einweichen; Handwäsche; nasse Kleidung (ideal auf Handtuch) hinlegen statt aufhängen (leiert aus); kein Weichspüler
-| Polyester (Synthetik)  | \*\*\*   | \*\*   | \*\*    | \*         | \*\*       | \*\*       | \*\*\*  | 30-40°C    | Sportwaschmittel; kein Weichspüler (verklebt Poren/ruiniert Feuchtigkeitsmgmt.)
-| Polyamid / Nylon       | \*\*\*   | \*\*   | \*\*    | \*         | \*\*\*     | \*\*\*     | \*\*    | 30-40°C    | Schonwaschgang; Reiß- und Klettverschlüsse schließen sonst Pilling/Abrieb
-| Polypropylen           | \*\*\*   | \*     | \*      | \*         | \*         | \*\*       | \*\*    | 20-30°C    | nie bügeln
+| Material               | trocknet | wärmt  | kühlt   | riecht | UV*    | Hautgefühl | kostet  | Kommentar
+|------------------------|----------|--------|---------|--------|--------|------------|---------|------------
+| Baumwolle              | \*       | \*     | \*      | \*\*   | \*     | \*\*\*     | \*\*\*  | 40-60°C; für Rad/Outdoor ungeeignet: saugt Schweiß auf, trocknet langsam und kühlt dann stark aus (keine angenehme Kühlung), klebt luftundurchl. am Körper, Haut quillt auf (Scheuerstellen)
+| Merinowolle            | \*\*     | \*\*\* | \*\*    | \*\*\* | \*\*\* | \*\*\*     | \*      | 20-30°C; Nasser-Hund-Geruch wenn feucht? zuviel Lanolin (Wollfett): mit 1-2 Tropfen Spüli für 30 Minuten einweichen; Handwäsche; nasse Kleidung (ideal auf Handtuch) hinlegen statt aufhängen (leiert aus); kein Weichspüler
+| Polyester (Synthetik)  | \*\*\*   | \*\*   | \*\*    | \*     | \*\*   | \*\*       | \*\*\*  | 30-40°C; Sportwaschmittel; kein Weichspüler (verklebt Poren/ruiniert Feuchtigkeitsmgmt.)
+| Polyamid / Nylon       | \*\*\*   | \*\*   | \*\*    | \*     | \*\*\* | \*\*\*     | \*\*    | 30-40°C; Schonwaschgang; Reiß- und Klettverschlüsse schließen sonst Pilling/Abrieb
+| Polypropylen           | \*\*\*   | \*     | \*      | \*     | \*     | \*\*       | \*\*    | 20-30°C; nie bügeln
 
 \*) unbehandelt; höhere SPF erreichbar durch dichtere Web-/Strickart (Konstruktions-SPF) und/oder eingearbeitete UV-Absorber/Pigmente, bei evtl. mehr Gewicht
 
@@ -449,21 +469,7 @@ Helm:
 
 
 
-Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 
-
-**Helm + Klarsicht-/Sonnenbrille + Sommer-Gravel-Radschuhe +**
-
-| Temperatur     | Kopf                                                | Torso                                      | Hände                        | Beine                               | Füße                                    | Regen
-|----------------|-----------------------------------------------------|--------------------------------------------|------------------------------|-------------------------------------|-----------------------------------------|-----------------------
-| **-5-4&deg;C** | Unterhelm-Mütze dünn +Merinobuff Hinterkopf/Gesicht | Thermo-Softshell +Trikot lang +Basel. kurz | dicke Krebs-Handschuhe       | Bibshort +Wind-Thermo-Überhose lang | Neopren-Überschuhe +Wandersocken mittel | -<br>(Nassregen selten)
-|  **4-7&deg;C** | Unterhelm-Mütze dünn +Merinobuff Gesicht            | Thermo-Softshell +Thermo-Baselayer lang    | mittelisol. Handschuhe lang  | Bibshort +Wind-Thermo-Überhose lang | Wind-Socken angeraut                    | Regenjacke/-poncho Gepäck +Velotoze
-|  **7-9&deg;C** | Unterhelm-Mütze dünn +Merinobuff in Rücktasch       | Thermo-Softshell +Baselayer kurz           | mittelisol. Handschuhe lang  | Bibshort +Wind-Thermo-Überhose lang | Wandersocken mittel                     | Regenjacke/-poncho Gepäck +Velotoze bei Langfahrt
-| **9-13&deg;C** | -                                                   | 80%-Windjacke    +Thermo-Baselayer lang;;<br>Trikot lang +Base angeraut lang +Windweste | unisol. Wind-Handschuhe lang  | Wind-Thermo-Bibshort +Beinlinge;; <br> Bib +Beinl. (auf &frac34;?) +Überhose kurz | Wandersocken mittel | Regenjacke/-poncho Gepäck +Velotoze bei Langfahrt
-|**13-18&deg;C** | -                                                   | Trikot lang +Windweste/-Basel.             | Handschuhe kurz              | Bibshort +Beinlinge auf &frac34;/Rückta.    | Rad-Socken mittel               | Windjacke +Velotoze bei Langfahrt
-|**18-30&deg;C** | -                                                   | Trikot/ Merinoshirt / Sun-Hoodie           | Handschuhe kurz              | Bibshort                            | Rad-Socken dünn                         | - (aushalten)
-
-(Bibshort kann in Kombi mit Überhose auch ein Bibliner sein)
 
 
 - Sportbrille:
@@ -2336,31 +2342,65 @@ Mag sich ändern, falls ich mal in Richtung 200-300 km am Tag oder Ultracycling 
 
 ## Hygiene / Medizin / Diät
 
+![Giant Revolt 2 XL Gravel Bike im Allroad-Setup 2026](giantrevolt2-allroad.jpg)
+_(Abb.: kleine Kiste mit Sturzmedizin-Produkten)_
+
+
 > Ein Radrennfahrer muss seinen Hintern besser pflegen als sein Gesicht. (Radrennprofi Rudi Altig)
 
-Jede Tour:
-- Not-Chamois-Creme (Kleinstabfüllung): versuche ich möglichst selten zu verwenden, kann Poren verstopfen und Probleme erst erzeugen
+
+### Jede Tour - davor/danach/während:
 - After-Ride-Creme fast nach jeder Tour: _Assos Skin Repair_ ist mein Zaubermittel, hatte seither keine Probleme mehr 
 	(bei Mehrtagestouren in kleineres Gefäß abgefüllt, ist recht ergiebig)
 - Unterleib müsse nicht mit Seife gewaschen werden, wird sogar abgeraten (zerstöre hauteigene Abwehr-Fettschicht);
-	verwende trotzdem eine sanfte Frauen-Intimseife
+	verwende trotzdem eine sanfte Frauen-Intimseife (als Mann), sonst zu spartanisch
+- Ziplock-Plastiktüte mit:
+	- Mulltupfer zur Wundreinigung (Wasser aus Wasserflasche)
+	- todo
 
-Längere Tages-Touren:
-- large Body-Wipes, einzelverpackt
+### Längere Tages-Touren (100 km +-):
+- 1-2 large Body-Wipes, einzelverpackt
+- Not-Chamois-Creme (Kleinstabfüllung): versuche ich möglichst selten zu verwenden, kann Poren verstopfen und Probleme erst erzeugen; nasser Hintern reibt auch eher auf
+- paar Lagen Klopapier in einer kleinen Mülltüte
+- todo: evtl. Toppits-Frischhaltefolie als Behelfsverband bei Roadrash (kleines Packmaß, hält Wunde feucht und schützt nach außen)
+- TODO: 
 
-Mehrtagestour: 
+
+### Mehrtagestour (1 Wo): 
 - RIAS-Tuchtabletten + flache 50- oder 100ml-Flasche mit Flüssigkeitsmix aus Wasser/Teebaumöl/Glycerin/Campseife/Vitamin-E-Öl = spart Wasser und viel Platz
 - guter Schrupp-Waschlappen und Wasser aus der Trinkflasche
+- Pouch mit:
+	- Hansaplast Wundspray 50 ml
+	- todo
 
 
-Road-Rash:
-	TODO
+### Road-Rash-Apotheke (s. Foto oben):
+
+- Allgemein:
+	- Lufttrocknung überholt (funktionert aber), heute feucht heilen lassen (schnellere Heilung, weniger Narbenbildung)
+	- Prävention: Tetanusimpfung beim Arzt (Kosten oft von der Krankenkasse getragen)
+- Wundreinigung:
+	- Wundspray (Hansaplast) oder Kochsalzlösung (Versol NaCl 0,9% 500ml) - niemals Alkohol auf offene Wunden (Alkohol nur zum Desinfizierung auf _intakter_ Haut, schadet sonst Heilung)
+	- Mulltupfer einzelverpackt (meine Abschürfungen wurden damit mal auch im RTW gereinigt)
+	- Ausspülen mit steriler Spritze und Kochsalzlösung
+	- hartnäckiger: sensorische Bürste (SUPVOX Sensory Brush) mit superweichen Borsten
+	- Pinzetten
+- Wundkompresse verklebungsarm einzelverpackt (Solvaline N 10x10 cm) direkt auf die Wunde, dann fixieren mit ...
+- Wundkompressen-/Verbandfixierung (Leukoplast Fixomull Stretch 10cm x 2m)
+- Verbandentfernung/-erneuerung: 
+	- alles vorm Abziehen vorher mit warmen Wasser einweichen
+- Alternativen TODO:
+	- Hydrokolloid-Verbände (teuer in entsprechender Größe/Menge)
+	- 
+
 
 Knieschmerzen
 
-Diät (Gewichtsabnahme):
-	- ?
-	- ?
+
+### Diät (Gewichtsabnahme):
+- ?
+- ?
+
 
 Fettstoffwechsel trainieren
 
