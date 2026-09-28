@@ -12,7 +12,6 @@ Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäß
 
 ## Übersicht
 
-- [Verwendete Begriffe](#verwendete-begriffe)
 - Modell Sportrad
 	- Komponentenliste
 	- Montageplan
@@ -51,123 +50,7 @@ Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäß
 - [Shops](#shops)
 - [Wirtschaft](#wirtschaft)
 - [Sonstiges](#Sonstiges)
-
-
-## Verwendete Begriffe
-
-- Klettern: einen Anstieg hochfahren
-- Antrieb:
-	- Kette
-	- Ritzel: Zahnräder hinten
-	- Kettenblatt: Zahnräder vorne
-	- Kurbel, Kurbelarm
-	- Kettenradgarnitur: Bündel an Zahnrädern vorne?
-- Kettenschaltung:
-	- Kassette: Bündel an Zahnrädern (Ritzeln) hinten
-	- Kassette modular
-	- Umwerfer vorne/hinten (engl. Derailleur)
-	- Schaltkäfig / Schaltwerkskäfig / Schaltschwinge
-		- Schaltwerkröllchen / Pulleys: Leitrolle oben (engl. Jockey wheel/Guide pulley), Spannrolle unten (Tension pulley)
-		- Kettenleitblech
-	- Schaltauge
-- Schaltgruppe: Gesamtheit von 
-	- Schalthebeln
-		- STI Shimano Total Integration: Shimano Brems-Schalthebel-Kombination, Prinzip gängig bei modernen Rennrädern; ugs. engl. "Brifters" = Brakes + Shifters
-	- mechanisch: Schaltzüge
-	- elektronisch: Funk oder Kabel
-	- Schaltwerk
-	- Umwerfer
-- Gang
-- Rahmen: [Rohrgestänge insgesamt](https://cdn.prod.www.spiegel.de/images/5fdc5420-0001-0004-0000-000001203310_w860_r1.7551020408163265_fpx33.03_fpy50.jpg)
-	- Oberrohr
-	- Unterrohr
-	- Sitzrohr / Sattelrohr
-	- Sattelstütze: Rohr am Sattel, das dann wiederum im Sitzrohr steckt
-	- Steuerrohr
-	- Gabel
-	- Sitzstrebe / Druckstrebe / Hinterbau
-	- Kettenstrebe             / Hinterbau
-	- Tretlagergehäuse
-	- Rahmengeometrie
-- Bremsanlage
-	- Bremssattel
-	- Bremsscheibe / Rotor
-	- Bremsbelag
-	- Bremsleitungen (hydraulisch), Bremszüge (mechanisch)
-- Lenker
-	- Dropbar / Bügellenker / Rennradlenker
-		- Unterlenker / Drops
-		- Oberlenker / Tops
-		- Hoods
-		- Flare
-		- Compact Dropbar
-	- Flatbar
-	- Backsweep
-	- Reach
-- Bowdenzug
-- Sattel:
-	- Sattelschienen
-	- Sattelstütze
-	- Sattelklemmung: Verbindet Sattelstütze und Sattel durch Klemmung an den Sattelschienen
-- Fahrradtypen
-	- Zeitfahrrad / Triathlon-Rennrad (engl. Time-Trail-Bike oder kurz TT-Bike): Handling untaugl. für Gruppen
-	- Race-Roadbike / klassisches Rennrad: leicht, gute Klettereigenschaften
-	- Aero-Rennrad: für Gruppen geeignet, wg. Aeroformen schwerer als Race-Roadbike
-	- Endurance-Rennrad / Allroad-Bike / Randonneur: bequemeres Rennrad (aufrechter) bis 35 mm Reifen
-	- Cyclocrosser (CX): schulterbares, robustes, etwas entspannteres Rennrad mit Profilreifen bis 33 mm (UCI-Vorgabe) und höherer Bodenfreiheit für Rennen auf unbefestigten Untergründen
-	- Schotterrad (engl. Gravel bike): bequemeres Rennrad (aufrechter) mit leichtprofilierten Reifen zw. 35 und 50 mm, mittl. Bodenfreiheit, robuster, Langstrecke
-	- Hardtail-Mountain-Bike / Cross Country MTB: Federung nur vorne
-	- Fully (Full Suspension MTB): Vollfederung mit Federgabel + Hinterbaudämpfer
-		- Race-Fully:       bis 120 mm Federweg
-		- All-Mountain-MTB: bis 130 mm Federweg
-		- Touren-Fully:     bis 140 mm Federweg
-		- Enduro-MTB:       bis 170 mm Federweg
-		- Freeride-MTB:     bis 180 mm Federweg
-		- Downhill-MTB:     bis 200 mm Federweg
-	- All-Terrain-Bike (ATB)
-	- Adventure-Bike
-	- Trekking-Bike
-	- Singlespeed: 1 Gang mit Freilauf
-		- Standard-BMX-Fahrrad:
-	- Fixie: 1 Gang ohne Freilauf, dafür Rücktritt-Bremse
-		- Bahnrad: fahren im Velodrom = ovaler 200-250m-Kurs aus Holz oder Kunststoff mit Steilkurven
-	- Kunstrad/Saalmaschine: Starrlauf zum Rückwärtsfahren, 12 bar Reifendruck
-	- ...
-- Kadenz: Trittfrequenz gemessen in Umdrehungen pro Minute U/min bzw. rpm
-- Fred [satirisch]: 
-	spöttische Bezeichnung von "ernsthafteren" Rennradfahrern entweder für Radfahrer, die 
-	durch Kleidungswahl und Modifikationen/Anbauten am Rad amateurhaft auf sie wirken.
-	Oder Radfahrer die besonders Pro wirken möchten durch sündhaft teure Profi-Räder und Trikots, 
-	tats. aber normale Sonntags-Radler mit bescheidener Leistung sind.
-	verwandt mit MAMIL; 
-	im Rennrad-Bereich ist Minimalismus/"cleane"/"smarte" Optik angesehen
-- MAMIL [satirisch]: 
-	"Middle-Aged Men In Lycra"; Presswurst-Optik dank Bierbauch im Skinsuit, 
-	auf dem irgendwelche Logos gedruckt wurden, 
-	was vermeintlich Pro aussehen würde; verwandt mit Fred
-- Zahnarzt [satirisch]: 
-	Berufsgruppe, die sich mittel-/hochpreisige Rennräder leisten kann
-- Laufrad: Gesamtheit von
-	- Steckachse
-	- Schnellspanner
-	- Felge
-	- Mantel / Drahtreifen (Wire bead) / Faltreifen
-	- Ventil
-	- Karkasse
-	- Nabe (Hub)
-	- Konuslager/Lagerschale & Konus (Cup & Cone), gedichtetes Lager (Patronenlager/Cartridge Bearing/Wälzlagereinheit/Rillenkugellager)
-	- Speichen
-	- Speichennippel
-	- Speichenmuster
-	- Schlauch
-	- Clincher
-	- Tubeless
-	- Tubular
-	- System-Laufradsatz
-- Bikepacking
-- Ultracycling
-- Distance Cycling
-- Radreise / Touring
+- [Verwendete Begriffe](#verwendete-begriffe)
 
 
 
@@ -188,6 +71,7 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 
 | Fahrradteil           | engl.            | Original verbaut (Stock)
 |-----------------------|------------------|----------------------------
+| ASTM-F2043-Klasse     |                  | 2 = mehrheitlich befestigte, teilweise geschotterte und unbefestigte Wege mit moderater Steigung, leichtes Off-Road, Sprünge (Drops) max. 15 cm
 | Lackierung            | paint job        | Black Diamond; rotorange Decals ca. RAL 2001
 | Systemgewicht         | tot. weight limit| max. 150 kg; 110 kg Fahrer/Gepäck unbedenklich zuladbar = &le;120 kg (20% Reserve) - 11–11 kg XL-Fahrrad-Eigengewicht; Laufräder/Speichen leiden zuerst
 | Rahmen                | frame            | GIANT ALUXX-Aluminium, 12 x 142 mm Steckachse, Bremsscheiben, Flip-Chip-Ausfallende
@@ -285,16 +169,16 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 
 ### Drehmomente und Schmierplan
 
-Vor-Reinigung außer Carbon (CfK) und Gummi: 90%-Isopropylalkohol (IPA), Bremsenreiniger, WD40 Rostentferner, Schleifvlies, Bürste, Plastikschaber (Pulleys)
-Gummi-freundlicher: Mucoff Bio-Degreaser  
+Vor-Reinigung außer Carbon (CfK) und Gummi: 90%-Isopropylalkohol (IPA), Bremsenreiniger, WD40-_Rostentferner_ (nicht Standard-WD40!), Schleifvlies, Bürste, Plastikschaber (Pulleys)
+Gummi-freundlicher Reiniger: Mucoff Bio-Degreaser  
 
 Reihenfolge in Liste = Reihenfolge bei Kontrolle  
 
 | Verbindung A            | mit B          | Nm ich    | Nm offiz. (max) | Schmierung / Kommentar
 |-------------------------|----------------|-----------|-----------------|---------------------------------
-| STI-Hebel Shima.        | Lenker     Alu | handfest  | ?   ./.   ?     | trocken; handfest erlaubt bei Sturz das Verdrehen der STI bzw. verhindert stärkere Schäden / Einleiten der Sturzenergie über Klemmschelle in Lenker oder STI
+| STI-Hebel Shima.        | Lenker     Alu | handfest  | ?   ./.   ?     | trocken; handfest erlaubt bei Sturz das Verdrehen der STI bzw. verhindert stärkere Schäden bzw. Einleiten der Sturzenergie über Klemmschelle in Lenker oder STI
 | Steckachse H            | Hinterbau  Alu | handfest  | ?   ./.   ?     | Fett Gewinde und min. Schaft
-| Steckachse V            | Gabel      Cfk | handfest  | ?   ./.   ?     | Fett Gewinde und min. Schaft
+| Steckachse V            | Gabel      Cfk | handfest  | ?   ./.   ?     | Fett Gewinde und min. Schaft; festknallen unnötig und unterwegs unlösbar
 | Vorbau             Alu  | Lenker     Alu | 4,5       | 6   ./.   5     | Schraubensicherung (bei Loctite jedes mal neu!); sonst _alles_ trocken; Werte gleich für Zipp und Moquai
 | Vorbau             Alu  | Gabel      Cfk | 4,0       | 6   ./.   ?     | trocken
 | Sattel             CrMo | Stütze     Alu | 6,0       | ?   ./.   8-9   | Antiseize Schrauben
@@ -332,21 +216,24 @@ s.a. Abschnitt [Kleine Schmierstoffkunde](#kleine-schmierstoffkunde)
 
 
 
-
 Flipchip:
 	- short = quicker handling and acceleration
 	- long = improved stability at speed
 
 
 
-### Mein Erfahrungsbericht (English Summary)
+### Mein Revolt2-Erfahrungsbericht (English Summary)
 
-Since 2023 I've used GIANT's Revolt for fast fair-weather commuting and day trips as well as for multiday tent bike-packing adventures.
+Since 2023 I've used GIANT's Revolt 2 for:
+- fast fair-weather commuting 
+- longer day trips 
+- multiday tent bike-packing adventures.
+
 It is (comparatively) easy and *cheap* to maintain because of:  
 - solid entry level components (Shimano, FSA, Tektro, GIANT)
 - semi-internal cable routing with a head-/downtube exit and a BB-chainstay exit
 - Integrated Systems (IS) headset bearings
-- intuitive mechanical brakes
+- intuitive simple mechanical brakes
 - almost no surprises in a good way
 
 So the Revolt 2 became an non-frustrating learning platform both for wrenching and cycling.
@@ -357,7 +244,7 @@ However:
 	even though you can significantly improve the mechanical brakes for just 20 euros more by switching to
 	_compressionless_ cables (Jagwire Road Pro KEB-SL). 
 	Also install somewhat better rotors and decent brake pads (biting yet dosable as Revolt is not a trickbike).
-	Tektro’s actually solid dual-piston disc brake caliper has acquired an unfair reputation because of this.
+	Tektro’s actually well-made dual-piston disc brake caliper has acquired an unfair bad reputation because of this.
 
 - The original Crosscut tires are heavy, slow and uncomfortable (though seemingly industructible for beginners) - replace
 
@@ -410,10 +297,6 @@ TODO
 
 ## Kleidung
 
-
-Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
-
-
 **Helm + Klarsicht-/Sonnenbrille + Sommer-Gravel-Radschuhe +**
 
 | Temperatur     | Kopf                                                | Torso                                      | Hände                        | Beine                               | Füße                                    | Regen
@@ -425,8 +308,8 @@ Temperaturen Deutschland Ostsee (bei Kälte auch essen!):
 |**13-18&deg;C** | -                                                   | Trikot lang +Windweste/-Basel.             | Handschuhe kurz              | Bibshort +Beinlinge auf &frac34;/Rückta.    | Rad-Socken mittel               | Windjacke +Velotoze bei Langfahrt
 |**18-30&deg;C** | -                                                   | Trikot/ Merinoshirt / Sun-Hoodie           | Handschuhe kurz              | Bibshort                            | Rad-Socken dünn                         | - (aushalten)
 
-(Bibshort kann in Kombi mit Überhose auch ein Bibliner sein)
-
+Bibshort kann in Kombi mit Überhose auch ein Bibliner sein  
+Temperaturen für Deutschland Ostsee-Bereich.
 
 
 
@@ -2031,8 +1914,8 @@ Sonstiges:
 
 *Merksatz: "Hinten Speed, vorne Grip"*
 
-- fehlender Grip vorne wirft dich übel vom Rad, fehlender Grip hinten rutscht eher durch und lässt sich wieder einfangen
-- unwichtig, dass beide Reifen gleichen Typs und gleichen Gewichts sein muessen
+- fehlender Grip vorne wirft dich vom Rad, fehlender Grip hinten rutscht eher durch und lässt sich wieder einfangen
+- Reifen müssen nicht gleichen Typs und gleichen Gewichts sein
 - Kombination von Unterschieden kann Vorteile haben / asymmetrisches Setup
 - manche Hersteller bieten sogar Front/Rear-Sets an
 - Vorn=Hinten:
@@ -2220,8 +2103,7 @@ TODO
 - Lenkerband mit Logos: an den Drops angefangen Logos zum Hinterrad ausrichten, also so dass man von Fahrerseite normal ablesen könnte.
 	Steht dann beim Hochwickeln nicht auf dem Kopf.
 - weiße Logos auf schwarzen Lenkerband ergeben einerseits interessantes Muster - gut passend zu weißer Schrift auf dem Reifen;
-	sehen andererseits aber aus wie Hühnerstange bzw. Bestuhlung durch Vogelschar.
-	Erwarte Sprüche.
+	sehen andererseits aber aus wie eine bekotete Hühnerstange.
 - einheitliche Bandabstände in Geraden und an den Kurven-Außenseiten, nach innen kann uneinheitlicher werden
 - Abschlussstreifen: Silikon-Reparaturband als besseres finishing tape; 
 	wirkt matter/weniger billig als nur Isotape, 
@@ -2350,13 +2232,16 @@ _(Abb.: kleine Kiste mit Sturzmedizin-Produkten)_
 
 
 ### Jede Tour - davor/danach/während:
-- After-Ride-Creme fast nach jeder Tour: _Assos Skin Repair_ ist mein Zaubermittel, hatte seither keine Probleme mehr 
-	(bei Mehrtagestouren in kleineres Gefäß abgefüllt, ist recht ergiebig)
-- Unterleib müsse nicht mit Seife gewaschen werden, wird sogar abgeraten (zerstöre hauteigene Abwehr-Fettschicht);
+- unmittelbar vorher und danach:  
+	Unterleib müsse nicht mit Seife gewaschen werden, wird sogar abgeraten (zerstöre hauteigene Abwehr-Fettschicht);
 	verwende trotzdem eine sanfte Frauen-Intimseife (als Mann), sonst zu spartanisch
-- Ziplock-Plastiktüte mit:
+- während: Ziplock-Plastiktüte mit:
 	- Mulltupfer zur Wundreinigung (Wasser aus Wasserflasche)
 	- todo
+- danach:  
+	After-Ride-Creme fast nach jeder Tour: _Assos Skin Repair_ ist mein Zaubermittel, hatte seither keine Probleme mehr 
+	(bei Mehrtagestouren in kleineres Gefäß abgefüllt, ist recht ergiebig)
+
 
 ### Längere Tages-Touren (100 km +-):
 - 1-2 large Body-Wipes, einzelverpackt
@@ -2380,7 +2265,7 @@ _(Abb.: kleine Kiste mit Sturzmedizin-Produkten)_
 	- Lufttrocknung überholt (funktionert aber), heute feucht heilen lassen (schnellere Heilung, weniger Narbenbildung)
 	- Prävention: Tetanusimpfung beim Arzt (Kosten oft von der Krankenkasse getragen)
 - Wundreinigung:
-	- Wundspray (Hansaplast) oder Kochsalzlösung (Versol NaCl 0,9% 500ml) - niemals Alkohol auf offene Wunden (Alkohol nur zum Desinfizierung auf _intakter_ Haut, schadet sonst Heilung)
+	- Wundspray (Hansaplast) oder Kochsalzlösung (Versol NaCl 0,9% 500ml) - niemals Alkohol auf offene Wunden (Alkohol nur zum Desinfizieren von _intakter_ Haut, schadet sonst Heilung)
 	- Mulltupfer einzelverpackt (meine Abschürfungen wurden damit mal auch im RTW gereinigt)
 	- Ausspülen mit steriler Spritze und Kochsalzlösung
 	- hartnäckiger: sensorische Bürste (SUPVOX Sensory Brush) mit superweichen Borsten
@@ -2936,6 +2821,122 @@ Bin kein Anwalt, daher alle rechtl. Angaben ohne Gewähr:
 
 
 
+
+## Verwendete Begriffe
+
+- Klettern: einen Anstieg hochfahren
+- Antrieb:
+	- Kette
+	- Ritzel: Zahnräder hinten
+	- Kettenblatt: Zahnräder vorne
+	- Kurbel, Kurbelarm
+	- Kettenradgarnitur: Bündel an Zahnrädern vorne?
+- Kettenschaltung:
+	- Kassette: Bündel an Zahnrädern (Ritzeln) hinten
+	- Kassette modular
+	- Umwerfer vorne/hinten (engl. Derailleur)
+	- Schaltkäfig / Schaltwerkskäfig / Schaltschwinge
+		- Schaltwerkröllchen / Pulleys: Leitrolle oben (engl. Jockey wheel/Guide pulley), Spannrolle unten (Tension pulley)
+		- Kettenleitblech
+	- Schaltauge
+- Schaltgruppe: Gesamtheit von 
+	- Schalthebeln
+		- STI Shimano Total Integration: Shimano Brems-Schalthebel-Kombination, Prinzip gängig bei modernen Rennrädern; ugs. engl. "Brifters" = Brakes + Shifters
+	- mechanisch: Schaltzüge
+	- elektronisch: Funk oder Kabel
+	- Schaltwerk
+	- Umwerfer
+- Gang
+- Rahmen: [Rohrgestänge insgesamt](https://cdn.prod.www.spiegel.de/images/5fdc5420-0001-0004-0000-000001203310_w860_r1.7551020408163265_fpx33.03_fpy50.jpg)
+	- Oberrohr
+	- Unterrohr
+	- Sitzrohr / Sattelrohr
+	- Sattelstütze: Rohr am Sattel, das dann wiederum im Sitzrohr steckt
+	- Steuerrohr
+	- Gabel
+	- Sitzstrebe / Druckstrebe / Hinterbau
+	- Kettenstrebe             / Hinterbau
+	- Tretlagergehäuse
+	- Rahmengeometrie
+- Bremsanlage
+	- Bremssattel
+	- Bremsscheibe / Rotor
+	- Bremsbelag
+	- Bremsleitungen (hydraulisch), Bremszüge (mechanisch)
+- Lenker
+	- Dropbar / Bügellenker / Rennradlenker
+		- Unterlenker / Drops
+		- Oberlenker / Tops
+		- Hoods
+		- Flare
+		- Compact Dropbar
+	- Flatbar
+	- Backsweep
+	- Reach
+- Bowdenzug
+- Sattel:
+	- Sattelschienen
+	- Sattelstütze
+	- Sattelklemmung: Verbindet Sattelstütze und Sattel durch Klemmung an den Sattelschienen
+- Fahrradtypen
+	- Zeitfahrrad / Triathlon-Rennrad (engl. Time-Trail-Bike oder kurz TT-Bike): Handling untaugl. für Gruppen
+	- Race-Roadbike / klassisches Rennrad: leicht, gute Klettereigenschaften
+	- Aero-Rennrad: für Gruppen geeignet, wg. Aeroformen schwerer als Race-Roadbike
+	- Endurance-Rennrad / Allroad-Bike / Randonneur: bequemeres Rennrad (aufrechter) bis 35 mm Reifen
+	- Cyclocrosser (CX): schulterbares, robustes, etwas entspannteres Rennrad mit Profilreifen bis 33 mm (UCI-Vorgabe) und höherer Bodenfreiheit für Rennen auf unbefestigten Untergründen
+	- Schotterrad (engl. Gravel bike): bequemeres Rennrad (aufrechter) mit leichtprofilierten Reifen zw. 35 und 50 mm, mittl. Bodenfreiheit, robuster, Langstrecke
+	- Hardtail-Mountain-Bike / Cross Country MTB: Federung nur vorne
+	- Fully (Full Suspension MTB): Vollfederung mit Federgabel + Hinterbaudämpfer
+		- Race-Fully:       bis 120 mm Federweg
+		- All-Mountain-MTB: bis 130 mm Federweg
+		- Touren-Fully:     bis 140 mm Federweg
+		- Enduro-MTB:       bis 170 mm Federweg
+		- Freeride-MTB:     bis 180 mm Federweg
+		- Downhill-MTB:     bis 200 mm Federweg
+	- All-Terrain-Bike (ATB)
+	- Adventure-Bike
+	- Trekking-Bike
+	- Singlespeed: 1 Gang mit Freilauf
+		- Standard-BMX-Fahrrad:
+	- Fixie: 1 Gang ohne Freilauf, dafür Rücktritt-Bremse
+		- Bahnrad: fahren im Velodrom = ovaler 200-250m-Kurs aus Holz oder Kunststoff mit Steilkurven
+	- Kunstrad/Saalmaschine: Starrlauf zum Rückwärtsfahren, 12 bar Reifendruck
+	- ...
+- Kadenz: Trittfrequenz gemessen in Umdrehungen pro Minute U/min bzw. rpm
+- Fred [satirisch]: 
+	spöttische Bezeichnung von "ernsthafteren" Rennradfahrern entweder für Radfahrer, die 
+	durch Kleidungswahl und Modifikationen/Anbauten am Rad amateurhaft auf sie wirken.
+	Oder Radfahrer die besonders Pro wirken möchten durch sündhaft teure Profi-Räder und Trikots, 
+	tats. aber normale Sonntags-Radler mit bescheidener Leistung sind.
+	verwandt mit MAMIL; 
+	im Rennrad-Bereich ist Minimalismus/"cleane"/"smarte" Optik angesehen
+- MAMIL [satirisch]: 
+	"Middle-Aged Men In Lycra"; Presswurst-Optik dank Bierbauch im Skinsuit, 
+	auf dem irgendwelche Logos gedruckt wurden, 
+	was vermeintlich Pro aussehen würde; verwandt mit Fred
+- Zahnarzt [satirisch]: 
+	Berufsgruppe, die sich mittel-/hochpreisige Rennräder leisten kann
+- Laufrad: Gesamtheit von
+	- Steckachse
+	- Schnellspanner
+	- Felge
+	- Mantel / Drahtreifen (Wire bead) / Faltreifen
+	- Ventil
+	- Karkasse
+	- Nabe (Hub)
+	- Konuslager/Lagerschale & Konus (Cup & Cone), gedichtetes Lager (Patronenlager/Cartridge Bearing/Wälzlagereinheit/Rillenkugellager)
+	- Speichen
+	- Speichennippel
+	- Speichenmuster
+	- Schlauch
+	- Clincher
+	- Tubeless
+	- Tubular
+	- System-Laufradsatz
+- Bikepacking
+- Ultracycling
+- Distance Cycling
+- Radreise / Touring
 
 
 
