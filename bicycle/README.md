@@ -4,7 +4,9 @@
 
 _ACHTUNG: Alles work-in-progress hier, mag sich alles ändern – große Müllhalde zu redigieren._  
 
-Ich bin weder Anwalt, noch medizinisch ausgebildet, noch ausgebildeter Zweiradmechaniker, daher alle rechtlichen, medizinischen oder technischen Aussagen ohne Gewähr.  
+Disclaimer: 
+Ich bin weder Anwalt, noch medizinisch ausgebildet, noch ausgebildeter Zweiradmechaniker, 
+daher alle rechtlichen, medizinischen oder technischen Aussagen ohne Gewähr.  
 
 Stern-Bewertungen sind immmer von max. 3 Sternen (3 Sterne = top, 2 = zweckmäßig; 1 = vermeiden)
 
@@ -63,7 +65,7 @@ _(Abb.: 2026 im Allroad-Setup)_
 
 ### Komponentenliste Kaufdatum 9.6.23
 
-ca. 1400 € (Einstiegsklasse bei _Sport_-Bio-Fahrrädern für tägl. Training bei höheren Geschw. und langen Strecken)
+ca. 1400 € (Einstiegsklasse bei Bio-_Sport_-Fahrrädern für tägl. Training bei höheren Geschw. und langen Strecken)
 
 Die offizielle, frei zugängliche Spezifikation ist recht dünn; 
 im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
@@ -72,7 +74,7 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Fahrradteil           | engl.            | Original verbaut (Stock)
 |-----------------------|------------------|----------------------------
 | ASTM-F2043-Klasse     |                  | 2 = mehrheitlich befestigte, teilweise geschotterte und unbefestigte Wege mit moderater Steigung, leichtes Off-Road, Sprünge (Drops) max. 15 cm
-| Lackierung            | paint job        | Black Diamond; rotorange Decals ca. RAL 2001
+| Lackierung            | paint job        | Black Diamond; rotorange Decals ca. RAL 2001 [gemessen]
 | Systemgewicht         | tot. weight limit| max. 150 kg; 110 kg Fahrer/Gepäck unbedenklich zuladbar = &le;120 kg (20% Reserve) - 11–11 kg XL-Fahrrad-Eigengewicht; Laufräder/Speichen leiden zuerst
 | Rahmen                | frame            | GIANT ALUXX-Aluminium, 12 x 142 mm Steckachse, Bremsscheiben, Flip-Chip-Ausfallende
 | Rahmennummer          | serial no.       | unterm Tretlager zweigeteilt; bei GIANT-Werkstattanfragen immer nennen
@@ -93,8 +95,8 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Bremsen               | brakes           | Tektro MD-C550 mechanisch (MD = Mechanical Disk brake, HD = hydr.); 2-Kolben-Bremssattel (Double piston); 3er Inbus für Bremsbelagnachstellung; kompatible Tektro-Beläge lt Hersteller: P20.11, A10YS, E10.11, Sicherungssplint MA1.0; Bremssattelbolzen hatten bei mir eine Nylon-Schraubensicherung
 | Bremsscheibe          | brake disc/rotor | Tektro 160-22 6-Lock Vorne/Hinten; Torx 25
 | Bremsbelag            | brake pad        | ???
-| Umwerfer              | front derailleur | Shimano Sora ST-R3000
-| Schaltwerk            | rear  derailleur | Shimano Sora ST-R3000, langer Käfig
+| Umwerfer              | front derailleur | Shimano Sora FD-R3000
+| Schaltwerk            | rear  derailleur | Shimano Sora RD-R3000, langer Käfig
 | Schalthebel           | shifter/lever    | Shimano Sora ST-R3000, 2x9
 | Schaltröllchen        | jockey wheels    | Shimano Leitröllchen (guide pulley) oben = ?; Spannröllchen (tension pulley) unten = Gleitlager oder gedichtes Kugellager? Kunststoff oder Alu? Anzahl Zähne?; angeblich kompatibel mit 9-Speed Shimano RD6700 Ultegra XT Saint
 | Steckachse H          | thru-axle rear   | GIANT Road Bike Front Thru-Axle 142x12 [proprietär passend zum Rahmen]; Länge 160,8 mm; Thread pitch P=1.5
@@ -443,13 +445,13 @@ Helm:
 
 | Modell                                  | Polster        | Einsatz/offiz. (Saison)  | Sattel  | trocknet | Bewertung | Kommentar
 |-----------------------------------------|----------------|--------------------------|---------|----------|-----------|--------------------------------
-|  Gore Wear Bibs                         | Schaum         | max 3h/3h       (Sommer) | G, F, E | \*\*     | \*\*      | Polster-Falten/Ablösung n. 1-2 Jahren = Saddle Sores (Oberstoff löst sich und bildet Rubbel-Falten); gute Standard-Hose
-|**Gonso SQLab GO M Bibs (2x)**           | Gel/Elast. 6mm | max 6h/6h       (Sommer) | F, E    | \*\*\*   | \*\*\*    | Polsterkomfort konstant gut genug, kein Durchsitzen; Träger beim alten Modell zu kurz; *gut für Radreisen* und Standardrunden
-|  Castelli Unlimited Ultimate Bib-Liner  | Schaum         | max 4h/2-3h     (Sommer) | E       | \*       | \*\*\*    | Progetto X2 Polster genial, guter Sitz der Hose; mein *Fav für Standardrunden*; für Radreisen eher ungeeignet; hat Rückentaschen z.B. für Fahrrad-Portemonnaie
-|  Gore Wear Fernflow Bib-Liner           | Schaum         |     4h/?        (Sommer) | E       | \*\*\*   | \*\*\*    | Rückentaschen; sehr leicht; wenig Kompression, trotzdem ok; schwimmende Polsterkonstruktion; multi-density foam
-|  Gore Wear Tights                       | Schaum         | max 3h/3h       (Herbst) | F       | \*\*     | \*\*      | Polster-Falten/Ablösung n. 1-2 Jahren = Saddle Sores; gute Hose sonst
-|  GripGrab AquaRepel Bibs                | Schaum         | max ?/?         (Herbst) | E       | \*\*     | \*\*\*    | Kurze Hose für Herbsteinsatz mit Beinlingen bis 8 Grad
-|  Gore Wear Tights Windstopper           | Schaum         | max 3h/3h       (Winter) | F       | \*\*     | \*\*      | Polster-Falten/Ablösung n. 1-2 Jahren = Saddle Sores; Rest der Hose ist genial, fuhr damit problemlos bei Minustemperaturen
+|  Gore Wear Bibs                         | Schaum         |   3h / 3h       (Sommer) | G, F, E | \*\*     | \*\*      | Polster-Falten/Ablösung n. 1-2 Jahren = Saddle Sores (Oberstoff löst sich und bildet Rubbel-Falten); gute Standard-Hose
+|**Gonso SQLab GO M Bibs (2x)**           | Gel/Elast. 6mm |   6h / 6h       (Sommer) | F, E    | \*\*\*   | \*\*\*    | Polsterkomfort konstant gut genug, kein Durchsitzen; Träger beim alten Modell zu kurz; *gut für Radreisen* und Standardrunden
+|  Castelli Unlimited Ultimate Bib-Liner  | Schaum         |   4h / 2-3h     (Sommer) | E       | \*       | \*\*\*    | Progetto X2 Polster genial, guter Sitz der Hose; mein *Fav für Standardrunden*; für Radreisen eher ungeeignet; hat Rückentaschen z.B. für Fahrrad-Portemonnaie
+|  Gore Wear Fernflow Bib-Liner           | Schaum         |   6h / ?        (Sommer) | E       | \*\*\*   | \*\*\*    | Rückentaschen; sehr leicht; wenig Kompression, trotzdem ok; schwimmende Polsterkonstruktion; multi-density foam
+|  Gore Wear Tights                       | Schaum         |   3h / 3h       (Herbst) | F       | \*\*     | \*\*      | Polster-Falten/Ablösung n. 1-2 Jahren = Saddle Sores; gute Hose sonst
+|  GripGrab AquaRepel Bibs                | Schaum         |   ?  / ?        (Herbst) | E       | \*\*     | \*\*\*    | Kurze Hose für Herbsteinsatz mit Beinlingen bis 8 Grad
+|  Gore Wear Tights Windstopper           | Schaum         |   3h/3h         (Winter) | F       | \*\*     | \*\*      | Polster-Falten/Ablösung n. 1-2 Jahren = Saddle Sores; Rest der Hose ist genial, fuhr damit problemlos bei Minustemperaturen
 |  Gonso Essential Softshell              | ohne           | &infin;         (Winter) | E       | ?        | \*\*      | Winterhose, die ich über Sommer-Bibs mit gutem Polster ziehe; muss weniger Winterhosen kaufen
 |  Überhose Sportful Supergiara 002 ('24) | ohne           | &infin;         (Sommer) | F       | ?        | \*\*      | viele kluge Taschen, dümmste Bundsystem ever: hält beladene Hose nicht und ist mir irgendwann beim Nachspannen gerissen
 |  Überhose Maloja StagiasM Gravel        | ohne           | &infin;         (Sommer) | E       | \*\*\*   | \*\*\*    | richtige Länge, leicht, punched in früherer Version, aber nur 1 Tasche (Smartphone)
@@ -480,7 +482,8 @@ Vorne 50 und hinten 10 = Übersetzung von 5 = Hinterrad dreht sich fünfmal so s
 ### Brems-Schalthebel-Kombination:
 
 Bei Shimano Sora ST-R3000: Linke Hebel regeln vorne; Rechte Hebel regeln hinten (Rear)  
-Im UK, in NZ, Japan, China u.a. wären Bremsen vertauscht im Vgl. zu USA und den meisten europ. Ländern inkl. Deutschland.
+Im UK, in NZ, Japan, China u.a. wären Bremsen vertauscht im Vgl. zu USA und den meisten europ. Ländern inkl. Deutschland.  
+Beim Motorrad ist die Vorderradbremse rechts - also anders als beim deutschen Fahrrad.
 
 
 | Linker Bremshebel     | Linker Minihebel   | Rechter Bremshebel           | Rechter Minihebel
