@@ -92,11 +92,11 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Vorbau                | stem             | GIANT Sport(?), 90 mm, 7&deg;, 27 mm horz. zw. Schraubenmitten [erprobt mit Stem-Mount für Radcomputer]
 | Lenker                | handle bar       | GIANT Contact XR Ergo-Control(?) Drop 460/510 mm (8&deg; Flare), kompakt, 31,8 mm, Alu, 337g, clip-on compatible, Reach 10 cm
 | Lenkerband            | bar tape         | GIANT Gel(?) Cork, mittel
-| Bremsen               | brakes           | Tektro MD-C550 mechanisch (MD = Mechanical Disk brake, HD = hydr.); 2-Kolben-Bremssattel (Double piston); 3er Inbus für Bremsbelagnachstellung; kompatible Tektro-Beläge lt Hersteller: P20.11, A10YS, E10.11, Sicherungssplint MA1.0; Bremssattelbolzen hatten bei mir eine Nylon-Schraubensicherung
+| Bremsen               | brakes           | Tektro MD-C550 mechanisch (MD = Mechanical Disk brake, HD = hydr.); 2-Kolben-Bremssattel (Double piston); 3er Inbus für Bremsbelagnachstellung; Bremssattelbolzen hatten bei mir eine Nylon-Schraubensicherung
 | Bremsscheibe          | brake disc/rotor | Tektro 160-22 6-Lock Vorne/Hinten; Torx 25
-| Bremsbelag            | brake pad        | ???
-| Umwerfer              | front derailleur | Shimano Sora FD-R3000
-| Schaltwerk            | rear  derailleur | Shimano Sora RD-R3000, langer Käfig
+| Bremsbelag            | brake pad        | Originalbelag???; kompatible Tektro-Beläge lt Hersteller: P20.11, A10YS, E10.11, Sicherungssplint MA1.0; 
+| Umwerfer              | front derailleur | Shimano Sora FD-R3000; Skid Plate/Chain Guide Inner Plate Guard Y5YY00080 (EAN:4524667596998)
+| Schaltwerk            | rear  derailleur | Shimano Sora RD-R3000-GS (längerer Käfig Min-Max=11-34T; kurzer Käfig ist SS, gibt nur GS und SS)
 | Schalthebel           | shifter/lever    | Shimano Sora ST-R3000, 2x9
 | Schaltröllchen        | jockey wheels    | Shimano Leitröllchen (guide pulley) oben = ?; Spannröllchen (tension pulley) unten = Gleitlager oder gedichtes Kugellager? Kunststoff oder Alu? Anzahl Zähne?; angeblich kompatibel mit 9-Speed Shimano RD6700 Ultegra XT Saint
 | Steckachse H          | thru-axle rear   | GIANT Road Bike Front Thru-Axle 142x12 [proprietär passend zum Rahmen]; Länge 160,8 mm; Thread pitch P=1.5
@@ -226,67 +226,53 @@ Flipchip:
 
 ### Mein Revolt2-Erfahrungsbericht (English Summary)
 
-Since 2023 I've used GIANT's Revolt 2 for:
-- fast fair-weather commuting 
-- longer day trips 
-- multiday tent bike-packing adventures.
+Since 2023 I’ve used GIANT’s Revolt 2 for:
 
-It is (comparatively) easy and *cheap* to maintain because of:  
-- solid entry level components (Shimano, FSA, Tektro, GIANT)
-- semi-internal cable routing with a head-/downtube exit and a BB-chainstay exit
+- fast fair-weather commuting (2x8 km)
+- day trips (40-110 km)
+- multiday tent bikepacking
+
+It got my learning platform for both 'real' cycling and wrenching (self-maintenance):
+
+- solid, comparatively cheap entry-level components (Shimano, FSA, Tektro, GIANT)
+- semi-internal cable routing with accessible exits
 - Integrated Systems (IS) headset bearings
-- intuitive simple mechanical brakes
-- almost no surprises in a good way
+- simple mechanical brakes
+- generally predictable, frustration-free design
 
-So the Revolt 2 became an non-frustrating learning platform both for wrenching and cycling.
+Things worth knowing:
 
-However:
-
-- Giant fitted the cheapest Jagwire cables (CEX and LEX),  
-	even though you can significantly improve the mechanical brakes for just 20 euros more by switching to
-	_compressionless_ cables (Jagwire Road Pro KEB-SL). 
-	Also install somewhat better rotors and decent brake pads (biting yet dosable as Revolt is not a trickbike).
-	Tektro’s actually well-made dual-piston disc brake caliper has acquired an unfair bad reputation because of this.
-
-- The original Crosscut tires are heavy, slow and uncomfortable (though seemingly industructible for beginners) - replace
-
-- The seatpost needs to be coated with anti-seize compound every now and then to prevent creaking noises.  
-	That’s actually a real annoyance when bikepacking over several _rainy_ days.  
-	(Carbon paste with particles makes the creaking worse. Avoid it.) 
-	I never had any issues with the seatpost slipping.
-
-- The front wheel uses a cup-and-cone bearing rather than a sealed cartridge bearing,  
-	so it requires periodic maintenance.
-	If it wears out (due to grease washing out, rust and pitting), you would have to
-	buy a new front wheel (or maybe press out the cup and find a replacement, or
-	replace the hub and re-lace the wheel—though buying a new SX2 wheel works out cheaper here).
-
-- The uncut original steerer tube is still relatively long, with plenty of	spacers.  
-	If you want to lower the handlebars without sawing off the steerer,
-	you’ll need a longer expander plug inside the tube. 
-	The one originally installed is iirc ~3 cm long - replace with 7 cm (clamping area).
-
-- The cover cap for the seat post clamp bolt doesn't stay on very well.  
-	I use small dabs of adhesive putty underneath the cap so it stays in place, while
-	still allowing me to easily remove and reattach it.
-
-- The bottom bracket/crank area isn't ultra stiff.  
-	If you put a lot of weight and power down in high gears and 
-	depending on the position of the front derailleur,
-	it might rub against the chain (despite trimming). However, 99% it's a rider/gearing issue.
-
-- It probably wouldn't hurt to check whether Giant skimped on grease.
-
-- Few but still some proprietary parts (maintain a stock):
-	- Seat pillar clamp and its cover cap
-	- Cable guide below the bottom bracket
-	- Seat tube compatibility was an issue for _older_ Revolts (D-shaped vs round), but Giant uses an adapter now
-	- Thru-axles
-	- _Maybe_ the tapered Overdrive fork
-	- _Maybe_ the head tube dust cap
-	- For genuine parts, you get referred to local GIANT dealers, 
-		leaving you at the mercy of their arbitrary (steep) pricing.
-		Thank goodness for giantbikespares.com (UK export).
+- **Cables/brakes:** GIANT uses cheap Jagwire CEX/LEX cables. For ~€20 more,
+  compressionless Jagwire Road Pro KEB-SL cables noticeably improve the
+  mechanical brakes. Better rotors and decent, bitey-but-dosable pads help too.
+  Tektro’s well-made dual-piston caliper gets an unfair reputation largely because
+  of the stock setup.
+- **Tires:** The original Crosscuts are heavy, slow and uncomfortable, albeit
+  seemingly indestructible. Replace them.
+- **Seatpost:** Coat it periodically with anti-seize to prevent creaking.
+  Creaking will occur on multiday rainy bikepacking trips. 
+  Avoid carbon paste with particles—it can make creaking worse. 
+  I’ve never had slipping issues.
+- **Front hub:** The front wheel uses serviceable cup-and-cone bearings rather
+  than sealed cartridges, so it needs periodic maintenance. If the cup wears
+  from water ingress/rust/pitting, replacing the wheel is usually cheaper than
+  rebuilding the hub.
+- **Steerer:** The uncut steerer is fairly long with plenty of spacers. To lower
+  the bars without cutting it, use a longer expander plug; the stock one is ~3
+  cm, so ~7 cm of clamping area is preferable.
+- **Seatpost clamp cover:** It doesn’t stay on reliably. A few small dabs of
+  adhesive putty underneath keep it secure while remaining removable.
+- **BB/crank stiffness:** The area isn’t especially stiff. Under high power in
+  high gears, the front derailleur may rub the chain despite trimming.
+  Might be a gearing choice or cadence vs power issue, though.
+- **Grease:** It wouldn’t hurt to check whether GIANT used enough grease during
+  assembly.
+- **Proprietary parts:** Keep spares for the seatpost clamp/cover, BB cable
+  guide and thru-axles. Older Revolts also had D-shaped vs. round seatpost
+  compatibility issues; newer bikes use an adapter. The tapered OverDrive fork and
+  head-tube dust cap may also be proprietary.
+- **Genuine parts:** GIANT often refers you to local dealers, where pricing can
+  be steep. giantbikespares.com (UK export) is a proven alternative.
 
 
 
@@ -981,6 +967,7 @@ Mit Vorrat hat man Zeit für Suche/Nachschub.
 	- 1x Kettenblatt (wird abgeschliffen/verformt, Kette rutscht durch bei Kraft; weniger Verschl. als Ritzel da größer/mehr Auflage und weniger Kraft); evtl. 2x falls erwartbare Beschaffungsprobleme für verwendete Kurbel
 	- 1x Schaltungsrädchen oben (Leitröllchen / Guide Pulley)
 	- 1x Schaltungsrädchen unten (Spannröllchen / Tension Pulley)
+	- 2x Front-Umwerfer Skid Plate/Gleiteinsatz/Schutzplatte = kleines Plastikteil, das den Umwerferkäfig vor Abrieb/Korrosion durch die Kette schützt; reduziert zudem Geräusche bei Schräglauf der Kette; verbraucht sich langsam (10.000 km), kann aber rausfallen z.B. bei Pannenarbeiten
 - Bowdenzug (reißt):
 	- 2x Schaltzug (1-3 Jahre Lebensdauer bei sportlichen Fahrern/Pendlern/...), Fein-Einstellschraube evtl. wiederverwendbar
 	- 2x Bremszug
@@ -2837,7 +2824,11 @@ Bin kein Anwalt, daher alle rechtl. Angaben ohne Gewähr:
 - Kettenschaltung:
 	- Kassette: Bündel an Zahnrädern (Ritzeln) hinten
 	- Kassette modular
-	- Umwerfer vorne/hinten (engl. Derailleur)
+	- Umwerfer vorne (engl. Front Derailleur)
+		- Anlötsockel vs Schelle
+		- Umwerferkäfig
+		- Proskid / Skid Plate / Gleiteinsatz/ Unterfahrschutz / Schutzplatte (Plastikteil, Verschleißteil)
+	- Umwerfer hinten (engl. Rear Derailleur)
 	- Schaltkäfig / Schaltwerkskäfig / Schaltschwinge
 		- Schaltwerkröllchen / Pulleys: Leitrolle oben (engl. Jockey wheel/Guide pulley), Spannrolle unten (Tension pulley)
 		- Kettenleitblech
