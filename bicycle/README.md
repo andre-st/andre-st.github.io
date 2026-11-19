@@ -99,6 +99,7 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 | Schaltwerk            | rear  derailleur | Shimano Sora RD-R3000-GS (längerer Käfig Min-Max=11-34T; kurzer Käfig ist SS, gibt nur GS und SS)
 | Schalthebel           | shifter/lever    | Shimano Sora ST-R3000, 2x9
 | Schaltröllchen        | jockey wheels    | Shimano Leitröllchen (guide pulley) oben = ?; Spannröllchen (tension pulley) unten = Gleitlager oder gedichtes Kugellager? Kunststoff oder Alu? Anzahl Zähne?; angeblich kompatibel mit 9-Speed Shimano RD6700 Ultegra XT Saint
+| Schaltauge            | mech hanger      | GIANT 2022 Revolt Flip Chip Rear Derailleur Hanger 176M22G9917A1K 
 | Steckachse H          | thru-axle rear   | GIANT Road Bike Front Thru-Axle 142x12 [proprietär passend zum Rahmen]; Länge 160,8 mm; Thread pitch P=1.5
 | Steckackse V          | thru-axle front  | GIANT Road Bike Rear Thru-Axle 100x12 [proprietär passend zur Gabel];  Länge 116,8 mm; Thread pitch P=1.5
 | Kassette              | cogset           | Shimano HG400, 11x34
@@ -129,44 +130,49 @@ im folgenden Werte, die ich rechercheriert oder selbst am Rad ermitteln konnte:
 
 ### Komponenten abweichend vom Original getauscht/hinzugefügt:
 
-| Fahrradteil        | Jahr    | Preis     | Wertung | Neu verbaut                         | Details
-|--------------------|---------|-----------|---------|-------------------------------------|--------------------------------------------
-| Steuersatzlager    | 2025    | 2x 20 €?  | \*\*\*  | CQ GmbH Edelstahl                   | Ersatz wg. rauem Lauf; vorläufig noch nichts Negatives festgestellt
-| Konuslagerkugeln   | 2025    |  5 €?     | \*\*    | Woembi G20 HRC&ge;60 1/8"           | Ersatz wg. Korrosion; G20/HRC 60 ist noch ok (über G20 nicht mehr, HRC 40 ist Baumarktqualität); G10 besser; funktionieren soweit aber gut
-| Kabel Schaltzug    | 2024    | 14 €      | \*\*\*  | Shimano OT-SP41 Optislick           | ersetzt gerissenes Jagwire; Zugseil gleitet gut (STI-Widerstand), gut zu cutten
-| Kabel Bremszug     | 2026-07 | 22 €      | \*\*\*  | **Jagwire Road Pro Brake Kit**      | _kompressionsfreie_ KEB-SL-Hüllen zur Aufwertung mechanischer Scheibenbremsen. Giant verbaut das billigste Jagwire-Kabel = Reibung beim Hebelbetätigen, ungleiche Druckpunkte L/R und weniger Kraftübertragung: normale Spiralumwicklung hat Flex v.a. über Länge; flexiblerer Anfang für Lenkerradien, fand den Rest auch ausreichend flexibel bis auf letzte Biegung in den Bremssattel, die war vorher schon bei Rahmen/Altkabeln grenzwertig; jetzt gleichm. Druckpunkt L/R, geht gut drauf
-| Reifen             | 2025    | 2x 40 €   | Todo    | Tufo Thundero HD                    | 700x40C (41 mm),          je 439g, schneller Gravel-Semi-Slick-Faltreifen,      TPI 130/255, BRR 5/5 (19,2 W); 2,7 bar            (105 kg); 59 ml Dichtmilch, Stans/Tufo-Sealant würden nicht dichten, Orange aber
-| Reifen             | 2025-02 | 2x 50 €   | \*\*\*  | **Michelin Pro 5 TLR**              | 700x35C [35 mm gemessen], je 390g, leichter/schneller Allroad-Slick-Faltreifen, TPI 120,     BRR 5/5 (13,8 W); 3,3–3,5 bar/offiz. (105 kg); 60 ml Dichtmilch initial, 30 ml top-up; [Handmontage+Standpumpe]; 32mm bei 105 kg zu hart = Energieverlust (springt/reibt gg realen Asphalt statt verformend zu gleiten) = langsamer/kurveninstabiler/unkomfortabler als 35er; 32er auf meine Felge auch grenzwertig
-| Reifen-Dichtmilch  | 2025-02 | ?         | ???     | Orange Seal Endurance               | bleibe länger flüssig, dichte aber nicht so schnell/gut wie die normale Orange-Version; Orange scheint auch mit mehr Reifen verträglich zu sein als Stans; hat gut zw. Bead und Felgen abgedichtet; bisher noch keinen Durchstich bemerkt; habe nach 6 Monaten (Feb-Aug) erneuert
-| Sattel             | 2024    | 100 €     | \*\*    | Fizik Terra Argo X5                 | 160 mm, straff, gut, Hinternposition recht festgelegt; 100 km ohne nennenswerte Probleme
-| Sattel             | 2025    | 93 €      | \*\*\*  | **Ergon SR Allroad Core Comp Men**  | M-L, 120 kg, 248 g, Chrom-Molybdän-Stahl-Gestell (CrMo), Nylonkomposit-Sitzschale, orthopäd. AirCell-Sitzschaum + Kern BASF Infinergy E-TPU Partikelschaum, Microfiber-Obermaterial: komfortabler, trotzdem noch flach, geht zeitw. ohne Polster, mehr Hinternpositionen; 0 Probleme
-| Pedale             | 2023    | 85 €      | \*\*\*  | Shimano XT PD-T8000                 | Plattform-SPD-Kombipedal, mein Übergangspedal fürs Clipless-Lernen; später nie Situation für Plattform gehabt
-| Pedale             | 2024    | 83 €      | \*\*\*  | **Shimano XT PD-M8100**             | SPD-Klickpedal, SM-SH56 SPD Cleats für Unfall-Präventions-Reflexe
-| Flaschenhalter     | 2023    | 2x 15 €   | \*\*\*  | SKS Germany DUAL SC RH und LH       | seitliche Entnahme beide rechtshändig; zerkratzt Flaschen, ansonsten top, stabil
-| Computer           | 2023    | 260 €     | \*\*\*  | **Wahoo Bolt 2**                    | mit Gummi-Schutzhülle, dank der mein Wahoo mal aus der Hand flummiartig runter durchs Treppenhaus schoss und unversehrt blieb; GPS-Navi sehr wichtig für meine Raderfahrung
-| Computer-Halterung | 2025    | 63 €      | \*\*    | Framesandgear Aero 27 mm Wah/Sm.    | Stem-Mount; stabil, sieht gut aus/ragt nicht über Lenker; ragt nicht seitl. über Vorbaulenkerklemme = einzig mit meinem Jack-Frontrack+Lenker funktionierender; teuer und schlechter Transferwert durch feste Breite
-| Gabelexpander      | 2026-07 | 33 €      | \*\*\*  | Öhlins SP Expander                  | 5 cm Klemmfläche, 1 1/8", Doppelkeilkonstruktion, komplett schwarz eloxiert, Keil-Verlier-Sicherung mit Madenschraube (1,5er-Inbus); ersetzt zu kurzen 3 cm-OEM-Expander, da ich mit Lenker tiefer möchte ohne vorerst Gabel abzusägen; Installation problemlos; 7 cm wären aber besser gewesen
-| Bremsbelag         | 2023    | 17 €      | ???     | Reverse Components #01915           | organisch, lt. Hersteller kompatibel mit der Tektro MD-C550, eigtl. optimiert fuer E-Bike (wäre haltbarer da kevlarverstärkt, verglase langsamer, quietsche weniger) - passt evtl gut bei meinem Gewichts-Speed-Profil; packt gut zu; keine Erfahrung im Regen bisher, keine Erfahrung bei langer Bremsung bisher
-| Bremsbelag         | 2023    | 17 €      | Todo    | Tektro P20.11                       | organisch, "optimiert für Bremsscheibenstärke von 1.8mm", Bremsenhersteller-eigene Beläge
-| Bremsscheibe       | 2026    | 26 €      | ???     | SRAM Centerline Round Edges         | 160 mm. 6 Loch; schön poliert; eine Scheibe musste ich beim Installieren schon zentrieren, ging aber gut; greift gut; keine Erfahrung im Regen bisher, keine Erfahrung bei langer Bremsung bisher
-| Bremsscheibe Bolts | 2026    | 5 € 6Stk. | \*\*\*  | Galfer Schrauben Edelstahl hell     | Torx 25; Schrauben halt, mit Nylon?-Schraubensicherung; sehen gut aus, leichte Installation
-| Lenker             | 2026-07 | 38 € Sale | \*\*    | Zipp Service Course 70 Ergo Blast   | 400/    mm  (4&deg; Flare), kompakt, Alu 6061 "365g", 3&deg; Backsweep, abgeflachter Oberlenker, Clip-on ok; 1cm kürzerer Reach auf 70mm (war vorher oft vor den Hoods) + 90mm-Vorbau; Tops-Ergonomie ergibt für mich nur bergauf Sinn, also sobald Lenker höher als der Sattel steht und man am Lenker zieht
-| Lenker             | 2025    | 27 €      | \*\*\*  | Moquai Aero Rennradlenker           | 420/420 mm  (0&deg; Flare) und 400/400 mm, kompakt, Alu 6061 "285g"; 4 bzw. 6 cm schmaler/sportl. als Erstlenker; Logos subtil; ovalisierte, nicht zu breite Tops; flext in den Drops; langer Reach mit 78(?) mm
-| Lenker             | 2025    | 18 € Sale | Todo    | FSA AGX Adventure Compact           | 440/500 mm (12&deg; Flare), kompakt, Alu 6061 "325g", 2 cm schmaler als Erstlenker, für Bikepacking, Logos übertrieben
-| Lenkeraufsatz      | 2023    | &gt;100 € | \*\*\*  | Profile Design Sonic Ergo T5+       | 348 mm Länge (13&deg;), Alu 6061-T6, siehe Aerolenker-Abschnitt
-| Lenkerband         | 2023    | 25 €      | \*\*\*  | Profile Design Aerobar Wrap         | dünn,    gummiartig,  Klebestreifen,        für Lenkeraufsatz; dünner als Dropbar gegen Wurstoptik; nur Grip, kaum Dämpf.; Bandkante drückt sich als "Fortsetzungslinie" durch = gleichmäßiges Wickeln
-| Lenkerband         | 2025    | 13 €      | \*\*    | FSA Ultra-Gel Kork                  | mittel,  Kork,        Klebestreifen (Rückstände),  dämpft ohne zu dick aufzutragen, stufig/Grip ok, ging schnell drauf, mit ital. 8 genug Länge; hässl. Finishtape/Barends
-| Lenkerband         | 2025    | 13 €      | \*      | Selle Italia SmooTape Gran Fondo    | 2,5 mm,  EVA-Schaumstoff (langweiliger als Kork), Silikonstreifen/Zug,  ½ oder ⅓ wickeln? aus Entfernung stufenfrei (auch nicht besser als andere); ledrigerer Look ok; weiße Logos = Vogelstange; hässl. Finishtape
-| Lenkerband         | 2025    | 10 €      | Todo    | SRAM SuperCork Bar Tape             | Kirk, mittel, Klebestreifen,        wie FSA Ultra-Gel Kork (white label produkt?); günstiges Notfall-Korkband (fahre Shimano)
-| Lenkerband         | 2026-02 | 12 €      | \*      | Selle Italia Smart Tape Greentech   | 2,5 mm,  gummiartig wie die Hoods (kein Handschmeichler wie Kork), hält allein auf Zug (gut), wenig Dämpfung trotz Dicke (nur Handfüller), integrierte "Endkappe" lässt sich verdrehen und löst Band (ist nur auf Zug, passiert 100% bei Unterlenker-Fahrt), und verlangt kürzere 2. Wicklung (uneinheitlich) oder hässliche Beule; verunmöglicht Klingel-Endkappe o.ä.; Endkappen verdecken nur dünn die Rohröffnungen = Sicherheitsrisiko bei Unfall; Länge passt mit ⅓-Wicklung und ital. Acht gerade so auf 42cm-Flattop-Dropbar inkl. Flattop-Bereich (stufenfrei!); klebriger gummi hält dreck fest, aber gut zu reinigen und wiederzuverwenden; unempfindlicher gegen Regen
-| Lenkerband         | 2026-04 |  8 €      | \*      | DEDA                                | Synthetik, gun barrel grey (4800); Klebestreifen; sieht ok aus (all black aber doch schöner), lässt sich gut wickeln und korrigieren, aber hart-samtig-glatt = problematisch wenig Grip; wenig Dämpfung und Vorsicht beim Abziehen des Schutzes auf dem Klebestreifens, löst sonst gleich beides vom Band (ggf. von der Seite abfitzeln); Länge hat ohne ital 8 noch gereicht bei 42-cm Flattop-Lenker inkl. Tops; ok, falls es günstig sein muss; hinterließ beim Entfernen keine Spuren, war aber auch nur 1-2 Monate auf dem Lenker
-| Lenkerband         | 2026-05 | 22 €      | \*\*\*  | **Cinelli Special Edition Gelkork** | Kork, mittel (muss straff gelegt werden, sonst Wurstoptik), diese SE-Version hat guten Silikon- statt Klebestreifen = leicht wickeln und korrigieren = sehr wartungsfreundlich, Cinelli-Logos helfen beim Alignment; dämpft auch noch ausreichend wenn straff gewickelt; Grip nicht so gut/etwas glatt, Hand kann auf dem Lenker verrutschen; hatte die auch mal von einem Lenker auf anderen Lenker easy weiterverwendet
-| Lenkerband         | 2026-05 | 25 €      | Todo    | Faserwerk Handschmeichler SL        | 2,5 mm,  EVA-Schaumstoff
-| Flasche            |         | 13 €      | \*\*\*  | Camelbak Podium                     | 710 ml passende Größe für XL-Rahmen, kleiner wirkt dumm; größer nur für Bikepacking; ich mag den großen Ventildurchfluss (Reinigung umständlicher); die Staubkappen lohnen, einzeln aber teuer
-| Flasche            |         | 16 €      | \*      | Camelbak Podium Chill               | stinken, Isolation lohnt nicht und weniger Wasser verfügbar
-| Flasche            |         |  6 €      | \*\*    | Elite Fly (Tex) / Jet Green         | primitiv, aber auch ihr Vorteil (Reinigung, Preis); stinken nicht
-| Flasche            |         |           | \*      | Tacx-Derivate (siehe Boden)         | stinken; rebranded oft Abzockpreis (14 statt 4 Euro)
-
+| Fahrradteil        | Jahr    | Preis     | Wertung | Neu verbaut                           | Details
+|--------------------|---------|-----------|---------|---------------------------------------|--------------------------------------------
+| Steuersatzlager    | 2025    | 2x 20 €?  | \*\*\*  | CQ GmbH Edelstahl                     | Ersatz wg. rauem Lauf; vorläufig noch nichts Negatives festgestellt
+| Konuslagerkugeln   | 2025    |  5 €?     | \*\*    | Woembi G20 HRC&ge;60 1/8"             | Ersatz wg. Korrosion; G20/HRC 60 ist noch ok (über G20 nicht mehr, HRC 40 ist Baumarktqualität); G10 besser; funktionieren soweit aber gut
+| Kabel Schaltzug    | 2024    | 14 €      | \*\*\*  | Shimano OT-SP41 Optislick             | ersetzt gerissenes Jagwire; Zugseil gleitet gut (STI-Widerstand), gut zu cutten
+| Kabel Bremszug     | 2026-07 | 22 €      | \*\*\*  | **Jagwire Road Pro Brake Kit**        | _kompressionsfreie_ KEB-SL-Hüllen zur Aufwertung mechanischer Scheibenbremsen. Giant verbaut das billigste Jagwire-Kabel = Reibung beim Hebelbetätigen, ungleiche Druckpunkte L/R und weniger Kraftübertragung: normale Spiralumwicklung hat Flex v.a. über Länge; flexiblerer Anfang für Lenkerradien, fand den Rest auch ausreichend flexibel bis auf letzte Biegung in den Bremssattel, die war vorher schon bei Rahmen/Altkabeln grenzwertig; jetzt gleichm. Druckpunkt L/R, geht gut drauf
+| Reifen             | 2025    | 2x 40 €   | Todo    | Tufo Thundero HD                      | 700x40C (41 mm),          je 439g, schneller Gravel-Semi-Slick-Faltreifen,      TPI 130/255, BRR 5/5 (19,2 W); 2,7 bar            (105 kg); 59 ml Dichtmilch, Stans/Tufo-Sealant würden nicht dichten, Orange aber
+| Reifen             | 2025-02 | 2x 50 €   | \*\*\*  | **Michelin Pro 5 TLR**                | 700x35C [35 mm gemessen], je 390g, leichter/schneller Allroad-Slick-Faltreifen, TPI 120,     BRR 5/5 (13,8 W); 3,3–3,5 bar/offiz. (105 kg); 60 ml Dichtmilch initial, 30 ml top-up; [Handmontage+Standpumpe]; 32mm bei 105 kg zu hart = Energieverlust (springt/reibt gg realen Asphalt statt verformend zu gleiten) = langsamer/kurveninstabiler/unkomfortabler als 35er; 32er auf meine Felge auch grenzwertig
+| Reifen-Dichtmilch  | 2025-02 | ?         | ???     | Orange Seal Endurance                 | bleibe länger flüssig, dichte aber nicht so schnell/gut wie die normale Orange-Version; Orange scheint auch mit mehr Reifen verträglich zu sein als Stans; hat gut zw. Bead und Felgen abgedichtet; bisher noch keinen Durchstich bemerkt; habe nach 6 Monaten (Feb-Aug) erneuert
+| Sattel             | 2024    | 100 €     | \*\*    | Fizik Terra Argo X5                   | 160 mm, straff, gut, Hinternposition recht festgelegt; 100 km ohne nennenswerte Probleme
+| Sattel             | 2025    | 93 €      | \*\*\*  | **Ergon SR Allroad Core Comp Men**    | M-L, 120 kg, 248 g, Chrom-Molybdän-Stahl-Gestell (CrMo), Nylonkomposit-Sitzschale, orthopäd. AirCell-Sitzschaum + Kern BASF Infinergy E-TPU Partikelschaum, Microfiber-Obermaterial: komfortabler, trotzdem noch flach, geht zeitw. ohne Polster, mehr Hinternpositionen; 0 Probleme
+| Pedale             | 2023    | 85 €      | \*\*\*  | Shimano XT PD-T8000                   | Plattform-SPD-Kombipedal, mein Übergangspedal fürs Clipless-Lernen; später nie Situation für Plattform gehabt; StVZO-konforme Reflektoren
+| Pedale             | 2024    | 83 €      | \*\*\*  | **Shimano XT PD-M8100**               | SPD-Klickpedal, SM-SH56 SPD Cleats für Unfall-Präventions-Reflexe; StVZO-nonkonform
+| Flaschenhalter     | 2023    | 2x 15 €   | \*\*\*  | SKS Germany DUAL SC RH und LH         | seitliche Entnahme beide rechtshändig; zerkratzt Flaschen, ansonsten top, stabil
+| Computer           | 2023    | 260 €     | \*\*\*  | **Wahoo Bolt 2**                      | mit Gummi-Schutzhülle, dank der mein Wahoo mal aus der Hand flummiartig runter durchs Treppenhaus schoss und unversehrt blieb; GPS-Navi sehr wichtig für meine Raderfahrung
+| Computer-Halterung | 2025    | 63 €      | \*\*    | Framesandgear Aero 27 mm Wah/Sm.      | Stem-Mount; stabil, sieht gut aus/ragt nicht über Lenker; ragt nicht seitl. über Vorbaulenkerklemme = einzig mit meinem Jack-Frontrack+Lenker funktionierender; teuer und schlechter Transferwert durch feste Breite
+| Gabelexpander      | 2026-07 | 33 €      | \*\*\*  | Öhlins SP Expander                    | 5 cm Klemmfläche, 1 1/8", Doppelkeilkonstruktion, komplett schwarz eloxiert, Keil-Verlier-Sicherung mit Madenschraube (1,5er-Inbus); ersetzt zu kurzen 3 cm-OEM-Expander, da ich mit Lenker tiefer möchte ohne vorerst Gabel abzusägen; Installation problemlos; 7 cm wären aber besser gewesen
+| Bremsbelag         | 2023    | 17 €      | ???     | Reverse Components #01915             | organisch, lt. Hersteller kompatibel mit der Tektro MD-C550, eigtl. optimiert fuer E-Bike (wäre haltbarer da kevlarverstärkt, verglase langsamer, quietsche weniger) - passt evtl gut bei meinem Gewichts-Speed-Profil; packt gut zu; keine Erfahrung im Regen bisher, keine Erfahrung bei langer Bremsung bisher
+| Bremsbelag         | 2023    | 17 €      | Todo    | Tektro P20.11                         | organisch, "optimiert für Bremsscheibenstärke von 1.8mm", Bremsenhersteller-eigene Beläge
+| Bremsscheibe       | 2026    | 26 €      | ???     | SRAM Centerline Round Edges           | 160 mm. 6 Loch; schön poliert; eine Scheibe musste ich beim Installieren schon zentrieren, ging aber gut; greift gut; keine Erfahrung im Regen bisher, keine Erfahrung bei langer Bremsung bisher
+| Bremsscheibe Bolts | 2026    | 5 € 6Stk. | \*\*\*  | Galfer Schrauben Edelstahl hell       | Torx 25; Schrauben halt, mit Nylon?-Schraubensicherung; sehen gut aus, leichte Installation
+| Lenker             | 2026-07 | 38 € Sale | \*\*    | Zipp Service Course 70 Ergo Blast     | 400/    mm  (4&deg; Flare), kompakt, Alu 6061 "365g", 3&deg; Backsweep, abgeflachter Oberlenker, Clip-on ok; 1cm kürzerer Reach auf 70mm (war vorher oft vor den Hoods) + 90mm-Vorbau; Tops-Ergonomie ergibt für mich nur bergauf Sinn, also sobald Lenker höher als der Sattel steht und man am Lenker zieht
+| Lenker             | 2025    | 27 €      | \*\*\*  | Moquai Aero Rennradlenker             | 420/420 mm  (0&deg; Flare) und 400/400 mm, kompakt, Alu 6061 "285g"; 4 bzw. 6 cm schmaler/sportl. als Erstlenker; Logos subtil; ovalisierte, nicht zu breite Tops; flext in den Drops; langer Reach mit 78(?) mm
+| Lenker             | 2025    | 18 € Sale | Todo    | FSA AGX Adventure Compact             | 440/500 mm (12&deg; Flare), kompakt, Alu 6061 "325g", 2 cm schmaler als Erstlenker, für Bikepacking, Logos übertrieben
+| Lenkeraufsatz      | 2023    | &gt;100 € | \*\*\*  | Profile Design Sonic Ergo T5+         | 348 mm Länge (13&deg;), Alu 6061-T6, siehe Aerolenker-Abschnitt
+| Lenkerband         | 2023    | 25 €      | \*\*\*  | Profile Design Aerobar Wrap           | dünn,    gummiartig,  Klebestreifen,        für Lenkeraufsatz; dünner als Dropbar gegen Wurstoptik; nur Grip, kaum Dämpf.; Bandkante drückt sich als "Fortsetzungslinie" durch = gleichmäßiges Wickeln
+| Lenkerband         | 2025    | 13 €      | \*\*    | FSA Ultra-Gel Kork                    | mittel,  Kork,        Klebestreifen (Rückstände),  dämpft ohne zu dick aufzutragen, stufig/Grip ok, ging schnell drauf, mit ital. 8 genug Länge; hässl. Finishtape/Barends
+| Lenkerband         | 2025    | 13 €      | \*      | Selle Italia SmooTape Gran Fondo      | 2,5 mm,  EVA-Schaumstoff (langweiliger als Kork), Silikonstreifen/Zug,  ½ oder ⅓ wickeln? aus Entfernung stufenfrei (auch nicht besser als andere); ledrigerer Look ok; weiße Logos = Vogelstange; hässl. Finishtape
+| Lenkerband         | 2025    | 10 €      | Todo    | SRAM SuperCork Bar Tape               | Kirk, mittel, Klebestreifen,        wie FSA Ultra-Gel Kork (white label produkt?); günstiges Notfall-Korkband (fahre Shimano)
+| Lenkerband         | 2026-02 | 12 €      | \*      | Selle Italia Smart Tape Greentech     | 2,5 mm,  gummiartig wie die Hoods (kein Handschmeichler wie Kork), hält allein auf Zug (gut), wenig Dämpfung trotz Dicke (nur Handfüller), integrierte "Endkappe" lässt sich verdrehen und löst Band (ist nur auf Zug, passiert 100% bei Unterlenker-Fahrt), und verlangt kürzere 2. Wicklung (uneinheitlich) oder hässliche Beule; verunmöglicht Klingel-Endkappe o.ä.; Endkappen verdecken nur dünn die Rohröffnungen = Sicherheitsrisiko bei Unfall; Länge passt mit ⅓-Wicklung und ital. Acht gerade so auf 42cm-Flattop-Dropbar inkl. Flattop-Bereich (stufenfrei!); klebriger gummi hält dreck fest, aber gut zu reinigen und wiederzuverwenden; unempfindlicher gegen Regen
+| Lenkerband         | 2026-04 |  8 €      | \*      | DEDA                                  | Synthetik, gun barrel grey (4800); Klebestreifen; sieht ok aus (all black aber doch schöner), lässt sich gut wickeln und korrigieren, aber hart-samtig-glatt = problematisch wenig Grip; wenig Dämpfung und Vorsicht beim Abziehen des Schutzes auf dem Klebestreifens, löst sonst gleich beides vom Band (ggf. von der Seite abfitzeln); Länge hat ohne ital 8 noch gereicht bei 42-cm Flattop-Lenker inkl. Tops; ok, falls es günstig sein muss; hinterließ beim Entfernen keine Spuren, war aber auch nur 1-2 Monate auf dem Lenker
+| Lenkerband         | 2026-05 | 22 €      | \*\*\*  | **Cinelli Special Edition Gelkork**   | Kork, mittel (muss straff gelegt werden, sonst Wurstoptik), diese SE-Version hat guten Silikon- statt Klebestreifen = leicht wickeln und korrigieren = sehr wartungsfreundlich, Cinelli-Logos helfen beim Alignment; dämpft auch noch ausreichend wenn straff gewickelt; Grip nicht so gut/etwas glatt, Hand kann auf dem Lenker verrutschen; hatte die auch mal von einem Lenker auf anderen Lenker easy weiterverwendet
+| Lenkerband         | 2026-05 | 25 €      | Todo    | Faserwerk Handschmeichler SL          | 2,5 mm,  EVA-Schaumstoff
+| Flasche            |         | 13 €      | \*\*\*  | Camelbak Podium                       | 710 ml passende Größe für XL-Rahmen, kleiner wirkt dumm; größer nur für Bikepacking; ich mag den großen Ventildurchfluss (Reinigung umständlicher); die Staubkappen lohnen, einzeln aber teuer
+| Flasche            |         | 16 €      | \*      | Camelbak Podium Chill                 | stinken, Isolation lohnt nicht und weniger Wasser verfügbar
+| Flasche            |         |  6 €      | \*\*    | Elite Fly (Tex) / Jet Green           | primitiv, aber auch ihr Vorteil (Reinigung, Preis); stinken nicht
+| Flasche            |         |           | \*      | Tacx-Derivate (siehe Boden)           | stinken; rebranded oft Abzockpreis (14 statt 4 Euro)
+| Reflektor          | 2024-01 | 10 €      | \*\*    | Reflecto  Felgenaufkleber 40 Streifen | schwarz auf schwarzer Felge; StVZO-nonkonform; subtiler nur an 2 Positionen am Laufrad und jeweils 2 Steifen nebeneinander für größere Signalfläche; halten und reflektieren gut, Katzenaugen oder Speichensticks zu hässlich, Reifenreflektor nur stark begrenzte Auswahl; irgendwann im Frühjahr/Sommer mit etwas Aufwand wieder entfernt (cleaner)
+| Reflektor          | 2026-10 | 13 €      | Todo    | Luxshield Felgenaufkleber Arrow       | schwarz auf schwarzer Felge; StVZO-nonkonform; subtiler nur an 2 Positionen am Laufrad; Arrow beklebt auch Felgenmitte zur Reflektion von Querstrahlen; 
+| Lampe              | 2023    | ?         | \*\*    | Sigma Aura 45   Stecklampe vorne      | 45 Lux,  99 Lumen,  45 m Leuchtweite, StVZO-konform, 21 h Eco/6,5 h Stdmodus,            IPX4-spritzwassergeschützt, Micro-USB,  88 g; auf Lenker montiert; Akkustand immer bisschen unklar
+| Lampe              | 2026    | 55 € Sale | Todo    | Sigma Aura 90   Stecklampe vorne      | 90 Lux, 190 Lumen, 100 m Leuchtweite, StVZO-konform, 28 h Eco/4,5 h High (3 h Ladezeit), IP44-spritzwassergeschützt, USB-C,     112 g; Helligkeitssensor; Montage mit Out-Front-Mount unter Radcomputer; Akkuanzeige
+| Lampe              | 2023    |  8 €      | \*\*    | Sigma Nugget II Stecklampe hinten     | 400 m sichtbar;  6 h (2 h Ladezeit); Micro-USB; IPX4-spritzwassergeschützt; StVZO-konform; 24 g; schön klein (Packmaß); Montage an Sitzstrebe
+| Lampe              | 2026    | 25 € Sale | Todo    | Sigma Hiro 50   Stecklampe hinten     | 500 m sichtbar; 11 h (? h Ladezeit); USB-C;     IP44-spritzwassergeschützt; StVZO-konform; 30 g; Bremslicht und Notbremslicht; Montage an Sattelstütze oder Sitzstrebe (Adapter)
 
 
 ### Drehmomente und Schmierplan
@@ -196,7 +202,7 @@ Reihenfolge in Liste = Reihenfolge bei Kontrolle
 | Bremszange              | Klemmschraube  | 5,0       | 6-8             | evtl. Schraubensicherung aufs Schraubenende; alles Klemmbare absolut fettfrei halten!
 | Kassette                | Nabe       Alu | ?         | ?   ./.   ?     | Antiseize zw. Feilauf und Kas.
 | Kettenblatt             | Kurbel         | ?         | ?               | ?
-| SPD-Cleat         Stahl | Schuh      PA  | 4,0       | ?   ./.   ?     | Schraubensicherung über Länge (trennt auch bisschen; Mischen mit Antiseize reduziert Wirkung)
+| SPD-Cleat Shima.  Stahl | Schuh      PA  | 4,0       | 5-6 ./.   ?     | Schraubensicherung über Länge (trennt auch bisschen; Mischen mit Antiseize reduziert Wirkung)
 | Radlager-Konus V        | Nabe       Alu | Spiel     | Spiel           | Finishline Premium Grease (Schale, Kugeln, Abdeckung); Fettpresse, Finger oder weicher Rundpinsel (harter trägt alles wieder ab)
 | Steuersatz              | Steuerrohr Alu | -         | - (IS-Lagersitz)| Finishline Premium Grease (oben viel gg. Wasser, unten weniger da Dreck: Lagersitze, Film um Lager und Gabelkonus, dick unter oberer Abdeckkappe/Gummiring)
 | Schaltwerk-Leitrolle  O | Schaltschwinge | ?         | ?               | ?
@@ -287,23 +293,24 @@ TODO
 
 **Helm + Klarsicht-/Sonnenbrille + Sommer-Gravel-Radschuhe +**
 
-| Temperatur     | Kopf                                                | Torso                                      | Hände                        | Beine                               | Füße                                    | Regen
-|----------------|-----------------------------------------------------|--------------------------------------------|------------------------------|-------------------------------------|-----------------------------------------|-----------------------
-| **-5-4&deg;C** | Unterhelm-Mütze dünn +Merinobuff Hinterkopf/Gesicht | Thermo-Softshell +Trikot lang +Basel. kurz | dicke Krebs-Handschuhe       | Bibshort +Wind-Thermo-Überhose lang | Neopren-Überschuhe +Wandersocken mittel | -<br>(Nassregen selten)
-|  **4-7&deg;C** | Unterhelm-Mütze dünn +Merinobuff Gesicht            | Thermo-Softshell +Thermo-Baselayer lang    | mittelisol. Handschuhe lang  | Bibshort +Wind-Thermo-Überhose lang | Wind-Socken angeraut                    | Regenjacke/-poncho Gepäck +Velotoze
-|  **7-9&deg;C** | Unterhelm-Mütze dünn +Merinobuff in Rücktasch       | Thermo-Softshell +Baselayer kurz           | mittelisol. Handschuhe lang  | Bibshort +Wind-Thermo-Überhose lang | Wandersocken mittel                     | Regenjacke/-poncho Gepäck +Velotoze bei Langfahrt
-| **9-13&deg;C** | -                                                   | 80%-Windjacke    +Thermo-Baselayer lang;;<br>Trikot lang +Base angeraut lang +Windweste | unisol. Wind-Handschuhe lang  | Wind-Thermo-Bibshort +Beinlinge;; <br> Bib +Beinl. (auf &frac34;?) +Überhose kurz | Wandersocken mittel | Regenjacke/-poncho Gepäck +Velotoze bei Langfahrt
-|**13-18&deg;C** | -                                                   | Trikot lang +Windweste/-Basel.             | Handschuhe kurz              | Bibshort +Beinlinge auf &frac34;/Rückta.    | Rad-Socken mittel               | Windjacke +Velotoze bei Langfahrt
-|**18-30&deg;C** | -                                                   | Trikot/ Merinoshirt / Sun-Hoodie           | Handschuhe kurz              | Bibshort                            | Rad-Socken dünn                         | - (aushalten)
+| Temperatur     | Kopf                                                | Torso                                      | Hände                            | Beine                               | Füße                                    | Regen
+|----------------|-----------------------------------------------------|--------------------------------------------|----------------------------------|-------------------------------------|-----------------------------------------|-----------------------
+| **-5-4&deg;C** | Unterhelm-Mütze dünn +Merinobuff Hinterkopf/Gesicht | Thermo-Softshell +Trikot lang +Basel. kurz | dicke Krebs-Handschuhe           | Bibshort +Wind-Thermo-Überhose lang | Neopren-Überschuhe +Wandersocken mittel | -<br>(Nassregen selten)
+|  **4-7&deg;C** | Unterhelm-Mütze dünn +Merinobuff Gesicht            | Thermo-Softshell +Thermo-Baselayer lang    | mittelisol. Handschuhe lang      | Bibshort +Wind-Thermo-Überhose lang | Wind-Socken angeraut                    | Regenjacke Gepäck +Velotoze
+|  **7-9&deg;C** | Wind-Stirnband  dünn +Merinobuff in Rücktasch       | Thermo-Softshell +Baselayer kurz           | mittel-/unisol. Handschuhe lang  | Bibshort +Wind-Thermo-Überhose lang | Wandersocken mittel                     | Regenjacke Gepäck +Velotoze bei Langfahrt
+| **9-13&deg;C** | Wind-Stirnband  dünn             in Rücktasch       | 80%-Windjacke    +Thermo-Baselayer lang; / +Thermo-Trikot ohne BL<br>Trikot lang +Base angeraut lang +Windweste | unisol. Wind-Handschuhe lang  | Wind-Thermo-Bibshort +Beinlinge; <br> Bib +Beinl. (auf &frac34;?) +Überhose kurz | Wandersocken mittel | Regenjacke Gepäck +Velotoze bei Langfahrt
+|**13-18&deg;C** | -                                                   | Trikot lang +Windweste/-Basel.             | Handschuhe kurz                  | Bibshort +Beinlinge auf &frac34;/Rückta.    | Rad-Socken mittel               | Windjacke +Velotoze bei Langfahrt
+|**18-30&deg;C** | -                                                   | Trikot/ Merinoshirt / Sun-Hoodie           | Handschuhe kurz                  | Bibshort                            | Rad-Socken dünn                         | - (aushalten)
 
-Bibshort kann in Kombi mit Überhose auch ein Bibliner sein  
-Temperaturen für Deutschland Ostsee-Bereich.
+Bibshort kann in Kombi mit Überhose auch ein Bibliner mit Mesh sein (besser belüftet).  
+Temperaturen für Deutschland Ostsee-Bereich.  
+Ich schwitze beim radeln - aber nicht übermäßig / klitschnass (außer evtl. mal im Hochsommer oder bei zu warmer Kleiderwahl).
 
 
 
 Kleine Materialkunde:
 
-| Material               | trocknet | wärmt  | kühlt   | riecht | UV*    | Hautgefühl | kostet  | Kommentar
+| Material               | trocknet | wärmt  | kühlt   | riecht | UV*    | Hautgefühl | günstig | Kommentar
 |------------------------|----------|--------|---------|--------|--------|------------|---------|------------
 | Baumwolle              | \*       | \*     | \*      | \*\*   | \*     | \*\*\*     | \*\*\*  | 40-60°C; für Rad/Outdoor ungeeignet: saugt Schweiß auf, trocknet langsam und kühlt dann stark aus (keine angenehme Kühlung), klebt luftundurchl. am Körper, Haut quillt auf (Scheuerstellen)
 | Merinowolle            | \*\*     | \*\*\* | \*\*    | \*\*\* | \*\*\* | \*\*\*     | \*      | 20-30°C; Nasser-Hund-Geruch wenn feucht? zuviel Lanolin (Wollfett): mit 1-2 Tropfen Spüli für 30 Minuten einweichen; Handwäsche; nasse Kleidung (ideal auf Handtuch) hinlegen statt aufhängen (leiert aus); kein Weichspüler
@@ -337,8 +344,6 @@ Helm:
 | starke belüftet                                       | weniger belüftet für mehr Crash-Masse    | weniger belüftet   |
 | MIPS (mglw. nur Marketing Gimmick)                    |                                          |          |
 | "GIRO"- und MIPS-Logoaufkleber entfernt               |                                          |          |
-
-
 
 
 
@@ -406,7 +411,7 @@ Helm:
 	- das Trocknen nasser Schuhe (innen) dauert lange
 	- Haut nasser Füße reibt sich über die Zeit auf und führt zu Entzündungen; Füße sind wichtiger Kontaktpunkt beim Radfahren: 
 		Velotoze nerviger anzuziehen, haben aber ein gutes Packmaß und halten dicht (es gibt Gesonderte für MTB/SPD und Rennrad/SPD-SL)
-- HighVis (v.a. Herbst-Winter, nachts):
+- Sichtbarkeit / HighVis (v.a. Herbst-Winter, nachts):
 	- nicht kleidsam: statt Neongelb lieber weniger grelle Signalfarben wie orange, rot, matteres gelb
 	- Autofahrer finden es gut; als Radfahrer sieht man grelle Radler auch in Entfernung gut
 	- Problem imho weniger, dass Radler nicht wie Tannenbaum leuchtet, sondern Autofahrer nicht hingucken (Handy, Fahrerfensterseite) oder Radfahrer verdeckt wird
@@ -431,14 +436,15 @@ Helm:
 
 | Modell                                  | Polster        | Einsatz/offiz. (Saison)  | Sattel  | trocknet | Bewertung | Kommentar
 |-----------------------------------------|----------------|--------------------------|---------|----------|-----------|--------------------------------
-|  Gore Wear Bibs                         | Schaum         |   3h / 3h       (Sommer) | G, F, E | \*\*     | \*\*      | Polster-Falten/Ablösung n. 1-2 Jahren = Saddle Sores (Oberstoff löst sich und bildet Rubbel-Falten); gute Standard-Hose
-|**Gonso SQLab GO M Bibs (2x)**           | Gel/Elast. 6mm |   6h / 6h       (Sommer) | F, E    | \*\*\*   | \*\*\*    | Polsterkomfort konstant gut genug, kein Durchsitzen; Träger beim alten Modell zu kurz; *gut für Radreisen* und Standardrunden
-|  Castelli Unlimited Ultimate Bib-Liner  | Schaum         |   4h / 2-3h     (Sommer) | E       | \*       | \*\*\*    | Progetto X2 Polster genial, guter Sitz der Hose; mein *Fav für Standardrunden*; für Radreisen eher ungeeignet; hat Rückentaschen z.B. für Fahrrad-Portemonnaie
-|  Gore Wear Fernflow Bib-Liner           | Schaum         |   6h / ?        (Sommer) | E       | \*\*\*   | \*\*\*    | Rückentaschen; sehr leicht; wenig Kompression, trotzdem ok; schwimmende Polsterkonstruktion; multi-density foam
-|  Gore Wear Tights                       | Schaum         |   3h / 3h       (Herbst) | F       | \*\*     | \*\*      | Polster-Falten/Ablösung n. 1-2 Jahren = Saddle Sores; gute Hose sonst
-|  GripGrab AquaRepel Bibs                | Schaum         |   ?  / ?        (Herbst) | E       | \*\*     | \*\*\*    | Kurze Hose für Herbsteinsatz mit Beinlingen bis 8 Grad
-|  Gore Wear Tights Windstopper           | Schaum         |   3h/3h         (Winter) | F       | \*\*     | \*\*      | Polster-Falten/Ablösung n. 1-2 Jahren = Saddle Sores; Rest der Hose ist genial, fuhr damit problemlos bei Minustemperaturen
-|  Gonso Essential Softshell              | ohne           | &infin;         (Winter) | E       | ?        | \*\*      | Winterhose, die ich über Sommer-Bibs mit gutem Polster ziehe; muss weniger Winterhosen kaufen
+|  Bib-Short Gore Wear                    | Schaum         |   3h / 3h       (Sommer) | G, F, E | \*\*     | \*\*      | Polster-Falten/Ablösung n. 1-2 Jahren = Saddle Sores (Oberstoff löst sich und bildet Rubbel-Falten); gute Standard-Hose
+|**Bib-Short Gonso SQLab GO M (2x)**      | Gel/Elast. 6mm |   6h / 6h       (Sommer) | F, E    | \*\*\*   | \*\*\*    | Polsterkomfort konstant gut genug, kein Durchsitzen; Träger beim alten Modell zu kurz; *gut für Radreisen* und Standardrunden
+|  Bib-Short GripGrab AquaRepel           | Schaum         |   ?  / ?        (Herbst) | E       | \*\*     | \*\*\*    | Kurze Hose für Herbsteinsatz mit Beinlingen bis 8 Grad
+|  Bib-Liner Castelli Unlimited Ultimate  | Schaum         |   4h / 2-3h     (Sommer) | E       | \*       | \*\*\*    | Progetto X2 Polster genial, guter Sitz der Hose; mein *Fav für Standardrunden*; für Radreisen eher ungeeignet; hat Rückentaschen z.B. für Fahrrad-Portemonnaie
+|  Bib-Liner Gore Wear Fernflow           | Schaum         |   6h / ?        (Sommer) | E       | \*\*\*   | \*\*\*    | Rückentaschen; sehr leicht; wenig Kompression, trotzdem ok; schwimmende Polsterkonstruktion; multi-density foam
+|  Bib-Liner Rapha Trail Cargo            | Schaum         |   ?  / ?        (Sommer) | E       | todo     | todo      | todo
+|  Bib-Tight Gore Wear                    | Schaum         |   3h / 3h       (Herbst) | F       | \*\*     | \*\*      | Polster-Falten/Ablösung n. 1-2 Jahren = Saddle Sores; gute Hose sonst
+|  Bib-Tight Gore Wear Windstopper        | Schaum         |   3h/3h         (Winter) | F       | \*\*     | \*\*      | Polster-Falten/Ablösung n. 1-2 Jahren = Saddle Sores; Rest der Hose ist genial, fuhr damit problemlos bei Minustemperaturen
+|  Tight Essential Softshell              | ohne           | &infin;         (Winter) | E       | ?        | \*\*      | Winterhose, die ich über Sommer-Bibs mit gutem Polster ziehe; muss weniger Winterhosen kaufen
 |  Überhose Sportful Supergiara 002 ('24) | ohne           | &infin;         (Sommer) | F       | ?        | \*\*      | viele kluge Taschen, dümmste Bundsystem ever: hält beladene Hose nicht und ist mir irgendwann beim Nachspannen gerissen
 |  Überhose Maloja StagiasM Gravel        | ohne           | &infin;         (Sommer) | E       | \*\*\*   | \*\*\*    | richtige Länge, leicht, punched in früherer Version, aber nur 1 Tasche (Smartphone)
 
@@ -986,7 +992,7 @@ Mit Vorrat hat man Zeit für Suche/Nachschub.
 			komplett bonkers wenn Gruppe wegen proprietärem 7-Euro-Gummi unbrauchbarer wird
 	- 2x Steuersatzlager exakt mit Außen- und v.a. Innendurchmesser und z.B. 45-Grad-Kanten, Edelstahl (nicht nur Werkzeugstahl oder brüniertes Metall)
 - Laufrad:
-	- 1x Reifenmantel-Paar (Profil) wird abgerieben 
+	- 1x Reifenmantel-Paar wird abgerieben/rissig 
 	- 2x seltener Felgenband kann reißen, z.B. bei Wartung oder durch Reamer/Plug-Gabel bei Tubeless-Panne; richtige Breite im Shop evtl. Mangelware
 	- ?x Schlauch reißt ein oder Tubeless-Dichtmilch trocknet ein
 	- 6x Ventileinsätze verstopfen durch Dichtmilch, verbiegen beim Aufpumpen oder brechen sogar ab, werden undicht
@@ -1010,6 +1016,8 @@ Mit Vorrat hat man Zeit für Suche/Nachschub.
 	- Werkstatt-Handschuhe
 	- Pinsel weich (Fettauftrag) und hart (Reinigerauftrag)
 	- ...
+- Helm:
+	- Polster verbrauchen sich durch Schweiß, Reibung, regelm. Waschen
 - Kein Verschleißteil, aber proprietär und zu bevorraten, weil Bezug schwer werden könnte:
 	- 2x Schaltauge (Sollbruchstelle zw. Rahmen und Schaltkäfig, falls Rad zur Seite fällt; kann verbiegen und brechen), s.a. Abschnitt "Schaltung einstellen"
 	- 1x Sitzstangenklemme/-schraube (beim Revolt, Adapter auch?)
@@ -1815,7 +1823,9 @@ Sweet spot finden kann eine Weile dauern.
 
 ![Felge mit Dichtmilch-Datum-Etikett](tubeless.jpg)
 
-Ich notiere das Datum meiner letzten Erneuerung direkt auf den Laufrädern:
+Ich notiere das Datum meiner letzten Erneuerung direkt auf den Laufrädern. 
+So habe ich eventuelle Nachlässigkeiten immer vor Augen und muss mich auch nicht erinnern, wo ich das Datum alternativ notiert hätte.
+
 Das Etikett besteht aus einem schwarzen Stück 3M 33+ Scotch Elektroisolierband mit 1,8 cm Breite und 5 cm Länge (Flachprofilfelgen)
 und einem weißen Schriftzug aus einem Edding 780 Glanzlackmarker weiß 0,8mm Rundspitze.
 
@@ -1888,12 +1898,21 @@ Sonstiges:
 
 - Schutzbleche, gibt welche die kann man schraublos verbauen, z.B. bei Rädern ohne Anbaupunkte
 	- SKS S-Blade / S-Board Schutzblech (aus Kunststoff)
+	- Ass Saver
 - "Salzwasser tödlich"
 	- immer gründlich säubern
 	- hatte ein Lager in meinem Steuersatz korrodiert, musste ersetzt werden (Lenker knackte immer beim Einschlagen in beide Richtungen)
-- Lampen-Akkus ins Haus nehmen
+- Lampen
+	- Stecklampen
+	- semi-fest verbaut mit Dynamo oder größerem separatem Akku
+	- Akkulampen ins Haus nehmen
+- Reflektoren
+	- Reflektorfolie z.B. subtil schwarze Folie auf schwarzer Felge
+	- Luxshield Arrow z.B. geht über den gesamten Felgenquerschnitt und hat damit mehr Anstrahlungsfläche auch aus anderen Winkeln; 
+		sieht mit dem Muster auch weniger bescheiden aus
+	- Alternativ Stzvo-konform: orange Katzenaugen in den Speichen oder Reifenmantel mit Reflektorstreifen
+	- wem Subtilität und Stzvo nicht so wichtig ist: hinten rot und vorne weiß an den Felgen zeigt Fahrrichtung
 - siehe [Kleidung](#kleidung)
-
 
 
 ## Reifen
@@ -1963,7 +1982,7 @@ Siehe auch Abschnitt zum "Zentrieren"
 
 ### Reifen-Demontage (Tubeless oder Schlauch)
 
-- Luft vollständig ablassen (nicht einfach Ventilkern rausdrehen, der schießt sonst durch die Gegend)
+- Luft vollständig ablassen (nicht einfach Ventilkern rausdrehen, sonst schießt der durch die Gegend)
 - Mantel vorsichtig überall in die tiefere Felgenmitte (Felgenbett) drücken (engl. Unseating) 
   und dabei die Verklebung zw. Reifenwulst (engl. Tire Bead) und Felgenhorn/-flanke brechen;
 	- flüssige Dichtmilchreste sammeln sich am Boden des Reifens, 
@@ -2546,7 +2565,7 @@ see [my Github Wahoo-repository](https://github.com/andre-st/wahoo)
 
 ### Lebensmittel
 
-| Prio | Bedarfsart    | Zweck              | Wann             | Bezugsquelle                               | Beispiele                                                          | Kommentar
+| Prio | Bedarf        | Wofür              | Wann             | Wo                                         | Was                                                                | Kommentar
 |------|---------------|--------------------|------------------|--------------------------------------------|--------------------------------------------------------------------|-----------|------------------
 |    1 | Wasser        | Kreislauf/ Kühlung | immer            | Markt, Tanke, Imbiss &gt; Trinkbrunnen &gt; Friedhof &gt; Anwohner, Waschbecken öff. WC                        || wird ausgeschwitzt; Naturquellen eher vermeiden oder filtern (Landwirt.-/Stadtchemie, Kadaver, ...)
 |    2 | Kohlenhydrate | Energie            | Fahrzeit/ Vortag | Markt, Tanke, Imbiss, Gaststätte, Drogerie | Brötchen, Banane, _gekochte_ Kartoffeln, Brezel, Laugenstange, Reiswaffel, belegte Brötchen ohne Mayo, Dönerwrap, Rossmann Energy-Gel (Ausnahme) | beim Pedalieren verbrannt; Fettiges vermeiden (Pommes); "bonking" plötz. Müdigkeit; Carboloading; sonst Energie aus Körperfett (Normalfahrt / aerob trainiert) oder begrenzten Glykogenspeicher (Muskeln und Leber) bei Intensivbelastung
@@ -2707,10 +2726,12 @@ Alles andere lässt sich unterwegs lösen.
 
 ## Shops
 
+### Websites
+
 | Alle_Bestellungen_top                                  | Teile                     | Versand     | Kommentar
 |--------------------------------------------------------|---------------------------|-------------|--------------------
-| [bike24.de](https://bike24.de)                         | alles                     | DHL/GLS     | Rücksende-Etikett direkt im Paket, schneller Versand; 99% DHL, leider mal GLS
-| [bike-discount.de](https://bike-discount.de)           | alles                     | DHL         | oft gute Preise; Rücksendungen unproblematisch
+| [bike24.de](https://bike24.de)                         | alles                     | DHL/GLS     | schneller Versand; 99% DHL, leider mal GLS; Rücksendungen unproblematisch
+| [bike-discount.de](https://bike-discount.de)           | alles                     | DHL         | oft gute Preise; Rücksendungen unproblematisch, aber kostenpflichtig
 | [kugellager-shop.net](https://www.kugellager-shop.net) | Wälzlager, Lagerkugeln G10 auf Anfrage  | ? | Edelstahlversionen kaufen
 | [decathlon.de](https://decathlon.de)                   | Kleidung, Bikepacking     | ?           | bisher immer alles bekommen, Rücksendung unproblematisch; günstige "Szenetipps" wie brauchbare Forclaz MT100 Daunenjacke oder gut verpackbare Forclaz MT500 Sandalen
 | [agu.com](https://agu.com)                             | Kleidung                  | DHL/Hermes  | Niederlande, Rücksendung unproblematisch, manchmal 50% Preisnachlass im Shop
@@ -2736,14 +2757,62 @@ Alles andere lässt sich unterwegs lösen.
 | Shops_die_ich_vermeide                                 | Teile                     | Kommentar
 |--------------------------------------------------------|---------------------------|-----------------------------
 | Sportfits.de                                           | alles                     | eigene negative Erfahrung, schlechteste bisher überhaupt
-| Amazon (Marketplace)                                   | Kleidung, Teile           | kaufe nur, wenn ich lange woanders nichts finde; man liest von Fakes und Wiederverkauf kaputter Kundenrückläufer
+| Amazon (Marketplace)                                   | Kleidung, Werkzeug, Teile | kaufe nur, wenn ich lange woanders nichts finde; man liest von Fakes und Wiederverkauf kaputter Kundenrückläufer
 | TradeInn / BikeInn                                     | alles                     | Sitz Spanien; bei Ärger wäre unverhältns. Aufwand
 | Santafixie.de                                          | alles                     | Sitz Spanien
 | Hardloop.de                                            | alles                     | Sitz Frankreich
 | Alltricks.de                                           | alles                     | Sitz Frankreich; hatte aber schon korrekt geliefert
 
 
+### Marken
 
+Disclaimer: Markentreue/Sortenreinheit ist kein kluger Ansatz (außer bei Kompatiblität). Aber als Richtwert.
+
+
+| Top-Erfahrungen (preisunabh.)     | Gut genug                  | Eher nicht
+|-----------------------------------|----------------------------|-----------------------------------
+| Gore Wear (ohne Elastic Interface)| BBB                        | Elastic Interface (inkl. Gore Wear mit deren Polster)
+| Gripgrab                          |                            | 
+| GIRO               (Helm, Schuhe) |                            | Endura - alles Bestellte wieder zurückgesendet, weil billige Anmutung im Ggs. zum Preis
+| AGU im höherem Preissegment       | Vaude                      | AGU im niedrigeren Preissegment (nicht Sale!)
+| Castelli       (Hose, Handschuhe) |                            | 
+| Normani-Hochpreissegment (Merino) |                            | Normani-Niedrigpreissegment
+| Gonso                      (Hose) | Odlo-Baselayer             | Odlo-Handschuhe                           | 
+| Alpina              (Sportbrille) | UVEX-Werkstattbrille       | UVEX-Sportbrille (Antibeschlag ruckzuck weg)
+|                                   |                            |
+| Knipex                   (Zangen) |                            | Park Tools (wirkt Mittelklasse zum Highend-Preis; Ausnahmen scheinen gut)
+| Gedore Blau            (Werkzeug) |                            | Gedore Rot (China)
+| Wolftooth   (Werkz., Komponenten) |                            | 
+| Bosch Blau             (Werkzeug) | Wolfcraft                  | Bosch Grün
+| UNIOR                  (Werkzeug) |                            | 
+| Proxxon                (Werkzeug) |                            | 
+| Makita                 (Werkzeug) |                            |
+| Wiha                   (Werkzeug) |                            | 
+| STANLEY          (Werkzeugkoffer) |                            |
+| Finishline               (Chemie) |                            | 
+| PEATY                   (Bürsten) |                            | 
+|                                   |                            | 
+| Shimano  (Radkomponenten, Chemie) |                            | Shimano-Werkzeug
+| Ortlieb          (Racks, Taschen) | SKS Germany                | 
+| The Pack                (Taschen) | Camelbak-Flaschen          | Camelbak-Chill-Flaschen
+| Zefal                   (Taschen) | Elite-Flaschen             | Capsuled
+| Old Man Mountain (Racks, Taschen) | Topeak                     | 
+| Wahoo                  (Computer) | Sigma (Lampen)             |
+| Ergon                    (Sattel) |                            | 
+| Framesandgear                     |                            | 
+| Profile Design           (Lenker) |                            |
+|                                   |                            |
+| Wechsel                    (Zelt) |                            | 
+| Thermarest             (Isomatte) |                            | 
+| Carinthia zivil (Schlasa, Kleid.) |                            | Carinthia militär. (Qualität gut aber zu schwer/weitgeschnitten/Packmaß)
+| Nitecore                          | Anker                      | 
+
+
+
+Marken mit gutem Ruf (oft hochpreisig):  
+Willier, Colnago, Magura, Hazet, Wera, Vessel, Stahlwille, Fluke (Messgeräte), 
+Weller (Löten), Lupine (wobei ich häufiger Negatives sehe), 
+PB SwissTools, Abbey, Pedros, VAR, DT Swiss, Enve, FFWD, @todo
 
 
 

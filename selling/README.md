@@ -190,7 +190,7 @@ es ist wahrscheinlicher dass das Foto stimmt als dass es nicht stimmt.
 >
 > DHL-Sendungsnummer ist: 123457890
 >
-> DHL-Link zur Sendungverfolgung: https://www.dhl.de/de/privatkunden/pakete-empfangen/verfolgen.html?piececode=NUMMER
+> DHL-Link zur Sendungsverfolgung: https://www.dhl.de/de/privatkunden/pakete-empfangen/verfolgen.html?piececode=NUMMER
 >
 > Wichtig: Die Originalverpackung enthält _innerhalb_ der weißen Pappe die Schrauben etc. 
 > 
@@ -198,7 +198,6 @@ es ist wahrscheinlicher dass das Foto stimmt als dass es nicht stimmt.
 >
 > Gruß André
 >
-> PS: Über eine kurze Rückmeldung, wenn die Sendung angekommen ist, würde ich mich freuen - gerne auch einfach als Bewertung ;)
 
 _(beim Link hinten die Nummer ersetzen)_
 
