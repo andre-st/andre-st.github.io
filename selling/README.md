@@ -13,18 +13,17 @@
 | + Übergabeaufwand                              | Weg zur Filiale/Packstation, Zeit in der Warteschlange
 
 
-## Reale vs. kommunizierte Versandkosten
+## Käufer empfinden hohe Versandkosten als Verlust, nicht als Gegenwert
 
-Ein Käufer empfindet hohe Versandkosten als Verlust, nicht als Gegenwert:
 - Versandkosten wirken wie ein Strafaufschlag an der Kasse, egal ob sie realistisch kalkuliert sind
 - mentale Reibung beim Kaufabschluss reduzieren
 - Versandkosten teils auf den Warenpreis schlagen, auch wenn mehr Provision fällig wird
 - "kostenloser Versand" bei Amazon bevorzugt, also abhängig von der Plattformkultur
 - "kostenloser Versand" nachteilig, wenn die Käufer alle Angebote nach Warenpreis (statt Endpreis) sortieren/eyeballen 
 	und Versand _komplett_ im Warenpreis eingerechnet ist.
-- glaubwürdig niedrige "Deal"-Versandkosten, sonst Eindruck "schlampiger Versand"
+- glaubwürdig niedrige Versandkosten, 49 cent = "schlampiger Versand"
 - Andererseits: Manche verdrängen Versandkosten und merken sich nur den "extrem günstigen" Warenpreis (Ankereffekt) – evtl. A/B-testen
-- Paketversand bis 4 Euro wird noch akzeptiert, 7 Euro erzeugen schon Widerstand ("3 Euro weniger mgl.?")
+- Paketversand bis 4 &euro; wird noch akzeptiert, 5,90 &euro; besser als 6,16 &euro;, 7 &euro; erzeugen schon Widerstand ("3 &euro; weniger mgl.?")
 
 
 ## Plattformen-Steuertransparenzgesetz (PStTG) 
@@ -35,6 +34,9 @@ Ein Käufer empfindet hohe Versandkosten als Verlust, nicht als Gegenwert:
 Stand 2023 müssen Plattformen erfolgreichere Privatverkäufer dem Finanzamt 
 wg. möglicher Besteuerung/Gewerbetätigkeit melden 
 und verlangen dann z.B. Geburtsdatum und Steuer-ID.
+
+Die Grenzen bedeuten noch nicht, dass man danach gewerblich verkauft.
+Die Verkaufstätigkeit könnte aber einer Pr&uuml;fung unterzogen werden.
 
 Booklooker.de: [https://www.booklooker.de/faq/steuer-privatverkauf/197](https://www.booklooker.de/faq/steuer-privatverkauf/197)
 
@@ -47,8 +49,8 @@ Booklooker.de: [https://www.booklooker.de/faq/steuer-privatverkauf/197](https://
 
 - Unangenehmes für Käufer mit etwas Positivem enden lassen.
 - "Unfälle" weglassen, wenn man z.B. kein Sportgerät oder Teile dafür verkauft
-- Alternativ sicherheitskritische Produkte als defekt
-	oder nur dekorativ als Bestandteil von Showroom-Geräten jenseits der Straße oä. verkaufen, 
+- Alternativ _sicherheitskritische_ Produkte als defekt
+	oder nur dekorativ als Bestandteil von Showroom-Geräten jenseits der Straße o.ä. verkaufen, 
 	mit Hinweis das jedwede andere Nutzung durch den Käufer zu verantworten ist, 
 	gleichwohl man sehr sorgsam mit dem Produkt umgegangen ist (Drehmomentschlüssel etc) 
 - vermuten lassen, dass es eine übertriebene/juristische Distanzierung ist, das Produkt aber in Ordnung.
@@ -66,6 +68,10 @@ Besser wenn Versandkosten schon vorher im Inserat stünden:
 - Angebot noch attraktiv, wenn zum Warenpreis noch 7 Euro dazukommen?
 - Warenversand ist auch in günstigeren Groß- und Maxibriefen möglich (Stand 2025: max. 5 cm Höhe, unter 1 kg)
 - Verpackungsmaterial in der Filiale ist recht teuer; besser paar Kartons aufheben, wenn man eigene Pakete empfängt
+- DHL ist teuer, hat aber überall Filialen/Packstationen (weniger Rennerei für Käufer), 
+	Zustellungen bisher zuverlässig - hatte bei _allen_ Verkäufen bisher keinen Verlust (über 100 Sendungen über mehrere Jahre), 
+	lediglich _Basis_-Sendungsverfolgungs eher Zufallsprinzip; Bestätigung für Einwurf-Einschreiben auch schon mal ausgeblieben
+- Hermes, GLS usw. sind oft günstiger
 
 
 ## Vorher prüfen: den Käufer
@@ -80,13 +86,13 @@ Bei offenen Anfragen wie z.B. Kleinanzeigen.de:
 
 Besser Käufer zuerst fragen, wohin das Paket gehen soll _bevor_ man Kontodaten, Versandkosten etc. nennt.
 
-> Hallo XY, können wir so machen, wohin soll das Paket gesendet werden?
+> Hallo XY, können wir so machen, wohin soll das Paket/DIE\_WARE gesendet werden?
 
 - klärt, ob Lieferadresse überhaupt in Deutschland ist (andere Versandkosten)
-- man offenbart Bots nicht gleich seine persönlichen Daten
+- man offenbart Bots nicht gleich alle persönlichen Daten
 - man committed den Käufer: er de-anonymisiert sich, macht den Verkaufsfortschritt verbindlicher und verlängert den Chatverlauf: 
 	Rücktritt wird nach so viel "Vorleistung" unangenehmer, falls mal etwas komplizierter wird
-- besserer Gesprächsfluss: kein gieriger "Überfall" mit sofortiger Geldforderung, sondern man zeigt erstmal Gebe-Bereitschaft
+- besserer Gesprächsfluss: kein gieriger "Überfall" mit sofortiger Geldforderung/Überweisungsdetails, sondern man zeigt erstmal Gebe-Bereitschaft
 
 
 ## Vorkasse per Banküberweisung statt Käuferschutz
@@ -138,17 +144,21 @@ Falls der Käufer auf Paypal besteht:
 
 Empfängerdaten korrekt ausweisen:
 
-- bei Paketen bevorzuge ich den Klebe-Etiketten-Drucker direkt an der Packstation (scannt Online-Paketmarken vom Handy-Bildschirm)
+- bei Paketen bevorzuge ich den Etiketten-Drucker direkt an der Packstation oder in der Filiale: 
+	- die Etiketten sind wetterfester als normales Papier und kleben besser
+	- die Station kann Online-Paketmarken direkt vom Handy-Display scannen
+	- QR-Code wird einzig fürs Etitkettendrucken akzeptiert (erhält man in der Bestätigungs-E-Mail).  
+		Sendungsnummern, Barcodes, Matrixcodes etc. aus der Paketmarken-PDF funktionieren hierfür nicht.
 	- manchmal wird z.B. die Hausnummer unleserlich/uneindeutig gedruckt – Stift mitnehmen!
 - bei Briefsendungen (meist Bücher) drucke ich die Etiketten zuhause – bei meiner aktuellen Menge noch auf einfachem Papier
-	- selbstgedruckte Etiketten gut aufkleben 
-	- Ecken des Etiketts nochmal mit Paketband o.ä. überkleben, falls der Klebestift während des Transports nicht halten sollte
+	- selbstgedruckte Etiketten gut mit Klebestift aufkleben 
+	- Ecken des Etiketts nochmal mit Paketband o.ä. überkleben, falls der Klebestift während des Transports nicht halten sollte oder sich Ecken beim Greifen lösen
 	- Briefe kann man nicht an Packstationen aufgeben
 - Briefe klassische Aufteilung: 
 	- _"Absender: ..."_ klein links oben (Rücksende-Adresse falls unzustellbar oder für Porto-Nachforderung)
 	- Briefmarke rechts oben
 	- Empfängeradresse groß rechts unten
-- die Paket- und Briefmarken kaufe ich online als Bild- bzw. PDF-Datei über:  
+- die Paket- und Briefmarken kaufe ich online als PDF-Datei über:  
 	- https://www.dhl.de/de/privatkunden/pakete-versenden/portoberater.html  
 	- Ich bastel die Briefmarke dann direkt auf mein Etikett (Gimp).
 	  Kann man aber auch separat drucken.
@@ -160,15 +170,19 @@ Empfängerdaten korrekt ausweisen:
 
 - für ungeduldige Käufer: macht Versandbehauptung glaubwürdiger – schon erlebt
 - für betrügerische Käufer: "nie erhalten", "war nichts im Paket", "kaputt im Paket", ... – bisher nie erlebt
-- für DHL/Deutsche Post: Falschbehauptung ungeeigneter Versanddaten oder Verpackung, obwohl fotografiertes Etikett vom Packstationsdrucker – davon gelesen
+- für DHL/Deutsche Post: behaupten "ungeeignete Versanddaten oder Verpackung", obwohl fotografiertes Etikett vom Packstationsdrucker – davon gelesen
 - für einen selbst: sonst paar Wochen Unklarheit bis sich einer beschwert oder nicht
-- nichts beweisfest, könnte aber eigene Sache plausibler machen – man hat mehr in der Hand als der Andere
+- nichts beweisfest, könnte aber eigene Sache plausibler machen – man hat mehr in der Hand als der Andere: Anscheinsbeweise
+	- Einwurf etc. beweisen nicht, dass im Brief besagter Inhalt war
 - Brief: schnelles Smartphone-Foto in der DHL-Filiale mit gut lesbarem Versandetikett
 	![Schaltauge](letterproof.jpg)
+- Nachteil: Marke auf dem Foto wurde noch nicht entwertet und könnte theoretisch vom Käufer genutzt werden;  
+	Szenario in dem Verkaufskontext aber unwahrscheinlich (will ja die Ware) und er müsste dann sehr schnell einen Brief aufgeben
 - Brief: Briefmarke mit der DHL-App scannen (Icon neben Suchschlitz oben) und Titel bearbeiten:
 	"Großbrief KUNDE\_XY WARE\_Z" statt nur "Briefsendung, Briefsendung, Briefsendung".
 - Packstation: manchmal Foto/Video vom Einlegen (z.B. vermeintlich Versanddaten oder -material ungeeignet)
 - teure Ware oder fragw. Käufer: selten mal Smartphone-Video vom Zustand und Packvorgang, ggf. mit Zeuge und Unterschrift (sonst Erinnerungslücke)
+
 
 
 ## Erst versenden bei _tatsächlichem_ Zahlungseingang
