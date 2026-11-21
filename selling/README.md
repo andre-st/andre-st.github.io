@@ -7,10 +7,10 @@
 |------------------------------------------------|------------------------------
 | Nettozielbetrag                                | Geldbetrag, den man am Ende tats. auf der Hand haben will; Warenpreis vgl. Mitbietende auf dieser und anderen Plattformen
 | &divide; (1 &minus; Provision&times;(1+MwSt))  | z.B. Booklooker.de  0,069 (6,9%) zzgl Booklooker-Mwst. 0,19 (19%) im Jahr 2025
-| + Porto                                        | DHL/Deutsche Post (zuverlässigste), ... - mind. mit Basis-Sendungsverfolgung
+| + Porto                                        | DHL/Deutsche Post (zuverlässigste), ...
 | + Verpackungsmaterial                          | Luftpolsterumschlag Großbriefe, Maxibriefe, kleine/große Paketkartons, Druckpapier (Quittung, evtl. Versandetikett), Klebestift, Paketband, Hohlraum-Füllmaterial
-| + Verpackungsaufwand                           | passende Verpackung auftreiben, Brief-/Paketmarke online kaufen, ggf. Versandetikett erstellen/drucken/aufkleben (sonst Packstationsdrucker), ...
-| + Übergabeaufwand                              | Weg zur Filiale/Packstation, Zeit in der Warteschlange
+| + Verpackungsaufwand                           | passende Verpackung auftreiben, Brief-/Paketmarke online kaufen, ggf. Versandetikett erstellen / drucken / aufkleben (sonst Packstationsdrucker), ...
+| + Übergabeaufwand                              | Hin- &amp; Rückweg Filiale/Packstation, Zeit in der Warteschlange, Bestätigungsnachricht an Käufer 
 
 
 ## Käufer empfinden hohe Versandkosten als Verlust, nicht als Gegenwert
@@ -23,7 +23,7 @@
 	und Versand _komplett_ im Warenpreis eingerechnet ist.
 - glaubwürdig niedrige Versandkosten, 49 cent = "schlampiger Versand"
 - Andererseits: Manche verdrängen Versandkosten und merken sich nur den "extrem günstigen" Warenpreis (Ankereffekt) – evtl. A/B-testen
-- Paketversand bis 4 &euro; wird noch akzeptiert, 5,90 &euro; besser als 6,16 &euro;, 7 &euro; erzeugen schon Widerstand ("3 &euro; weniger mgl.?")
+- Paketversand bis 4 &euro; wird noch akzeptiert, 5,90 &euro; besser als 6,19 &euro;, 7 &euro; erzeugen schon Widerstand ("3 &euro; weniger mgl.?")
 
 
 ## Plattformen-Steuertransparenzgesetz (PStTG) 
@@ -45,6 +45,7 @@ Booklooker.de: [https://www.booklooker.de/faq/steuer-privatverkauf/197](https://
 
 > Barzahlung oder Überweisung, kein Paypal.  
 > Privatverkauf unter Ausschluss jeglicher Garantie, Gewährleistung, Rücknahme oder Haftung für Unfälle oder Schäden. Ein Widerrufsrecht besteht nicht.  
+> Gerne Abholung oder Versand.
 > Das Produkt ist in gutem Zustand.
 
 - Unangenehmes für Käufer mit etwas Positivem enden lassen.
@@ -59,7 +60,7 @@ Booklooker.de: [https://www.booklooker.de/faq/steuer-privatverkauf/197](https://
 Das ist keine Rechtsberatung, bin kein Anwalt.
 
 
-## Vorher prüfen: Versandkosten und Versandmaterial
+## Versandkosten und Versandmaterial vor einer Zusage prüfen
 
 Besser wenn Versandkosten schon vorher im Inserat stünden:
 - Kostenübersicht: [https://www.dhl.de/de/privatkunden/pakete-versenden/portoberater.html](https://www.dhl.de/de/privatkunden/pakete-versenden/portoberater.html)
@@ -74,13 +75,13 @@ Besser wenn Versandkosten schon vorher im Inserat stünden:
 - Hermes, GLS usw. sind oft günstiger
 
 
-## Vorher prüfen: den Käufer
+## Den Käufer vor einer Zusage prüfen
 
 Zu wissen, dass das Gegenüber gut bewertet ist, beruhigt auch bei Vorkasse.
 Der Käufer ist daran interessiert, diese Bewertung beizubehalten und wird weniger nerven.
 
 
-## Niemals als Erster seine Daten nennen
+## Nicht als Erster seine Daten nennen
 
 Bei offenen Anfragen wie z.B. Kleinanzeigen.de:
 
