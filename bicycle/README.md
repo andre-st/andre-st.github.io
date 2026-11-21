@@ -441,10 +441,11 @@ Helm:
 |  Bib-Short GripGrab AquaRepel           | Schaum         |   ?  / ?        (Herbst) | E       | \*\*     | \*\*\*    | Kurze Hose für Herbsteinsatz mit Beinlingen bis 8 Grad
 |  Bib-Liner Castelli Unlimited Ultimate  | Schaum         |   4h / 2-3h     (Sommer) | E       | \*       | \*\*\*    | Progetto X2 Polster genial, guter Sitz der Hose; mein *Fav für Standardrunden*; für Radreisen eher ungeeignet; hat Rückentaschen z.B. für Fahrrad-Portemonnaie
 |  Bib-Liner Gore Wear Fernflow           | Schaum         |   6h / ?        (Sommer) | E       | \*\*\*   | \*\*\*    | Rückentaschen; sehr leicht; wenig Kompression, trotzdem ok; schwimmende Polsterkonstruktion; multi-density foam
-|  Bib-Liner Rapha Trail Cargo            | Schaum         |   ?  / ?        (Sommer) | E       | todo     | todo      | todo
+|  Bib-Liner Rapha Trail Cargo            | Schaum         |   ?  / ?        (Sommer) | E       | \*\*\*   | \*\*\*    | Polster vglw. dick und ungewöhnlich gefaltet, sitzt sich aber besser als erwartet; gute breite Träger, Rückentaschen könnten tiefer sein, funktionieren aber trotzdem mit Wallet
 |  Bib-Tight Gore Wear                    | Schaum         |   3h / 3h       (Herbst) | F       | \*\*     | \*\*      | Polster-Falten/Ablösung n. 1-2 Jahren = Saddle Sores; gute Hose sonst
 |  Bib-Tight Gore Wear Windstopper        | Schaum         |   3h/3h         (Winter) | F       | \*\*     | \*\*      | Polster-Falten/Ablösung n. 1-2 Jahren = Saddle Sores; Rest der Hose ist genial, fuhr damit problemlos bei Minustemperaturen
-|  Tight Essential Softshell              | ohne           | &infin;         (Winter) | E       | ?        | \*\*      | Winterhose, die ich über Sommer-Bibs mit gutem Polster ziehe; muss weniger Winterhosen kaufen
+|  Tight Essential Softshell              | ohne           | &infin;         (Winter) | E       | ?        | \*\*      | Winterhose über Sommer-Bibs mit gutem Polster; muss weniger Winterhosen kaufen/waschen
+|  Tight Pearl Izumi Amfib                | ohne           | &infin;         (Winter) | E       | ?        | ?         | Winterhose über Sommer-Bibs mit gutem Polster; muss weniger Winterhosen kaufen/waschen
 |  Überhose Sportful Supergiara 002 ('24) | ohne           | &infin;         (Sommer) | F       | ?        | \*\*      | viele kluge Taschen, dümmste Bundsystem ever: hält beladene Hose nicht und ist mir irgendwann beim Nachspannen gerissen
 |  Überhose Maloja StagiasM Gravel        | ohne           | &infin;         (Sommer) | E       | \*\*\*   | \*\*\*    | richtige Länge, leicht, punched in früherer Version, aber nur 1 Tasche (Smartphone)
 
@@ -876,8 +877,9 @@ Schrauben/Bolzen lösen:
 | Öl                  | flüssig bei Raumtemp. | reine Grundöle + Additive                                    | schnell-bewegliche Teile                                                                                            | dringt in enge Zwischenräume, bildet dünnen Schutzfilm, wäscht sich schnell aus                                                   | ?                             | Schadstoffstelle, nicht Abfluss/Boden (Öl verschmutzt Wasser)
 | Fett                | halbfest bis fest     | Mischung aus Öl und Verdicker (Lithiumseife, PTFE)           | stark belastete, langsam bewegl. oder dauerhaft geschützte Teile, Lager, Tretlager, Gewinde, Steuersatz             | haftet länger an, besserer Wasserschutz; ungeöffnet 5-10 J. lagerbar, sonst 2-5: Öl trennt sich irgendwann /klumpig /dünnflüss.   | gelegentl. Hautkontakt ok     | Schadstoffstelle, nicht Abfluss/Boden (Öl verschmutzt Wasser)
 | Antiseize           | zähflüssig, pastös    | Grundöl + Metall- /Keramikpartikel (Kupfer, Nickel, Graphit) | Schrauben, Gewinde; verhindert Festfressen                                                                          | gute Haftung, stabil bei Hitze und Vibration, langzeitbeständig, temperaturfest, wasserabweisend                                  | ggf. hautreizend o. allergen  | nicht Abfluss/Kanalisation (Öl verschmutzt Wasser), Restmüll nur getrocknet
-| Schrauben-Sicherung | flüssig bis gelartig  | anaerober Klebstoff + Farbpigmente (Farbcode=Härte)          | härtet bei Sauerstoffentzug + Metall(ionen)-Kontakt: verhindert Losdrehen durch Vibration, leichter Festfressschutz | montiert jahrelang; ungeöffnet 1-2 Jahre lagerbar                                                                                 | ggf. reizend, nicht einatmen  | fest Hausmüll, flüssig Sondermüll/Schadstoffstelle
+| Schraubensicherung  | flüssig bis gelartig  | anaerober Klebstoff + Farbpigmente (Farbcode=Härte)          | härtet bei Sauerstoffentzug + Metall(ionen)-Kontakt: verhindert Losdrehen durch Vibration, leichter Festfressschutz | montiert jahrelang; ungeöffnet 1-2 Jahre lagerbar                                                                                 | ggf. reizend, nicht einatmen  | fest Hausmüll, flüssig Sondermüll/Schadstoffstelle
 | Dichtmilch          | flüssig bis gelartig  | Wasser- oder Glykolbasis mit Latex- /Polymerpartikeln        | dichtet kleine Reifen-Einstiche ab, verschließt Lücken zw. Tubeless-Reifen und Felge                                | montiert 2-12 Monate wirksam je nach Temp. und Bewegung; ungeöffnet 6-18 Monate lagerbar                                          | ggf. reizend                  | nicht in Abfluss
+| Elastomerkleber (Flüssiggummi) | dickflüssig bis pastös (ausgehärtet gummiartig) | PU/Synthesekautschuk-Harz + Lösungsmittel + ggf. Lederfasern | Gummiausbrüche/Cuts Reifenoberfläche | hohe Haftung, abriebfest, wasserdicht, kälteflexibel; angebrochene Tube trocknet nach wenigen Monaten ein (im Gefrierfach lagern) | Dämpfe vermeiden, nach Aushärtung ok    | Ausgehärtetes in Restmüll; flüssige Tube zur Schadstoffstelle
 | Wachs               | TODO                  | TODO                                                         | TODO                                                                                                                | TODO                                                                                                                              | TODO                          | TODO
 
 
@@ -949,8 +951,7 @@ Folgende Liste mit Produkten, die mir mal untergekommen sind (also nicht alle ve
 | ??? Steuersatzfett                  | Fett               |                    |                              |                      | s.a. Kugellager-Abschmierfett (salzwasserbeständig), s.a. Wälzlagerfett, Siliconpaste bei Carbon (Faser ist chemiebständig, aber deren Harz-Einbettung nicht)
 | Isopropyl-Alkohol, Hand-Sanitizer   | Alkohol            |                    | Bremsscheiben, Hoods-Griffgummi-Inneres für Gleitfähigkeit bei Montage | |
 | Talkumpulver                        |                    |                    | Reifenschlauch               |                      |
-
-
+| Langlauf Schuhreparatur-Paste       | Flüssiggummi       | Versiegeln         | Reifencuts über Karkasse     | Cuts durch Karkasse  | flexibler als ausbrechender Sekundenkleber
 
 
 
@@ -2024,6 +2025,19 @@ Siehe auch Abschnitt zum "Zentrieren"
 - falls Tubeless-Setup:
 	- Tubeless-Ventil entfernen TODO
 
+
+### Reifen-Reparatur
+
+- kleinere Cuts oder Taschen bzw. Gummiausbrüche im Reifen-Obermaterial kann man mit Elastomerkleber (Flüssiggummi) wie "Langlauf Schuhreparatur-Paste" füllen 
+	- nur wenn die Karkasse noch heil ist (keine Fäden rausstehen)
+	- mit kleinem Spachtel eintragen und 1-2 mm an den Rändern überstehen lassen; keine Beule auf die Lauffläche modellieren
+	- wird vglw. schnell fest, nicht ständig nachkorrigieren sonst beschädigt man seinen Flicken
+	- 1 Tag aushärten lassen
+	- je nach Fähigkeit nicht hübsch, aber effektiv
+	- evtl. Lösungsmittel mit Reifengummi unverträglich
+	- besser als unflexibler Sekundenkleber, die wieder ausbricht
+- durchgehendes Loch: 
+	- TODO
 
 
 
